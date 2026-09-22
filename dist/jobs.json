@@ -1,30 +1,35 @@
 {
-  "updatedAt": "2026-09-22T07:44:10.394138+00:00",
+  "updatedAt": "2026-09-22T16:58:40Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Public advert pages; selected opportunities, not a full feed."
+      "note": "Four existing original adverts rechecked. Broader search results were noisy; coverage is partial."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Original adverts checked; inactive results excluded."
+      "note": "Existing adverts rechecked; new Facit Bank advert verified. No expired records in this collection."
     },
     {
       "name": "Jobbnorge",
-      "status": "Limited visibility",
-      "note": "Search completed; candidate page did not expose enough detail to verify."
+      "status": "Degraded",
+      "note": "Search attempted; original procurement page exposed insufficient text to verify. No new listing added."
     },
     {
       "name": "Academic Work",
-      "status": "Via NAV",
-      "note": "Recruiter listing verified on NAV; direct site not checked yet."
+      "status": "Listings checked",
+      "note": "Recruiter search page and original Facit Bank advert checked; duplicate NAV/FINN versions consolidated."
     },
     {
       "name": "LinkedIn",
-      "status": "Next daily search",
-      "note": "Public listings only; no signed-in collection."
+      "status": "Degraded",
+      "note": "Public searches returned unrelated results. No relevant Norway advert verified in this run."
+    },
+    {
+      "name": "Employer careers",
+      "status": "Listing checked",
+      "note": "KONGSBERG summer internship verified; business-specific eligibility still needs checking."
     }
   ],
   "jobs": [
@@ -45,7 +50,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
       "deadline": "2026-10-04",
       "status": "open",
-      "verifiedAt": "2026-09-22T07:44:10.394138+00:00",
+      "verifiedAt": "2026-09-22T16:58:40Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -65,7 +70,7 @@
       "url": "https://www.finn.no/job/ad/475925195",
       "deadline": "2026-09-30",
       "status": "open",
-      "verifiedAt": "2026-09-22T07:44:10.394138+00:00",
+      "verifiedAt": "2026-09-22T16:58:40Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -85,7 +90,7 @@
       "url": "https://www.finn.no/job/ad/476700939",
       "deadline": "2026-10-16",
       "status": "open",
-      "verifiedAt": "2026-09-22T07:44:10.394138+00:00",
+      "verifiedAt": "2026-09-22T16:58:40Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -105,7 +110,7 @@
       "url": "https://www.finn.no/job/ad/476372712",
       "deadline": null,
       "status": "open",
-      "verifiedAt": "2026-09-22T07:44:10.394138+00:00",
+      "verifiedAt": "2026-09-22T16:58:40Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -125,7 +130,7 @@
       "url": "https://www.finn.no/job/ad/476128242",
       "deadline": "2026-10-10",
       "status": "open",
-      "verifiedAt": "2026-09-22T07:44:10.394138+00:00",
+      "verifiedAt": "2026-09-22T16:58:40Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -145,8 +150,46 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/63e3d76e-461a-40a5-8db8-ebfd6111cdef",
       "deadline": "2026-09-23",
       "status": "open",
-      "verifiedAt": "2026-09-22T07:44:10.394138+00:00",
+      "verifiedAt": "2026-09-22T16:58:40Z",
       "firstSeen": "2026-09-22"
+    },
+    {
+      "id": "aw-ZMCBAA",
+      "title": "Salg- og kundekonsulent",
+      "company": "Facit Bank / Academic Work",
+      "location": "Oslo",
+      "type": "Full time · Staffing · Hybrid possible",
+      "source": "Academic Work",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "An early-career banking role focused on insurance sales, customer service and some loan administration. Relevant for business graduates interested in customer-facing commercial work.",
+      "requirements": "Completed relevant bachelor’s degree and some telephone-sales experience; insurance sales experience may compensate for education. Fluent Norwegian or another Scandinavian language. Deadline 2 October shown on the matching NAV advert.",
+      "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
+      "deadline": "2026-10-02",
+      "firstSeen": "2026-09-22",
+      "verifiedAt": "2026-09-22T16:58:40Z"
+    },
+    {
+      "id": "kongsberg-summer-2027",
+      "title": "Summer Internship 2027",
+      "company": "KONGSBERG",
+      "location": "Several locations in Norway",
+      "type": "Summer internship · Seven weeks",
+      "source": "Employer careers",
+      "categories": [
+        "Business"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Summer placements across departments and project teams. Selected staff and support functions are open to a wider range of educational backgrounds.",
+      "requirements": "Primarily aimed at science, technology and engineering students. Staff/support opportunities are mentioned, but a specific BBA-compatible placement and its requirements are not confirmed. Check available departments before applying.",
+      "url": "https://www.kongsberg.com/careers/vacancies/summer-internship-2027-/",
+      "deadline": "2027-02-28",
+      "firstSeen": "2026-09-22",
+      "verifiedAt": "2026-09-22T16:58:40Z"
     }
   ]
 }
