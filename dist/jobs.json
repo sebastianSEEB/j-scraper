@@ -1,0 +1,152 @@
+{
+  "updatedAt": "2026-09-22T07:44:10.394138+00:00",
+  "sources": [
+    {
+      "name": "FINN",
+      "status": "Listings checked",
+      "note": "Public advert pages; selected opportunities, not a full feed."
+    },
+    {
+      "name": "NAV Arbeidsplassen",
+      "status": "Listings checked",
+      "note": "Original adverts checked; inactive results excluded."
+    },
+    {
+      "name": "Jobbnorge",
+      "status": "Limited visibility",
+      "note": "Search completed; candidate page did not expose enough detail to verify."
+    },
+    {
+      "name": "Academic Work",
+      "status": "Via NAV",
+      "note": "Recruiter listing verified on NAV; direct site not checked yet."
+    },
+    {
+      "name": "LinkedIn",
+      "status": "Next daily search",
+      "note": "Public listings only; no signed-in collection."
+    }
+  ],
+  "jobs": [
+    {
+      "id": "nav-dof-2027",
+      "title": "Commercial Graduate 2027",
+      "company": "DOF",
+      "location": "Bergen",
+      "type": "Graduate · 2027 intake",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Shipping"
+      ],
+      "fit": "potential",
+      "summary": "Commercial work across pricing, bids and contract delivery in offshore projects. A clear connection between business studies and the maritime industry.",
+      "requirements": "Accepts bachelor’s or master’s in business, law, finance or related fields; 0–2 years of experience. English required. Confirm graduation and start dates.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
+      "deadline": "2026-10-04",
+      "status": "open",
+      "verifiedAt": "2026-09-22T07:44:10.394138+00:00",
+      "firstSeen": "2026-09-22"
+    },
+    {
+      "id": "finn-475925195",
+      "title": "Business Operations Executive",
+      "company": "Skuld",
+      "location": "Oslo",
+      "type": "Permanent · Hybrid",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Shipping"
+      ],
+      "fit": "potential",
+      "summary": "Work with marine insurance documentation, premiums and client portfolios, collaborating with finance and underwriting teams.",
+      "requirements": "Business/economics higher education OR three years of relevant experience. Strong Excel and professional Norwegian and English.",
+      "url": "https://www.finn.no/job/ad/475925195",
+      "deadline": "2026-09-30",
+      "status": "open",
+      "verifiedAt": "2026-09-22T07:44:10.394138+00:00",
+      "firstSeen": "2026-09-22"
+    },
+    {
+      "id": "finn-476700939",
+      "title": "Logistikkoordinator",
+      "company": "Geminor",
+      "location": "Avaldsnes",
+      "type": "Permanent · On site",
+      "source": "FINN",
+      "categories": [
+        "Logistics",
+        "Supply chain"
+      ],
+      "fit": "stretch",
+      "summary": "Coordinate international transport, delivery schedules and customs documentation, with responsibility for customer projects.",
+      "requirements": "Relevant logistics education or experience; the profile also asks for logistics experience. Excel, Norwegian/English and class B driving licence.",
+      "url": "https://www.finn.no/job/ad/476700939",
+      "deadline": "2026-10-16",
+      "status": "open",
+      "verifiedAt": "2026-09-22T07:44:10.394138+00:00",
+      "firstSeen": "2026-09-22"
+    },
+    {
+      "id": "finn-476372712",
+      "title": "Supply Planner",
+      "company": "Haugen-Gruppen",
+      "location": "Oslo",
+      "type": "Temporary · Through December 2027",
+      "source": "FINN",
+      "categories": [
+        "Supply chain",
+        "Procurement"
+      ],
+      "fit": "stretch",
+      "summary": "Translate demand into purchasing plans and manage supplier deliveries, inventory parameters and incoming transport.",
+      "requirements": "At least two years of relevant goods-flow planning experience. Supply chain, logistics or economics education; Norwegian and English.",
+      "url": "https://www.finn.no/job/ad/476372712",
+      "deadline": null,
+      "status": "open",
+      "verifiedAt": "2026-09-22T07:44:10.394138+00:00",
+      "firstSeen": "2026-09-22"
+    },
+    {
+      "id": "finn-476128242",
+      "title": "Befrakter · Terminal Berger",
+      "company": "Veøy",
+      "location": "Skedsmokorset",
+      "type": "Permanent · Full time",
+      "source": "FINN",
+      "categories": [
+        "Logistics",
+        "Business"
+      ],
+      "fit": "stretch",
+      "summary": "Coordinate freight bookings, load planning and customer updates, balancing transport capacity and commercial performance.",
+      "requirements": "Experience in transport, logistics, forwarding or operational planning expected. Norwegian communication and digital planning skills.",
+      "url": "https://www.finn.no/job/ad/476128242",
+      "deadline": "2026-10-10",
+      "status": "open",
+      "verifiedAt": "2026-09-22T07:44:10.394138+00:00",
+      "firstSeen": "2026-09-22"
+    },
+    {
+      "id": "nav-63e3d76e",
+      "title": "Trainee innen innkjøp",
+      "company": "Academic Work / Rolls-Royce",
+      "location": "Trondheim",
+      "type": "Part time · Student",
+      "source": "NAV",
+      "categories": [
+        "Procurement",
+        "Supply chain"
+      ],
+      "fit": "stretch",
+      "summary": "Support purchase orders, supplier administration and commercial agreements alongside your studies.",
+      "requirements": "Specifically seeks a first-year master’s student in economics, logistics or technology. A BBA alone does not meet this stated requirement.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/63e3d76e-461a-40a5-8db8-ebfd6111cdef",
+      "deadline": "2026-09-23",
+      "status": "open",
+      "verifiedAt": "2026-09-22T07:44:10.394138+00:00",
+      "firstSeen": "2026-09-22"
+    }
+  ]
+}
