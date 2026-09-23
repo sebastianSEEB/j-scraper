@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-09-22T16:58:40Z",
+  "updatedAt": "2026-09-23T05:59:54Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Four existing original adverts rechecked. Broader search results were noisy; coverage is partial."
+      "note": "Four existing original adverts rechecked and still open. Broader search results were noisy; coverage is partial."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Existing adverts rechecked; new Facit Bank advert verified. No expired records in this collection."
+      "note": "DOF, Rolls-Royce and the duplicate DNV Maritime advert were checked on original pages. The Rolls-Royce deadline is today."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Search attempted; original procurement page exposed insufficient text to verify. No new listing added."
+      "note": "Public search produced no relevant original advert that could be fully verified in this run. No listing added."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Recruiter search page and original Facit Bank advert checked; duplicate NAV/FINN versions consolidated."
+      "note": "The original Facit Bank advert was rechecked and remains open; duplicate platform versions remain consolidated."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public searches returned unrelated results. No relevant Norway advert verified in this run."
+      "note": "Public search results were unrelated or insufficient to verify a current Norway advert. No listing added."
     },
     {
       "name": "Employer careers",
-      "status": "Listing checked",
-      "note": "KONGSBERG summer internship verified; business-specific eligibility still needs checking."
+      "status": "Listings checked",
+      "note": "KONGSBERG was rechecked and two new DNV trainee adverts were verified on DNV Careers. Both DNV roles mandate a relevant master’s."
     }
   ],
   "jobs": [
@@ -50,7 +50,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
       "deadline": "2026-10-04",
       "status": "open",
-      "verifiedAt": "2026-09-22T16:58:40Z",
+      "verifiedAt": "2026-09-23T05:59:54Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://www.finn.no/job/ad/475925195",
       "deadline": "2026-09-30",
       "status": "open",
-      "verifiedAt": "2026-09-22T16:58:40Z",
+      "verifiedAt": "2026-09-23T05:59:54Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://www.finn.no/job/ad/476700939",
       "deadline": "2026-10-16",
       "status": "open",
-      "verifiedAt": "2026-09-22T16:58:40Z",
+      "verifiedAt": "2026-09-23T05:59:54Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -110,7 +110,7 @@
       "url": "https://www.finn.no/job/ad/476372712",
       "deadline": null,
       "status": "open",
-      "verifiedAt": "2026-09-22T16:58:40Z",
+      "verifiedAt": "2026-09-23T05:59:54Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -130,7 +130,7 @@
       "url": "https://www.finn.no/job/ad/476128242",
       "deadline": "2026-10-10",
       "status": "open",
-      "verifiedAt": "2026-09-22T16:58:40Z",
+      "verifiedAt": "2026-09-23T05:59:54Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -150,7 +150,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/63e3d76e-461a-40a5-8db8-ebfd6111cdef",
       "deadline": "2026-09-23",
       "status": "open",
-      "verifiedAt": "2026-09-22T16:58:40Z",
+      "verifiedAt": "2026-09-23T05:59:54Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -170,7 +170,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-22T16:58:40Z"
+      "verifiedAt": "2026-09-23T05:59:54Z"
     },
     {
       "id": "kongsberg-summer-2027",
@@ -189,7 +189,46 @@
       "url": "https://www.kongsberg.com/careers/vacancies/summer-internship-2027-/",
       "deadline": "2027-02-28",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-22T16:58:40Z"
+      "verifiedAt": "2026-09-23T05:59:54Z"
+    },
+    {
+      "id": "dnv-7314",
+      "title": "Global Finance Trainee 2027",
+      "company": "DNV",
+      "location": "Oslo",
+      "type": "Permanent · Graduate programme",
+      "source": "Employer careers",
+      "categories": [
+        "Business"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "A two-year finance and business programme with rotations in strategy, controlling, accounting, commercial management and business analysis, including one rotation outside Norway.",
+      "requirements": "Mandatory relevant master’s completed by summer 2027, preferably in business administration, finance or economics. Maximum two years of full-time experience, strong academic results and fluent English.",
+      "url": "https://jobs.dnv.com/job-search/group/support/oslo-norway/global-finance-trainee-2027/300001672661558",
+      "deadline": "2026-09-26",
+      "firstSeen": "2026-09-23",
+      "verifiedAt": "2026-09-23T05:59:54Z"
+    },
+    {
+      "id": "dnv-7479",
+      "title": "Maritime Advisory Trainee 2027",
+      "company": "DNV",
+      "location": "Oslo",
+      "type": "Permanent · Graduate programme",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Shipping"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "A two-year maritime advisory programme with three rotations, client projects and exposure to operational performance, fleet strategy and the wider shipping value chain.",
+      "requirements": "Mandatory relevant master’s completed by July 2027, strong analytical and communication skills, interest in maritime work and fluent English. A BBA alone does not meet the stated degree requirement.",
+      "url": "https://jobs.dnv.com/job-search/maritime/consultant/oslo-norway/maritime-advisory-trainee-2027/300001698569400",
+      "deadline": "2026-10-16",
+      "firstSeen": "2026-09-23",
+      "verifiedAt": "2026-09-23T05:59:54Z"
     }
   ]
 }
