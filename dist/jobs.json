@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-23T05:59:54Z",
+  "updatedAt": "2026-09-24T05:59:45Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Four existing original adverts rechecked and still open. Broader search results were noisy; coverage is partial."
+      "note": "Five existing adverts and the new KLP summer internship were checked on their original FINN pages. Broader search coverage remains partial."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "DOF, Rolls-Royce and the duplicate DNV Maritime advert were checked on original pages. The Rolls-Royce deadline is today."
+      "note": "DOF and two new student opportunities at Hydro and Elektro were verified. Rolls-Royce passed its 23 September deadline and is now closed."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public search produced no relevant original advert that could be fully verified in this run. No listing added."
+      "note": "Public search was checked, but no additional relevant original advert met the verification and level criteria. Coverage is partial."
     },
     {
       "name": "Academic Work",
@@ -24,12 +24,12 @@
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public search results were unrelated or insufficient to verify a current Norway advert. No listing added."
+      "note": "Public listings did not yield a relevant Norway advert with enough accessible original detail to verify. No listing added."
     },
     {
       "name": "Employer careers",
-      "status": "Listings checked",
-      "note": "KONGSBERG was rechecked and two new DNV trainee adverts were verified on DNV Careers. Both DNV roles mandate a relevant master’s."
+      "status": "Degraded",
+      "note": "KONGSBERG and DNV Global Finance were rechecked. DNV Maritime timed out, so its earlier verification timestamp was preserved."
     }
   ],
   "jobs": [
@@ -50,7 +50,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
       "deadline": "2026-10-04",
       "status": "open",
-      "verifiedAt": "2026-09-23T05:59:54Z",
+      "verifiedAt": "2026-09-24T05:59:45Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://www.finn.no/job/ad/475925195",
       "deadline": "2026-09-30",
       "status": "open",
-      "verifiedAt": "2026-09-23T05:59:54Z",
+      "verifiedAt": "2026-09-24T05:59:45Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://www.finn.no/job/ad/476700939",
       "deadline": "2026-10-16",
       "status": "open",
-      "verifiedAt": "2026-09-23T05:59:54Z",
+      "verifiedAt": "2026-09-24T05:59:45Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -110,7 +110,7 @@
       "url": "https://www.finn.no/job/ad/476372712",
       "deadline": null,
       "status": "open",
-      "verifiedAt": "2026-09-23T05:59:54Z",
+      "verifiedAt": "2026-09-24T05:59:45Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -130,7 +130,7 @@
       "url": "https://www.finn.no/job/ad/476128242",
       "deadline": "2026-10-10",
       "status": "open",
-      "verifiedAt": "2026-09-23T05:59:54Z",
+      "verifiedAt": "2026-09-24T05:59:45Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -149,8 +149,8 @@
       "requirements": "Specifically seeks a first-year master’s student in economics, logistics or technology. A BBA alone does not meet this stated requirement.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/63e3d76e-461a-40a5-8db8-ebfd6111cdef",
       "deadline": "2026-09-23",
-      "status": "open",
-      "verifiedAt": "2026-09-23T05:59:54Z",
+      "status": "closed",
+      "verifiedAt": "2026-09-24T05:59:45Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -170,7 +170,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-23T05:59:54Z"
+      "verifiedAt": "2026-09-24T05:59:45Z"
     },
     {
       "id": "kongsberg-summer-2027",
@@ -189,7 +189,7 @@
       "url": "https://www.kongsberg.com/careers/vacancies/summer-internship-2027-/",
       "deadline": "2027-02-28",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-23T05:59:54Z"
+      "verifiedAt": "2026-09-24T05:59:45Z"
     },
     {
       "id": "dnv-7314",
@@ -208,7 +208,7 @@
       "url": "https://jobs.dnv.com/job-search/group/support/oslo-norway/global-finance-trainee-2027/300001672661558",
       "deadline": "2026-09-26",
       "firstSeen": "2026-09-23",
-      "verifiedAt": "2026-09-23T05:59:54Z"
+      "verifiedAt": "2026-09-24T05:59:45Z"
     },
     {
       "id": "dnv-7479",
@@ -229,6 +229,66 @@
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-23",
       "verifiedAt": "2026-09-23T05:59:54Z"
+    },
+    {
+      "id": "finn-476722814",
+      "title": "Summer Intern 2027",
+      "company": "KLP Kapitalforvaltning",
+      "location": "Oslo",
+      "type": "Summer internship · Eight weeks",
+      "source": "FINN",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Work on a mentored independent project in capital management, with possible exposure to risk analysis, fund analysis, valuation, data and responsible investment.",
+      "requirements": "At least the first year of higher education completed, good academic results and interest in finance. CV plus transcript or diploma are mandatory. No completed degree or prior finance experience is stated as required.",
+      "url": "https://www.finn.no/job/ad/476722814",
+      "deadline": "2026-09-27",
+      "firstSeen": "2026-09-24",
+      "verifiedAt": "2026-09-24T05:59:45Z"
+    },
+    {
+      "id": "nav-050d17b4",
+      "title": "Summer Internship 2027",
+      "company": "Hydro",
+      "location": "Oslo, Karmøy and other Norway locations",
+      "type": "Summer internship · Eight weeks",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Shipping",
+        "Logistics"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "More than 40 internships, including logistics projects, sourcing and trading, logistics performance, energy strategy, inbound shipping and outbound logistics.",
+      "requirements": "Minimum three years of completed studies and good academic results. Part-time or voluntary experience is an advantage, not stated as mandatory. Confirm when the three-year threshold is measured.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/050d17b4-5ff1-4068-ab6e-0698bf3d0905",
+      "deadline": "2026-10-16",
+      "firstSeen": "2026-09-24",
+      "verifiedAt": "2026-09-24T05:59:45Z"
+    },
+    {
+      "id": "nav-6adfe757",
+      "title": "Deltidsstilling i økonomiavdelingen",
+      "company": "Elektro",
+      "location": "Bodø",
+      "type": "Part time · Student · 1–2 days per week",
+      "source": "NAV",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Student-friendly finance administration covering invoice registration, checks and other administrative tasks, with training and hours adapted to studies.",
+      "requirements": "Economics or administration studies are preferred but not mandatory, and the advert says study progress is not decisive. No experience requirement is stated. Deadline is not shown on the original page and may be rolling.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/6adfe757-cd94-4ea6-8baf-0e7c7a139537",
+      "deadline": null,
+      "firstSeen": "2026-09-24",
+      "verifiedAt": "2026-09-24T05:59:45Z"
     }
   ]
 }
