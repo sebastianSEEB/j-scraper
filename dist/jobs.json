@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-24T05:59:45Z",
+  "updatedAt": "2026-09-24T17:06:42Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Five existing adverts and the new KLP summer internship were checked on their original FINN pages. Broader search coverage remains partial."
+      "note": "Existing relevant adverts and the new Storebrand Sandbox internship were checked on their original FINN pages. Broader search coverage remains partial."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "DOF and two new student opportunities at Hydro and Elektro were verified. Rolls-Royce passed its 23 September deadline and is now closed."
+      "note": "DOF, Hydro and Elektro were rechecked on their original pages. Rolls-Royce remains closed after its 23 September deadline."
     },
     {
       "name": "Jobbnorge",
@@ -24,12 +24,12 @@
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public listings did not yield a relevant Norway advert with enough accessible original detail to verify. No listing added."
+      "note": "Public listings were used only for discovery. A closed Arctic Shipping advert was omitted; no login-only listing was treated as verified."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "KONGSBERG and DNV Global Finance were rechecked. DNV Maritime timed out, so its earlier verification timestamp was preserved."
+      "note": "KONGSBERG and DNV Maritime were rechecked. Wilhelmsen was retained as unverified because its original Workday page was inaccessible, and DNV Finance kept its earlier timestamp after a 502 error."
     }
   ],
   "jobs": [
@@ -50,7 +50,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
       "deadline": "2026-10-04",
       "status": "open",
-      "verifiedAt": "2026-09-24T05:59:45Z",
+      "verifiedAt": "2026-09-24T17:06:42Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://www.finn.no/job/ad/475925195",
       "deadline": "2026-09-30",
       "status": "open",
-      "verifiedAt": "2026-09-24T05:59:45Z",
+      "verifiedAt": "2026-09-24T17:06:42Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://www.finn.no/job/ad/476700939",
       "deadline": "2026-10-16",
       "status": "open",
-      "verifiedAt": "2026-09-24T05:59:45Z",
+      "verifiedAt": "2026-09-24T17:06:42Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -110,7 +110,7 @@
       "url": "https://www.finn.no/job/ad/476372712",
       "deadline": null,
       "status": "open",
-      "verifiedAt": "2026-09-24T05:59:45Z",
+      "verifiedAt": "2026-09-24T17:06:42Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -130,7 +130,7 @@
       "url": "https://www.finn.no/job/ad/476128242",
       "deadline": "2026-10-10",
       "status": "open",
-      "verifiedAt": "2026-09-24T05:59:45Z",
+      "verifiedAt": "2026-09-24T17:06:42Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -170,7 +170,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-24T05:59:45Z"
+      "verifiedAt": "2026-09-24T17:06:42Z"
     },
     {
       "id": "kongsberg-summer-2027",
@@ -189,7 +189,7 @@
       "url": "https://www.kongsberg.com/careers/vacancies/summer-internship-2027-/",
       "deadline": "2027-02-28",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-24T05:59:45Z"
+      "verifiedAt": "2026-09-24T17:06:42Z"
     },
     {
       "id": "dnv-7314",
@@ -228,7 +228,7 @@
       "url": "https://jobs.dnv.com/job-search/maritime/consultant/oslo-norway/maritime-advisory-trainee-2027/300001698569400",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-23",
-      "verifiedAt": "2026-09-23T05:59:54Z"
+      "verifiedAt": "2026-09-24T17:06:42Z"
     },
     {
       "id": "finn-476722814",
@@ -247,7 +247,7 @@
       "url": "https://www.finn.no/job/ad/476722814",
       "deadline": "2026-09-27",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-24T05:59:45Z"
+      "verifiedAt": "2026-09-24T17:06:42Z"
     },
     {
       "id": "nav-050d17b4",
@@ -269,7 +269,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/050d17b4-5ff1-4068-ab6e-0698bf3d0905",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-24T05:59:45Z"
+      "verifiedAt": "2026-09-24T17:06:42Z"
     },
     {
       "id": "nav-6adfe757",
@@ -288,7 +288,46 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/6adfe757-cd94-4ea6-8baf-0e7c7a139537",
       "deadline": null,
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-24T05:59:45Z"
+      "verifiedAt": "2026-09-24T17:06:42Z"
+    },
+    {
+      "id": "finn-476982603",
+      "title": "Storebrand Summer Internship · Sandbox 2027",
+      "company": "Storebrand",
+      "location": "Lysaker",
+      "type": "Summer internship · Eight weeks",
+      "source": "FINN",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Ten students work in interdisciplinary teams on a real Storebrand challenge spanning finance, innovation, technology and customer experience, then present the solution internally.",
+      "requirements": "Open to students currently in the final bachelor year or first master year. Good academic results are required; relevant part-time work or volunteering is advantageous. CV and transcript or diploma are required, but no cover letter.",
+      "url": "https://www.finn.no/job/ad/476982603",
+      "deadline": "2026-10-11",
+      "firstSeen": "2026-09-24",
+      "verifiedAt": "2026-09-24T17:06:42Z"
+    },
+    {
+      "id": "wilhelmsen-JOBREQ-13100",
+      "title": "Wilhelmsen Summer Internship 2027",
+      "company": "Wilhelmsen",
+      "location": "Lysaker",
+      "type": "Summer internship · Six weeks",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Shipping"
+      ],
+      "fit": "stretch",
+      "status": "unverified",
+      "summary": "An interdisciplinary maritime project involving data analysis, strategy development and presentations on real shipping-industry challenges.",
+      "requirements": "Economics and business students are invited, but students expected to graduate in 2028 are prioritized. A valid Norwegian work permit is mandatory. Deadline and details were cross-checked on a public university student page, but the original Workday advert was inaccessible and this lead is not yet shown as verified.",
+      "url": "https://wilhelmsen.wd3.myworkdayjobs.com/Wilhelmsen/job/Lysaker/Wilhelmsen-Summer-Internship-2027_JOBREQ_13100",
+      "deadline": "2026-10-25",
+      "firstSeen": "2026-09-24",
+      "verifiedAt": "2026-09-24T17:06:42Z"
     }
   ]
 }
