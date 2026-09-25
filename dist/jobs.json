@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-24T17:06:42Z",
+  "updatedAt": "2026-09-25T06:00:12Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Existing relevant adverts and the new Storebrand Sandbox internship were checked on their original FINN pages. Broader search coverage remains partial."
+      "note": "Existing relevant adverts and the new Xledger internship were checked on their original FINN pages. Broader search coverage remains partial."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "DOF, Hydro and Elektro were rechecked on their original pages. Rolls-Royce remains closed after its 23 September deadline."
+      "note": "DOF, Hydro, Elektro and current summer-internship results were checked. Xledger was deduplicated to its direct FINN advert; the broad Ramboll advert lacked role-specific eligibility."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public search was checked, but no additional relevant original advert met the verification and level criteria. Coverage is partial."
+      "note": "Public search was checked, but the Elektro application redirected to a login page and no additional original advert could be verified. Coverage is partial."
     },
     {
       "name": "Academic Work",
@@ -24,12 +24,12 @@
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public listings were used only for discovery. A closed Arctic Shipping advert was omitted; no login-only listing was treated as verified."
+      "note": "Public listings were checked for discovery, but no new Norway advert had enough accessible original detail to include. No login-only listing was treated as verified."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "KONGSBERG and DNV Maritime were rechecked. Wilhelmsen was retained as unverified because its original Workday page was inaccessible, and DNV Finance kept its earlier timestamp after a 502 error."
+      "note": "KONGSBERG and DNV Global Finance were rechecked. DNV Maritime and Wilhelmsen failed to load, so their earlier verification states were preserved."
     }
   ],
   "jobs": [
@@ -50,7 +50,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
       "deadline": "2026-10-04",
       "status": "open",
-      "verifiedAt": "2026-09-24T17:06:42Z",
+      "verifiedAt": "2026-09-25T06:00:12Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://www.finn.no/job/ad/475925195",
       "deadline": "2026-09-30",
       "status": "open",
-      "verifiedAt": "2026-09-24T17:06:42Z",
+      "verifiedAt": "2026-09-25T06:00:12Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://www.finn.no/job/ad/476700939",
       "deadline": "2026-10-16",
       "status": "open",
-      "verifiedAt": "2026-09-24T17:06:42Z",
+      "verifiedAt": "2026-09-25T06:00:12Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -110,7 +110,7 @@
       "url": "https://www.finn.no/job/ad/476372712",
       "deadline": null,
       "status": "open",
-      "verifiedAt": "2026-09-24T17:06:42Z",
+      "verifiedAt": "2026-09-25T06:00:12Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -130,7 +130,7 @@
       "url": "https://www.finn.no/job/ad/476128242",
       "deadline": "2026-10-10",
       "status": "open",
-      "verifiedAt": "2026-09-24T17:06:42Z",
+      "verifiedAt": "2026-09-25T06:00:12Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -170,7 +170,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-24T17:06:42Z"
+      "verifiedAt": "2026-09-25T06:00:12Z"
     },
     {
       "id": "kongsberg-summer-2027",
@@ -189,7 +189,7 @@
       "url": "https://www.kongsberg.com/careers/vacancies/summer-internship-2027-/",
       "deadline": "2027-02-28",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-24T17:06:42Z"
+      "verifiedAt": "2026-09-25T06:00:12Z"
     },
     {
       "id": "dnv-7314",
@@ -208,7 +208,7 @@
       "url": "https://jobs.dnv.com/job-search/group/support/oslo-norway/global-finance-trainee-2027/300001672661558",
       "deadline": "2026-09-26",
       "firstSeen": "2026-09-23",
-      "verifiedAt": "2026-09-24T05:59:45Z"
+      "verifiedAt": "2026-09-25T06:00:12Z"
     },
     {
       "id": "dnv-7479",
@@ -247,7 +247,7 @@
       "url": "https://www.finn.no/job/ad/476722814",
       "deadline": "2026-09-27",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-24T17:06:42Z"
+      "verifiedAt": "2026-09-25T06:00:12Z"
     },
     {
       "id": "nav-050d17b4",
@@ -269,7 +269,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/050d17b4-5ff1-4068-ab6e-0698bf3d0905",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-24T17:06:42Z"
+      "verifiedAt": "2026-09-25T06:00:12Z"
     },
     {
       "id": "nav-6adfe757",
@@ -288,7 +288,26 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/6adfe757-cd94-4ea6-8baf-0e7c7a139537",
       "deadline": null,
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-24T17:06:42Z"
+      "verifiedAt": "2026-09-25T06:00:12Z"
+    },
+    {
+      "id": "finn-476057492",
+      "title": "Summer Internship 2027",
+      "company": "Xledger",
+      "location": "Oslo",
+      "type": "Summer internship · Student team",
+      "source": "FINN",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "A student team explores a real business challenge from insight and analysis through testing and presentation, potentially involving new business opportunities, AI or technology.",
+      "requirements": "For business development, economics, technology or related students who finish a bachelor in spring 2027, or have started or are completing a master. The formal FINN deadline is 15 October; the advert body also says 16 October, so use the earlier date.",
+      "url": "https://www.finn.no/job/ad/476057492",
+      "deadline": "2026-10-15",
+      "firstSeen": "2026-09-25",
+      "verifiedAt": "2026-09-25T06:00:12Z"
     },
     {
       "id": "finn-476982603",
@@ -307,7 +326,7 @@
       "url": "https://www.finn.no/job/ad/476982603",
       "deadline": "2026-10-11",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-24T17:06:42Z"
+      "verifiedAt": "2026-09-25T06:00:12Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
