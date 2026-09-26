@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-09-25T16:58:26Z",
+  "updatedAt": "2026-09-26T05:59:33Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "All retained FINN adverts were rechecked on their original pages and remain open. No additional bachelor-friendly advert met the relevance criteria in the evening search."
+      "note": "Retained FINN adverts were rechecked on their original pages. Four additional relevant graduate roles were verified: Subsea7 Commercial accepts a bachelor’s; DOF Maritime Trainee, Hydro Logistics and Procurement, and Storebrand Trainee require a master’s."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "DOF, Hydro, Elektro and current summer-internship results were rechecked. The broad Ramboll advert still lacks role-specific business eligibility, so it was not added."
+      "note": "DOF Commercial Graduate, Hydro Summer Internship and Elektro’s student finance role were rechecked on their original NAV pages and remain open. No additional bachelor-friendly NAV advert was added."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public search was checked, but the Elektro application redirected to a login page and no additional original advert could be verified. Coverage is partial."
+      "note": "The public search page was reachable but required JavaScript for results, and the Elektro application flow still redirected to login. No new original Jobbnorge advert was verified; coverage is partial."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "The original Facit Bank advert was rechecked and remains open; no additional relevant verified advert was found."
+      "note": "The original Facit Bank advert and Academic Work’s public vacancy list were checked. Facit remains open; no additional relevant verified advert was found."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public listings were checked for discovery, but no new Norway advert had enough accessible original detail to include. No login-only listing was treated as verified."
+      "note": "Public listings were checked for discovery, but no new Norway advert had enough accessible original detail to include. Login-only results were not treated as verified."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "KONGSBERG and both DNV trainee adverts were rechecked. Wilhelmsen's original Workday page remained inaccessible, so that lead stays unverified with its earlier timestamp."
+      "note": "KONGSBERG and both DNV trainee adverts were rechecked. DNV Global Finance is open until midnight CET on 26 September. Wilhelmsen’s Workday page remained inaccessible, so that lead keeps its earlier verification time."
     }
   ],
   "jobs": [
@@ -50,7 +50,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
       "deadline": "2026-10-04",
       "status": "open",
-      "verifiedAt": "2026-09-25T16:58:26Z",
+      "verifiedAt": "2026-09-26T05:59:33Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://www.finn.no/job/ad/475925195",
       "deadline": "2026-09-30",
       "status": "open",
-      "verifiedAt": "2026-09-25T16:58:26Z",
+      "verifiedAt": "2026-09-26T05:59:33Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://www.finn.no/job/ad/476700939",
       "deadline": "2026-10-16",
       "status": "open",
-      "verifiedAt": "2026-09-25T16:58:26Z",
+      "verifiedAt": "2026-09-26T05:59:33Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -110,7 +110,7 @@
       "url": "https://www.finn.no/job/ad/476372712",
       "deadline": null,
       "status": "open",
-      "verifiedAt": "2026-09-25T16:58:26Z",
+      "verifiedAt": "2026-09-26T05:59:33Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -130,7 +130,7 @@
       "url": "https://www.finn.no/job/ad/476128242",
       "deadline": "2026-10-10",
       "status": "open",
-      "verifiedAt": "2026-09-25T16:58:26Z",
+      "verifiedAt": "2026-09-26T05:59:33Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -170,7 +170,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-25T16:58:26Z"
+      "verifiedAt": "2026-09-26T05:59:33Z"
     },
     {
       "id": "kongsberg-summer-2027",
@@ -189,7 +189,7 @@
       "url": "https://www.kongsberg.com/careers/vacancies/summer-internship-2027-/",
       "deadline": "2027-02-28",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-25T16:58:26Z"
+      "verifiedAt": "2026-09-26T05:59:33Z"
     },
     {
       "id": "dnv-7314",
@@ -208,7 +208,7 @@
       "url": "https://jobs.dnv.com/job-search/group/support/oslo-norway/global-finance-trainee-2027/300001672661558",
       "deadline": "2026-09-26",
       "firstSeen": "2026-09-23",
-      "verifiedAt": "2026-09-25T16:58:26Z"
+      "verifiedAt": "2026-09-26T05:59:33Z"
     },
     {
       "id": "dnv-7479",
@@ -228,7 +228,7 @@
       "url": "https://jobs.dnv.com/job-search/maritime/consultant/oslo-norway/maritime-advisory-trainee-2027/300001698569400",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-23",
-      "verifiedAt": "2026-09-25T16:58:26Z"
+      "verifiedAt": "2026-09-26T05:59:33Z"
     },
     {
       "id": "finn-476722814",
@@ -247,7 +247,7 @@
       "url": "https://www.finn.no/job/ad/476722814",
       "deadline": "2026-09-27",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-25T16:58:26Z"
+      "verifiedAt": "2026-09-26T05:59:33Z"
     },
     {
       "id": "nav-050d17b4",
@@ -269,7 +269,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/050d17b4-5ff1-4068-ab6e-0698bf3d0905",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-25T16:58:26Z"
+      "verifiedAt": "2026-09-26T05:59:33Z"
     },
     {
       "id": "nav-6adfe757",
@@ -288,7 +288,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/6adfe757-cd94-4ea6-8baf-0e7c7a139537",
       "deadline": null,
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-25T16:58:26Z"
+      "verifiedAt": "2026-09-26T05:59:33Z"
     },
     {
       "id": "finn-476057492",
@@ -307,7 +307,7 @@
       "url": "https://www.finn.no/job/ad/476057492",
       "deadline": "2026-10-15",
       "firstSeen": "2026-09-25",
-      "verifiedAt": "2026-09-25T16:58:26Z"
+      "verifiedAt": "2026-09-26T05:59:33Z"
     },
     {
       "id": "finn-476982603",
@@ -326,7 +326,88 @@
       "url": "https://www.finn.no/job/ad/476982603",
       "deadline": "2026-10-11",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-25T16:58:26Z"
+      "verifiedAt": "2026-09-26T05:59:33Z"
+    },
+    {
+      "id": "finn-465156211",
+      "title": "Graduate Development Programme 2027 · Commercial",
+      "company": "Subsea7",
+      "location": "Stavanger",
+      "type": "Permanent · Commercial graduate programme",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Shipping"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "A commercial graduate scheme with placements in project cost control, tendering, HSSEQ or HR, combining practical offshore-energy work with training and networking.",
+      "requirements": "Accepts BSc, MSc or MBA backgrounds including administration, economics, finance, business and legal studies. No prior experience requirement is stated; background checks require consent.",
+      "url": "https://www.finn.no/job/ad/465156211",
+      "deadline": "2026-11-01",
+      "firstSeen": "2026-09-26",
+      "verifiedAt": "2026-09-26T05:59:33Z"
+    },
+    {
+      "id": "finn-473639278",
+      "title": "Maritime Trainee 2027 · Corporate track",
+      "company": "DOF",
+      "location": "Bergen",
+      "type": "Permanent · 18-month trainee programme",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Shipping",
+        "Supply chain"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Corporate-track rotations can cover contracts, insurance, supply-chain projects, compliance, finance and commercial support in an international maritime company.",
+      "requirements": "Mandatory relevant master’s degree in business, finance, supply chain, law or similar; 0–2 years of experience and fluent English. A bachelor’s alone does not meet the stated requirement.",
+      "url": "https://www.finn.no/job/ad/473639278",
+      "deadline": "2026-10-04",
+      "firstSeen": "2026-09-26",
+      "verifiedAt": "2026-09-26T05:59:33Z"
+    },
+    {
+      "id": "finn-476600136",
+      "title": "Graduate 2027 · Logistics and Procurement",
+      "company": "Hydro",
+      "location": "Øvre Årdal",
+      "type": "Permanent · Graduate programme",
+      "source": "FINN",
+      "categories": [
+        "Supply chain",
+        "Logistics",
+        "Procurement"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "A graduate role focused on logistics, value-chain and procurement improvement projects, including daily operational follow-up at Hydro Årdal.",
+      "requirements": "Mandatory master’s in supply chain, logistics, economics or similar; maximum two years of post-graduation experience and professional Norwegian and English.",
+      "url": "https://www.finn.no/job/ad/476600136",
+      "deadline": "2026-10-25",
+      "firstSeen": "2026-09-26",
+      "verifiedAt": "2026-09-26T05:59:33Z"
+    },
+    {
+      "id": "finn-475781619",
+      "title": "Storebrand Trainee 2027",
+      "company": "Storebrand",
+      "location": "Lysaker",
+      "type": "Permanent · 18-month trainee programme",
+      "source": "FINN",
+      "categories": [
+        "Business"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Three rotations across finance, technology, sustainability and business development, with work ranging from strategic projects to customer analysis and digital products.",
+      "requirements": "Mandatory relevant master’s degree, good academic results, maximum three years of experience and strong Norwegian and English. A bachelor’s alone does not meet the stated requirement.",
+      "url": "https://www.finn.no/job/ad/475781619",
+      "deadline": "2026-09-27",
+      "firstSeen": "2026-09-26",
+      "verifiedAt": "2026-09-26T05:59:33Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
