@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-28T06:09:19Z",
+  "updatedAt": "2026-09-28T17:06:40Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Retained FINN adverts were rechecked on their original pages. KLP Summer Intern and Storebrand Trainee are now expired. Three verified roles were added: Axaz and DNO student internships plus Hydro Commercial Business Solutions."
+      "note": "Current FINN adverts were searched again and the approaching-deadline DNO, Axaz and Skuld listings were rechecked on their original pages. No additional relevant evening listing was verified."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "DOF Commercial Graduate, Hydro Summer Internship and Elektro’s student finance role were rechecked on their original NAV pages and remain open. No new relevant original NAV advert was verified."
+      "note": "DOF Commercial Graduate, Hydro Summer Internship and Elektro’s student finance role were rechecked on their original NAV pages and remain open. No additional relevant original NAV advert was verified."
     },
     {
       "name": "Jobbnorge",
@@ -29,7 +29,7 @@
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "KONGSBERG was rechecked. DNV Maritime and Wilhelmsen’s Workday page failed to load, so both keep their earlier verification timestamps; Wilhelmsen remains unverified."
+      "note": "KONGSBERG and DNV Maritime were rechecked and remain open. Wilhelmsen’s Workday page still failed to load, so it keeps its earlier verification timestamp and remains unverified."
     }
   ],
   "jobs": [
@@ -50,7 +50,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
       "deadline": "2026-10-04",
       "status": "open",
-      "verifiedAt": "2026-09-28T06:09:19Z",
+      "verifiedAt": "2026-09-28T17:06:40Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://www.finn.no/job/ad/475925195",
       "deadline": "2026-09-30",
       "status": "open",
-      "verifiedAt": "2026-09-28T06:09:19Z",
+      "verifiedAt": "2026-09-28T17:06:40Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -170,7 +170,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-28T06:09:19Z"
+      "verifiedAt": "2026-09-28T17:06:40Z"
     },
     {
       "id": "kongsberg-summer-2027",
@@ -228,7 +228,7 @@
       "url": "https://jobs.dnv.com/job-search/maritime/consultant/oslo-norway/maritime-advisory-trainee-2027/300001698569400",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-23",
-      "verifiedAt": "2026-09-27T06:14:01Z"
+      "verifiedAt": "2026-09-28T17:06:40Z"
     },
     {
       "id": "finn-476722814",
@@ -426,7 +426,7 @@
       "url": "https://www.finn.no/job/ad/474643232",
       "deadline": "2026-10-01",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-09-28T06:09:19Z"
+      "verifiedAt": "2026-09-28T17:06:40Z"
     },
     {
       "id": "finn-474113064",
@@ -445,7 +445,7 @@
       "url": "https://www.finn.no/job/ad/474113064",
       "deadline": "2026-09-29",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-09-28T06:09:19Z"
+      "verifiedAt": "2026-09-28T17:06:40Z"
     },
     {
       "id": "finn-476600129",
