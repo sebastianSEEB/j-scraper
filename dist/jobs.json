@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-27T06:14:01Z",
+  "updatedAt": "2026-09-28T06:09:19Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "All retained FINN adverts were rechecked on their original pages. KLP Summer Intern and Storebrand Trainee remain open on their 27 September deadline; no additional bachelor-friendly role was verified in today’s graduate, supply-chain, shipping or finance searches."
+      "note": "Retained FINN adverts were rechecked on their original pages. KLP Summer Intern and Storebrand Trainee are now expired. Three verified roles were added: Axaz and DNO student internships plus Hydro Commercial Business Solutions."
     },
     {
       "name": "NAV Arbeidsplassen",
@@ -14,22 +14,22 @@
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "The public search page was reachable but required JavaScript for results, and the Elektro application flow remained login-gated. No new original Jobbnorge advert was verified; coverage is partial."
+      "note": "A public Jobbnorge feed and search results were checked, but no current original advert matching the target profile was verified. Some result flows still require JavaScript or login, so coverage remains partial."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "The original Facit Bank advert and Academic Work’s current public vacancy list were checked. Facit remains open; no additional relevant verified advert was found."
+      "note": "The original Facit Bank advert was rechecked and remains open. No additional relevant verified Academic Work advert was found."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public listings were checked for discovery, including current Norway supply-chain results, but no new advert had enough accessible original detail to include. Login-only results were not treated as verified; coverage remains partial."
+      "note": "Public listings were checked for discovery. Expired Equinor graduate results were excluded, and no new LinkedIn-only advert had enough accessible original detail to include; coverage remains partial."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "KONGSBERG and both DNV trainee adverts were rechecked. DNV Global Finance passed its 26 September deadline and is now closed; DNV Maritime remains open. Wilhelmsen’s Workday page remained inaccessible, so that lead keeps its earlier verification time."
+      "note": "KONGSBERG was rechecked. DNV Maritime and Wilhelmsen’s Workday page failed to load, so both keep their earlier verification timestamps; Wilhelmsen remains unverified."
     }
   ],
   "jobs": [
@@ -50,7 +50,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
       "deadline": "2026-10-04",
       "status": "open",
-      "verifiedAt": "2026-09-27T06:14:01Z",
+      "verifiedAt": "2026-09-28T06:09:19Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://www.finn.no/job/ad/475925195",
       "deadline": "2026-09-30",
       "status": "open",
-      "verifiedAt": "2026-09-27T06:14:01Z",
+      "verifiedAt": "2026-09-28T06:09:19Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://www.finn.no/job/ad/476700939",
       "deadline": "2026-10-16",
       "status": "open",
-      "verifiedAt": "2026-09-27T06:14:01Z",
+      "verifiedAt": "2026-09-28T06:09:19Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -110,7 +110,7 @@
       "url": "https://www.finn.no/job/ad/476372712",
       "deadline": null,
       "status": "open",
-      "verifiedAt": "2026-09-27T06:14:01Z",
+      "verifiedAt": "2026-09-28T06:09:19Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -130,7 +130,7 @@
       "url": "https://www.finn.no/job/ad/476128242",
       "deadline": "2026-10-10",
       "status": "open",
-      "verifiedAt": "2026-09-27T06:14:01Z",
+      "verifiedAt": "2026-09-28T06:09:19Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -170,7 +170,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-27T06:14:01Z"
+      "verifiedAt": "2026-09-28T06:09:19Z"
     },
     {
       "id": "kongsberg-summer-2027",
@@ -189,7 +189,7 @@
       "url": "https://www.kongsberg.com/careers/vacancies/summer-internship-2027-/",
       "deadline": "2027-02-28",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-27T06:14:01Z"
+      "verifiedAt": "2026-09-28T06:09:19Z"
     },
     {
       "id": "dnv-7314",
@@ -241,13 +241,13 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Work on a mentored independent project in capital management, with possible exposure to risk analysis, fund analysis, valuation, data and responsible investment.",
       "requirements": "At least the first year of higher education completed, good academic results and interest in finance. CV plus transcript or diploma are mandatory. No completed degree or prior finance experience is stated as required.",
       "url": "https://www.finn.no/job/ad/476722814",
       "deadline": "2026-09-27",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-27T06:14:01Z"
+      "verifiedAt": "2026-09-28T06:09:19Z"
     },
     {
       "id": "nav-050d17b4",
@@ -269,7 +269,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/050d17b4-5ff1-4068-ab6e-0698bf3d0905",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-27T06:14:01Z"
+      "verifiedAt": "2026-09-28T06:09:19Z"
     },
     {
       "id": "nav-6adfe757",
@@ -288,7 +288,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/6adfe757-cd94-4ea6-8baf-0e7c7a139537",
       "deadline": null,
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-27T06:14:01Z"
+      "verifiedAt": "2026-09-28T06:09:19Z"
     },
     {
       "id": "finn-476057492",
@@ -307,7 +307,7 @@
       "url": "https://www.finn.no/job/ad/476057492",
       "deadline": "2026-10-15",
       "firstSeen": "2026-09-25",
-      "verifiedAt": "2026-09-27T06:14:01Z"
+      "verifiedAt": "2026-09-28T06:09:19Z"
     },
     {
       "id": "finn-476982603",
@@ -326,7 +326,7 @@
       "url": "https://www.finn.no/job/ad/476982603",
       "deadline": "2026-10-11",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-27T06:14:01Z"
+      "verifiedAt": "2026-09-28T06:09:19Z"
     },
     {
       "id": "finn-465156211",
@@ -346,7 +346,7 @@
       "url": "https://www.finn.no/job/ad/465156211",
       "deadline": "2026-11-01",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-09-27T06:14:01Z"
+      "verifiedAt": "2026-09-28T06:09:19Z"
     },
     {
       "id": "finn-473639278",
@@ -367,7 +367,7 @@
       "url": "https://www.finn.no/job/ad/473639278",
       "deadline": "2026-10-04",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-09-27T06:14:01Z"
+      "verifiedAt": "2026-09-28T06:09:19Z"
     },
     {
       "id": "finn-476600136",
@@ -388,7 +388,7 @@
       "url": "https://www.finn.no/job/ad/476600136",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-09-27T06:14:01Z"
+      "verifiedAt": "2026-09-28T06:09:19Z"
     },
     {
       "id": "finn-475781619",
@@ -401,13 +401,70 @@
         "Business"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Three rotations across finance, technology, sustainability and business development, with work ranging from strategic projects to customer analysis and digital products.",
       "requirements": "Mandatory relevant master’s degree, good academic results, maximum three years of experience and strong Norwegian and English. A bachelor’s alone does not meet the stated requirement.",
       "url": "https://www.finn.no/job/ad/475781619",
       "deadline": "2026-09-27",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-09-27T06:14:01Z"
+      "verifiedAt": "2026-09-28T06:09:19Z"
+    },
+    {
+      "id": "finn-474643232",
+      "title": "Summer Internship 2027",
+      "company": "Axaz",
+      "location": "Oslo",
+      "type": "Summer internship · Eight weeks",
+      "source": "FINN",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "A paid interdisciplinary internship solving a real business case from idea to delivery, with possible work in strategy, user research and data analysis.",
+      "requirements": "For students in economics, business development, strategy, technology or engineering who start their final study year in autumn 2027. Interest in technology and problem-solving is required; no prior work experience is stated.",
+      "url": "https://www.finn.no/job/ad/474643232",
+      "deadline": "2026-10-01",
+      "firstSeen": "2026-09-28",
+      "verifiedAt": "2026-09-28T06:09:19Z"
+    },
+    {
+      "id": "finn-474113064",
+      "title": "Summer Internship 2027 · Business Support",
+      "company": "DNO Norge",
+      "location": "Stavanger",
+      "type": "Summer internship · Six to eight weeks",
+      "source": "FINN",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Business-support internship with possible assignments in HR, reporting, data quality, process improvement or risk and compliance.",
+      "requirements": "Currently studying for a relevant bachelor’s or master’s and must have completed at least two years of higher education before the internship. Fluent English and a valid Norwegian work permit are mandatory.",
+      "url": "https://www.finn.no/job/ad/474113064",
+      "deadline": "2026-09-29",
+      "firstSeen": "2026-09-28",
+      "verifiedAt": "2026-09-28T06:09:19Z"
+    },
+    {
+      "id": "finn-476600129",
+      "title": "Graduate 2027 · Commercial Business Solutions",
+      "company": "Hydro",
+      "location": "Oslo",
+      "type": "Permanent · Graduate programme",
+      "source": "FINN",
+      "categories": [
+        "Business"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Commercial analytics role supporting reports, data models and process improvements across finance, sales, logistics and credit management.",
+      "requirements": "Mandatory relevant master’s in business analytics, finance, economics, engineering or similar. SQL or Python, Power BI, SAP Analytics Cloud and fluent English are required.",
+      "url": "https://www.finn.no/job/ad/476600129",
+      "deadline": "2026-10-25",
+      "firstSeen": "2026-09-28",
+      "verifiedAt": "2026-09-28T06:09:19Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
