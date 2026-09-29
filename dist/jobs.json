@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-09-28T17:06:40Z",
+  "updatedAt": "2026-09-29T06:00:18Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched again and the approaching-deadline DNO, Axaz and Skuld listings were rechecked on their original pages. No additional relevant evening listing was verified."
+      "note": "Current FINN adverts were searched and the approaching-deadline DNO, Axaz and Skuld listings were rechecked on their original pages. One verified procurement role at Forsvarsmateriell was added with its one-year experience requirement clearly flagged."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "DOF Commercial Graduate, Hydro Summer Internship and Elektro’s student finance role were rechecked on their original NAV pages and remain open. No additional relevant original NAV advert was verified."
+      "note": "DOF Commercial Graduate was rechecked on its original NAV page and remains open. No additional relevant original NAV advert was verified."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "A public Jobbnorge feed and search results were checked, but no current original advert matching the target profile was verified. Some result flows still require JavaScript or login, so coverage remains partial."
+      "note": "The public Jobbnorge search was checked, but no current original advert matching the target profile was verified. Some result flows still require JavaScript or login, so coverage remains partial."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "The original Facit Bank advert was rechecked and remains open. No additional relevant verified Academic Work advert was found."
+      "note": "Academic Work’s public listings were checked. Facit Bank remains in the retained set, and no additional relevant original advert was verified."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public listings were checked for discovery. Expired Equinor graduate results were excluded, and no new LinkedIn-only advert had enough accessible original detail to include; coverage remains partial."
+      "note": "Public LinkedIn listings were checked for discovery. Master-only and duplicate graduate adverts were excluded, and no unique LinkedIn-only advert had enough accessible original detail to include; coverage remains partial."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "KONGSBERG and DNV Maritime were rechecked and remain open. Wilhelmsen’s Workday page still failed to load, so it keeps its earlier verification timestamp and remains unverified."
+      "note": "Wilhelmsen’s original Workday page returned no accessible advert content, so it keeps its earlier verification timestamp and remains unverified. Other retained employer-career records keep their previous verification timestamps."
     }
   ],
   "jobs": [
@@ -50,7 +50,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
       "deadline": "2026-10-04",
       "status": "open",
-      "verifiedAt": "2026-09-28T17:06:40Z",
+      "verifiedAt": "2026-09-29T06:00:18Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://www.finn.no/job/ad/475925195",
       "deadline": "2026-09-30",
       "status": "open",
-      "verifiedAt": "2026-09-28T17:06:40Z",
+      "verifiedAt": "2026-09-29T06:00:18Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -426,7 +426,7 @@
       "url": "https://www.finn.no/job/ad/474643232",
       "deadline": "2026-10-01",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-09-28T17:06:40Z"
+      "verifiedAt": "2026-09-29T06:00:18Z"
     },
     {
       "id": "finn-474113064",
@@ -445,7 +445,7 @@
       "url": "https://www.finn.no/job/ad/474113064",
       "deadline": "2026-09-29",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-09-28T17:06:40Z"
+      "verifiedAt": "2026-09-29T06:00:18Z"
     },
     {
       "id": "finn-476600129",
@@ -465,6 +465,27 @@
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-28",
       "verifiedAt": "2026-09-28T06:09:19Z"
+    },
+    {
+      "id": "finn-476975441",
+      "title": "Innkjøper",
+      "company": "Forsvarsmateriell",
+      "location": "Kolsås",
+      "type": "Permanent · Full time",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Procurement",
+        "Supply chain"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Procurement work covering IKT purchases, order and invoice follow-up, supplier coordination and advice to internal teams and projects.",
+      "requirements": "Bachelor’s in economics or administration, or compensating relevant experience. At least one year of purchasing, logistics or economics experience is mandatory, and the candidate must qualify for HEMMELIG and NATO SECRET security clearance.",
+      "url": "https://www.finn.no/job/ad/476975441",
+      "deadline": "2026-10-12",
+      "firstSeen": "2026-09-29",
+      "verifiedAt": "2026-09-29T06:00:18Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
