@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-29T06:00:18Z",
+  "updatedAt": "2026-09-29T16:58:42Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and the approaching-deadline DNO, Axaz and Skuld listings were rechecked on their original pages. One verified procurement role at Forsvarsmateriell was added with its one-year experience requirement clearly flagged."
+      "note": "Current FINN adverts were searched and the approaching-deadline DNO, Axaz and Skuld listings were rechecked on their original pages. One new procurement and logistics role at SafeClean was verified and added with its experience requirements clearly flagged."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "DOF Commercial Graduate was rechecked on its original NAV page and remains open. No additional relevant original NAV advert was verified."
+      "note": "DOF Commercial Graduate and the Academic Work-managed Facit Bank role were rechecked on their original NAV pages and remain open. No additional relevant original NAV advert was verified."
     },
     {
       "name": "Jobbnorge",
@@ -19,7 +19,7 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work’s public listings were checked. Facit Bank remains in the retained set, and no additional relevant original advert was verified."
+      "note": "The Academic Work-managed Facit Bank advert was rechecked through its public NAV mirror and remains open. No additional relevant original advert was verified."
     },
     {
       "name": "LinkedIn",
@@ -50,7 +50,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
       "deadline": "2026-10-04",
       "status": "open",
-      "verifiedAt": "2026-09-29T06:00:18Z",
+      "verifiedAt": "2026-09-29T16:58:42Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://www.finn.no/job/ad/475925195",
       "deadline": "2026-09-30",
       "status": "open",
-      "verifiedAt": "2026-09-29T06:00:18Z",
+      "verifiedAt": "2026-09-29T16:58:42Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -426,7 +426,7 @@
       "url": "https://www.finn.no/job/ad/474643232",
       "deadline": "2026-10-01",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-09-29T06:00:18Z"
+      "verifiedAt": "2026-09-29T16:58:42Z"
     },
     {
       "id": "finn-474113064",
@@ -445,7 +445,7 @@
       "url": "https://www.finn.no/job/ad/474113064",
       "deadline": "2026-09-29",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-09-29T06:00:18Z"
+      "verifiedAt": "2026-09-29T16:58:42Z"
     },
     {
       "id": "finn-476600129",
@@ -486,6 +486,28 @@
       "deadline": "2026-10-12",
       "firstSeen": "2026-09-29",
       "verifiedAt": "2026-09-29T06:00:18Z"
+    },
+    {
+      "id": "finn-477494033",
+      "title": "Innkjøper",
+      "company": "SafeClean",
+      "location": "Tananger or Kyrkjebø",
+      "type": "Permanent · Full time",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Procurement",
+        "Supply chain",
+        "Logistics"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Own purchasing, supplier follow-up, inventory control and operational logistics across SafeClean locations, with reporting and process-improvement work.",
+      "requirements": "Relevant education is desired, but experience can compensate. Experience in purchasing, logistics, supply chain or inventory management, supplier follow-up and negotiations, ERP systems, Excel, and Norwegian and English is expected; no exact minimum years are stated.",
+      "url": "https://www.finn.no/job/ad/477494033",
+      "deadline": "2026-10-20",
+      "firstSeen": "2026-09-29",
+      "verifiedAt": "2026-09-29T16:58:42Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
