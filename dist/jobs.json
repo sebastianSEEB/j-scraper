@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-30T06:13:21Z",
+  "updatedAt": "2026-09-30T17:05:58Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched. DNO is now explicitly expired and closed; the Skuld and Axaz adverts remain open on their original pages."
+      "note": "Current FINN adverts were searched and the Skuld and Axaz deadline pages were rechecked. New bachelor-friendly purchasing roles at Forsvarsmateriell and a business/economics internship at Hafslund were verified and added."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched. New relevant graduate and internship leads were checked on their original employer pages; master-only roles were not promoted as bachelor-friendly."
+      "note": "Current NAV listings were searched. Bachelor-friendly graduate roles at Sopra Steria and EY were verified on their original NAV pages and added; master-only results were not promoted as bachelor-friendly."
     },
     {
       "name": "Jobbnorge",
@@ -29,7 +29,7 @@
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "VARD and Clarksons were verified on their original public career pages and added. Wilhelmsen’s original Workday page remained inaccessible, so it keeps its earlier verification timestamp and unverified status."
+      "note": "Clarksons’ original public career page was rechecked and remains active. Wilhelmsen’s original Workday page remained inaccessible, so it keeps its earlier verification timestamp and unverified status."
     }
   ],
   "jobs": [
@@ -70,7 +70,7 @@
       "url": "https://www.finn.no/job/ad/475925195",
       "deadline": "2026-09-30",
       "status": "open",
-      "verifiedAt": "2026-09-30T06:08:14Z",
+      "verifiedAt": "2026-09-30T17:05:58Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -170,7 +170,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-30T06:08:14Z"
+      "verifiedAt": "2026-09-30T17:05:58Z"
     },
     {
       "id": "kongsberg-summer-2027",
@@ -426,7 +426,7 @@
       "url": "https://www.finn.no/job/ad/474643232",
       "deadline": "2026-10-01",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-09-30T06:08:14Z"
+      "verifiedAt": "2026-09-30T17:05:58Z"
     },
     {
       "id": "finn-474113064",
@@ -510,6 +510,88 @@
       "verifiedAt": "2026-09-29T16:58:42Z"
     },
     {
+      "id": "finn-477276299",
+      "title": "Innkjøpere",
+      "company": "Forsvarsmateriell",
+      "location": "Bergen",
+      "type": "Permanent · Full time",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Procurement",
+        "Supply chain",
+        "Logistics"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Purchasing and contract-administration work covering call-offs, requisitions, invoices, deliveries and supplier follow-up in the defence sector, with structured training for new graduates.",
+      "requirements": "Minimum bachelor’s in economics, logistics, administration or another relevant field. Prior purchasing, public-procurement or SAP experience is desirable rather than mandatory. Norwegian and English are required, and candidates must qualify for HEMMELIG and NATO SECRET security clearance.",
+      "url": "https://www.finn.no/job/ad/477276299",
+      "deadline": "2026-10-13",
+      "firstSeen": "2026-09-30",
+      "verifiedAt": "2026-09-30T17:05:58Z"
+    },
+    {
+      "id": "finn-476484961",
+      "title": "Summer Internship 2027",
+      "company": "Hafslund",
+      "location": "Oslo, Lillehammer or Gol",
+      "type": "Summer internship · Full time",
+      "source": "FINN",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Work in a small student team on current renewable-energy business cases, with economics, finance, accounting, business analytics and entrepreneurship among the accepted study areas.",
+      "requirements": "For students with one or two years remaining in higher education from autumn 2026. Economics-related bachelor or master studies are accepted. CV, transcript, video response, aptitude test and background/personnel checks are required; no prior work experience is stated.",
+      "url": "https://www.finn.no/job/ad/476484961",
+      "deadline": "2026-10-18",
+      "firstSeen": "2026-09-30",
+      "verifiedAt": "2026-09-30T17:05:58Z"
+    },
+    {
+      "id": "nav-587eadd3",
+      "title": "Nyutdannet Forretningsrådgivning 2027",
+      "company": "Sopra Steria",
+      "location": "Multiple Norwegian offices",
+      "type": "Permanent · Graduate role",
+      "source": "NAV",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Business-consulting graduate role focused on process improvement, organisational change and the intersection of technology and business across several Norwegian offices.",
+      "requirements": "For candidates graduating in spring 2027 with at least a bachelor’s in economics, management, technology or security. Norwegian is required, along with interest in digitalisation and consulting. Maximum one year of relevant post-degree experience.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/587eadd3-5fb1-4556-b6c5-9734a5fae395",
+      "deadline": "2026-10-01",
+      "firstSeen": "2026-09-30",
+      "verifiedAt": "2026-09-30T17:05:58Z"
+    },
+    {
+      "id": "nav-cd3e8422",
+      "title": "Business Consulting Graduate 2027",
+      "company": "EY",
+      "location": "Oslo, Bergen, Stavanger or Trondheim",
+      "type": "Permanent · Graduate role",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Procurement",
+        "Logistics"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Graduate consulting across business transformation, finance, supply chain and operations, with work spanning planning, procurement, production, warehousing, distribution and strategy.",
+      "requirements": "Higher education must be completed by summer 2027; the advert does not state that a master’s is mandatory. Strong Norwegian and English are required. An aptitude test and separate video application must be completed. Deadline is 5 October at 12:00.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/cd3e8422-24ae-4cec-a4a4-ad967798ac3b",
+      "deadline": "2026-10-05",
+      "firstSeen": "2026-09-30",
+      "verifiedAt": "2026-09-30T17:05:58Z"
+    },
+    {
       "id": "vard-webcruiter-5153851699",
       "title": "VARD Graduate Programme 2027",
       "company": "VARD",
@@ -548,7 +630,7 @@
       "url": "https://www.clarksons.com/home/careers/early-careers/summer-internship-oslo/",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-09-30T06:08:14Z"
+      "verifiedAt": "2026-09-30T17:05:58Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
