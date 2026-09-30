@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-29T16:58:42Z",
+  "updatedAt": "2026-09-30T06:08:14Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and the approaching-deadline DNO, Axaz and Skuld listings were rechecked on their original pages. One new procurement and logistics role at SafeClean was verified and added with its experience requirements clearly flagged."
+      "note": "Current FINN adverts were searched. DNO is now explicitly expired and closed; the Skuld and Axaz adverts remain open on their original pages."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "DOF Commercial Graduate and the Academic Work-managed Facit Bank role were rechecked on their original NAV pages and remain open. No additional relevant original NAV advert was verified."
+      "note": "Current NAV listings were searched. New relevant graduate and internship leads were checked on their original employer pages; master-only roles were not promoted as bachelor-friendly."
     },
     {
       "name": "Jobbnorge",
@@ -19,7 +19,7 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "The Academic Work-managed Facit Bank advert was rechecked through its public NAV mirror and remains open. No additional relevant original advert was verified."
+      "note": "The original Academic Work page for Facit Bank was rechecked and remains active. No additional relevant Academic Work advert was verified."
     },
     {
       "name": "LinkedIn",
@@ -29,7 +29,7 @@
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Wilhelmsen’s original Workday page returned no accessible advert content, so it keeps its earlier verification timestamp and remains unverified. Other retained employer-career records keep their previous verification timestamps."
+      "note": "VARD and Clarksons were verified on their original public career pages and added. Wilhelmsen’s original Workday page remained inaccessible, so it keeps its earlier verification timestamp and unverified status."
     }
   ],
   "jobs": [
@@ -70,7 +70,7 @@
       "url": "https://www.finn.no/job/ad/475925195",
       "deadline": "2026-09-30",
       "status": "open",
-      "verifiedAt": "2026-09-29T16:58:42Z",
+      "verifiedAt": "2026-09-30T06:08:14Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -170,7 +170,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-28T17:06:40Z"
+      "verifiedAt": "2026-09-30T06:08:14Z"
     },
     {
       "id": "kongsberg-summer-2027",
@@ -426,7 +426,7 @@
       "url": "https://www.finn.no/job/ad/474643232",
       "deadline": "2026-10-01",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-09-29T16:58:42Z"
+      "verifiedAt": "2026-09-30T06:08:14Z"
     },
     {
       "id": "finn-474113064",
@@ -439,13 +439,13 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Business-support internship with possible assignments in HR, reporting, data quality, process improvement or risk and compliance.",
       "requirements": "Currently studying for a relevant bachelor’s or master’s and must have completed at least two years of higher education before the internship. Fluent English and a valid Norwegian work permit are mandatory.",
       "url": "https://www.finn.no/job/ad/474113064",
       "deadline": "2026-09-29",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-09-29T16:58:42Z"
+      "verifiedAt": "2026-09-30T06:08:14Z"
     },
     {
       "id": "finn-476600129",
@@ -508,6 +508,47 @@
       "deadline": "2026-10-20",
       "firstSeen": "2026-09-29",
       "verifiedAt": "2026-09-29T16:58:42Z"
+    },
+    {
+      "id": "vard-webcruiter-5153851699",
+      "title": "VARD Graduate Programme 2027",
+      "company": "VARD",
+      "location": "Ålesund",
+      "type": "Permanent · Graduate programme",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Shipping",
+        "Procurement"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "A permanent maritime graduate role with onboarding, networking and learning across VARD, including finance, procurement and project-management opportunities in Vard Interiors.",
+      "requirements": "For students graduating in 2027 in finance, project management or another field relevant to the maritime industry. English communication is required; no master’s degree or prior work experience is stated. A background check or security clearance may be required.",
+      "url": "https://457632.webcruiter.no/main/recruit/public/5153851699?language=&url_org=457632&use_position_site_header=0",
+      "deadline": "2026-10-18",
+      "firstSeen": "2026-09-30",
+      "verifiedAt": "2026-09-30T06:08:14Z"
+    },
+    {
+      "id": "clarksons-oslo-summer-2027",
+      "title": "Summer Internship 2027 · Oslo",
+      "company": "Clarksons Norway",
+      "location": "Oslo",
+      "type": "Summer internship · Approximately eight weeks",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Shipping"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Work with shipbrokers and analysts on market research, commercial activity and live shipping or offshore opportunities across market analysis and broking teams.",
+      "requirements": "Open to undergraduate students. Strong academic performance, English fluency, analytical and numerical ability, commercial awareness, a demonstrated interest in shipping or offshore markets, and the right to work in Oslo are required. The employer page is active; the 2 October deadline was cross-checked on NHH’s public student job board.",
+      "url": "https://www.clarksons.com/home/careers/early-careers/summer-internship-oslo/",
+      "deadline": "2026-10-02",
+      "firstSeen": "2026-09-30",
+      "verifiedAt": "2026-09-30T06:08:14Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
