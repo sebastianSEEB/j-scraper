@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-09-30T17:05:58Z",
+  "updatedAt": "2026-10-01T06:07:52Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and the Skuld and Axaz deadline pages were rechecked. New bachelor-friendly purchasing roles at Forsvarsmateriell and a business/economics internship at Hafslund were verified and added."
+      "note": "Current FINN adverts were searched and deadline pages were rechecked. Skuld is now explicitly expired; Axaz remains open through 1 October. New bachelor-friendly opportunities at Equinor and R&M Ship Interior were verified and added."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched. Bachelor-friendly graduate roles at Sopra Steria and EY were verified on their original NAV pages and added; master-only results were not promoted as bachelor-friendly."
+      "note": "Current NAV listings were searched. Sopra Steria remains open through 1 October and Facit Bank through 2 October. No additional unique target-profile NAV advert was verified."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "The public Jobbnorge search was checked, but no current original advert matching the target profile was verified. Some result flows still require JavaScript or login, so coverage remains partial."
+      "note": "The public Jobbnorge listings were checked, but no current original advert matching the target profile was verified. Coverage remains partial because some result flows require JavaScript or login."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "The original Academic Work page for Facit Bank was rechecked and remains active. No additional relevant Academic Work advert was verified."
+      "note": "The original Academic Work page for Facit Bank was rechecked and remains active; its 2 October deadline was confirmed on the matching NAV advert. No additional relevant Academic Work advert was verified."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for discovery. Master-only and duplicate graduate adverts were excluded, and no unique LinkedIn-only advert had enough accessible original detail to include; coverage remains partial."
+      "note": "Public LinkedIn listings were checked for discovery. No unique LinkedIn-only advert had enough accessible original detail to include, so coverage remains partial."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Clarksons’ original public career page was rechecked and remains active. Wilhelmsen’s original Workday page remained inaccessible, so it keeps its earlier verification timestamp and unverified status."
+      "note": "Clarksons’ original public career page remains active. Wilhelmsen’s original Workday page remained inaccessible, so it keeps its earlier verification timestamp and unverified status."
     }
   ],
   "jobs": [
@@ -69,8 +69,8 @@
       "requirements": "Business/economics higher education OR three years of relevant experience. Strong Excel and professional Norwegian and English.",
       "url": "https://www.finn.no/job/ad/475925195",
       "deadline": "2026-09-30",
-      "status": "open",
-      "verifiedAt": "2026-09-30T17:05:58Z",
+      "status": "closed",
+      "verifiedAt": "2026-10-01T06:07:52Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -170,7 +170,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-30T17:05:58Z"
+      "verifiedAt": "2026-10-01T06:07:52Z"
     },
     {
       "id": "kongsberg-summer-2027",
@@ -426,7 +426,7 @@
       "url": "https://www.finn.no/job/ad/474643232",
       "deadline": "2026-10-01",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-09-30T17:05:58Z"
+      "verifiedAt": "2026-10-01T06:07:52Z"
     },
     {
       "id": "finn-474113064",
@@ -529,7 +529,7 @@
       "url": "https://www.finn.no/job/ad/477276299",
       "deadline": "2026-10-13",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-09-30T17:05:58Z"
+      "verifiedAt": "2026-10-01T06:07:52Z"
     },
     {
       "id": "finn-476484961",
@@ -567,7 +567,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/587eadd3-5fb1-4556-b6c5-9734a5fae395",
       "deadline": "2026-10-01",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-09-30T17:05:58Z"
+      "verifiedAt": "2026-10-01T06:07:52Z"
     },
     {
       "id": "nav-cd3e8422",
@@ -590,6 +590,49 @@
       "deadline": "2026-10-05",
       "firstSeen": "2026-09-30",
       "verifiedAt": "2026-09-30T17:05:58Z"
+    },
+    {
+      "id": "finn-477641678",
+      "title": "Summer Internship 2027 · Strategy & Management",
+      "company": "Equinor",
+      "location": "Bergen, Oslo, Stavanger and other Norway locations",
+      "type": "Summer internship · Full time",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Procurement"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Strategy and management internship with a Supply Chain Management Commercial track in Bergen, Oslo or Stavanger, plus project-management and commercial sustainability options.",
+      "requirements": "Open to bachelor’s, master’s or PhD students. At least two years of higher education must be completed before the internship and at least one study year must remain afterwards. Fluent English, a valid Norwegian work permit and no more than two years of relevant full-time experience are required; Equinor does not sponsor visas or relocation for most locations.",
+      "url": "https://www.finn.no/job/ad/477641678",
+      "deadline": "2026-10-15",
+      "firstSeen": "2026-10-01",
+      "verifiedAt": "2026-10-01T06:07:52Z"
+    },
+    {
+      "id": "finn-476469118",
+      "title": "Prosjektplanlegger / Innkjøper",
+      "company": "R&M Ship Interior",
+      "location": "Molde or Ålesund",
+      "type": "Permanent · Full time",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Shipping",
+        "Procurement",
+        "Logistics"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Graduate-friendly maritime role combining project planning, procurement, supplier follow-up, delivery coordination and project-cost tracking for ship-interior projects.",
+      "requirements": "Higher education in logistics, economics, procurement, project management, maritime studies or a related field. Newly graduated candidates are explicitly encouraged; some years of experience are also accepted but not mandatory. Norwegian and English plus solid digital skills are required.",
+      "url": "https://www.finn.no/job/ad/476469118",
+      "deadline": "2026-10-02",
+      "firstSeen": "2026-10-01",
+      "verifiedAt": "2026-10-01T06:07:52Z"
     },
     {
       "id": "vard-webcruiter-5153851699",
@@ -630,7 +673,7 @@
       "url": "https://www.clarksons.com/home/careers/early-careers/summer-internship-oslo/",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-09-30T17:05:58Z"
+      "verifiedAt": "2026-10-01T06:07:52Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
