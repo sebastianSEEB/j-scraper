@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-01T06:07:52Z",
+  "updatedAt": "2026-10-01T16:58:38Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and deadline pages were rechecked. Skuld is now explicitly expired; Axaz remains open through 1 October. New bachelor-friendly opportunities at Equinor and R&M Ship Interior were verified and added."
+      "note": "Current FINN adverts were searched and deadline pages were rechecked. Axaz remains active through 1 October, and the R&M advert remains active through 2 October. A new bachelor-friendly Equinor Finance & Trading internship was verified and added."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched. Sopra Steria remains open through 1 October and Facit Bank through 2 October. No additional unique target-profile NAV advert was verified."
+      "note": "Current NAV listings were searched. Sopra Steria remains active through 1 October and Facit Bank through 2 October. No additional unique target-profile NAV advert was verified."
     },
     {
       "name": "Jobbnorge",
@@ -24,7 +24,7 @@
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for discovery. No unique LinkedIn-only advert had enough accessible original detail to include, so coverage remains partial."
+      "note": "Public LinkedIn listings were checked for discovery. Duplicate adverts and an expired Vår Energi graduate listing were excluded; no unique LinkedIn-only advert had enough accessible original detail to include, so coverage remains partial."
     },
     {
       "name": "Employer careers",
@@ -170,7 +170,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-10-01T06:07:52Z"
+      "verifiedAt": "2026-10-01T16:58:38Z"
     },
     {
       "id": "kongsberg-summer-2027",
@@ -426,7 +426,7 @@
       "url": "https://www.finn.no/job/ad/474643232",
       "deadline": "2026-10-01",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-10-01T06:07:52Z"
+      "verifiedAt": "2026-10-01T16:58:38Z"
     },
     {
       "id": "finn-474113064",
@@ -529,7 +529,7 @@
       "url": "https://www.finn.no/job/ad/477276299",
       "deadline": "2026-10-13",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-01T06:07:52Z"
+      "verifiedAt": "2026-10-01T16:58:38Z"
     },
     {
       "id": "finn-476484961",
@@ -567,7 +567,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/587eadd3-5fb1-4556-b6c5-9734a5fae395",
       "deadline": "2026-10-01",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-01T06:07:52Z"
+      "verifiedAt": "2026-10-01T16:58:38Z"
     },
     {
       "id": "nav-cd3e8422",
@@ -632,7 +632,26 @@
       "url": "https://www.finn.no/job/ad/476469118",
       "deadline": "2026-10-02",
       "firstSeen": "2026-10-01",
-      "verifiedAt": "2026-10-01T06:07:52Z"
+      "verifiedAt": "2026-10-01T16:58:38Z"
+    },
+    {
+      "id": "finn-477638566",
+      "title": "Summer Internship 2027 · Finance & Trading",
+      "company": "Equinor",
+      "location": "Bergen, Oslo or Stavanger",
+      "type": "Summer internship · Full time",
+      "source": "FINN",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Finance and trading internship with placements in Market Analysis and Trading in Bergen or Finance and Control in Oslo and Stavanger.",
+      "requirements": "Open to bachelor’s, master’s or PhD students with a good academic record. At least two years of higher education must be completed before the internship and at least one study year must remain afterwards. Fluent English, a valid Norwegian work permit and no more than two years of relevant full-time experience are required; Equinor does not sponsor visas or relocation for most locations.",
+      "url": "https://www.finn.no/job/ad/477638566",
+      "deadline": "2026-10-15",
+      "firstSeen": "2026-10-01",
+      "verifiedAt": "2026-10-01T16:58:38Z"
     },
     {
       "id": "vard-webcruiter-5153851699",
@@ -673,7 +692,7 @@
       "url": "https://www.clarksons.com/home/careers/early-careers/summer-internship-oslo/",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-01T06:07:52Z"
+      "verifiedAt": "2026-10-01T16:58:38Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
