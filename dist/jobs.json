@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-01T16:58:38Z",
+  "updatedAt": "2026-10-02T06:06:26Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and deadline pages were rechecked. Axaz remains active through 1 October, and the R&M advert remains active through 2 October. A new bachelor-friendly Equinor Finance & Trading internship was verified and added."
+      "note": "Current FINN adverts were searched and deadline pages were rechecked. Axaz is now explicitly expired; R&M remains active through today. A new entry-level Hapro purchasing-coordinator role was verified and added."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched. Sopra Steria remains active through 1 October and Facit Bank through 2 October. No additional unique target-profile NAV advert was verified."
+      "note": "Current NAV listings were searched. Sopra Steria is now closed after its 1 October deadline; Facit Bank remains active through today. Two new target-profile adverts were verified, including Hapro (also on FINN) and a junior economics role at Sør-Hedmark Revisjon."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "The public Jobbnorge listings were checked, but no current original advert matching the target profile was verified. Coverage remains partial because some result flows require JavaScript or login."
+      "note": "Public Jobbnorge results were checked and current economics vacancies were discovered, but their original detail pages required JavaScript and did not expose enough qualification detail for inclusion. Coverage remains partial."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "The original Academic Work page for Facit Bank was rechecked and remains active; its 2 October deadline was confirmed on the matching NAV advert. No additional relevant Academic Work advert was verified."
+      "note": "The original Academic Work page for Facit Bank was rechecked and remains active; its 2 October deadline is retained from the matching NAV advert. No additional relevant Academic Work advert was verified."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for discovery. Duplicate adverts and an expired Vår Energi graduate listing were excluded; no unique LinkedIn-only advert had enough accessible original detail to include, so coverage remains partial."
+      "note": "Public LinkedIn listings were checked for discovery. Duplicates and roles without an accessible current employer advert were excluded; no unique LinkedIn-only advert had enough original detail to include, so coverage remains partial."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Clarksons’ original public career page remains active. Wilhelmsen’s original Workday page remained inaccessible, so it keeps its earlier verification timestamp and unverified status."
+      "note": "Clarksons’ original public career page remains active through today's known deadline. Wilhelmsen’s original Workday page remained inaccessible, so it keeps its earlier verification timestamp and unverified status."
     }
   ],
   "jobs": [
@@ -170,7 +170,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-10-01T16:58:38Z"
+      "verifiedAt": "2026-10-02T06:06:26Z"
     },
     {
       "id": "kongsberg-summer-2027",
@@ -420,13 +420,13 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "A paid interdisciplinary internship solving a real business case from idea to delivery, with possible work in strategy, user research and data analysis.",
       "requirements": "For students in economics, business development, strategy, technology or engineering who start their final study year in autumn 2027. Interest in technology and problem-solving is required; no prior work experience is stated.",
       "url": "https://www.finn.no/job/ad/474643232",
       "deadline": "2026-10-01",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-10-01T16:58:38Z"
+      "verifiedAt": "2026-10-02T06:06:26Z"
     },
     {
       "id": "finn-474113064",
@@ -561,7 +561,7 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Business-consulting graduate role focused on process improvement, organisational change and the intersection of technology and business across several Norwegian offices.",
       "requirements": "For candidates graduating in spring 2027 with at least a bachelor’s in economics, management, technology or security. Norwegian is required, along with interest in digitalisation and consulting. Maximum one year of relevant post-degree experience.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/587eadd3-5fb1-4556-b6c5-9734a5fae395",
@@ -632,7 +632,7 @@
       "url": "https://www.finn.no/job/ad/476469118",
       "deadline": "2026-10-02",
       "firstSeen": "2026-10-01",
-      "verifiedAt": "2026-10-01T16:58:38Z"
+      "verifiedAt": "2026-10-02T06:06:26Z"
     },
     {
       "id": "finn-477638566",
@@ -692,7 +692,47 @@
       "url": "https://www.clarksons.com/home/careers/early-careers/summer-internship-oslo/",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-01T16:58:38Z"
+      "verifiedAt": "2026-10-02T06:06:26Z"
+    },
+    {
+      "id": "finn-476455443",
+      "title": "Innkjøpskoordinator",
+      "company": "Hapro Electronics",
+      "location": "Jaren",
+      "type": "Permanent · Full time",
+      "source": "FINN",
+      "categories": [
+        "Supply chain",
+        "Logistics",
+        "Procurement"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Entry-level purchasing coordination covering purchase orders, supplier follow-up, delivery timing, material flow, inventory and reporting in an electronics manufacturer.",
+      "requirements": "Education or experience in purchasing, logistics or administration is helpful but explicitly not required. Norwegian and English, solid IT skills, and interest in ERP systems and Excel are required. Detailed training is offered and applicants are assessed continuously.",
+      "url": "https://www.finn.no/job/ad/476455443",
+      "deadline": "2026-10-06",
+      "firstSeen": "2026-10-02",
+      "verifiedAt": "2026-10-02T06:06:26Z"
+    },
+    {
+      "id": "nav-d165fcf9",
+      "title": "Økonomi- og revisjonsmedarbeider",
+      "company": "Sør-Hedmark Revisjon",
+      "location": "Kongsvinger",
+      "type": "Permanent · Junior finance",
+      "source": "NAV",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Junior economics and audit role with client work, financial analysis, structured training and gradually increasing responsibility.",
+      "requirements": "Higher education in economics, accounting, auditing or business administration is preferred, but the employer says the exact academic background is not decisive. New graduates are welcome; prior experience is not mandatory.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d165fcf9-f104-41b9-833e-15d1091478a2",
+      "deadline": "2026-10-09",
+      "firstSeen": "2026-10-02",
+      "verifiedAt": "2026-10-02T06:06:26Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
