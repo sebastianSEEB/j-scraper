@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-02T06:06:26Z",
+  "updatedAt": "2026-10-02T16:59:17Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and deadline pages were rechecked. Axaz is now explicitly expired; R&M remains active through today. A new entry-level Hapro purchasing-coordinator role was verified and added."
+      "note": "Current FINN adverts were searched and deadline pages were rechecked. R&M remains active through today's deadline. A new bachelor-friendly Skatteetaten economics/audit role was verified and added."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched. Sopra Steria is now closed after its 1 October deadline; Facit Bank remains active through today. Two new target-profile adverts were verified, including Hapro (also on FINN) and a junior economics role at Sør-Hedmark Revisjon."
+      "note": "Current NAV listings were searched. Facit Bank remains active through today's known deadline. A new bachelor-friendly accounting role at Hatteland was verified and added."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public Jobbnorge results were checked and current economics vacancies were discovered, but their original detail pages required JavaScript and did not expose enough qualification detail for inclusion. Coverage remains partial."
+      "note": "Public Jobbnorge results were checked, but current detail pages required JavaScript or exposed insufficient qualification detail for reliable inclusion. Coverage remains partial."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "The original Academic Work page for Facit Bank was rechecked and remains active; its 2 October deadline is retained from the matching NAV advert. No additional relevant Academic Work advert was verified."
+      "note": "The original Academic Work page for Facit Bank was rechecked and remains active; its 2 October deadline is retained from the matching NAV advert. The other relevant result found required 3–6 years of experience and was excluded."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for discovery. Duplicates and roles without an accessible current employer advert were excluded; no unique LinkedIn-only advert had enough original detail to include, so coverage remains partial."
+      "note": "Public LinkedIn listings were checked for discovery. Relevant shipping, operations and sourcing leads without an accessible current employer advert were excluded; no unique LinkedIn-only advert was treated as fully verified."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Clarksons’ original public career page remains active through today's known deadline. Wilhelmsen’s original Workday page remained inaccessible, so it keeps its earlier verification timestamp and unverified status."
+      "note": "Clarksons’ original public career page and application link remain active through today's known deadline. Wilhelmsen’s original Workday page remained inaccessible, so it keeps its earlier verification timestamp and unverified status."
     }
   ],
   "jobs": [
@@ -170,7 +170,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-10-02T06:06:26Z"
+      "verifiedAt": "2026-10-02T16:59:17Z"
     },
     {
       "id": "kongsberg-summer-2027",
@@ -632,7 +632,7 @@
       "url": "https://www.finn.no/job/ad/476469118",
       "deadline": "2026-10-02",
       "firstSeen": "2026-10-01",
-      "verifiedAt": "2026-10-02T06:06:26Z"
+      "verifiedAt": "2026-10-02T16:59:17Z"
     },
     {
       "id": "finn-477638566",
@@ -692,7 +692,7 @@
       "url": "https://www.clarksons.com/home/careers/early-careers/summer-internship-oslo/",
       "deadline": "2026-10-02",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-02T06:06:26Z"
+      "verifiedAt": "2026-10-02T16:59:17Z"
     },
     {
       "id": "finn-476455443",
@@ -733,6 +733,44 @@
       "deadline": "2026-10-09",
       "firstSeen": "2026-10-02",
       "verifiedAt": "2026-10-02T06:06:26Z"
+    },
+    {
+      "id": "nav-fbf43378",
+      "title": "Regnskapsfører",
+      "company": "Hatteland",
+      "location": "Nedre Vats",
+      "type": "Permanent · Full time",
+      "source": "NAV",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Broad accounting role across Hatteland group companies, covering bookkeeping, payroll, month-end work, annual accounts, reporting and internal advice in an industrial and maritime group.",
+      "requirements": "A bachelor’s degree in business administration or another relevant field is required. Accounting or payroll experience is advantageous but not mandatory, and newly graduated applicants are explicitly encouraged. Norwegian communication is required.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/fbf43378-e7bd-4287-83b3-d81fbced6fc8",
+      "deadline": "2026-10-18",
+      "firstSeen": "2026-10-02",
+      "verifiedAt": "2026-10-02T16:59:17Z"
+    },
+    {
+      "id": "finn-476682097",
+      "title": "Økonom / Revisor",
+      "company": "Skatteetaten",
+      "location": "Surnadal",
+      "type": "Permanent · Full time",
+      "source": "FINN",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Two public-sector economics and audit positions conducting business controls, risk assessments and decisions in multidisciplinary teams, with work adapted to the successful candidates’ experience.",
+      "requirements": "A completed bachelor’s in economics, accounting or auditing is required, although documented equivalent competence may sometimes substitute. Relevant experience is helpful but not mandatory; new graduates or students finishing by January are explicitly welcome. Norwegian and accounting knowledge are required.",
+      "url": "https://www.finn.no/job/ad/476682097",
+      "deadline": "2026-10-11",
+      "firstSeen": "2026-10-02",
+      "verifiedAt": "2026-10-02T16:59:17Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
