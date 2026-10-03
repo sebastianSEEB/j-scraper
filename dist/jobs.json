@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-02T16:59:17Z",
+  "updatedAt": "2026-10-03T06:06:35Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and deadline pages were rechecked. R&M remains active through today's deadline. A new bachelor-friendly Skatteetaten economics/audit role was verified and added."
+      "note": "Current FINN adverts were searched and deadline pages were rechecked. R&M Ship Interior's 2 October deadline has passed, so the advert is closed. No new strong unique listing was verified."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched. Facit Bank remains active through today's known deadline. A new bachelor-friendly accounting role at Hatteland was verified and added."
+      "note": "Current NAV listings were searched. Facit Bank's known 2 October deadline has passed, so the advert is closed. No new strong unique listing was verified."
     },
     {
       "name": "Jobbnorge",
@@ -19,7 +19,7 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "The original Academic Work page for Facit Bank was rechecked and remains active; its 2 October deadline is retained from the matching NAV advert. The other relevant result found required 3–6 years of experience and was excluded."
+      "note": "The original Academic Work page for Facit Bank still loads, but its known 2 October deadline from the matching NAV advert has passed, so the record is closed. No new relevant advert was verified."
     },
     {
       "name": "LinkedIn",
@@ -29,7 +29,7 @@
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Clarksons’ original public career page and application link remain active through today's known deadline. Wilhelmsen’s original Workday page remained inaccessible, so it keeps its earlier verification timestamp and unverified status."
+      "note": "Clarksons’ public career page still loads, but its known 2 October deadline has passed, so the record is closed. Wilhelmsen’s original Workday page remained inaccessible, so it keeps its earlier verification timestamp and unverified status."
     }
   ],
   "jobs": [
@@ -164,7 +164,7 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "An early-career banking role focused on insurance sales, customer service and some loan administration. Relevant for business graduates interested in customer-facing commercial work.",
       "requirements": "Completed relevant bachelor’s degree and some telephone-sales experience; insurance sales experience may compensate for education. Fluent Norwegian or another Scandinavian language. Deadline 2 October shown on the matching NAV advert.",
       "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
@@ -626,7 +626,7 @@
         "Logistics"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Graduate-friendly maritime role combining project planning, procurement, supplier follow-up, delivery coordination and project-cost tracking for ship-interior projects.",
       "requirements": "Higher education in logistics, economics, procurement, project management, maritime studies or a related field. Newly graduated candidates are explicitly encouraged; some years of experience are also accepted but not mandatory. Norwegian and English plus solid digital skills are required.",
       "url": "https://www.finn.no/job/ad/476469118",
@@ -686,7 +686,7 @@
         "Shipping"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Work with shipbrokers and analysts on market research, commercial activity and live shipping or offshore opportunities across market analysis and broking teams.",
       "requirements": "Open to undergraduate students. Strong academic performance, English fluency, analytical and numerical ability, commercial awareness, a demonstrated interest in shipping or offshore markets, and the right to work in Oslo are required. The employer page is active; the 2 October deadline was cross-checked on NHH’s public student job board.",
       "url": "https://www.clarksons.com/home/careers/early-careers/summer-internship-oslo/",
