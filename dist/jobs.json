@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-03T06:06:35Z",
+  "updatedAt": "2026-10-03T17:07:21Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and deadline pages were rechecked. R&M Ship Interior's 2 October deadline has passed, so the advert is closed. No new strong unique listing was verified."
+      "note": "Current FINN adverts were searched and imminent deadlines were rechecked. FINN now explicitly marks DOF's Maritime Trainee advert expired despite its displayed 4 October deadline, so it is closed. No new unique FINN listing met the inclusion standard."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched. Facit Bank's known 2 October deadline has passed, so the advert is closed. No new strong unique listing was verified."
+      "note": "Current NAV listings were searched and original pages were opened. EY's separate Risk Consulting Graduate 2027 advert was verified and added; DOF Commercial Graduate and EY Business Consulting remain open."
     },
     {
       "name": "Jobbnorge",
@@ -18,8 +18,8 @@
     },
     {
       "name": "Academic Work",
-      "status": "Listings checked",
-      "note": "The original Academic Work page for Facit Bank still loads, but its known 2 October deadline from the matching NAV advert has passed, so the record is closed. No new relevant advert was verified."
+      "status": "Degraded",
+      "note": "Public Academic Work search produced no new verifiable relevant advert this run. Existing records and their prior verification timestamps were preserved; coverage is partial."
     },
     {
       "name": "LinkedIn",
@@ -50,7 +50,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
       "deadline": "2026-10-04",
       "status": "open",
-      "verifiedAt": "2026-09-30T06:13:21Z",
+      "verifiedAt": "2026-10-03T17:07:21Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -361,13 +361,13 @@
         "Supply chain"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Corporate-track rotations can cover contracts, insurance, supply-chain projects, compliance, finance and commercial support in an international maritime company.",
       "requirements": "Mandatory relevant master’s degree in business, finance, supply chain, law or similar; 0–2 years of experience and fluent English. A bachelor’s alone does not meet the stated requirement.",
       "url": "https://www.finn.no/job/ad/473639278",
       "deadline": "2026-10-04",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-09-28T06:09:19Z"
+      "verifiedAt": "2026-10-03T17:07:21Z"
     },
     {
       "id": "finn-476600136",
@@ -589,7 +589,26 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/cd3e8422-24ae-4cec-a4a4-ad967798ac3b",
       "deadline": "2026-10-05",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-09-30T17:05:58Z"
+      "verifiedAt": "2026-10-03T17:07:21Z"
+    },
+    {
+      "id": "nav-2afce91e",
+      "title": "Risk Consulting Graduate 2027",
+      "company": "EY",
+      "location": "Oslo, Trondheim or Stavanger",
+      "type": "Permanent · Graduate role",
+      "source": "NAV",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Graduate consulting focused on governance, internal control, business-process improvement and risk management, including work with banking, finance and insurance clients.",
+      "requirements": "Higher education must be completed by summer 2027; the advert does not state that a master’s is mandatory. Norwegian and English are required. An aptitude test and separate video application must be completed. Deadline is 5 October at 12:00.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/2afce91e-1112-41a0-9ee3-bf7a64bb99c1",
+      "deadline": "2026-10-05",
+      "firstSeen": "2026-10-03",
+      "verifiedAt": "2026-10-03T17:07:21Z"
     },
     {
       "id": "finn-477641678",
@@ -713,7 +732,7 @@
       "url": "https://www.finn.no/job/ad/476455443",
       "deadline": "2026-10-06",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-02T06:06:26Z"
+      "verifiedAt": "2026-10-03T17:07:21Z"
     },
     {
       "id": "nav-d165fcf9",
