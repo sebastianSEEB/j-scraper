@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-03T17:07:21Z",
+  "updatedAt": "2026-10-04T05:58:47Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and imminent deadlines were rechecked. FINN now explicitly marks DOF's Maritime Trainee advert expired despite its displayed 4 October deadline, so it is closed. No new unique FINN listing met the inclusion standard."
+      "note": "Current FINN adverts were searched and imminent deadlines were rechecked. Hapro remains open through 6 October; no new unique FINN listing met the inclusion standard."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages were opened. EY's separate Risk Consulting Graduate 2027 advert was verified and added; DOF Commercial Graduate and EY Business Consulting remain open."
+      "note": "Current NAV listings were searched and original pages were opened. DOF Commercial Graduate remains open through today's deadline, while both EY graduate adverts remain open through 5 October at 12:00."
     },
     {
       "name": "Jobbnorge",
@@ -24,12 +24,12 @@
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for discovery. Relevant shipping, operations and sourcing leads without an accessible current employer advert were excluded; no unique LinkedIn-only advert was treated as fully verified."
+      "note": "Public LinkedIn listings were checked for discovery. Results duplicated employer or NAV records, including DOF and EY; no unique LinkedIn-only advert was treated as fully verified."
     },
     {
       "name": "Employer careers",
-      "status": "Degraded",
-      "note": "Clarksons’ public career page still loads, but its known 2 October deadline has passed, so the record is closed. Wilhelmsen’s original Workday page remained inaccessible, so it keeps its earlier verification timestamp and unverified status."
+      "status": "Listings checked",
+      "note": "Employer career pages were checked. Wilhelmsen’s official Workday advert was publicly readable this run and is now verified and active; KONGSBERG's internship page also remains available."
     }
   ],
   "jobs": [
@@ -50,7 +50,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
       "deadline": "2026-10-04",
       "status": "open",
-      "verifiedAt": "2026-10-03T17:07:21Z",
+      "verifiedAt": "2026-10-04T05:58:47Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -589,7 +589,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/cd3e8422-24ae-4cec-a4a4-ad967798ac3b",
       "deadline": "2026-10-05",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-03T17:07:21Z"
+      "verifiedAt": "2026-10-04T05:58:47Z"
     },
     {
       "id": "nav-2afce91e",
@@ -608,7 +608,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/2afce91e-1112-41a0-9ee3-bf7a64bb99c1",
       "deadline": "2026-10-05",
       "firstSeen": "2026-10-03",
-      "verifiedAt": "2026-10-03T17:07:21Z"
+      "verifiedAt": "2026-10-04T05:58:47Z"
     },
     {
       "id": "finn-477641678",
@@ -732,7 +732,7 @@
       "url": "https://www.finn.no/job/ad/476455443",
       "deadline": "2026-10-06",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-03T17:07:21Z"
+      "verifiedAt": "2026-10-04T05:58:47Z"
     },
     {
       "id": "nav-d165fcf9",
@@ -802,14 +802,14 @@
         "Business",
         "Shipping"
       ],
-      "fit": "stretch",
-      "status": "unverified",
+      "fit": "potential",
+      "status": "open",
       "summary": "An interdisciplinary maritime project involving data analysis, strategy development and presentations on real shipping-industry challenges.",
-      "requirements": "Economics and business students are invited, but students expected to graduate in 2028 are prioritized. A valid Norwegian work permit is mandatory. Deadline and details were cross-checked on a public university student page, but the original Workday advert was inaccessible and this lead is not yet shown as verified.",
-      "url": "https://wilhelmsen.wd3.myworkdayjobs.com/Wilhelmsen/job/Lysaker/Wilhelmsen-Summer-Internship-2027_JOBREQ_13100",
+      "requirements": "Open to students in economics, business and other disciplines; students expected to graduate in 2028 are prioritized but this is not stated as mandatory. A valid Norwegian work permit for the internship is required. The six-week programme runs in weeks 24–26 and 30–32.",
+      "url": "https://wilhelmsen.wd3.myworkdayjobs.com/en-US/Wilhelmsen/job/Lysaker/Wilhelmsen-Summer-Internship-2027_JOBREQ_13100",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-24T17:06:42Z"
+      "verifiedAt": "2026-10-04T05:58:47Z"
     }
   ]
 }
