@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T05:58:47Z",
+  "updatedAt": "2026-10-04T17:07:05Z",
   "sources": [
     {
       "name": "FINN",
@@ -14,7 +14,7 @@
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public Jobbnorge results were checked, but current detail pages required JavaScript or exposed insufficient qualification detail for reliable inclusion. Coverage remains partial."
+      "note": "Public Jobbnorge results were checked. Relevant Rådgivar and NAV trainee leads surfaced, but their detail pages exposed only a JavaScript shell without sufficient qualification detail for reliable inclusion, so neither was added. Coverage remains partial."
     },
     {
       "name": "Academic Work",
@@ -24,12 +24,12 @@
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for discovery. Results duplicated employer or NAV records, including DOF and EY; no unique LinkedIn-only advert was treated as fully verified."
+      "note": "Public LinkedIn listings were checked for discovery. No unique Norway advert with a verifiable original page met the inclusion standard; coverage remains partial."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were checked. Wilhelmsen’s official Workday advert was publicly readable this run and is now verified and active; KONGSBERG's internship page also remains available."
+      "note": "Employer career pages were searched for new relevant roles. No new unique advert met the inclusion standard; previously verified employer listings and timestamps were preserved."
     }
   ],
   "jobs": [
@@ -50,7 +50,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
       "deadline": "2026-10-04",
       "status": "open",
-      "verifiedAt": "2026-10-04T05:58:47Z",
+      "verifiedAt": "2026-10-04T17:07:05Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -589,7 +589,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/cd3e8422-24ae-4cec-a4a4-ad967798ac3b",
       "deadline": "2026-10-05",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-04T05:58:47Z"
+      "verifiedAt": "2026-10-04T17:07:05Z"
     },
     {
       "id": "nav-2afce91e",
@@ -608,7 +608,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/2afce91e-1112-41a0-9ee3-bf7a64bb99c1",
       "deadline": "2026-10-05",
       "firstSeen": "2026-10-03",
-      "verifiedAt": "2026-10-04T05:58:47Z"
+      "verifiedAt": "2026-10-04T17:07:05Z"
     },
     {
       "id": "finn-477641678",
@@ -732,7 +732,7 @@
       "url": "https://www.finn.no/job/ad/476455443",
       "deadline": "2026-10-06",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-04T05:58:47Z"
+      "verifiedAt": "2026-10-04T17:07:05Z"
     },
     {
       "id": "nav-d165fcf9",
