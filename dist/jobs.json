@@ -1,38 +1,120 @@
 {
-  "updatedAt": "2026-10-04T17:07:05Z",
+  "updatedAt": "2026-10-05T17:09:38Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and imminent deadlines were rechecked. Hapro remains open through 6 October; no new unique FINN listing met the inclusion standard."
+      "note": "Current FINN adverts were searched and original pages opened. New verified matches include Golar LNG's shipping-focused internship and Boreal's junior procurement/accounting engagement; Hapro remains open through 6 October."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages were opened. DOF Commercial Graduate remains open through today's deadline, while both EY graduate adverts remain open through 5 October at 12:00."
+      "note": "Current NAV listings were searched and original pages opened. ColliCare's graduate-friendly logistics controller role was added. DOF is now explicitly inactive, and both EY adverts were closed after their 5 October 12:00 deadline."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public Jobbnorge results were checked. Relevant Rådgivar and NAV trainee leads surfaced, but their detail pages exposed only a JavaScript shell without sufficient qualification detail for reliable inclusion, so neither was added. Coverage remains partial."
+      "note": "Public Jobbnorge results were searched, but no new relevant advert with sufficiently readable qualification details was verified. Coverage remains partial."
     },
     {
       "name": "Academic Work",
       "status": "Degraded",
-      "note": "Public Academic Work search produced no new verifiable relevant advert this run. Existing records and their prior verification timestamps were preserved; coverage is partial."
+      "note": "Public Academic Work listings were checked. A relevant Oracle ERP programme requires 3–6 years of work experience, so it was not added as a junior match; coverage remains partial."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for discovery. No unique Norway advert with a verifiable original page met the inclusion standard; coverage remains partial."
+      "note": "Public LinkedIn listings were checked for discovery. Results either duplicated employer adverts or lacked a uniquely verifiable original page; no LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were searched for new relevant roles. No new unique advert met the inclusion standard; previously verified employer listings and timestamps were preserved."
+      "note": "Employer career pages were searched. Norges Bank Investment Management's official 2027 internship advert was verified and added; Accenture's relevant internship had already reached its deadline."
     }
   ],
   "jobs": [
+    {
+      "id": "webcruiter-5187004303",
+      "title": "Summer Internship 2027",
+      "company": "Norges Bank Investment Management",
+      "location": "Oslo or London",
+      "type": "Internship · 8 weeks",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "potential",
+      "summary": "Work on an AI-related project inside an investment-fund team while contributing to its day-to-day work. Finance and business-oriented students can apply alongside technical disciplines.",
+      "requirements": "Open to current or formally accepted bachelor’s, master’s, MBA or PhD students with no more than two years of full-time experience. Some AI skills and valid work authorization are required; no minimum study year or prior professional experience is stated.",
+      "url": "https://398280.webcruiter.no/Main/Recruit/Public/5187004303?language=en&showExpired=False",
+      "deadline": "2026-10-18",
+      "status": "open",
+      "verifiedAt": "2026-10-05T17:09:38Z",
+      "firstSeen": "2026-10-05"
+    },
+    {
+      "id": "nav-c19944ca",
+      "title": "Operational Controller",
+      "company": "ColliCare Logistics",
+      "location": "Vestby",
+      "type": "Permanent · Full time",
+      "source": "NAV",
+      "categories": [
+        "Finance",
+        "Logistics",
+        "Business"
+      ],
+      "fit": "potential",
+      "summary": "Follow transport revenue, costs, invoicing and profitability while supporting reporting, month-end work and process improvements in an international logistics company.",
+      "requirements": "Relevant higher education in economics; new graduates are explicitly welcome. Excel, systems understanding and Norwegian and English are required; prior experience is not stated as mandatory.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/c19944ca-836f-4506-87d2-6bc7b15ba88c",
+      "deadline": "2026-10-30",
+      "status": "open",
+      "verifiedAt": "2026-10-05T17:09:38Z",
+      "firstSeen": "2026-10-05"
+    },
+    {
+      "id": "finn-477483379",
+      "title": "Summer Internship 2027",
+      "company": "Golar LNG",
+      "location": "Oslo or London",
+      "type": "Internship · 6–8 weeks",
+      "source": "FINN",
+      "categories": [
+        "Shipping",
+        "Business"
+      ],
+      "fit": "potential",
+      "summary": "Shipping and offshore internship with real projects; business students can target business development or ESG work alongside technical project tracks.",
+      "requirements": "Third- or fourth-year student in business or another relevant discipline. Strong English required; Norwegian is helpful but not mandatory. State the preferred project in the application.",
+      "url": "https://www.finn.no/job/ad/477483379",
+      "deadline": "2026-11-08",
+      "status": "open",
+      "verifiedAt": "2026-10-05T17:09:38Z",
+      "firstSeen": "2026-10-05"
+    },
+    {
+      "id": "finn-477576351",
+      "title": "Administrasjon · Innkjøp og regnskap",
+      "company": "Boreal Norge",
+      "location": "Stavanger",
+      "type": "Temporary · Full time",
+      "source": "FINN",
+      "categories": [
+        "Procurement",
+        "Finance",
+        "Business"
+      ],
+      "fit": "potential",
+      "summary": "Support supplier records, purchase-order follow-up, accounts payable and routine procurement controls in a transport group through summer 2027.",
+      "requirements": "Suitable for a gap-year candidate or new graduate; no specific degree is required. Relevant office, customer-service, warehouse or administrative experience is advantageous but not mandatory. Rolling deadline; recruitment is continuous.",
+      "url": "https://www.finn.no/job/ad/477576351",
+      "deadline": null,
+      "status": "open",
+      "verifiedAt": "2026-10-05T17:09:38Z",
+      "firstSeen": "2026-10-05"
+    },
     {
       "id": "nav-dof-2027",
       "title": "Commercial Graduate 2027",
@@ -49,8 +131,8 @@
       "requirements": "Accepts bachelor’s or master’s in business, law, finance or related fields; 0–2 years of experience. English required. Confirm graduation and start dates.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
       "deadline": "2026-10-04",
-      "status": "open",
-      "verifiedAt": "2026-10-04T17:07:05Z",
+      "status": "closed",
+      "verifiedAt": "2026-10-05T17:09:38Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -583,13 +665,13 @@
         "Logistics"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Graduate consulting across business transformation, finance, supply chain and operations, with work spanning planning, procurement, production, warehousing, distribution and strategy.",
       "requirements": "Higher education must be completed by summer 2027; the advert does not state that a master’s is mandatory. Strong Norwegian and English are required. An aptitude test and separate video application must be completed. Deadline is 5 October at 12:00.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/cd3e8422-24ae-4cec-a4a4-ad967798ac3b",
       "deadline": "2026-10-05",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-04T17:07:05Z"
+      "verifiedAt": "2026-10-05T17:09:38Z"
     },
     {
       "id": "nav-2afce91e",
@@ -602,13 +684,13 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Graduate consulting focused on governance, internal control, business-process improvement and risk management, including work with banking, finance and insurance clients.",
       "requirements": "Higher education must be completed by summer 2027; the advert does not state that a master’s is mandatory. Norwegian and English are required. An aptitude test and separate video application must be completed. Deadline is 5 October at 12:00.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/2afce91e-1112-41a0-9ee3-bf7a64bb99c1",
       "deadline": "2026-10-05",
       "firstSeen": "2026-10-03",
-      "verifiedAt": "2026-10-04T17:07:05Z"
+      "verifiedAt": "2026-10-05T17:09:38Z"
     },
     {
       "id": "finn-477641678",
@@ -732,7 +814,7 @@
       "url": "https://www.finn.no/job/ad/476455443",
       "deadline": "2026-10-06",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-04T17:07:05Z"
+      "verifiedAt": "2026-10-05T17:09:38Z"
     },
     {
       "id": "nav-d165fcf9",
