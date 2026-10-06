@@ -1,38 +1,80 @@
 {
-  "updatedAt": "2026-10-06T06:06:25Z",
+  "updatedAt": "2026-10-06T16:56:54Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. Ramboll's student internship pool was added because it explicitly includes Business Development. Hapro remains open through today's 6 October deadline."
+      "note": "Current FINN adverts were searched and original pages opened. New verified matches are MOYO's bachelor-friendly junior project coordinator and Egersund Net's experienced supply-chain/ERP role. Hapro remains listed through today's 6 October deadline."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages opened. Sør-Hedmark's new-graduate finance role remains open through 9 October. No new unique NAV listing met the inclusion standard."
+      "note": "Current NAV listings were searched. No new unique junior advert with readable qualifications met the inclusion standard; existing verified records and timestamps were preserved."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public Jobbnorge results were searched. Results were either senior/academic or lacked a suitable verified junior match; coverage remains partial."
+      "note": "Public Jobbnorge results surfaced a potentially relevant controller role, but the public detail view exposed only a JavaScript shell without enough qualification detail for verification. Coverage remains partial."
     },
     {
       "name": "Academic Work",
       "status": "Degraded",
-      "note": "Public Academic Work results were checked, but no new junior Norway advert with readable current requirements met the inclusion standard; coverage remains partial."
+      "note": "Public Academic Work results were checked. The relevant purchasing trainee result was already expired and master-student restricted; no new suitable advert was added."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for discovery. New-looking results were duplicates, already expired, or could not be confirmed on an original page; no LinkedIn-only record was added."
+      "note": "Public LinkedIn listings were checked for discovery. Results were duplicates, expired, or lacked a verifiable original page; no LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were searched. Ramboll and Hydro career pages confirmed active 2027 internship recruitment; other promising public results were expired or already represented in the dashboard."
+      "note": "Employer career pages were searched. No new unique bachelor-friendly listing met the verification standard; current employer-sourced records and their prior verification timestamps were preserved."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-477617012",
+      "title": "Junior Prosjektkoordinator",
+      "company": "MOYO",
+      "location": "Horten",
+      "type": "Temporary · Full time through 2027",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Procurement"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Coordinate project documentation, meetings, milestones and follow-up in an international medical-technology environment, including purchasing, orders and administrative support.",
+      "requirements": "Bachelor’s in project management, engineering, economics, business or another relevant field. New graduates and early-career candidates are explicitly encouraged; experience is advantageous but not required. English and general IT competence are required. Rolling deadline marked 'as soon as possible'.",
+      "url": "https://www.finn.no/job/ad/477617012",
+      "deadline": null,
+      "firstSeen": "2026-10-06",
+      "verifiedAt": "2026-10-06T16:56:54Z"
+    },
+    {
+      "id": "finn-477633069",
+      "title": "Supply Chain & ERP Coordinator",
+      "company": "Egersund Net",
+      "location": "Egersund",
+      "type": "Permanent · Full time",
+      "source": "FINN",
+      "categories": [
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Business"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Combine purchasing, logistics and transport coordination with implementation and improvement of the Infor LN ERP platform in a maritime aquaculture supplier.",
+      "requirements": "Relevant higher education in logistics, supply chain, purchasing or economics is requested. Prior experience in purchasing, logistics, transport or supply-chain management and experience using or implementing ERP systems are mandatory, although no minimum number of years is stated.",
+      "url": "https://www.finn.no/job/ad/477633069",
+      "deadline": "2026-10-18",
+      "firstSeen": "2026-10-06",
+      "verifiedAt": "2026-10-06T16:56:54Z"
+    },
     {
       "id": "finn-475815326",
       "title": "Summer Intern 2027",
