@@ -1,38 +1,57 @@
 {
-  "updatedAt": "2026-10-05T17:09:38Z",
+  "updatedAt": "2026-10-06T06:06:25Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. New verified matches include Golar LNG's shipping-focused internship and Boreal's junior procurement/accounting engagement; Hapro remains open through 6 October."
+      "note": "Current FINN adverts were searched and original pages opened. Ramboll's student internship pool was added because it explicitly includes Business Development. Hapro remains open through today's 6 October deadline."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages opened. ColliCare's graduate-friendly logistics controller role was added. DOF is now explicitly inactive, and both EY adverts were closed after their 5 October 12:00 deadline."
+      "note": "Current NAV listings were searched and original pages opened. Sør-Hedmark's new-graduate finance role remains open through 9 October. No new unique NAV listing met the inclusion standard."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public Jobbnorge results were searched, but no new relevant advert with sufficiently readable qualification details was verified. Coverage remains partial."
+      "note": "Public Jobbnorge results were searched. Results were either senior/academic or lacked a suitable verified junior match; coverage remains partial."
     },
     {
       "name": "Academic Work",
       "status": "Degraded",
-      "note": "Public Academic Work listings were checked. A relevant Oracle ERP programme requires 3–6 years of work experience, so it was not added as a junior match; coverage remains partial."
+      "note": "Public Academic Work results were checked, but no new junior Norway advert with readable current requirements met the inclusion standard; coverage remains partial."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for discovery. Results either duplicated employer adverts or lacked a uniquely verifiable original page; no LinkedIn-only record was added."
+      "note": "Public LinkedIn listings were checked for discovery. New-looking results were duplicates, already expired, or could not be confirmed on an original page; no LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were searched. Norges Bank Investment Management's official 2027 internship advert was verified and added; Accenture's relevant internship had already reached its deadline."
+      "note": "Employer career pages were searched. Ramboll and Hydro career pages confirmed active 2027 internship recruitment; other promising public results were expired or already represented in the dashboard."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-475815326",
+      "title": "Summer Intern 2027",
+      "company": "Ramboll",
+      "location": "Oslo and several Norway locations",
+      "type": "Summer internship · Student",
+      "source": "FINN",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Ramboll's 2027 internship pool includes Business Development alongside transport, energy, water and buildings placements, with hands-on work alongside specialist teams.",
+      "requirements": "Open to students, but the shared advert does not state a degree level or the detailed eligibility for each placement. Check the specific Business Development vacancy before applying; applications may close early if positions fill.",
+      "url": "https://www.finn.no/job/ad/475815326",
+      "deadline": "2026-11-08",
+      "firstSeen": "2026-10-06",
+      "verifiedAt": "2026-10-06T06:06:25Z"
+    },
     {
       "id": "webcruiter-5187004303",
       "title": "Summer Internship 2027",
@@ -408,7 +427,7 @@
       "url": "https://www.finn.no/job/ad/476982603",
       "deadline": "2026-10-11",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-28T06:09:19Z"
+      "verifiedAt": "2026-10-06T06:06:25Z"
     },
     {
       "id": "finn-465156211",
@@ -814,7 +833,7 @@
       "url": "https://www.finn.no/job/ad/476455443",
       "deadline": "2026-10-06",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-05T17:09:38Z"
+      "verifiedAt": "2026-10-06T06:06:25Z"
     },
     {
       "id": "nav-d165fcf9",
@@ -833,7 +852,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d165fcf9-f104-41b9-833e-15d1091478a2",
       "deadline": "2026-10-09",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-02T06:06:26Z"
+      "verifiedAt": "2026-10-06T06:06:25Z"
     },
     {
       "id": "nav-fbf43378",
