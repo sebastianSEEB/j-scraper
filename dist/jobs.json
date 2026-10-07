@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-07T05:59:00Z",
+  "updatedAt": "2026-10-07T17:04:20Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. Hapro's purchasing-coordinator advert passed its 6 October deadline and is now expired; existing open FINN records were otherwise preserved."
+      "note": "Current FINN adverts were searched and original pages opened. Results were existing records, duplicates, or roles outside the target level; existing verified records were preserved."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched. No new unique junior advert with readable qualifications met the inclusion standard; existing verified records and timestamps were preserved."
+      "note": "Current NAV listings were searched and original pages opened. New verified matches are Hverven Revisjon's bachelor-friendly auditor role and Wenaas Workwear's finance role, which is marked stretch because a master's is required unless relevant experience compensates."
     },
     {
       "name": "Jobbnorge",
@@ -24,15 +24,55 @@
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for discovery. Nordea's student-analyst advert was verified on the employer's original career page rather than treated as a LinkedIn-only record. Other results were duplicates, expired, or insufficiently verifiable."
+      "note": "Public LinkedIn listings were checked for discovery. Current results duplicated already verified Equinor and employer-career records or were expired; no LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were searched. Nordea's part-time Student Analyst role was verified on the original career page; it is open to current bachelor or master students with at least one study year remaining and closes 8 October."
+      "note": "Employer career pages were searched. Nordea's part-time Student Analyst role remains open on the original page through 8 October; no other new unique bachelor-friendly employer advert met the verification standard."
     }
   ],
   "jobs": [
+    {
+      "id": "nav-e388354a",
+      "title": "Revisor",
+      "company": "Hverven Revisjon",
+      "location": "Hønefoss",
+      "type": "Permanent · Junior audit",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Audit and advisory role covering small and medium-sized clients, annual accounts, tax documentation, customer relationships and digital improvement work.",
+      "requirements": "Bachelor’s or master’s degree in economics or auditing. The advert mentions experience as useful but explicitly encourages new graduates to apply, so prior professional experience is not mandatory. Norwegian-language client work and strong accounting understanding are important.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e388354a-a0c3-4642-84d6-d327e5c332b1",
+      "deadline": "2026-10-09",
+      "firstSeen": "2026-10-07",
+      "verifiedAt": "2026-10-07T17:04:20Z"
+    },
+    {
+      "id": "nav-94f4ef72",
+      "title": "Økonomimedarbeider",
+      "company": "Wenaas Workwear",
+      "location": "Måndalen",
+      "type": "Permanent · Finance",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Finance-team role spanning accounting, reconciliations, period close, reporting, budgeting, analysis and improvement of financial processes in an international company.",
+      "requirements": "A master's degree in economics, finance, accounting or a related field is mandatory unless relevant experience can compensate. New graduates are invited, but bachelor-only candidates without compensating experience do not meet the stated education requirement. Norwegian and English are required.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/94f4ef72-6824-41dd-a307-8418fc8ed2a2",
+      "deadline": "2026-10-12",
+      "firstSeen": "2026-10-07",
+      "verifiedAt": "2026-10-07T17:04:20Z"
+    },
     {
       "id": "nordea-4702",
       "title": "Student Analyst · Asset & Wealth Management",
@@ -51,7 +91,7 @@
       "url": "https://careers.nordea.com/job/Oslo-Student-Analyst,-Nordea-Asset-&-Wealth-Management-(part-time-position)-0368/1440999633/",
       "deadline": "2026-10-08",
       "firstSeen": "2026-10-07",
-      "verifiedAt": "2026-10-07T05:59:00Z"
+      "verifiedAt": "2026-10-07T17:04:20Z"
     },
     {
       "id": "finn-477617012",
@@ -489,7 +529,7 @@
       "url": "https://www.finn.no/job/ad/476982603",
       "deadline": "2026-10-11",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-07T05:59:00Z"
+      "verifiedAt": "2026-10-07T17:04:20Z"
     },
     {
       "id": "finn-465156211",
@@ -914,7 +954,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d165fcf9-f104-41b9-833e-15d1091478a2",
       "deadline": "2026-10-09",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-07T05:59:00Z"
+      "verifiedAt": "2026-10-07T17:04:20Z"
     },
     {
       "id": "nav-fbf43378",
