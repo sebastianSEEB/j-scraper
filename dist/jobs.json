@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-06T16:56:54Z",
+  "updatedAt": "2026-10-07T05:59:00Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. New verified matches are MOYO's bachelor-friendly junior project coordinator and Egersund Net's experienced supply-chain/ERP role. Hapro remains listed through today's 6 October deadline."
+      "note": "Current FINN adverts were searched and original pages opened. Hapro's purchasing-coordinator advert passed its 6 October deadline and is now expired; existing open FINN records were otherwise preserved."
     },
     {
       "name": "NAV Arbeidsplassen",
@@ -24,15 +24,35 @@
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for discovery. Results were duplicates, expired, or lacked a verifiable original page; no LinkedIn-only record was added."
+      "note": "Public LinkedIn listings were checked for discovery. Nordea's student-analyst advert was verified on the employer's original career page rather than treated as a LinkedIn-only record. Other results were duplicates, expired, or insufficiently verifiable."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were searched. No new unique bachelor-friendly listing met the verification standard; current employer-sourced records and their prior verification timestamps were preserved."
+      "note": "Employer career pages were searched. Nordea's part-time Student Analyst role was verified on the original career page; it is open to current bachelor or master students with at least one study year remaining and closes 8 October."
     }
   ],
   "jobs": [
+    {
+      "id": "nordea-4702",
+      "title": "Student Analyst · Asset & Wealth Management",
+      "company": "Nordea",
+      "location": "Oslo",
+      "type": "Part time · Student",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support Nordea Asset & Wealth Management's strategy team with analysis, market research, decision materials, presentations and AI-enabled business-transformation work.",
+      "requirements": "Currently pursuing a bachelor’s or master’s degree with at least one year remaining until graduation. Strong academic performance, interest in strategy, finance, investments, technology or innovation, Microsoft Office skills, active use of AI tools, and good English are required. Relevant extracurricular or analytical experience is preferred, not mandatory.",
+      "url": "https://careers.nordea.com/job/Oslo-Student-Analyst,-Nordea-Asset-&-Wealth-Management-(part-time-position)-0368/1440999633/",
+      "deadline": "2026-10-08",
+      "firstSeen": "2026-10-07",
+      "verifiedAt": "2026-10-07T05:59:00Z"
+    },
     {
       "id": "finn-477617012",
       "title": "Junior Prosjektkoordinator",
@@ -92,7 +112,7 @@
       "url": "https://www.finn.no/job/ad/475815326",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-06",
-      "verifiedAt": "2026-10-06T06:06:25Z"
+      "verifiedAt": "2026-10-06T16:56:54Z"
     },
     {
       "id": "webcruiter-5187004303",
@@ -469,7 +489,7 @@
       "url": "https://www.finn.no/job/ad/476982603",
       "deadline": "2026-10-11",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-06T06:06:25Z"
+      "verifiedAt": "2026-10-07T05:59:00Z"
     },
     {
       "id": "finn-465156211",
@@ -869,13 +889,13 @@
         "Procurement"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Entry-level purchasing coordination covering purchase orders, supplier follow-up, delivery timing, material flow, inventory and reporting in an electronics manufacturer.",
       "requirements": "Education or experience in purchasing, logistics or administration is helpful but explicitly not required. Norwegian and English, solid IT skills, and interest in ERP systems and Excel are required. Detailed training is offered and applicants are assessed continuously.",
       "url": "https://www.finn.no/job/ad/476455443",
       "deadline": "2026-10-06",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-06T06:06:25Z"
+      "verifiedAt": "2026-10-07T05:59:00Z"
     },
     {
       "id": "nav-d165fcf9",
@@ -894,7 +914,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d165fcf9-f104-41b9-833e-15d1091478a2",
       "deadline": "2026-10-09",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-06T06:06:25Z"
+      "verifiedAt": "2026-10-07T05:59:00Z"
     },
     {
       "id": "nav-fbf43378",
