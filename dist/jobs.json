@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-08T05:57:29Z",
+  "updatedAt": "2026-10-08T17:06:01Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. Blue Ctrl's maritime operations-coordinator role was added as a stretch because the employer prefers some years of relevant experience; other results were duplicates or outside the target level."
+      "note": "Current FINN adverts were searched and original pages opened. Hørselsforbundet's bachelor-friendly finance role was added, together with Bane NOR's graduate finance trainee as a clearly marked master-only stretch; other results were duplicates or outside the target level."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched. Results were existing records, duplicates, or roles outside the target level; the two 9 October junior audit records remain open and prior verification timestamps were preserved unless rechecked directly."
+      "note": "Current NAV listings were searched. Results were existing records, duplicates, or roles outside the target level; the two 9 October junior audit records remain open and were rechecked on their original pages."
     },
     {
       "name": "Jobbnorge",
@@ -29,10 +29,50 @@
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were searched. Nordea's part-time Student Analyst remains open through today's 8 October deadline. Nscale's purchasing and logistics role was added as a stretch because it mandates two to four years of experience."
+      "note": "Employer career pages were searched. Nordea's part-time Student Analyst still shows an active application link and remains open through today's 8 October deadline. No additional employer-career advert met the verification and relevance threshold."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-477518014",
+      "title": "Økonomikonsulent",
+      "company": "Hørselsforbundet",
+      "location": "Oslo",
+      "type": "Permanent · Full time",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support day-to-day finance across three organizations through bookkeeping, reconciliations, invoicing, payroll preparation, month-end documentation and improvement of shared routines and systems.",
+      "requirements": "Relevant education in accounting, economics, auditing or a similar field. New graduates are explicitly encouraged, while practical accounting experience is preferred rather than mandatory. Strong Norwegian, accounting understanding and digital-system skills are required.",
+      "url": "https://www.finn.no/job/ad/477518014",
+      "deadline": "2026-10-11",
+      "firstSeen": "2026-10-08",
+      "verifiedAt": "2026-10-08T17:06:01Z"
+    },
+    {
+      "id": "finn-475786529",
+      "title": "Konserntrainee · Økonomi og finans / Portefølje",
+      "company": "Bane NOR",
+      "location": "Oslo",
+      "type": "Permanent · Graduate trainee",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Rotate through three trainee placements and support Bane NOR's group finance function with portfolio governance, reporting, internal control, financial analysis and risk management.",
+      "requirements": "A completed master's degree in economics, or in economics combined with technology, is mandatory. The role is designed for new graduates and does not require prior professional experience, but bachelor-only candidates do not meet the stated degree requirement.",
+      "url": "https://www.finn.no/job/ad/475786529",
+      "deadline": "2026-10-18",
+      "firstSeen": "2026-10-08",
+      "verifiedAt": "2026-10-08T17:06:01Z"
+    },
     {
       "id": "nscale-4995492101",
       "title": "Purchasing & Logistics Specialist",
@@ -96,7 +136,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e388354a-a0c3-4642-84d6-d327e5c332b1",
       "deadline": "2026-10-09",
       "firstSeen": "2026-10-07",
-      "verifiedAt": "2026-10-08T05:57:29Z"
+      "verifiedAt": "2026-10-08T17:06:01Z"
     },
     {
       "id": "nav-94f4ef72",
@@ -136,7 +176,7 @@
       "url": "https://careers.nordea.com/job/Oslo-Student-Analyst,-Nordea-Asset-&-Wealth-Management-(part-time-position)-0368/1440999633/",
       "deadline": "2026-10-08",
       "firstSeen": "2026-10-07",
-      "verifiedAt": "2026-10-08T05:57:29Z"
+      "verifiedAt": "2026-10-08T17:06:01Z"
     },
     {
       "id": "finn-477617012",
@@ -574,7 +614,7 @@
       "url": "https://www.finn.no/job/ad/476982603",
       "deadline": "2026-10-11",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-08T05:57:29Z"
+      "verifiedAt": "2026-10-08T17:06:01Z"
     },
     {
       "id": "finn-465156211",
@@ -999,7 +1039,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d165fcf9-f104-41b9-833e-15d1091478a2",
       "deadline": "2026-10-09",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-08T05:57:29Z"
+      "verifiedAt": "2026-10-08T17:06:01Z"
     },
     {
       "id": "nav-fbf43378",
