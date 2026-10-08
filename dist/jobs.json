@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-07T17:04:20Z",
+  "updatedAt": "2026-10-08T05:57:29Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. Results were existing records, duplicates, or roles outside the target level; existing verified records were preserved."
+      "note": "Current FINN adverts were searched and original pages opened. Blue Ctrl's maritime operations-coordinator role was added as a stretch because the employer prefers some years of relevant experience; other results were duplicates or outside the target level."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages opened. New verified matches are Hverven Revisjon's bachelor-friendly auditor role and Wenaas Workwear's finance role, which is marked stretch because a master's is required unless relevant experience compensates."
+      "note": "Current NAV listings were searched. Results were existing records, duplicates, or roles outside the target level; the two 9 October junior audit records remain open and prior verification timestamps were preserved unless rechecked directly."
     },
     {
       "name": "Jobbnorge",
@@ -29,10 +29,55 @@
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were searched. Nordea's part-time Student Analyst role remains open on the original page through 8 October; no other new unique bachelor-friendly employer advert met the verification standard."
+      "note": "Employer career pages were searched. Nordea's part-time Student Analyst remains open through today's 8 October deadline. Nscale's purchasing and logistics role was added as a stretch because it mandates two to four years of experience."
     }
   ],
   "jobs": [
+    {
+      "id": "nscale-4995492101",
+      "title": "Purchasing & Logistics Specialist",
+      "company": "Nscale",
+      "location": "Glomfjord",
+      "type": "Permanent · Full time · On site",
+      "source": "Employer careers",
+      "categories": [
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Business"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Coordinate procurement, purchase orders, international freight, customs documentation, inventory and invoice matching for AI data-centre equipment.",
+      "requirements": "Bachelor’s in supply chain, logistics, business administration or a related field, plus two to four years of purchasing, logistics or supply-chain experience. ERP experience, advanced Excel, freight coordination and customs knowledge are mandatory. No closing date is shown on the original page.",
+      "url": "https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/4995492101",
+      "deadline": null,
+      "firstSeen": "2026-10-08",
+      "verifiedAt": "2026-10-08T05:57:29Z"
+    },
+    {
+      "id": "finn-478007066",
+      "title": "Office & Operations Coordinator",
+      "company": "Blue Ctrl",
+      "location": "Ålesund",
+      "type": "Permanent · Full time",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Shipping"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Run logistics, purchasing follow-up, invoicing, inventory, office coordination and process improvement for a maritime automation company.",
+      "requirements": "Relevant education in logistics, economics, administration or supply chain is advantageous rather than mandatory. The employer prefers some years of coordination, logistics, administration or purchasing experience, so this is marked stretch. Norwegian, English and good digital-system skills are required.",
+      "url": "https://www.finn.no/job/ad/478007066",
+      "deadline": "2026-11-02",
+      "firstSeen": "2026-10-08",
+      "verifiedAt": "2026-10-08T05:57:29Z"
+    },
     {
       "id": "nav-e388354a",
       "title": "Revisor",
@@ -51,7 +96,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e388354a-a0c3-4642-84d6-d327e5c332b1",
       "deadline": "2026-10-09",
       "firstSeen": "2026-10-07",
-      "verifiedAt": "2026-10-07T17:04:20Z"
+      "verifiedAt": "2026-10-08T05:57:29Z"
     },
     {
       "id": "nav-94f4ef72",
@@ -91,7 +136,7 @@
       "url": "https://careers.nordea.com/job/Oslo-Student-Analyst,-Nordea-Asset-&-Wealth-Management-(part-time-position)-0368/1440999633/",
       "deadline": "2026-10-08",
       "firstSeen": "2026-10-07",
-      "verifiedAt": "2026-10-07T17:04:20Z"
+      "verifiedAt": "2026-10-08T05:57:29Z"
     },
     {
       "id": "finn-477617012",
@@ -529,7 +574,7 @@
       "url": "https://www.finn.no/job/ad/476982603",
       "deadline": "2026-10-11",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-07T17:04:20Z"
+      "verifiedAt": "2026-10-08T05:57:29Z"
     },
     {
       "id": "finn-465156211",
@@ -954,7 +999,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d165fcf9-f104-41b9-833e-15d1091478a2",
       "deadline": "2026-10-09",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-07T17:04:20Z"
+      "verifiedAt": "2026-10-08T05:57:29Z"
     },
     {
       "id": "nav-fbf43378",
