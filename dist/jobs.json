@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-09T06:06:37Z",
+  "updatedAt": "2026-10-09T16:57:48Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. Personalhuset's bachelor-student finance role and Ålesund port's finance/administration role were added; the port role is marked stretch because accounting experience is requested. Other results were expired, duplicates or outside the target level."
+      "note": "Current FINN adverts were searched and original pages opened. BioMar's bachelor-friendly raw-material planning role was added. The ColliCare controller result was an existing duplicate, a People purchaser advert was already filled, and other results were expired or outside the target level."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages opened. Konsmo Fabrikker's bachelor-friendly economics role was added. Hverven and Sør-Hedmark remain open through today's 9 October deadline."
+      "note": "Current NAV listings were searched. The relevant controller result was an existing ColliCare record and no unique new advert met the verification threshold. Hverven and Sør-Hedmark remain open through today's 9 October deadline; failed detail-page rechecks did not overwrite their earlier verification timestamps."
     },
     {
       "name": "Jobbnorge",
@@ -24,15 +24,38 @@
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for discovery. The relevant supply-chain internship result was a closed 2025 advert; no current LinkedIn-only record met the verification standard."
+      "note": "Public LinkedIn listings were checked for supply-chain, procurement and junior business roles. Results were senior, duplicates or lacked a verifiable original public advert, so no LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were searched. Nordea's Student Analyst page remains readable, but its stated 8 October deadline has passed and the record is now closed. No additional employer-career advert met the verification and relevance threshold."
+      "note": "Employer career pages were searched. No additional unique current advert met both the relevance and public-verification threshold; earlier records retain their existing verification timestamps where pages could not be rechecked."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-478074986",
+      "title": "Raw Material Planner",
+      "company": "BioMar",
+      "location": "Avaldsnes",
+      "type": "Permanent · Full time · Supply planning",
+      "source": "FINN",
+      "categories": [
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Shipping",
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Plan and coordinate domestic and international raw-material deliveries, purchase orders, inventory and forecasts while following terminal operations, freight and port calls.",
+      "requirements": "Higher education in economics, supply chain or a similar field is required, along with analytical ability and strong system understanding. Purchasing, supplier follow-up and supply-chain experience are advantages rather than mandatory; container freight, maritime transport and port knowledge are also preferred.",
+      "url": "https://www.finn.no/job/ad/478074986",
+      "deadline": "2026-10-19",
+      "firstSeen": "2026-10-09",
+      "verifiedAt": "2026-10-09T16:57:48Z"
+    },
     {
       "id": "finn-478077334",
       "title": "Økonomimedarbeider",
@@ -51,7 +74,7 @@
       "url": "https://www.finn.no/job/ad/478077334",
       "deadline": "2026-11-05",
       "firstSeen": "2026-10-09",
-      "verifiedAt": "2026-10-09T06:06:37Z"
+      "verifiedAt": "2026-10-09T16:57:48Z"
     },
     {
       "id": "nav-ceb9ef65",
@@ -93,7 +116,7 @@
       "url": "https://www.finn.no/job/ad/476471336",
       "deadline": "2026-10-09",
       "firstSeen": "2026-10-09",
-      "verifiedAt": "2026-10-09T06:06:37Z"
+      "verifiedAt": "2026-10-09T16:57:48Z"
     },
     {
       "id": "finn-477518014",
@@ -113,7 +136,7 @@
       "url": "https://www.finn.no/job/ad/477518014",
       "deadline": "2026-10-11",
       "firstSeen": "2026-10-08",
-      "verifiedAt": "2026-10-08T17:06:01Z"
+      "verifiedAt": "2026-10-09T16:57:48Z"
     },
     {
       "id": "finn-475786529",
@@ -676,7 +699,7 @@
       "url": "https://www.finn.no/job/ad/476982603",
       "deadline": "2026-10-11",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-09T06:06:37Z"
+      "verifiedAt": "2026-10-09T16:57:48Z"
     },
     {
       "id": "finn-465156211",
