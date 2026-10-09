@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-08T17:06:01Z",
+  "updatedAt": "2026-10-09T06:06:37Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. Hørselsforbundet's bachelor-friendly finance role was added, together with Bane NOR's graduate finance trainee as a clearly marked master-only stretch; other results were duplicates or outside the target level."
+      "note": "Current FINN adverts were searched and original pages opened. Personalhuset's bachelor-student finance role and Ålesund port's finance/administration role were added; the port role is marked stretch because accounting experience is requested. Other results were expired, duplicates or outside the target level."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched. Results were existing records, duplicates, or roles outside the target level; the two 9 October junior audit records remain open and were rechecked on their original pages."
+      "note": "Current NAV listings were searched and original pages opened. Konsmo Fabrikker's bachelor-friendly economics role was added. Hverven and Sør-Hedmark remain open through today's 9 October deadline."
     },
     {
       "name": "Jobbnorge",
@@ -19,20 +19,82 @@
     {
       "name": "Academic Work",
       "status": "Degraded",
-      "note": "Public Academic Work results were checked. The relevant purchasing trainee result was already expired and master-student restricted; no new suitable advert was added."
+      "note": "Academic Work's public jobs page was checked. Its current visible results were sales roles outside the target profile, so no new record was added."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for discovery. Current results duplicated already verified Equinor and employer-career records or were expired; no LinkedIn-only record was added."
+      "note": "Public LinkedIn listings were checked for discovery. The relevant supply-chain internship result was a closed 2025 advert; no current LinkedIn-only record met the verification standard."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were searched. Nordea's part-time Student Analyst still shows an active application link and remains open through today's 8 October deadline. No additional employer-career advert met the verification and relevance threshold."
+      "note": "Employer career pages were searched. Nordea's Student Analyst page remains readable, but its stated 8 October deadline has passed and the record is now closed. No additional employer-career advert met the verification and relevance threshold."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-478077334",
+      "title": "Økonomimedarbeider",
+      "company": "Personalhuset",
+      "location": "Kristiansand",
+      "type": "Temporary · Part time · Student",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support the finance department alongside studies with invoice processing, simple reconciliations, administration and digital process-improvement work.",
+      "requirements": "Currently studying economics, accounting, auditing or a similar subject at bachelor’s or master’s level. Excel, general digital-system skills, accuracy and structure are required; no previous professional experience is stated. The employer offers training and flexible hours around studies.",
+      "url": "https://www.finn.no/job/ad/478077334",
+      "deadline": "2026-11-05",
+      "firstSeen": "2026-10-09",
+      "verifiedAt": "2026-10-09T06:06:37Z"
+    },
+    {
+      "id": "nav-ceb9ef65",
+      "title": "Økonom",
+      "company": "Konsmo Fabrikker",
+      "location": "Konsmo · flexible arrangements possible",
+      "type": "Permanent · Finance and analysis",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Combine financial analysis, budgeting, project follow-up, accounting and contract documentation with improvements using IT, automation and AI.",
+      "requirements": "Higher education in economics, accounting, finance or a similar field. Relevant experience is advantageous, but the employer explicitly welcomes new graduates; accounting systems, business intelligence and project-economics experience are preferred rather than mandatory.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/ceb9ef65-0bcc-4611-bf1b-63875a6e8711",
+      "deadline": "2026-10-23",
+      "firstSeen": "2026-10-09",
+      "verifiedAt": "2026-10-09T06:06:37Z"
+    },
+    {
+      "id": "finn-476471336",
+      "title": "Økonomimedarbeider",
+      "company": "Ålesundregionens Havnevesen",
+      "location": "Ålesund",
+      "type": "Permanent · Full time · Hybrid",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Procurement",
+        "Shipping"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Handle accounting, payroll, administration, purchasing and reporting for a regional port serving fisheries, containers, cruises and wider maritime trade.",
+      "requirements": "Relevant education in economics, accounting or administration is requested, together with accounting experience and preferably payroll or personnel experience. No minimum number of years is stated, but the experience requirement makes this a stretch. Strong Norwegian and digital skills are important.",
+      "url": "https://www.finn.no/job/ad/476471336",
+      "deadline": "2026-10-09",
+      "firstSeen": "2026-10-09",
+      "verifiedAt": "2026-10-09T06:06:37Z"
+    },
     {
       "id": "finn-477518014",
       "title": "Økonomikonsulent",
@@ -136,7 +198,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e388354a-a0c3-4642-84d6-d327e5c332b1",
       "deadline": "2026-10-09",
       "firstSeen": "2026-10-07",
-      "verifiedAt": "2026-10-08T17:06:01Z"
+      "verifiedAt": "2026-10-09T06:06:37Z"
     },
     {
       "id": "nav-94f4ef72",
@@ -170,13 +232,13 @@
         "Finance"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Support Nordea Asset & Wealth Management's strategy team with analysis, market research, decision materials, presentations and AI-enabled business-transformation work.",
       "requirements": "Currently pursuing a bachelor’s or master’s degree with at least one year remaining until graduation. Strong academic performance, interest in strategy, finance, investments, technology or innovation, Microsoft Office skills, active use of AI tools, and good English are required. Relevant extracurricular or analytical experience is preferred, not mandatory.",
       "url": "https://careers.nordea.com/job/Oslo-Student-Analyst,-Nordea-Asset-&-Wealth-Management-(part-time-position)-0368/1440999633/",
       "deadline": "2026-10-08",
       "firstSeen": "2026-10-07",
-      "verifiedAt": "2026-10-08T17:06:01Z"
+      "verifiedAt": "2026-10-09T06:06:37Z"
     },
     {
       "id": "finn-477617012",
@@ -614,7 +676,7 @@
       "url": "https://www.finn.no/job/ad/476982603",
       "deadline": "2026-10-11",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-08T17:06:01Z"
+      "verifiedAt": "2026-10-09T06:06:37Z"
     },
     {
       "id": "finn-465156211",
@@ -1039,7 +1101,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d165fcf9-f104-41b9-833e-15d1091478a2",
       "deadline": "2026-10-09",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-08T17:06:01Z"
+      "verifiedAt": "2026-10-09T06:06:37Z"
     },
     {
       "id": "nav-fbf43378",
