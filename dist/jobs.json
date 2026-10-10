@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-09T16:57:48Z",
+  "updatedAt": "2026-10-10T06:02:30Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. BioMar's bachelor-friendly raw-material planning role was added. The ColliCare controller result was an existing duplicate, a People purchaser advert was already filled, and other results were expired or outside the target level."
+      "note": "Current FINN adverts were searched and original pages opened. No unique new advert met the relevance and verification threshold. Ålesund port's expired 9 October advert was closed; Veøy, Storebrand, Forsvarsmateriell and Skatteetaten remain open at their stated deadlines."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched. The relevant controller result was an existing ColliCare record and no unique new advert met the verification threshold. Hverven and Sør-Hedmark remain open through today's 9 October deadline; failed detail-page rechecks did not overwrite their earlier verification timestamps."
+      "note": "Current NAV listings were searched and original pages checked. No unique new advert met the inclusion threshold. Hverven and Sør-Hedmark were closed after their 9 October deadlines; Wenaas remains open through 12 October."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public Jobbnorge results surfaced a potentially relevant controller role, but the public detail view exposed only a JavaScript shell without enough qualification detail for verification. Coverage remains partial."
+      "note": "Public Jobbnorge results were searched, but no current target-level advert exposed enough original qualification detail for verification. Coverage remains partial."
     },
     {
       "name": "Academic Work",
@@ -24,12 +24,12 @@
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for supply-chain, procurement and junior business roles. Results were senior, duplicates or lacked a verifiable original public advert, so no LinkedIn-only record was added."
+      "note": "Public LinkedIn listings were checked for supply-chain, procurement, shipping and junior business roles. Results were expired, senior, existing duplicates or lacked a current original public advert, so no LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were searched. No additional unique current advert met both the relevance and public-verification threshold; earlier records retain their existing verification timestamps where pages could not be rechecked."
+      "note": "Employer career pages were searched. A recent GE HealthCare supply-chain finance result was already filled, while other results were expired or existing records. No unique current advert met the inclusion threshold."
     }
   ],
   "jobs": [
@@ -110,13 +110,13 @@
         "Shipping"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Handle accounting, payroll, administration, purchasing and reporting for a regional port serving fisheries, containers, cruises and wider maritime trade.",
       "requirements": "Relevant education in economics, accounting or administration is requested, together with accounting experience and preferably payroll or personnel experience. No minimum number of years is stated, but the experience requirement makes this a stretch. Strong Norwegian and digital skills are important.",
       "url": "https://www.finn.no/job/ad/476471336",
       "deadline": "2026-10-09",
       "firstSeen": "2026-10-09",
-      "verifiedAt": "2026-10-09T16:57:48Z"
+      "verifiedAt": "2026-10-10T06:02:30Z"
     },
     {
       "id": "finn-477518014",
@@ -215,13 +215,13 @@
         "Finance"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Audit and advisory role covering small and medium-sized clients, annual accounts, tax documentation, customer relationships and digital improvement work.",
       "requirements": "Bachelor’s or master’s degree in economics or auditing. The advert mentions experience as useful but explicitly encourages new graduates to apply, so prior professional experience is not mandatory. Norwegian-language client work and strong accounting understanding are important.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e388354a-a0c3-4642-84d6-d327e5c332b1",
       "deadline": "2026-10-09",
       "firstSeen": "2026-10-07",
-      "verifiedAt": "2026-10-09T06:06:37Z"
+      "verifiedAt": "2026-10-10T06:02:30Z"
     },
     {
       "id": "nav-94f4ef72",
@@ -241,7 +241,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/94f4ef72-6824-41dd-a307-8418fc8ed2a2",
       "deadline": "2026-10-12",
       "firstSeen": "2026-10-07",
-      "verifiedAt": "2026-10-07T17:04:20Z"
+      "verifiedAt": "2026-10-10T06:02:30Z"
     },
     {
       "id": "nordea-4702",
@@ -562,7 +562,7 @@
       "url": "https://www.kongsberg.com/careers/vacancies/summer-internship-2027-/",
       "deadline": "2027-02-28",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-09-28T06:09:19Z"
+      "verifiedAt": "2026-10-10T06:02:30Z"
     },
     {
       "id": "dnv-7314",
@@ -699,7 +699,7 @@
       "url": "https://www.finn.no/job/ad/476982603",
       "deadline": "2026-10-11",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-09T16:57:48Z"
+      "verifiedAt": "2026-10-10T06:02:30Z"
     },
     {
       "id": "finn-465156211",
@@ -858,7 +858,7 @@
       "url": "https://www.finn.no/job/ad/476975441",
       "deadline": "2026-10-12",
       "firstSeen": "2026-09-29",
-      "verifiedAt": "2026-09-29T06:00:18Z"
+      "verifiedAt": "2026-10-10T06:02:30Z"
     },
     {
       "id": "finn-477494033",
@@ -1118,13 +1118,13 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Junior economics and audit role with client work, financial analysis, structured training and gradually increasing responsibility.",
       "requirements": "Higher education in economics, accounting, auditing or business administration is preferred, but the employer says the exact academic background is not decisive. New graduates are welcome; prior experience is not mandatory.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d165fcf9-f104-41b9-833e-15d1091478a2",
       "deadline": "2026-10-09",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-09T06:06:37Z"
+      "verifiedAt": "2026-10-10T06:02:30Z"
     },
     {
       "id": "nav-fbf43378",
@@ -1162,7 +1162,7 @@
       "url": "https://www.finn.no/job/ad/476682097",
       "deadline": "2026-10-11",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-02T16:59:17Z"
+      "verifiedAt": "2026-10-10T06:02:30Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
