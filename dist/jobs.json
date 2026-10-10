@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-10T06:02:30Z",
+  "updatedAt": "2026-10-10T17:04:57Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. No unique new advert met the relevance and verification threshold. Ålesund port's expired 9 October advert was closed; Veøy, Storebrand, Forsvarsmateriell and Skatteetaten remain open at their stated deadlines."
+      "note": "Current FINN adverts were searched and original pages opened. CoolCo's bachelor-friendly LNG/LPG purchasing role was added. Veøy remains open through today's 10 October deadline, while Storebrand and Hørselsforbundet remain open through 11 October."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages checked. No unique new advert met the inclusion threshold. Hverven and Sør-Hedmark were closed after their 9 October deadlines; Wenaas remains open through 12 October."
+      "note": "Current NAV listings were searched. Results were existing records, outside the target profile or did not add enough verifiable new detail for inclusion. Earlier successful verification timestamps were preserved."
     },
     {
       "name": "Jobbnorge",
@@ -29,10 +29,56 @@
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were searched. A recent GE HealthCare supply-chain finance result was already filled, while other results were expired or existing records. No unique current advert met the inclusion threshold."
+      "note": "Employer career pages were searched and original pages opened. Yinson's bachelor-friendly Procurement Officer role was added. A GE HealthCare supply-chain finance result was already filled; other relevant results were existing records or senior roles."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-478294329",
+      "title": "Executive, Procurement",
+      "company": "CoolCo",
+      "location": "Oslo",
+      "type": "Permanent · Full time · Operational procurement",
+      "source": "FINN",
+      "categories": [
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Shipping",
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Manage purchasing and logistics for LNG and LPG vessels worldwide, covering sourcing, purchase orders, delivery coordination, invoice follow-up, supplier terms and operational problem-solving.",
+      "requirements": "A bachelor's degree in logistics, shipping, engineering, business or a related field is requested, though relevant experience can substitute. Procurement, logistics, shipping or technical-operations experience is advantageous rather than mandatory, and recent graduates are explicitly welcome. Professional English and strong digital-system skills are required. Applications are reviewed as soon as possible; no fixed deadline is published.",
+      "url": "https://www.finn.no/job/ad/478294329",
+      "deadline": null,
+      "firstSeen": "2026-10-10",
+      "verifiedAt": "2026-10-10T17:04:57Z"
+    },
+    {
+      "id": "yinson-1370995355",
+      "title": "Procurement Officer",
+      "company": "Yinson Production",
+      "location": "Oslo",
+      "type": "Permanent · Full time · Procurement and logistics",
+      "source": "Employer careers",
+      "categories": [
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Shipping",
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support daily procurement and logistics for seven international FPSO units by placing and following orders, coordinating deliveries, checking invoices and maintaining supplier and purchasing records.",
+      "requirements": "A bachelor's degree in a relevant field is required unless compensated by relevant experience. Norwegian and English fluency are mandatory. ERP or IFS experience is advantageous rather than required; no minimum professional-experience requirement is stated.",
+      "url": "https://careers.yinson.com/job/Oslo-Procurement-Officer/1370995355/",
+      "deadline": "2026-10-25",
+      "firstSeen": "2026-10-10",
+      "verifiedAt": "2026-10-10T17:04:57Z"
+    },
     {
       "id": "finn-478074986",
       "title": "Raw Material Planner",
@@ -136,7 +182,7 @@
       "url": "https://www.finn.no/job/ad/477518014",
       "deadline": "2026-10-11",
       "firstSeen": "2026-10-08",
-      "verifiedAt": "2026-10-09T16:57:48Z"
+      "verifiedAt": "2026-10-10T17:04:57Z"
     },
     {
       "id": "finn-475786529",
@@ -562,7 +608,7 @@
       "url": "https://www.kongsberg.com/careers/vacancies/summer-internship-2027-/",
       "deadline": "2027-02-28",
       "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-10-10T06:02:30Z"
+      "verifiedAt": "2026-10-10T17:04:57Z"
     },
     {
       "id": "dnv-7314",
@@ -699,7 +745,7 @@
       "url": "https://www.finn.no/job/ad/476982603",
       "deadline": "2026-10-11",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-10T06:02:30Z"
+      "verifiedAt": "2026-10-10T17:04:57Z"
     },
     {
       "id": "finn-465156211",
