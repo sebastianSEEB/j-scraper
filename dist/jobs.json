@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-10T17:04:57Z",
+  "updatedAt": "2026-10-11T06:05:14Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. CoolCo's bachelor-friendly LNG/LPG purchasing role was added. Veøy remains open through today's 10 October deadline, while Storebrand and Hørselsforbundet remain open through 11 October."
+      "note": "Current FINN adverts were searched and original pages opened. Four bachelor-friendly or junior listings were added: ColliCare Operational Controller, Statnett Trainee, Forsvarsmateriell Anskaffelsesansvarlig and Directa Regnskapsfører. Veøy was closed after its 10 October deadline passed."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched. Results were existing records, outside the target profile or did not add enough verifiable new detail for inclusion. Earlier successful verification timestamps were preserved."
+      "note": "Current NAV listings were searched. A master-only Skatteetaten graduate role was found but not promoted over stronger bachelor-friendly results; other results were existing records or outside the target profile. Earlier successful verification timestamps were preserved."
     },
     {
       "name": "Jobbnorge",
@@ -19,20 +19,102 @@
     {
       "name": "Academic Work",
       "status": "Degraded",
-      "note": "Academic Work's public jobs page was checked. Its current visible results were sales roles outside the target profile, so no new record was added."
+      "note": "Academic Work's public jobs page was checked. Its 37 visible results were primarily sales or technical roles outside the target profile, so no new record was added."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for supply-chain, procurement, shipping and junior business roles. Results were expired, senior, existing duplicates or lacked a current original public advert, so no LinkedIn-only record was added."
+      "note": "Public LinkedIn listings were checked for supply-chain, procurement, shipping and junior business roles. Relevant results were expired, existing duplicates or lacked a current original public advert, so no LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were searched and original pages opened. Yinson's bachelor-friendly Procurement Officer role was added. A GE HealthCare supply-chain finance result was already filled; other relevant results were existing records or senior roles."
+      "note": "Employer career pages were searched. Current relevant results were existing records or duplicated public adverts already verified through FINN; no employer-only record was added this run."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-477643957",
+      "title": "Operational Controller · Økonomi og logistikk",
+      "company": "ColliCare Logistics",
+      "location": "Vestby",
+      "type": "Permanent · Full time · Finance and logistics",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Logistics"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Follow revenue, costs, invoicing and month-end work for transport assignments while analysing profitability and improving routines in an international logistics business.",
+      "requirements": "Relevant higher education in economics is required, and new graduates are explicitly welcome. Strong Excel, system understanding and written and spoken Norwegian and English are required; no prior professional experience is stated.",
+      "url": "https://www.finn.no/job/ad/477643957",
+      "deadline": "2026-10-30",
+      "firstSeen": "2026-10-11",
+      "verifiedAt": "2026-10-11T06:05:14Z"
+    },
+    {
+      "id": "finn-476050064",
+      "title": "Trainee",
+      "company": "Statnett",
+      "location": "Oslo",
+      "type": "Permanent · Full time · 18-month graduate programme",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Logistics"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Join an 18-month programme with three to four rotations and opportunities in portfolio work, business development, data and analysis across Statnett.",
+      "requirements": "Open to newly graduated candidates with a bachelor’s or master’s in economics, logistics or several other relevant fields. The advert does not state a professional-experience requirement, but the individual rotation options are broad and should be checked for subject fit.",
+      "url": "https://www.finn.no/job/ad/476050064",
+      "deadline": "2026-10-18",
+      "firstSeen": "2026-10-11",
+      "verifiedAt": "2026-10-11T06:05:14Z"
+    },
+    {
+      "id": "finn-477272628",
+      "title": "Anskaffelsesansvarlig",
+      "company": "Forsvarsmateriell",
+      "location": "Bergen · Haakonsvern",
+      "type": "Permanent · Full time · Procurement and contracts",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Procurement",
+        "Shipping"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Run procurement processes, market research, tender evaluation, negotiations and contract follow-up for naval materiel and services.",
+      "requirements": "The junior seniorkonsulent level accepts a bachelor’s or master’s in economics, logistics, law or similar, and procurement experience is only preferred at that level; new graduates are explicitly encouraged. Fluent Norwegian, good English and eligibility for Hemmelig/NATO Secret security clearance are mandatory. Higher adviser levels require at least two or five years of experience.",
+      "url": "https://www.finn.no/job/ad/477272628",
+      "deadline": "2026-10-13",
+      "firstSeen": "2026-10-11",
+      "verifiedAt": "2026-10-11T06:05:14Z"
+    },
+    {
+      "id": "finn-478219030",
+      "title": "Regnskapsfører",
+      "company": "Directa",
+      "location": "Klavestadhaugen · Sarpsborg",
+      "type": "Permanent · Full time · Accounting",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Work with accounting, year-end closing, quality assurance, client advice and development of digital and AI-enabled tools in an accounting firm.",
+      "requirements": "A minimum bachelor’s degree in economics and accounting is accepted for new graduates; authorization or practical payroll/accounting experience are alternative profiles rather than mandatory for graduates. Strong system understanding and comfort with active client contact are required.",
+      "url": "https://www.finn.no/job/ad/478219030",
+      "deadline": "2026-11-09",
+      "firstSeen": "2026-10-11",
+      "verifiedAt": "2026-10-11T06:05:14Z"
+    },
     {
       "id": "finn-478294329",
       "title": "Executive, Procurement",
@@ -548,8 +630,8 @@
       "requirements": "Experience in transport, logistics, forwarding or operational planning expected. Norwegian communication and digital planning skills.",
       "url": "https://www.finn.no/job/ad/476128242",
       "deadline": "2026-10-10",
-      "status": "open",
-      "verifiedAt": "2026-09-28T06:09:19Z",
+      "status": "closed",
+      "verifiedAt": "2026-10-11T06:05:14Z",
       "firstSeen": "2026-09-22"
     },
     {
