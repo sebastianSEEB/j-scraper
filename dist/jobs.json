@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-11T06:05:14Z",
+  "updatedAt": "2026-10-11T17:04:58Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. Four bachelor-friendly or junior listings were added: ColliCare Operational Controller, Statnett Trainee, Forsvarsmateriell Anskaffelsesansvarlig and Directa Regnskapsfører. Veøy was closed after its 10 October deadline passed."
+      "note": "Current FINN adverts were searched and original pages opened. A bachelor-friendly Forsvaret finance and ERP role was added as a stretch because specialist knowledge is mandatory. Skatteetaten's original advert was rechecked and its deadline corrected to 14 October."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched. A master-only Skatteetaten graduate role was found but not promoted over stronger bachelor-friendly results; other results were existing records or outside the target profile. Earlier successful verification timestamps were preserved."
+      "note": "Current NAV listings were searched and original pages opened. Boreal's entry-level purchasing and accounting support role was added. Wenaas was rechecked and remains open through 12 October."
     },
     {
       "name": "Jobbnorge",
@@ -19,7 +19,7 @@
     {
       "name": "Academic Work",
       "status": "Degraded",
-      "note": "Academic Work's public jobs page was checked. Its 37 visible results were primarily sales or technical roles outside the target profile, so no new record was added."
+      "note": "Academic Work's public jobs page was checked. Current visible results were primarily sales or technical roles outside the target profile, so no new record was added."
     },
     {
       "name": "LinkedIn",
@@ -29,10 +29,52 @@
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were searched. Current relevant results were existing records or duplicated public adverts already verified through FINN; no employer-only record was added this run."
+      "note": "Employer career pages were searched. Current relevant results were existing records or duplicates already verified on original public adverts; no employer-only record was added this run."
     }
   ],
   "jobs": [
+    {
+      "id": "nav-fc7edff0",
+      "title": "Administrasjon · Innkjøp og regnskap",
+      "company": "Boreal Norge",
+      "location": "Stavanger",
+      "type": "Temporary · Full time · Through summer 2027",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Finance",
+        "Procurement"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Provide practical support across purchasing and accounting by maintaining supplier and contract data, following requisitions and purchase orders, checking system data and updating accounts payable.",
+      "requirements": "The role explicitly suits new graduates, people taking a gap year or candidates building experience. No particular degree is required, and experience from administration, customer service, office work or warehousing is advantageous rather than mandatory. Accuracy, reliability, clear written communication and comfort learning several systems are required.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/fc7edff0-7f05-40cc-964f-0b72ce4afddc",
+      "deadline": "2026-10-25",
+      "firstSeen": "2026-10-11",
+      "verifiedAt": "2026-10-11T17:04:58Z"
+    },
+    {
+      "id": "finn-478097302",
+      "title": "Rådgiver regelverk og forretningsregler regnskap",
+      "company": "Forsvaret",
+      "location": "Oslo",
+      "type": "Permanent · Full time · Finance systems",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Develop accounting rules, internal-control frameworks and digital finance processes while supporting year-end work and automation of Forsvaret's ERP environment.",
+      "requirements": "A relevant bachelor’s degree is required and new graduates are welcome, but knowledge of ERP upgrades and implementation, process digitalization and Norwegian public-sector financial-management rules are mandatory. Very strong Norwegian and eligibility for HEMMELIG/NATO Secret clearance are also required; a master’s and SAP, Power BI or SRS experience are preferred.",
+      "url": "https://www.finn.no/job/ad/478097302",
+      "deadline": "2026-10-25",
+      "firstSeen": "2026-10-11",
+      "verifiedAt": "2026-10-11T17:04:58Z"
+    },
     {
       "id": "finn-477643957",
       "title": "Operational Controller · Økonomi og logistikk",
@@ -264,7 +306,7 @@
       "url": "https://www.finn.no/job/ad/477518014",
       "deadline": "2026-10-11",
       "firstSeen": "2026-10-08",
-      "verifiedAt": "2026-10-10T17:04:57Z"
+      "verifiedAt": "2026-10-11T17:04:58Z"
     },
     {
       "id": "finn-475786529",
@@ -369,7 +411,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/94f4ef72-6824-41dd-a307-8418fc8ed2a2",
       "deadline": "2026-10-12",
       "firstSeen": "2026-10-07",
-      "verifiedAt": "2026-10-10T06:02:30Z"
+      "verifiedAt": "2026-10-11T17:04:58Z"
     },
     {
       "id": "nordea-4702",
@@ -827,7 +869,7 @@
       "url": "https://www.finn.no/job/ad/476982603",
       "deadline": "2026-10-11",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-10T17:04:57Z"
+      "verifiedAt": "2026-10-11T17:04:58Z"
     },
     {
       "id": "finn-465156211",
@@ -986,7 +1028,7 @@
       "url": "https://www.finn.no/job/ad/476975441",
       "deadline": "2026-10-12",
       "firstSeen": "2026-09-29",
-      "verifiedAt": "2026-10-10T06:02:30Z"
+      "verifiedAt": "2026-10-11T17:04:58Z"
     },
     {
       "id": "finn-477494033",
@@ -1030,7 +1072,7 @@
       "url": "https://www.finn.no/job/ad/477276299",
       "deadline": "2026-10-13",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-01T16:58:38Z"
+      "verifiedAt": "2026-10-11T17:04:58Z"
     },
     {
       "id": "finn-476484961",
@@ -1288,9 +1330,9 @@
       "summary": "Two public-sector economics and audit positions conducting business controls, risk assessments and decisions in multidisciplinary teams, with work adapted to the successful candidates’ experience.",
       "requirements": "A completed bachelor’s in economics, accounting or auditing is required, although documented equivalent competence may sometimes substitute. Relevant experience is helpful but not mandatory; new graduates or students finishing by January are explicitly welcome. Norwegian and accounting knowledge are required.",
       "url": "https://www.finn.no/job/ad/476682097",
-      "deadline": "2026-10-11",
+      "deadline": "2026-10-14",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-10T06:02:30Z"
+      "verifiedAt": "2026-10-11T17:04:58Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
