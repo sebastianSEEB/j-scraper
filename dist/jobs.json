@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-11T17:04:58Z",
+  "updatedAt": "2026-10-12T05:56:20Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. A bachelor-friendly Forsvaret finance and ERP role was added as a stretch because specialist knowledge is mandatory. Skatteetaten's original advert was rechecked and its deadline corrected to 14 October."
+      "note": "Current FINN adverts were searched and original pages checked. No new role met the inclusion and verification standard. The Hørselsforbundet and Storebrand adverts were closed after their 11 October deadlines."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages opened. Boreal's entry-level purchasing and accounting support role was added. Wenaas was rechecked and remains open through 12 October."
+      "note": "Current NAV listings were searched. Results were existing records or outside the target profile, so no new record was added; earlier verification timestamps were preserved where original pages were not freshly accessible."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public Jobbnorge results were searched, but no current target-level advert exposed enough original qualification detail for verification. Coverage remains partial."
+      "note": "Public Jobbnorge results were searched. A potentially relevant project economist advert was found, but its original page required JavaScript and did not expose enough qualification detail for verification, so it was not added."
     },
     {
       "name": "Academic Work",
       "status": "Degraded",
-      "note": "Academic Work's public jobs page was checked. Current visible results were primarily sales or technical roles outside the target profile, so no new record was added."
+      "note": "Academic Work's public results were checked, but no current target-level role with verifiable original qualification details was found. Coverage remains partial."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn listings were checked for supply-chain, procurement, shipping and junior business roles. Relevant results were expired, existing duplicates or lacked a current original public advert, so no LinkedIn-only record was added."
+      "note": "Public LinkedIn results included potentially relevant supply-chain roles, but the original listing or employer page could not confirm current status and qualifications. No LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
-      "status": "Listings checked",
-      "note": "Employer career pages were searched. Current relevant results were existing records or duplicates already verified on original public adverts; no employer-only record was added this run."
+      "status": "Degraded",
+      "note": "Employer career pages were searched, including Vår Energi and Helly Hansen. The specific roles surfaced elsewhere could not be verified as current on original employer pages, so no employer-only record was added."
     }
   ],
   "jobs": [
@@ -300,13 +300,13 @@
         "Finance"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Support day-to-day finance across three organizations through bookkeeping, reconciliations, invoicing, payroll preparation, month-end documentation and improvement of shared routines and systems.",
       "requirements": "Relevant education in accounting, economics, auditing or a similar field. New graduates are explicitly encouraged, while practical accounting experience is preferred rather than mandatory. Strong Norwegian, accounting understanding and digital-system skills are required.",
       "url": "https://www.finn.no/job/ad/477518014",
       "deadline": "2026-10-11",
       "firstSeen": "2026-10-08",
-      "verifiedAt": "2026-10-11T17:04:58Z"
+      "verifiedAt": "2026-10-12T05:56:20Z"
     },
     {
       "id": "finn-475786529",
@@ -863,13 +863,13 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Ten students work in interdisciplinary teams on a real Storebrand challenge spanning finance, innovation, technology and customer experience, then present the solution internally.",
       "requirements": "Open to students currently in the final bachelor year or first master year. Good academic results are required; relevant part-time work or volunteering is advantageous. CV and transcript or diploma are required, but no cover letter.",
       "url": "https://www.finn.no/job/ad/476982603",
       "deadline": "2026-10-11",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-11T17:04:58Z"
+      "verifiedAt": "2026-10-12T05:56:20Z"
     },
     {
       "id": "finn-465156211",
