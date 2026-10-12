@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-12T05:56:20Z",
+  "updatedAt": "2026-10-12T17:04:55Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages checked. No new role met the inclusion and verification standard. The Hørselsforbundet and Storebrand adverts were closed after their 11 October deadlines."
+      "note": "Current FINN adverts were searched and original pages opened. No new role met the inclusion standard. Forsvarsmateriell, Skatteetaten, Xledger, Equinor and Hydro deadline records were rechecked and remain open."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched. Results were existing records or outside the target profile, so no new record was added; earlier verification timestamps were preserved where original pages were not freshly accessible."
+      "note": "Current NAV listings were searched and Wenaas was rechecked on its original page. It remains open through 12 October; other results were existing records or outside the target profile."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public Jobbnorge results were searched. A potentially relevant project economist advert was found, but its original page required JavaScript and did not expose enough qualification detail for verification, so it was not added."
+      "note": "Public Jobbnorge results were searched. NTNU's project economist advert appeared current, but the original page still required JavaScript and did not expose qualification details reliably, so it was not added."
     },
     {
       "name": "Academic Work",
-      "status": "Degraded",
-      "note": "Academic Work's public results were checked, but no current target-level role with verifiable original qualification details was found. Coverage remains partial."
+      "status": "Listings checked",
+      "note": "Academic Work's public jobs results were checked. Visible current roles were technical, sales or otherwise outside the target profile, so no record was added."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn results included potentially relevant supply-chain roles, but the original listing or employer page could not confirm current status and qualifications. No LinkedIn-only record was added."
+      "note": "Public LinkedIn results were searched. Current relevant results were existing duplicates, already closed or could not be opened reliably, so no LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Employer career pages were searched, including Vår Energi and Helly Hansen. The specific roles surfaced elsewhere could not be verified as current on original employer pages, so no employer-only record was added."
+      "note": "Employer career pages and public employer results were searched. No new target-level role exposed enough current original qualification detail for inclusion; earlier records retain their successful verification timestamps."
     }
   ],
   "jobs": [
@@ -135,7 +135,7 @@
       "url": "https://www.finn.no/job/ad/477272628",
       "deadline": "2026-10-13",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-11T06:05:14Z"
+      "verifiedAt": "2026-10-12T17:04:55Z"
     },
     {
       "id": "finn-478219030",
@@ -411,7 +411,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/94f4ef72-6824-41dd-a307-8418fc8ed2a2",
       "deadline": "2026-10-12",
       "firstSeen": "2026-10-07",
-      "verifiedAt": "2026-10-11T17:04:58Z"
+      "verifiedAt": "2026-10-12T17:04:55Z"
     },
     {
       "id": "nordea-4702",
@@ -850,7 +850,7 @@
       "url": "https://www.finn.no/job/ad/476057492",
       "deadline": "2026-10-15",
       "firstSeen": "2026-09-25",
-      "verifiedAt": "2026-09-28T06:09:19Z"
+      "verifiedAt": "2026-10-12T17:04:55Z"
     },
     {
       "id": "finn-476982603",
@@ -931,7 +931,7 @@
       "url": "https://www.finn.no/job/ad/476600136",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-09-28T06:09:19Z"
+      "verifiedAt": "2026-10-12T17:04:55Z"
     },
     {
       "id": "finn-475781619",
@@ -1028,7 +1028,7 @@
       "url": "https://www.finn.no/job/ad/476975441",
       "deadline": "2026-10-12",
       "firstSeen": "2026-09-29",
-      "verifiedAt": "2026-10-11T17:04:58Z"
+      "verifiedAt": "2026-10-12T17:04:55Z"
     },
     {
       "id": "finn-477494033",
@@ -1072,7 +1072,7 @@
       "url": "https://www.finn.no/job/ad/477276299",
       "deadline": "2026-10-13",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-11T17:04:58Z"
+      "verifiedAt": "2026-10-12T17:04:55Z"
     },
     {
       "id": "finn-476484961",
@@ -1172,7 +1172,7 @@
       "url": "https://www.finn.no/job/ad/477641678",
       "deadline": "2026-10-15",
       "firstSeen": "2026-10-01",
-      "verifiedAt": "2026-10-01T06:07:52Z"
+      "verifiedAt": "2026-10-12T17:04:55Z"
     },
     {
       "id": "finn-476469118",
@@ -1213,7 +1213,7 @@
       "url": "https://www.finn.no/job/ad/477638566",
       "deadline": "2026-10-15",
       "firstSeen": "2026-10-01",
-      "verifiedAt": "2026-10-01T16:58:38Z"
+      "verifiedAt": "2026-10-12T17:04:55Z"
     },
     {
       "id": "vard-webcruiter-5153851699",
@@ -1332,7 +1332,7 @@
       "url": "https://www.finn.no/job/ad/476682097",
       "deadline": "2026-10-14",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-11T17:04:58Z"
+      "verifiedAt": "2026-10-12T17:04:55Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
