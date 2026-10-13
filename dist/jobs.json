@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-12T17:04:55Z",
+  "updatedAt": "2026-10-13T05:55:27Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. No new role met the inclusion standard. Forsvarsmateriell, Skatteetaten, Xledger, Equinor and Hydro deadline records were rechecked and remain open."
+      "note": "Current FINN adverts were searched and original pages opened. No new bachelor-friendly role met the inclusion standard. Two adverts with 12 October deadlines were closed, while today's two Forsvarsmateriell bachelor-level adverts were rechecked and remain open."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and Wenaas was rechecked on its original page. It remains open through 12 October; other results were existing records or outside the target profile."
+      "note": "Current NAV listings were searched and Wenaas was rechecked on its original page. Its 12 October deadline has passed, so it is now closed; other results were existing records or outside the target profile."
     },
     {
       "name": "Jobbnorge",
@@ -19,17 +19,17 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's public jobs results were checked. Visible current roles were technical, sales or otherwise outside the target profile, so no record was added."
+      "note": "Academic Work's current public results were checked. Visible roles were technical, sales, outside the target profile or an already expired purchasing trainee advert, so no record was added."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn results were searched. Current relevant results were existing duplicates, already closed or could not be opened reliably, so no LinkedIn-only record was added."
+      "note": "Public LinkedIn results were searched. Current relevant results were existing duplicates, required a master's, were already closed or lacked a reliable original page, so no LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Employer career pages and public employer results were searched. No new target-level role exposed enough current original qualification detail for inclusion; earlier records retain their successful verification timestamps."
+      "note": "Employer career pages and public employer results were searched. No new bachelor-level role exposed enough current original qualification detail for inclusion; earlier records retain their successful verification timestamps."
     }
   ],
   "jobs": [
@@ -135,7 +135,7 @@
       "url": "https://www.finn.no/job/ad/477272628",
       "deadline": "2026-10-13",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-12T17:04:55Z"
+      "verifiedAt": "2026-10-13T05:55:27Z"
     },
     {
       "id": "finn-478219030",
@@ -405,13 +405,13 @@
         "Finance"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Finance-team role spanning accounting, reconciliations, period close, reporting, budgeting, analysis and improvement of financial processes in an international company.",
       "requirements": "A master's degree in economics, finance, accounting or a related field is mandatory unless relevant experience can compensate. New graduates are invited, but bachelor-only candidates without compensating experience do not meet the stated education requirement. Norwegian and English are required.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/94f4ef72-6824-41dd-a307-8418fc8ed2a2",
       "deadline": "2026-10-12",
       "firstSeen": "2026-10-07",
-      "verifiedAt": "2026-10-12T17:04:55Z"
+      "verifiedAt": "2026-10-13T05:55:27Z"
     },
     {
       "id": "nordea-4702",
@@ -1022,13 +1022,13 @@
         "Supply chain"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Procurement work covering IKT purchases, order and invoice follow-up, supplier coordination and advice to internal teams and projects.",
       "requirements": "Bachelor’s in economics or administration, or compensating relevant experience. At least one year of purchasing, logistics or economics experience is mandatory, and the candidate must qualify for HEMMELIG and NATO SECRET security clearance.",
       "url": "https://www.finn.no/job/ad/476975441",
       "deadline": "2026-10-12",
       "firstSeen": "2026-09-29",
-      "verifiedAt": "2026-10-12T17:04:55Z"
+      "verifiedAt": "2026-10-13T05:55:27Z"
     },
     {
       "id": "finn-477494033",
@@ -1072,7 +1072,7 @@
       "url": "https://www.finn.no/job/ad/477276299",
       "deadline": "2026-10-13",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-12T17:04:55Z"
+      "verifiedAt": "2026-10-13T05:55:27Z"
     },
     {
       "id": "finn-476484961",
