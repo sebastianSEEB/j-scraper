@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-13T05:55:27Z",
+  "updatedAt": "2026-10-13T17:03:39Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. No new bachelor-friendly role met the inclusion standard. Two adverts with 12 October deadlines were closed, while today's two Forsvarsmateriell bachelor-level adverts were rechecked and remain open."
+      "note": "Current FINN adverts were searched and original pages opened. No new bachelor-friendly role met the inclusion standard. The two Forsvarsmateriell bachelor-level adverts remain open through tonight, and Skatteetaten, Xledger and Equinor deadline records were rechecked."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and Wenaas was rechecked on its original page. Its 12 October deadline has passed, so it is now closed; other results were existing records or outside the target profile."
+      "note": "Current NAV listings were searched and Hydro's internship record was rechecked on its original page. Other results were existing records, expired or outside the target profile."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public Jobbnorge results were searched. NTNU's project economist advert appeared current, but the original page still required JavaScript and did not expose qualification details reliably, so it was not added."
+      "note": "Public Jobbnorge results were searched, but current original pages did not expose enough reliable qualification detail for a new bachelor-level record."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public results were checked. Visible roles were technical, sales, outside the target profile or an already expired purchasing trainee advert, so no record was added."
+      "note": "Academic Work's current public results were checked. Visible roles were technical, outside the target profile or already expired, so no record was added."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn results were searched. Current relevant results were existing duplicates, required a master's, were already closed or lacked a reliable original page, so no LinkedIn-only record was added."
+      "note": "Public LinkedIn results were searched. A potentially relevant DNV document-control summer role lacked an accessible original advert, while other results were duplicates, technical or required a master's, so no LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Employer career pages and public employer results were searched. No new bachelor-level role exposed enough current original qualification detail for inclusion; earlier records retain their successful verification timestamps."
+      "note": "Employer career pages and public employer results were searched. No new bachelor-level role exposed enough current original qualification detail for inclusion; successfully opened Hydro and existing employer records were refreshed separately."
     }
   ],
   "jobs": [
@@ -135,7 +135,7 @@
       "url": "https://www.finn.no/job/ad/477272628",
       "deadline": "2026-10-13",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-13T05:55:27Z"
+      "verifiedAt": "2026-10-13T17:03:39Z"
     },
     {
       "id": "finn-478219030",
@@ -812,7 +812,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/050d17b4-5ff1-4068-ab6e-0698bf3d0905",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-28T06:09:19Z"
+      "verifiedAt": "2026-10-13T17:03:39Z"
     },
     {
       "id": "nav-6adfe757",
@@ -850,7 +850,7 @@
       "url": "https://www.finn.no/job/ad/476057492",
       "deadline": "2026-10-15",
       "firstSeen": "2026-09-25",
-      "verifiedAt": "2026-10-12T17:04:55Z"
+      "verifiedAt": "2026-10-13T17:03:39Z"
     },
     {
       "id": "finn-476982603",
@@ -1072,7 +1072,7 @@
       "url": "https://www.finn.no/job/ad/477276299",
       "deadline": "2026-10-13",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-13T05:55:27Z"
+      "verifiedAt": "2026-10-13T17:03:39Z"
     },
     {
       "id": "finn-476484961",
@@ -1172,7 +1172,7 @@
       "url": "https://www.finn.no/job/ad/477641678",
       "deadline": "2026-10-15",
       "firstSeen": "2026-10-01",
-      "verifiedAt": "2026-10-12T17:04:55Z"
+      "verifiedAt": "2026-10-13T17:03:39Z"
     },
     {
       "id": "finn-476469118",
@@ -1213,7 +1213,7 @@
       "url": "https://www.finn.no/job/ad/477638566",
       "deadline": "2026-10-15",
       "firstSeen": "2026-10-01",
-      "verifiedAt": "2026-10-12T17:04:55Z"
+      "verifiedAt": "2026-10-13T17:03:39Z"
     },
     {
       "id": "vard-webcruiter-5153851699",
@@ -1332,7 +1332,7 @@
       "url": "https://www.finn.no/job/ad/476682097",
       "deadline": "2026-10-14",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-12T17:04:55Z"
+      "verifiedAt": "2026-10-13T17:03:39Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
