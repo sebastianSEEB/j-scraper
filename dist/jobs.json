@@ -1,38 +1,60 @@
 {
-  "updatedAt": "2026-10-14T06:01:28Z",
+  "updatedAt": "2026-10-14T17:03:30Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. No new bachelor-friendly role met the inclusion standard. The two Forsvarsmateriell adverts that closed on 13 October were expired, while Skatteetaten, Xledger and Equinor deadline records were rechecked."
+      "note": "Current FINN adverts were searched and original pages opened. A bachelor-friendly Felleskjøpet operational purchasing role was added, while Skatteetaten, Xledger and Equinor deadline records were rechecked."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and Hydro's internship record was rechecked on its original page. Other results were existing records, expired or outside the target profile."
+      "note": "Current NAV listings were searched and Hydro's internship record was rechecked on its original page. Other visible results were existing records, expired or outside the target profile."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "A promising NAV Economics trainee role appeared in public Jobbnorge results, but its original page required JavaScript and did not expose a verifiable deadline or full details. It was not added."
+      "note": "A promising NAV Economics trainee role appeared in public Jobbnorge results, but the directly opened original page still required JavaScript and did not expose verifiable details. It was not added."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public results were checked. Visible roles were technical, outside the target profile or already expired, so no record was added."
+      "note": "Academic Work's current public results were checked. Visible roles were technical, outside the target profile or already represented, so no record was added."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn results were searched, but current results did not lead to an accessible, original and fully verifiable new advert. No LinkedIn-only record was added."
+      "note": "Public LinkedIn results were searched, but current results were older programmes, duplicates or lacked a current accessible original advert. No LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Employer career pages and public employer results were searched. No new bachelor-level role exposed enough current original qualification detail for inclusion; Hydro and other successfully opened existing records were refreshed separately."
+      "note": "Employer career pages and public employer results were searched. No additional bachelor-level role exposed enough current original qualification detail for inclusion; successfully opened existing records were refreshed separately."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-478147058",
+      "title": "Operativ Innkjøper",
+      "company": "Felleskjøpet",
+      "location": "Lillestrøm",
+      "type": "Temporary · Full time · Through summer 2027",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Procurement"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Manage daily purchasing and product flow for a retail portfolio, following orders, deliveries, inventory, deviations, invoices and supply performance while improving forecasts and stock levels.",
+      "requirements": "A bachelor’s in logistics, purchasing or economics is required; five years of experience is only an alternative for applicants without the degree. No prior professional-experience minimum is stated for bachelor graduates. Excel, general IT skills and written and spoken Norwegian and English are required.",
+      "url": "https://www.finn.no/job/ad/478147058",
+      "deadline": "2026-10-25",
+      "firstSeen": "2026-10-14",
+      "verifiedAt": "2026-10-14T17:03:30Z"
+    },
     {
       "id": "nav-fc7edff0",
       "title": "Administrasjon · Innkjøp og regnskap",
@@ -812,7 +834,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/050d17b4-5ff1-4068-ab6e-0698bf3d0905",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-14T06:01:28Z"
+      "verifiedAt": "2026-10-14T17:03:30Z"
     },
     {
       "id": "nav-6adfe757",
@@ -850,7 +872,7 @@
       "url": "https://www.finn.no/job/ad/476057492",
       "deadline": "2026-10-15",
       "firstSeen": "2026-09-25",
-      "verifiedAt": "2026-10-14T06:01:28Z"
+      "verifiedAt": "2026-10-14T17:03:30Z"
     },
     {
       "id": "finn-476982603",
@@ -1172,7 +1194,7 @@
       "url": "https://www.finn.no/job/ad/477641678",
       "deadline": "2026-10-15",
       "firstSeen": "2026-10-01",
-      "verifiedAt": "2026-10-14T06:01:28Z"
+      "verifiedAt": "2026-10-14T17:03:30Z"
     },
     {
       "id": "finn-476469118",
@@ -1213,7 +1235,7 @@
       "url": "https://www.finn.no/job/ad/477638566",
       "deadline": "2026-10-15",
       "firstSeen": "2026-10-01",
-      "verifiedAt": "2026-10-14T06:01:28Z"
+      "verifiedAt": "2026-10-14T17:03:30Z"
     },
     {
       "id": "vard-webcruiter-5153851699",
@@ -1332,7 +1354,7 @@
       "url": "https://www.finn.no/job/ad/476682097",
       "deadline": "2026-10-14",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-14T06:01:28Z"
+      "verifiedAt": "2026-10-14T17:03:30Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
