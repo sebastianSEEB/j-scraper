@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-14T17:03:30Z",
+  "updatedAt": "2026-10-15T06:01:10Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. A bachelor-friendly Felleskjøpet operational purchasing role was added, while Skatteetaten, Xledger and Equinor deadline records were rechecked."
+      "note": "Current FINN adverts were searched and original pages opened. Daimyo's student-friendly investment internship was added, Skatteetaten's expired advert was closed, and Xledger and Equinor deadline records were rechecked."
     },
     {
       "name": "NAV Arbeidsplassen",
@@ -28,11 +28,50 @@
     },
     {
       "name": "Employer careers",
-      "status": "Degraded",
-      "note": "Employer career pages and public employer results were searched. No additional bachelor-level role exposed enough current original qualification detail for inclusion; successfully opened existing records were refreshed separately."
+      "status": "Listings checked",
+      "note": "Employer career pages and public employer results were searched. Nordkraft's bachelor-friendly trainee programme was verified on its original page and added; no other fully verified strong match was found."
     }
   ],
   "jobs": [
+    {
+      "id": "nordkraft-trainee-2027",
+      "title": "Trainee · Oppstart høsten 2027",
+      "company": "Nordkraft",
+      "location": "Narvik, Harstad, Stokmarknes, Andøy or Ballangen",
+      "type": "Permanent · Full time · Up to two-year trainee programme",
+      "source": "Employer careers",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Rotate through at least two Nordkraft teams and projects, building broad operational and commercial experience across the renewable-energy group with mentoring and structured development.",
+      "requirements": "For candidates who have completed or are finishing a bachelor’s or master’s in economics or technology. No prior professional experience is stated. Written and spoken Norwegian and English plus a class B driving licence are mandatory.",
+      "url": "https://www.nordkraft.no/om-nordkraft/utdanning/student/trainee-i-nordkraft-konsernet-2027",
+      "deadline": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "verifiedAt": "2026-10-15T06:01:10Z"
+    },
+    {
+      "id": "finn-478335216",
+      "title": "Investeringsanalytiker · Internship",
+      "company": "Daimyo",
+      "location": "Oslo",
+      "type": "Temporary · Six-month internship · Three days to full time",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support an investment team through company and property screening, financial modelling, valuation, return analysis, due diligence and portfolio follow-up, with analysis used in live investment decisions.",
+      "requirements": "For bachelor’s or master’s students or new graduates in finance, economics, engineering or another quantitative field; two study years are preferred, but strong earlier candidates may be considered. Corporate-finance, accounting and valuation knowledge, advanced Excel and PowerPoint, active AI use, and fluent Norwegian and English are required. Relevant finance experience is a plus, not mandatory. Applications are reviewed continuously and may close before the stated 9 November deadline.",
+      "url": "https://www.finn.no/job/ad/478335216",
+      "deadline": "2026-11-09",
+      "firstSeen": "2026-10-15",
+      "verifiedAt": "2026-10-15T06:01:10Z"
+    },
     {
       "id": "finn-478147058",
       "title": "Operativ Innkjøper",
@@ -834,7 +873,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/050d17b4-5ff1-4068-ab6e-0698bf3d0905",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-14T17:03:30Z"
+      "verifiedAt": "2026-10-15T06:01:10Z"
     },
     {
       "id": "nav-6adfe757",
@@ -872,7 +911,7 @@
       "url": "https://www.finn.no/job/ad/476057492",
       "deadline": "2026-10-15",
       "firstSeen": "2026-09-25",
-      "verifiedAt": "2026-10-14T17:03:30Z"
+      "verifiedAt": "2026-10-15T06:01:10Z"
     },
     {
       "id": "finn-476982603",
@@ -1194,7 +1233,7 @@
       "url": "https://www.finn.no/job/ad/477641678",
       "deadline": "2026-10-15",
       "firstSeen": "2026-10-01",
-      "verifiedAt": "2026-10-14T17:03:30Z"
+      "verifiedAt": "2026-10-15T06:01:10Z"
     },
     {
       "id": "finn-476469118",
@@ -1235,7 +1274,7 @@
       "url": "https://www.finn.no/job/ad/477638566",
       "deadline": "2026-10-15",
       "firstSeen": "2026-10-01",
-      "verifiedAt": "2026-10-14T17:03:30Z"
+      "verifiedAt": "2026-10-15T06:01:10Z"
     },
     {
       "id": "vard-webcruiter-5153851699",
@@ -1348,13 +1387,13 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Two public-sector economics and audit positions conducting business controls, risk assessments and decisions in multidisciplinary teams, with work adapted to the successful candidates’ experience.",
       "requirements": "A completed bachelor’s in economics, accounting or auditing is required, although documented equivalent competence may sometimes substitute. Relevant experience is helpful but not mandatory; new graduates or students finishing by January are explicitly welcome. Norwegian and accounting knowledge are required.",
       "url": "https://www.finn.no/job/ad/476682097",
       "deadline": "2026-10-14",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-14T17:03:30Z"
+      "verifiedAt": "2026-10-15T06:01:10Z"
     },
     {
       "id": "wilhelmsen-JOBREQ-13100",
