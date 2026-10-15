@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-15T06:01:10Z",
+  "updatedAt": "2026-10-15T16:55:12Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. Daimyo's student-friendly investment internship was added, Skatteetaten's expired advert was closed, and Xledger and Equinor deadline records were rechecked."
+      "note": "Current FINN adverts were searched and original pages opened. Relevant new adverts were also verified through their direct NAV mirrors; no FINN-only evening addition met a higher inclusion standard."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and Hydro's internship record was rechecked on its original page. Other visible results were existing records, expired or outside the target profile."
+      "note": "Current NAV listings were searched and original pages opened. Framo's logistics coordinator and BoCo's graduate-friendly accounting role were added; Geminor's logistics coordinator was added as stretch because relevant logistics experience is required."
     },
     {
       "name": "Jobbnorge",
@@ -19,12 +19,12 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public results were checked. Visible roles were technical, outside the target profile or already represented, so no record was added."
+      "note": "Academic Work's current public results and original adverts were checked. Selecta's Business Analyst and Planner trainee roles were verified and added."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn results were searched, but current results were older programmes, duplicates or lacked a current accessible original advert. No LinkedIn-only record was added."
+      "note": "Public LinkedIn results were searched. Current relevant results were mandatory-master roles, duplicates or lacked a separate accessible original advert, so no LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
@@ -33,6 +33,112 @@
     }
   ],
   "jobs": [
+    {
+      "id": "academicwork-DXKTU2",
+      "title": "Business Analyst · Trainee",
+      "company": "Selecta Norway",
+      "location": "Oslo",
+      "type": "Full time · Six-month trainee period · Intended permanent conversion",
+      "source": "Academic Work",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Turn Nordic operating data and KPIs into management insight, dashboards and improvement initiatives while working with finance, logistics, supply-chain and service teams.",
+      "requirements": "Power BI and Excel knowledge, strong business and systems understanding, process-improvement competence, and good Norwegian and English are required. The advert states no degree or prior professional-experience minimum. Selection is rolling and may close early.",
+      "url": "https://www.academicwork.no/ledige-stillinger/j/selecta-sker-en-business-analyst-er-det-deg/DXKTU2",
+      "deadline": null,
+      "firstSeen": "2026-10-15",
+      "verifiedAt": "2026-10-15T16:55:12Z"
+    },
+    {
+      "id": "academicwork-FAE6SN",
+      "title": "Planner · Trainee",
+      "company": "Selecta Norway",
+      "location": "Oslo",
+      "type": "Full time · Six-month trainee period · Intended permanent conversion",
+      "source": "Academic Work",
+      "categories": [
+        "Business",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Plan and optimize national driver and technician routes, maintain master data, monitor service needs and use Excel to keep daily logistics flows efficient.",
+      "requirements": "Recently completed education in logistics, administration, economics or a related field is explicitly accepted as an alternative to experience. Pivot-table-level Excel and very good Norwegian and English are required. Selection is rolling and may close early.",
+      "url": "https://www.academicwork.no/ledige-stillinger/j/glad-i-excel-struktur-og-flyt/FAE6SN",
+      "deadline": null,
+      "firstSeen": "2026-10-15",
+      "verifiedAt": "2026-10-15T16:55:12Z"
+    },
+    {
+      "id": "nav-15baf81e",
+      "title": "Logistics & Project Coordinator",
+      "company": "Framo Fusa",
+      "location": "Fusa · Bjørnafjorden",
+      "type": "Full time · Logistics and project coordination",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Shipping",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Coordinate orders, international shipments, delivery documentation, invoicing and reporting across project, production, finance and sales for a maritime pump-system manufacturer.",
+      "requirements": "Relevant education or experience in logistics, economics, administration, order handling or project coordination is accepted. Industrial or international-delivery experience is advantageous, not mandatory. Norwegian and English plus strong system understanding are required.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/15baf81e-5a21-4455-9b3d-dbfb988e81d9",
+      "deadline": "2026-10-31",
+      "firstSeen": "2026-10-15",
+      "verifiedAt": "2026-10-15T16:55:12Z"
+    },
+    {
+      "id": "nav-95a4a7f9",
+      "title": "Regnskapsfører",
+      "company": "Bo Coliving",
+      "location": "Oslo · Solli plass",
+      "type": "Full time · Accounting",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Build accounting experience across a large property portfolio through bookkeeping, reconciliations, reporting, internal control and improvement work using Xledger, automation and AI.",
+      "requirements": "Higher education in economics, interest in accounting, Excel and good Norwegian and English are required. New graduates are explicitly welcome; accounting, Xledger, Power BI or automation experience is positive but not mandatory. Applications are reviewed continuously.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/95a4a7f9-c95c-4517-b0d2-f3b0d1386ea7",
+      "deadline": null,
+      "firstSeen": "2026-10-15",
+      "verifiedAt": "2026-10-15T16:55:12Z"
+    },
+    {
+      "id": "nav-d2bc5095",
+      "title": "Logistikkoordinator",
+      "company": "Geminor",
+      "location": "Avaldsnes · Karmøy",
+      "type": "Permanent · Full time · International logistics",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Shipping",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Coordinate national and international waste transport, delivery plans, customs and environmental documentation, forecasts, deviations and carrier agreements.",
+      "requirements": "Relevant education or experience in logistics is required, and the profile specifically asks for logistics experience in complex operations. Norwegian and English, Excel, systems competence and a class B driving licence are mandatory. Transport, freight-forwarding, customs and intermodal experience are additional advantages.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d2bc5095-5cb9-4f3b-b2b8-f7df34e5521d",
+      "deadline": "2026-10-16",
+      "firstSeen": "2026-10-15",
+      "verifiedAt": "2026-10-15T16:55:12Z"
+    },
     {
       "id": "nordkraft-trainee-2027",
       "title": "Trainee · Oppstart høsten 2027",
