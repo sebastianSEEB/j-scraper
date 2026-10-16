@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-10-15T16:55:12Z",
+  "updatedAt": "2026-10-16T06:03:09Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. Relevant new adverts were also verified through their direct NAV mirrors; no FINN-only evening addition met a higher inclusion standard."
+      "note": "Current FINN adverts were searched and original pages opened. EY's student audit internship was added, Statnett was rechecked, and the expired Xledger and Equinor internships were closed."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages opened. Framo's logistics coordinator and BoCo's graduate-friendly accounting role were added; Geminor's logistics coordinator was added as stretch because relevant logistics experience is required."
+      "note": "Current NAV listings were searched and original pages opened. A bachelor-friendly junior project coordinator role in Horten was added; Hydro and Geminor were rechecked for today's deadlines."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "A promising NAV Economics trainee role appeared in public Jobbnorge results, but the directly opened original page still required JavaScript and did not expose verifiable details. It was not added."
+      "note": "A relevant Nord University procurement role appeared in current results, but its original Jobbnorge page exposed only a JavaScript notice and no verifiable qualifications. It was not added."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public results and original adverts were checked. Selecta's Business Analyst and Planner trainee roles were verified and added."
+      "note": "Academic Work's current public results were checked. The two Selecta trainee roles remain represented; no additional verified profile match was found."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn results were searched. Current relevant results were mandatory-master roles, duplicates or lacked a separate accessible original advert, so no LinkedIn-only record was added."
+      "note": "Public LinkedIn results were searched. Relevant results were closed, mandatory-master roles, duplicates or lacked a separate accessible original advert, so no LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
@@ -33,6 +33,47 @@
     }
   ],
   "jobs": [
+    {
+      "id": "finn-478002094",
+      "title": "Elevate@EY · Audit Internship Winter 2027",
+      "company": "EY",
+      "location": "Oslo, Trondheim, Stavanger, Drammen or Hønefoss",
+      "type": "Part time · Five-week winter internship · Optional autumn period",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Build practical experience in audit, accounting, financial reporting, internal control, risk assessment and economic analysis through training and client work.",
+      "requirements": "Open to second- through fifth-year students in economics, strategy, administration, accounting, audit, finance or a related field. Good academic results, analytical ability and strong Norwegian and English are required; no prior professional experience is stated. The deadline is 29 October at 12:00, and the aptitude test plus video application must be completed by 30 October at 12:00.",
+      "url": "https://www.finn.no/job/ad/478002094",
+      "deadline": "2026-10-29",
+      "firstSeen": "2026-10-16",
+      "verifiedAt": "2026-10-16T06:03:09Z"
+    },
+    {
+      "id": "nav-7b6617be",
+      "title": "Junior prosjektkoordinator",
+      "company": "Moyo",
+      "location": "Horten",
+      "type": "Temporary · Full time · Through 31 December 2027",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Coordinate project documentation, meetings, milestones, approvals, purchasing and process improvements for advanced medical-technology development programmes.",
+      "requirements": "A bachelor’s in project management, economics/business, engineering or another relevant field is expected. New graduates and early-career candidates are explicitly encouraged, and experience is advantageous rather than mandatory. Good English and general IT competence are required. Applications are reviewed as soon as possible.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/7b6617be-17bd-4e80-bfdc-d7d20bd773fd",
+      "deadline": null,
+      "firstSeen": "2026-10-16",
+      "verifiedAt": "2026-10-16T06:03:09Z"
+    },
     {
       "id": "academicwork-DXKTU2",
       "title": "Business Analyst · Trainee",
@@ -137,7 +178,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d2bc5095-5cb9-4f3b-b2b8-f7df34e5521d",
       "deadline": "2026-10-16",
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-15T16:55:12Z"
+      "verifiedAt": "2026-10-16T06:03:09Z"
     },
     {
       "id": "nordkraft-trainee-2027",
@@ -150,13 +191,13 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Rotate through at least two Nordkraft teams and projects, building broad operational and commercial experience across the renewable-energy group with mentoring and structured development.",
       "requirements": "For candidates who have completed or are finishing a bachelor’s or master’s in economics or technology. No prior professional experience is stated. Written and spoken Norwegian and English plus a class B driving licence are mandatory.",
       "url": "https://www.nordkraft.no/om-nordkraft/utdanning/student/trainee-i-nordkraft-konsernet-2027",
       "deadline": "2026-10-15",
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-15T06:01:10Z"
+      "verifiedAt": "2026-10-16T06:03:09Z"
     },
     {
       "id": "finn-478335216",
@@ -281,7 +322,7 @@
       "url": "https://www.finn.no/job/ad/476050064",
       "deadline": "2026-10-18",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-11T06:05:14Z"
+      "verifiedAt": "2026-10-16T06:03:09Z"
     },
     {
       "id": "finn-477272628",
@@ -979,7 +1020,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/050d17b4-5ff1-4068-ab6e-0698bf3d0905",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-15T06:01:10Z"
+      "verifiedAt": "2026-10-16T06:03:09Z"
     },
     {
       "id": "nav-6adfe757",
@@ -1011,13 +1052,13 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "A student team explores a real business challenge from insight and analysis through testing and presentation, potentially involving new business opportunities, AI or technology.",
       "requirements": "For business development, economics, technology or related students who finish a bachelor in spring 2027, or have started or are completing a master. The formal FINN deadline is 15 October; the advert body also says 16 October, so use the earlier date.",
       "url": "https://www.finn.no/job/ad/476057492",
       "deadline": "2026-10-15",
       "firstSeen": "2026-09-25",
-      "verifiedAt": "2026-10-15T06:01:10Z"
+      "verifiedAt": "2026-10-16T06:03:09Z"
     },
     {
       "id": "finn-476982603",
@@ -1333,13 +1374,13 @@
         "Procurement"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Strategy and management internship with a Supply Chain Management Commercial track in Bergen, Oslo or Stavanger, plus project-management and commercial sustainability options.",
       "requirements": "Open to bachelor’s, master’s or PhD students. At least two years of higher education must be completed before the internship and at least one study year must remain afterwards. Fluent English, a valid Norwegian work permit and no more than two years of relevant full-time experience are required; Equinor does not sponsor visas or relocation for most locations.",
       "url": "https://www.finn.no/job/ad/477641678",
       "deadline": "2026-10-15",
       "firstSeen": "2026-10-01",
-      "verifiedAt": "2026-10-15T06:01:10Z"
+      "verifiedAt": "2026-10-16T06:03:09Z"
     },
     {
       "id": "finn-476469118",
@@ -1374,13 +1415,13 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Finance and trading internship with placements in Market Analysis and Trading in Bergen or Finance and Control in Oslo and Stavanger.",
       "requirements": "Open to bachelor’s, master’s or PhD students with a good academic record. At least two years of higher education must be completed before the internship and at least one study year must remain afterwards. Fluent English, a valid Norwegian work permit and no more than two years of relevant full-time experience are required; Equinor does not sponsor visas or relocation for most locations.",
       "url": "https://www.finn.no/job/ad/477638566",
       "deadline": "2026-10-15",
       "firstSeen": "2026-10-01",
-      "verifiedAt": "2026-10-15T06:01:10Z"
+      "verifiedAt": "2026-10-16T06:03:09Z"
     },
     {
       "id": "vard-webcruiter-5153851699",
