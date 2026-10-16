@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-16T06:03:09Z",
+  "updatedAt": "2026-10-16T17:04:40Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. EY's student audit internship was added, Statnett was rechecked, and the expired Xledger and Equinor internships were closed."
+      "note": "Current FINN adverts were searched and original pages opened. Bachelor-friendly product-coordinator and contract-management roles were added. A duplicate Geminor record was removed in favour of the direct NAV version."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages opened. A bachelor-friendly junior project coordinator role in Horten was added; Hydro and Geminor were rechecked for today's deadlines."
+      "note": "Current NAV listings were searched and original pages opened. Hydro and Geminor were rechecked and remain open through today's stated deadlines; no additional verified profile match was found."
     },
     {
       "name": "Jobbnorge",
@@ -19,20 +19,63 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public results were checked. The two Selecta trainee roles remain represented; no additional verified profile match was found."
+      "note": "Academic Work's current public results were checked. The two Selecta trainee roles remain represented; no additional verified target-profile role was found."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public LinkedIn results were searched. Relevant results were closed, mandatory-master roles, duplicates or lacked a separate accessible original advert, so no LinkedIn-only record was added."
+      "note": "Public LinkedIn results were searched. Current relevant results were duplicates, closed or lacked a separately accessible original advert; no LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
-      "status": "Listings checked",
-      "note": "Employer career pages and public employer results were searched. Nordkraft's bachelor-friendly trainee programme was verified on its original page and added; no other fully verified strong match was found."
+      "status": "Degraded",
+      "note": "Employer career pages and public results were searched. DNV Maritime Advisory was rechecked successfully, but Wilhelmsen's Workday original returned no readable content, so its earlier verification timestamp was preserved."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-477583648",
+      "title": "Produktkoordinator",
+      "company": "Frosna Group",
+      "location": "Oslo · Alnabru",
+      "type": "Permanent · Full time · Purchasing and product coordination",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Procurement",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Coordinate purchasing and deliveries, follow up suppliers and deviations, maintain product information and support digitalization and improvement projects.",
+      "requirements": "Relevant education in logistics, economics, technical studies or a similar field is expected. Coordination, purchasing, logistics or administration experience is advantageous rather than mandatory, and the advert emphasizes learning ability and support from experienced colleagues.",
+      "url": "https://www.finn.no/job/ad/477583648",
+      "deadline": "2026-10-21",
+      "firstSeen": "2026-10-16",
+      "verifiedAt": "2026-10-16T17:04:40Z"
+    },
+    {
+      "id": "finn-478318447",
+      "title": "Kontraktsforvalter",
+      "company": "Forsvarsmateriell",
+      "location": "Lillehammer",
+      "type": "Permanent · Full time · Contract and supplier management",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Procurement",
+        "Logistics"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Manage defence-sector supplier contracts from implementation and performance follow-up through change handling, cost control, improvement and future procurement input.",
+      "requirements": "A relevant bachelor’s in economics, procurement, logistics, law or a comparable field is mandatory unless relevant experience compensates. Contract, supplier, public-procurement, ERP and value-chain experience are desirable rather than stated minimums. Strong Norwegian, good English and eligibility for Hemmelig/NATO Secret clearance are mandatory.",
+      "url": "https://www.finn.no/job/ad/478318447",
+      "deadline": "2026-11-01",
+      "firstSeen": "2026-10-16",
+      "verifiedAt": "2026-10-16T17:04:40Z"
+    },
     {
       "id": "finn-478002094",
       "title": "Elevate@EY · Audit Internship Winter 2027",
@@ -178,7 +221,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d2bc5095-5cb9-4f3b-b2b8-f7df34e5521d",
       "deadline": "2026-10-16",
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-16T06:03:09Z"
+      "verifiedAt": "2026-10-16T17:04:40Z"
     },
     {
       "id": "nordkraft-trainee-2027",
@@ -825,26 +868,6 @@
       "firstSeen": "2026-09-22"
     },
     {
-      "id": "finn-476700939",
-      "title": "Logistikkoordinator",
-      "company": "Geminor",
-      "location": "Avaldsnes",
-      "type": "Permanent · On site",
-      "source": "FINN",
-      "categories": [
-        "Logistics",
-        "Supply chain"
-      ],
-      "fit": "stretch",
-      "summary": "Coordinate international transport, delivery schedules and customs documentation, with responsibility for customer projects.",
-      "requirements": "Relevant logistics education or experience; the profile also asks for logistics experience. Excel, Norwegian/English and class B driving licence.",
-      "url": "https://www.finn.no/job/ad/476700939",
-      "deadline": "2026-10-16",
-      "status": "open",
-      "verifiedAt": "2026-09-28T06:09:19Z",
-      "firstSeen": "2026-09-22"
-    },
-    {
       "id": "finn-476372712",
       "title": "Supply Planner",
       "company": "Haugen-Gruppen",
@@ -979,7 +1002,7 @@
       "url": "https://jobs.dnv.com/job-search/maritime/consultant/oslo-norway/maritime-advisory-trainee-2027/300001698569400",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-23",
-      "verifiedAt": "2026-09-28T17:06:40Z"
+      "verifiedAt": "2026-10-16T17:04:40Z"
     },
     {
       "id": "finn-476722814",
@@ -1020,7 +1043,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/050d17b4-5ff1-4068-ab6e-0698bf3d0905",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-16T06:03:09Z"
+      "verifiedAt": "2026-10-16T17:04:40Z"
     },
     {
       "id": "nav-6adfe757",
