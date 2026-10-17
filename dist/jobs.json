@@ -1,38 +1,102 @@
 {
-  "updatedAt": "2026-10-17T06:04:36Z",
+  "updatedAt": "2026-10-17T17:04:01Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. Hafslund's student internship was rechecked ahead of its 18 October deadline; no new FINN-only strong match was found."
+      "note": "Current FINN adverts were searched and original pages opened. NORBIT's part-time student logistics role was added, while Statnett and Hafslund were rechecked ahead of their 18 October deadlines."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages opened. Expired Hydro and Geminor adverts were closed, and Hatteland's bachelor-friendly accounting role was rechecked ahead of its 18 October deadline."
+      "note": "Current NAV listings were searched and original pages opened. Graduate-friendly NAV economics and Delta accounting trainee roles were added, and Hatteland was rechecked ahead of its 18 October deadline."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "A relevant Nord University procurement role appeared in current results, but its original Jobbnorge page exposed only a JavaScript notice and no verifiable qualifications. It was not added."
+      "note": "Jobbnorge results were searched. NAV's public mirror exposed the new economics trainee's qualifications, but the direct application page redirected to login and the full deadline year was not public; this limitation is recorded in the job requirements."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public results were checked. The two Selecta trainee roles remain publicly listed; no additional verified target-profile role was found."
+      "note": "Academic Work's current public results were checked. The Selecta planner trainee remains publicly listed; no additional verified target-profile role was found."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched and original pages opened. AVA of Norway's no-experience-required student supply-chain role was added."
+      "note": "Public LinkedIn listings were searched and original pages opened. No additional current role passed verification; older promising student adverts explicitly said they were no longer accepting applications."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Employer career pages and public results were searched. Expired DNV Maritime Advisory was closed, while NBIM and VARD were rechecked ahead of their 18 October deadlines. Wilhelmsen's Workday original remained unreadable, so its earlier verification timestamp was preserved."
+      "note": "Employer career pages and public results were searched. NBIM and VARD were rechecked ahead of their 18 October deadlines. Wilhelmsen's Workday original remained unreadable, so its earlier verification timestamp was preserved."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-478789937",
+      "title": "Junior Document Controller · Student",
+      "company": "NORBIT Subsea",
+      "location": "Trondheim",
+      "type": "Part time · Student project · 1–2 days per week for 6–12 months",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Shipping",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Review customs declarations and trade documents, verify invoices and shipment data, document discrepancies and help maintain accurate import and export records in a maritime-technology logistics team.",
+      "requirements": "Must currently study economics, logistics, supply-chain management, international trade or a similar field. Norwegian and English, numerical accuracy and comfort with digital tools are required. Customs, import/export or document-control experience is advantageous, not mandatory; training is provided.",
+      "url": "https://www.finn.no/job/ad/478789937",
+      "deadline": "2026-11-08",
+      "firstSeen": "2026-10-17",
+      "verifiedAt": "2026-10-17T17:04:01Z"
+    },
+    {
+      "id": "nav-b2dfba76",
+      "title": "Trainee · Økonomi",
+      "company": "NAV Økonomi Stønad",
+      "location": "Mo i Rana",
+      "type": "Full time · Trainee programme",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Build early-career experience with payments, tax and deduction records, accounting, reconciliations, reporting and internal collaboration in NAV's national economics unit.",
+      "requirements": "A completed bachelor’s or master’s in economics, administration or public administration is mandatory. Norwegian communication, digital competence, initiative and service orientation are required; no prior professional experience is stated. The public page says applications close Monday 1 March but does not expose the year, so verify the full date before applying.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/b2dfba76-57eb-481d-857f-0d1f5d99a873",
+      "deadline": null,
+      "firstSeen": "2026-10-17",
+      "verifiedAt": "2026-10-17T17:04:01Z"
+    },
+    {
+      "id": "nav-e7852631",
+      "title": "Regnskapsfører / Trainee Regnskapsfører",
+      "company": "Delta Regnskap",
+      "location": "Sandnes",
+      "type": "Full time · Accounting trainee",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Develop through bookkeeping, payroll, invoicing, reconciliations, reporting, quality control and customer dialogue, with responsibility increasing alongside competence.",
+      "requirements": "Relevant accounting or economics education and/or experience is sought. A relevant three-year degree is advantageous rather than stated as mandatory, authorization is not required, and new graduates are explicitly encouraged. No application deadline was shown on the public page.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e7852631-451f-462d-ad3b-10f5ce148ac1",
+      "deadline": null,
+      "firstSeen": "2026-10-17",
+      "verifiedAt": "2026-10-17T17:04:01Z"
+    },
     {
       "id": "linkedin-4479296311",
       "title": "Student Assistant · Supply Chain & Logistics",
@@ -388,7 +452,7 @@
       "url": "https://www.finn.no/job/ad/476050064",
       "deadline": "2026-10-18",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-17T06:04:36Z"
+      "verifiedAt": "2026-10-17T17:04:01Z"
     },
     {
       "id": "finn-477272628",
@@ -785,7 +849,7 @@
       "url": "https://398280.webcruiter.no/Main/Recruit/Public/5187004303?language=en&showExpired=False",
       "deadline": "2026-10-18",
       "status": "open",
-      "verifiedAt": "2026-10-17T06:04:36Z",
+      "verifiedAt": "2026-10-17T17:04:01Z",
       "firstSeen": "2026-10-05"
     },
     {
@@ -1345,7 +1409,7 @@
       "url": "https://www.finn.no/job/ad/476484961",
       "deadline": "2026-10-18",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-17T06:04:36Z"
+      "verifiedAt": "2026-10-17T17:04:01Z"
     },
     {
       "id": "nav-587eadd3",
@@ -1488,7 +1552,7 @@
       "url": "https://457632.webcruiter.no/main/recruit/public/5153851699?language=&url_org=457632&use_position_site_header=0",
       "deadline": "2026-10-18",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-17T06:04:36Z"
+      "verifiedAt": "2026-10-17T17:04:01Z"
     },
     {
       "id": "clarksons-oslo-summer-2027",
@@ -1567,7 +1631,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/fbf43378-e7bd-4287-83b3-d81fbced6fc8",
       "deadline": "2026-10-18",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-17T06:04:36Z"
+      "verifiedAt": "2026-10-17T17:04:01Z"
     },
     {
       "id": "finn-476682097",
