@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-16T17:04:40Z",
+  "updatedAt": "2026-10-17T06:04:36Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. Bachelor-friendly product-coordinator and contract-management roles were added. A duplicate Geminor record was removed in favour of the direct NAV version."
+      "note": "Current FINN adverts were searched and original pages opened. Hafslund's student internship was rechecked ahead of its 18 October deadline; no new FINN-only strong match was found."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages opened. Hydro and Geminor were rechecked and remain open through today's stated deadlines; no additional verified profile match was found."
+      "note": "Current NAV listings were searched and original pages opened. Expired Hydro and Geminor adverts were closed, and Hatteland's bachelor-friendly accounting role was rechecked ahead of its 18 October deadline."
     },
     {
       "name": "Jobbnorge",
@@ -19,20 +19,43 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public results were checked. The two Selecta trainee roles remain represented; no additional verified target-profile role was found."
+      "note": "Academic Work's current public results were checked. The two Selecta trainee roles remain publicly listed; no additional verified target-profile role was found."
     },
     {
       "name": "LinkedIn",
-      "status": "Degraded",
-      "note": "Public LinkedIn results were searched. Current relevant results were duplicates, closed or lacked a separately accessible original advert; no LinkedIn-only record was added."
+      "status": "Listings checked",
+      "note": "Public LinkedIn listings were searched and original pages opened. AVA of Norway's no-experience-required student supply-chain role was added."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Employer career pages and public results were searched. DNV Maritime Advisory was rechecked successfully, but Wilhelmsen's Workday original returned no readable content, so its earlier verification timestamp was preserved."
+      "note": "Employer career pages and public results were searched. Expired DNV Maritime Advisory was closed, while NBIM and VARD were rechecked ahead of their 18 October deadlines. Wilhelmsen's Workday original remained unreadable, so its earlier verification timestamp was preserved."
     }
   ],
   "jobs": [
+    {
+      "id": "linkedin-4479296311",
+      "title": "Student Assistant · Supply Chain & Logistics",
+      "company": "AVA of Norway",
+      "location": "Bergen · Some home office possible",
+      "type": "Part time · Student · Approximately 7–8 hours per week",
+      "source": "LinkedIn",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Shipping",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support deliveries and container transport, inventory, supplier invoices, transport-cost allocation, warehouse transfers, production and delivery plans, reporting and Excel analysis.",
+      "requirements": "Must currently study economics, logistics, supply-chain management or a similar field. Excel, comfort with digital systems, and Norwegian and English are required. No prior logistics experience is required; logistics or ERP experience is only an advantage.",
+      "url": "https://no.linkedin.com/jobs/view/student-assistant-%E2%80%93-supply-chain-logistics-at-ava-of-norway-4479296311",
+      "deadline": "2026-11-01",
+      "firstSeen": "2026-10-17",
+      "verifiedAt": "2026-10-17T06:04:36Z"
+    },
     {
       "id": "finn-477583648",
       "title": "Produktkoordinator",
@@ -136,7 +159,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/selecta-sker-en-business-analyst-er-det-deg/DXKTU2",
       "deadline": null,
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-15T16:55:12Z"
+      "verifiedAt": "2026-10-17T06:04:36Z"
     },
     {
       "id": "academicwork-FAE6SN",
@@ -157,7 +180,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/glad-i-excel-struktur-og-flyt/FAE6SN",
       "deadline": null,
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-15T16:55:12Z"
+      "verifiedAt": "2026-10-17T06:04:36Z"
     },
     {
       "id": "nav-15baf81e",
@@ -215,13 +238,13 @@
         "Operations"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Coordinate national and international waste transport, delivery plans, customs and environmental documentation, forecasts, deviations and carrier agreements.",
       "requirements": "Relevant education or experience in logistics is required, and the profile specifically asks for logistics experience in complex operations. Norwegian and English, Excel, systems competence and a class B driving licence are mandatory. Transport, freight-forwarding, customs and intermodal experience are additional advantages.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d2bc5095-5cb9-4f3b-b2b8-f7df34e5521d",
       "deadline": "2026-10-16",
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-16T17:04:40Z"
+      "verifiedAt": "2026-10-17T06:04:36Z"
     },
     {
       "id": "nordkraft-trainee-2027",
@@ -365,7 +388,7 @@
       "url": "https://www.finn.no/job/ad/476050064",
       "deadline": "2026-10-18",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-16T06:03:09Z"
+      "verifiedAt": "2026-10-17T06:04:36Z"
     },
     {
       "id": "finn-477272628",
@@ -762,7 +785,7 @@
       "url": "https://398280.webcruiter.no/Main/Recruit/Public/5187004303?language=en&showExpired=False",
       "deadline": "2026-10-18",
       "status": "open",
-      "verifiedAt": "2026-10-05T17:09:38Z",
+      "verifiedAt": "2026-10-17T06:04:36Z",
       "firstSeen": "2026-10-05"
     },
     {
@@ -996,13 +1019,13 @@
         "Shipping"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "A two-year maritime advisory programme with three rotations, client projects and exposure to operational performance, fleet strategy and the wider shipping value chain.",
       "requirements": "Mandatory relevant master’s completed by July 2027, strong analytical and communication skills, interest in maritime work and fluent English. A BBA alone does not meet the stated degree requirement.",
       "url": "https://jobs.dnv.com/job-search/maritime/consultant/oslo-norway/maritime-advisory-trainee-2027/300001698569400",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-23",
-      "verifiedAt": "2026-10-16T17:04:40Z"
+      "verifiedAt": "2026-10-17T06:04:36Z"
     },
     {
       "id": "finn-476722814",
@@ -1037,13 +1060,13 @@
         "Logistics"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "More than 40 internships, including logistics projects, sourcing and trading, logistics performance, energy strategy, inbound shipping and outbound logistics.",
       "requirements": "Minimum three years of completed studies and good academic results. Part-time or voluntary experience is an advantage, not stated as mandatory. Confirm when the three-year threshold is measured.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/050d17b4-5ff1-4068-ab6e-0698bf3d0905",
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-10-16T17:04:40Z"
+      "verifiedAt": "2026-10-17T06:04:36Z"
     },
     {
       "id": "nav-6adfe757",
@@ -1322,7 +1345,7 @@
       "url": "https://www.finn.no/job/ad/476484961",
       "deadline": "2026-10-18",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-09-30T17:05:58Z"
+      "verifiedAt": "2026-10-17T06:04:36Z"
     },
     {
       "id": "nav-587eadd3",
@@ -1465,7 +1488,7 @@
       "url": "https://457632.webcruiter.no/main/recruit/public/5153851699?language=&url_org=457632&use_position_site_header=0",
       "deadline": "2026-10-18",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-09-30T06:08:14Z"
+      "verifiedAt": "2026-10-17T06:04:36Z"
     },
     {
       "id": "clarksons-oslo-summer-2027",
@@ -1544,7 +1567,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/fbf43378-e7bd-4287-83b3-d81fbced6fc8",
       "deadline": "2026-10-18",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-02T16:59:17Z"
+      "verifiedAt": "2026-10-17T06:04:36Z"
     },
     {
       "id": "finn-476682097",
