@@ -1,38 +1,58 @@
 {
-  "updatedAt": "2026-10-17T17:04:01Z",
+  "updatedAt": "2026-10-18T05:55:07Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. NORBIT's part-time student logistics role was added, while Statnett and Hafslund were rechecked ahead of their 18 October deadlines."
+      "note": "Current FINN adverts were searched and original pages opened. Statnett, Bane NOR, Egersund Net and Hafslund were rechecked on their 18 October deadlines; no additional verified target-profile FINN role was found."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages opened. Graduate-friendly NAV economics and Delta accounting trainee roles were added, and Hatteland was rechecked ahead of its 18 October deadline."
+      "note": "Current NAV listings were searched and original pages opened. Hatteland was rechecked on its 18 October deadline; no additional verified target-profile NAV role was found."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge results were searched. NAV's public mirror exposed the new economics trainee's qualifications, but the direct application page redirected to login and the full deadline year was not public; this limitation is recorded in the job requirements."
+      "note": "Jobbnorge results were searched, but direct public coverage remained limited by login and JavaScript-only pages. Existing jobs retain their earlier verification timestamps unless an accessible original or public mirror could be checked."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public results were checked. The Selecta planner trainee remains publicly listed; no additional verified target-profile role was found."
+      "note": "Academic Work's current public results were checked. The search surfaced an expired Rolls-Royce trainee advert but no additional current verified target-profile role."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched and original pages opened. No additional current role passed verification; older promising student adverts explicitly said they were no longer accepting applications."
+      "note": "Public LinkedIn listings were searched and original pages opened. Cognizant's current Business Analyst Consulting internship was verified and added; no login-only details were used."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Employer career pages and public results were searched. NBIM and VARD were rechecked ahead of their 18 October deadlines. Wilhelmsen's Workday original remained unreadable, so its earlier verification timestamp was preserved."
+      "note": "Employer career pages and public results were searched. NBIM and VARD were rechecked on their 18 October deadlines. Wilhelmsen's Workday original remained unreadable, so its earlier verification timestamp was preserved."
     }
   ],
   "jobs": [
+    {
+      "id": "linkedin-4466197135",
+      "title": "Internship Business Analyst · Consulting",
+      "company": "Cognizant",
+      "location": "Oslo · Hybrid",
+      "type": "Full time · Three-month unpaid internship · Immediate start",
+      "source": "LinkedIn",
+      "categories": [
+        "Business",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Analyse and document business and data requirements, research client challenges and markets, and support recommendations, presentations, workshops and cross-functional consulting delivery.",
+      "requirements": "Must currently pursue a bachelor’s or master’s in business, finance, marketing, technology, data, engineering, economics or a related field. Excel, Word and PowerPoint plus Norwegian and English are required; no prior professional experience is stated. The internship is unpaid, full time for about three months and starts in mid-October 2026, so confirm immediate availability before applying.",
+      "url": "https://no.linkedin.com/jobs/view/internship-business-analyst-consulting-at-cognizant-4466197135",
+      "deadline": null,
+      "firstSeen": "2026-10-18",
+      "verifiedAt": "2026-10-18T05:55:07Z"
+    },
     {
       "id": "finn-478789937",
       "title": "Junior Document Controller · Student",
@@ -452,7 +472,7 @@
       "url": "https://www.finn.no/job/ad/476050064",
       "deadline": "2026-10-18",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-17T17:04:01Z"
+      "verifiedAt": "2026-10-18T05:55:07Z"
     },
     {
       "id": "finn-477272628",
@@ -664,7 +684,7 @@
       "url": "https://www.finn.no/job/ad/475786529",
       "deadline": "2026-10-18",
       "firstSeen": "2026-10-08",
-      "verifiedAt": "2026-10-08T17:06:01Z"
+      "verifiedAt": "2026-10-18T05:55:07Z"
     },
     {
       "id": "nscale-4995492101",
@@ -811,7 +831,7 @@
       "url": "https://www.finn.no/job/ad/477633069",
       "deadline": "2026-10-18",
       "firstSeen": "2026-10-06",
-      "verifiedAt": "2026-10-06T16:56:54Z"
+      "verifiedAt": "2026-10-18T05:55:07Z"
     },
     {
       "id": "finn-475815326",
@@ -849,7 +869,7 @@
       "url": "https://398280.webcruiter.no/Main/Recruit/Public/5187004303?language=en&showExpired=False",
       "deadline": "2026-10-18",
       "status": "open",
-      "verifiedAt": "2026-10-17T17:04:01Z",
+      "verifiedAt": "2026-10-18T05:55:07Z",
       "firstSeen": "2026-10-05"
     },
     {
@@ -1409,7 +1429,7 @@
       "url": "https://www.finn.no/job/ad/476484961",
       "deadline": "2026-10-18",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-17T17:04:01Z"
+      "verifiedAt": "2026-10-18T05:55:07Z"
     },
     {
       "id": "nav-587eadd3",
@@ -1552,7 +1572,7 @@
       "url": "https://457632.webcruiter.no/main/recruit/public/5153851699?language=&url_org=457632&use_position_site_header=0",
       "deadline": "2026-10-18",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-17T17:04:01Z"
+      "verifiedAt": "2026-10-18T05:55:07Z"
     },
     {
       "id": "clarksons-oslo-summer-2027",
@@ -1631,7 +1651,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/fbf43378-e7bd-4287-83b3-d81fbced6fc8",
       "deadline": "2026-10-18",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-17T17:04:01Z"
+      "verifiedAt": "2026-10-18T05:55:07Z"
     },
     {
       "id": "finn-476682097",
