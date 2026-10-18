@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-18T05:55:07Z",
+  "updatedAt": "2026-10-18T17:12:48Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. Statnett, Bane NOR, Egersund Net and Hafslund were rechecked on their 18 October deadlines; no additional verified target-profile FINN role was found."
+      "note": "Current FINN adverts were searched and original pages opened. Yinson Production's bachelor-level Procurement Officer role was added, while Statnett, Bane NOR, Egersund Net and Hafslund were rechecked on their 18 October deadlines."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages opened. Hatteland was rechecked on its 18 October deadline; no additional verified target-profile NAV role was found."
+      "note": "Current NAV listings were searched and original pages opened. Forsvarsmateriell's graduate-friendly adviser procurement track was added, and Hatteland was rechecked on its 18 October deadline."
     },
     {
       "name": "Jobbnorge",
@@ -19,12 +19,12 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public results were checked. The search surfaced an expired Rolls-Royce trainee advert but no additional current verified target-profile role."
+      "note": "Academic Work's current public results were checked. The existing Selecta trainee roles remain the relevant current matches; no additional verified role was found."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched and original pages opened. Cognizant's current Business Analyst Consulting internship was verified and added; no login-only details were used."
+      "note": "Public LinkedIn listings were searched and original pages opened. No additional target-profile role passed the level and original-page checks; a GE supply-chain finance role was senior-level."
     },
     {
       "name": "Employer careers",
@@ -33,6 +33,49 @@
     }
   ],
   "jobs": [
+    {
+      "id": "finn-478300945",
+      "title": "Procurement Officer",
+      "company": "Yinson Production",
+      "location": "Oslo",
+      "type": "Permanent · Full time · Maritime procurement and logistics",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Shipping",
+        "Logistics",
+        "Procurement"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Place and follow purchase and repair orders through delivery to offshore units, maintain purchasing-system records, check invoices and documentation, onboard suppliers and support supplier evaluation and process improvement.",
+      "requirements": "A bachelor’s degree in a relevant field is required, although relevant experience can compensate. Norwegian and English are mandatory. ERP or IFS experience is advantageous rather than required, and no prior professional-experience minimum is stated.",
+      "url": "https://www.finn.no/job/ad/478300945",
+      "deadline": "2026-10-25",
+      "firstSeen": "2026-10-18",
+      "verifiedAt": "2026-10-18T17:12:48Z"
+    },
+    {
+      "id": "nav-fd3db7cf",
+      "title": "Anskaffelsesansvarlig · Rådgiver / Seniorrådgiver",
+      "company": "Forsvarsmateriell",
+      "location": "Kjeller",
+      "type": "Permanent · Full time · Procurement and contracts",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Procurement"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Plan, run and follow procurement and contract processes, prepare strategies and tender material, support negotiations and supplier follow-up, and advise defence projects and management.",
+      "requirements": "The adviser track requires a bachelor’s in economics, law, engineering, public administration, project management or a similar field, and new graduates are explicitly encouraged; procurement experience is advantageous rather than mandatory. Norwegian and English plus eligibility for HEMMELIG and NATO SECRET clearance are mandatory. The senior-adviser track separately requires a relevant master’s and professional experience.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/fd3db7cf-1a91-40eb-8ad3-626889f8c59e",
+      "deadline": "2026-10-20",
+      "firstSeen": "2026-10-18",
+      "verifiedAt": "2026-10-18T17:12:48Z"
+    },
     {
       "id": "linkedin-4466197135",
       "title": "Internship Business Analyst · Consulting",
@@ -472,7 +515,7 @@
       "url": "https://www.finn.no/job/ad/476050064",
       "deadline": "2026-10-18",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-18T05:55:07Z"
+      "verifiedAt": "2026-10-18T17:12:48Z"
     },
     {
       "id": "finn-477272628",
@@ -684,7 +727,7 @@
       "url": "https://www.finn.no/job/ad/475786529",
       "deadline": "2026-10-18",
       "firstSeen": "2026-10-08",
-      "verifiedAt": "2026-10-18T05:55:07Z"
+      "verifiedAt": "2026-10-18T17:12:48Z"
     },
     {
       "id": "nscale-4995492101",
@@ -831,7 +874,7 @@
       "url": "https://www.finn.no/job/ad/477633069",
       "deadline": "2026-10-18",
       "firstSeen": "2026-10-06",
-      "verifiedAt": "2026-10-18T05:55:07Z"
+      "verifiedAt": "2026-10-18T17:12:48Z"
     },
     {
       "id": "finn-475815326",
@@ -869,7 +912,7 @@
       "url": "https://398280.webcruiter.no/Main/Recruit/Public/5187004303?language=en&showExpired=False",
       "deadline": "2026-10-18",
       "status": "open",
-      "verifiedAt": "2026-10-18T05:55:07Z",
+      "verifiedAt": "2026-10-18T17:12:48Z",
       "firstSeen": "2026-10-05"
     },
     {
@@ -1429,7 +1472,7 @@
       "url": "https://www.finn.no/job/ad/476484961",
       "deadline": "2026-10-18",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-18T05:55:07Z"
+      "verifiedAt": "2026-10-18T17:12:48Z"
     },
     {
       "id": "nav-587eadd3",
@@ -1572,7 +1615,7 @@
       "url": "https://457632.webcruiter.no/main/recruit/public/5153851699?language=&url_org=457632&use_position_site_header=0",
       "deadline": "2026-10-18",
       "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-18T05:55:07Z"
+      "verifiedAt": "2026-10-18T17:12:48Z"
     },
     {
       "id": "clarksons-oslo-summer-2027",
@@ -1651,7 +1694,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/fbf43378-e7bd-4287-83b3-d81fbced6fc8",
       "deadline": "2026-10-18",
       "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-18T05:55:07Z"
+      "verifiedAt": "2026-10-18T17:12:48Z"
     },
     {
       "id": "finn-476682097",
