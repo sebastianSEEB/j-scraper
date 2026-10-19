@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-18T17:12:48Z",
+  "updatedAt": "2026-10-19T17:03:15Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. Yinson Production's bachelor-level Procurement Officer role was added, while Statnett, Bane NOR, Egersund Net and Hafslund were rechecked on their 18 October deadlines."
+      "note": "Current FINN adverts were searched and original pages opened. DNV Maritime's bachelor-student-friendly part-time assistant role was added. Statnett, Bane NOR, Egersund Net and Hafslund were closed after their 18 October deadlines."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages opened. Forsvarsmateriell's graduate-friendly adviser procurement track was added, and Hatteland was rechecked on its 18 October deadline."
+      "note": "Current NAV listings were searched and original pages opened. No additional verified target-profile role was added; Hatteland was closed after its 18 October deadline."
     },
     {
       "name": "Jobbnorge",
@@ -24,15 +24,59 @@
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched and original pages opened. No additional target-profile role passed the level and original-page checks; a GE supply-chain finance role was senior-level."
+      "note": "Public LinkedIn listings were searched and original pages opened. NES Fircroft's junior procurement and inventory contract was added. A strong-looking Novo Nordisk student role was excluded because its public page states that applications are no longer accepted."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Employer career pages and public results were searched. NBIM and VARD were rechecked on their 18 October deadlines. Wilhelmsen's Workday original remained unreadable, so its earlier verification timestamp was preserved."
+      "note": "Employer career pages and public results were searched. Subsea7's commercial graduate programme was reverified on the original career page; NBIM and VARD were closed after their 18 October deadlines. Wilhelmsen's Workday original remained unreadable, so its earlier verification timestamp was preserved."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-478702840",
+      "title": "Student Assistant to Regional Manager · DNV Maritime",
+      "company": "DNV",
+      "location": "Høvik · Hybrid",
+      "type": "Temporary · Part time · 30% student position",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Shipping",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support DNV Maritime's Northern Europe regional manager with meetings, customer visits, events, briefing material, presentations, stakeholder follow-up, travel logistics and selected business initiatives.",
+      "requirements": "Must currently pursue a bachelor's or master's in business, economics, communication, international relations, maritime studies or a related field. Norwegian and English are required. PowerPoint and Microsoft 365 experience is advantageous rather than mandatory; no professional-experience minimum is stated.",
+      "url": "https://www.finn.no/job/ad/478702840",
+      "deadline": "2026-10-27",
+      "firstSeen": "2026-10-19",
+      "verifiedAt": "2026-10-19T17:03:15Z"
+    },
+    {
+      "id": "linkedin-4467057508",
+      "title": "Procurement & Inventory Associate · Supply Chain Support",
+      "company": "NES Fircroft",
+      "location": "Stavanger region",
+      "type": "Consultant contract · Full time · Through 31 August 2027",
+      "source": "LinkedIn",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Create purchase requisitions across the company, support implementation and user training for a requisition application, and contribute to process improvement and value initiatives.",
+      "requirements": "A background in logistics, procurement, business control or equivalent is preferred. The advert explicitly targets candidates with 0–3 years of relevant supply-chain or business experience, so prior professional experience is not mandatory. SAP and strong Microsoft Office skills are requested.",
+      "url": "https://no.linkedin.com/jobs/view/procurement-inventory-associate-at-nes-fircroft-4467057508",
+      "deadline": null,
+      "firstSeen": "2026-10-19",
+      "verifiedAt": "2026-10-19T17:03:15Z"
+    },
     {
       "id": "finn-478300945",
       "title": "Procurement Officer",
@@ -509,7 +553,7 @@
         "Logistics"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Join an 18-month programme with three to four rotations and opportunities in portfolio work, business development, data and analysis across Statnett.",
       "requirements": "Open to newly graduated candidates with a bachelor’s or master’s in economics, logistics or several other relevant fields. The advert does not state a professional-experience requirement, but the individual rotation options are broad and should be checked for subject fit.",
       "url": "https://www.finn.no/job/ad/476050064",
@@ -721,7 +765,7 @@
         "Finance"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Rotate through three trainee placements and support Bane NOR's group finance function with portfolio governance, reporting, internal control, financial analysis and risk management.",
       "requirements": "A completed master's degree in economics, or in economics combined with technology, is mandatory. The role is designed for new graduates and does not require prior professional experience, but bachelor-only candidates do not meet the stated degree requirement.",
       "url": "https://www.finn.no/job/ad/475786529",
@@ -868,7 +912,7 @@
         "Business"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Combine purchasing, logistics and transport coordination with implementation and improvement of the Infor LN ERP platform in a maritime aquaculture supplier.",
       "requirements": "Relevant higher education in logistics, supply chain, purchasing or economics is requested. Prior experience in purchasing, logistics, transport or supply-chain management and experience using or implementing ERP systems are mandatory, although no minimum number of years is stated.",
       "url": "https://www.finn.no/job/ad/477633069",
@@ -911,7 +955,7 @@
       "requirements": "Open to current or formally accepted bachelor’s, master’s, MBA or PhD students with no more than two years of full-time experience. Some AI skills and valid work authorization are required; no minimum study year or prior professional experience is stated.",
       "url": "https://398280.webcruiter.no/Main/Recruit/Public/5187004303?language=en&showExpired=False",
       "deadline": "2026-10-18",
-      "status": "open",
+      "status": "closed",
       "verifiedAt": "2026-10-18T17:12:48Z",
       "firstSeen": "2026-10-05"
     },
@@ -1258,7 +1302,7 @@
       "company": "Subsea7",
       "location": "Stavanger",
       "type": "Permanent · Commercial graduate programme",
-      "source": "FINN",
+      "source": "Employer careers",
       "categories": [
         "Business",
         "Shipping"
@@ -1267,10 +1311,10 @@
       "status": "open",
       "summary": "A commercial graduate scheme with placements in project cost control, tendering, HSSEQ or HR, combining practical offshore-energy work with training and networking.",
       "requirements": "Accepts BSc, MSc or MBA backgrounds including administration, economics, finance, business and legal studies. No prior experience requirement is stated; background checks require consent.",
-      "url": "https://www.finn.no/job/ad/465156211",
+      "url": "https://careers.subsea7.com/job/STAVANGER-Graduate-Development-Programme-2027-Commercial/1369134455/",
       "deadline": "2026-11-01",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-09-28T06:09:19Z"
+      "verifiedAt": "2026-10-19T17:03:15Z"
     },
     {
       "id": "finn-473639278",
@@ -1466,7 +1510,7 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Work in a small student team on current renewable-energy business cases, with economics, finance, accounting, business analytics and entrepreneurship among the accepted study areas.",
       "requirements": "For students with one or two years remaining in higher education from autumn 2026. Economics-related bachelor or master studies are accepted. CV, transcript, video response, aptitude test and background/personnel checks are required; no prior work experience is stated.",
       "url": "https://www.finn.no/job/ad/476484961",
@@ -1609,7 +1653,7 @@
         "Procurement"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "A permanent maritime graduate role with onboarding, networking and learning across VARD, including finance, procurement and project-management opportunities in Vard Interiors.",
       "requirements": "For students graduating in 2027 in finance, project management or another field relevant to the maritime industry. English communication is required; no master’s degree or prior work experience is stated. A background check or security clearance may be required.",
       "url": "https://457632.webcruiter.no/main/recruit/public/5153851699?language=&url_org=457632&use_position_site_header=0",
@@ -1688,7 +1732,7 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Broad accounting role across Hatteland group companies, covering bookkeeping, payroll, month-end work, annual accounts, reporting and internal advice in an industrial and maritime group.",
       "requirements": "A bachelor’s degree in business administration or another relevant field is required. Accounting or payroll experience is advantageous but not mandatory, and newly graduated applicants are explicitly encouraged. Norwegian communication is required.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/fbf43378-e7bd-4287-83b3-d81fbced6fc8",
