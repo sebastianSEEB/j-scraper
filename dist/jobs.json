@@ -1,38 +1,59 @@
 {
-  "updatedAt": "2026-10-19T17:03:15Z",
+  "updatedAt": "2026-10-20T06:01:48Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. DNV Maritime's bachelor-student-friendly part-time assistant role was added. Statnett, Bane NOR, Egersund Net and Hafslund were closed after their 18 October deadlines."
+      "note": "Current FINN adverts were searched and original pages opened. SafeClean and Frosna remain active on their 20 and 21 October deadlines. The Raw Material Planner advert was closed after its 19 October deadline."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages opened. No additional verified target-profile role was added; Hatteland was closed after its 18 October deadline."
+      "note": "Current NAV listings were searched and original pages opened. Compass Group's graduate-friendly Junior Business Controller role was found and then verified on the employer's original career page. Forsvarsmateriell remains active on its 20 October deadline."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge results were searched, but direct public coverage remained limited by login and JavaScript-only pages. Existing jobs retain their earlier verification timestamps unless an accessible original or public mirror could be checked."
+      "note": "Jobbnorge results were searched again, but direct public coverage remained limited by JavaScript-only pages. The NAV Økonomi trainee page still exposed only a script notice, so its earlier verification timestamp was preserved."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public results were checked. The existing Selecta trainee roles remain the relevant current matches; no additional verified role was found."
+      "note": "Academic Work's current public listings were checked. The existing Selecta analyst and planner trainee roles remain the relevant matches; no additional verified target-profile role was found."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched and original pages opened. NES Fircroft's junior procurement and inventory contract was added. A strong-looking Novo Nordisk student role was excluded because its public page states that applications are no longer accepted."
+      "note": "Public LinkedIn listings were searched and original pages opened. Results that looked newly relevant were withdrawn, expired or required a master's degree; no additional active target-profile role was added."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Employer career pages and public results were searched. Subsea7's commercial graduate programme was reverified on the original career page; NBIM and VARD were closed after their 18 October deadlines. Wilhelmsen's Workday original remained unreadable, so its earlier verification timestamp was preserved."
+      "note": "Employer career pages and public results were searched. Compass Group's Junior Business Controller role was verified on its original career page. Wilhelmsen's Workday original remained unreadable, so its earlier verification timestamp was preserved."
     }
   ],
   "jobs": [
+    {
+      "id": "compass-8497404",
+      "title": "Junior Business Controller",
+      "company": "Compass Group Norge · ESS",
+      "location": "Stavanger",
+      "type": "Permanent · Full time · Offshore business controlling",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support offshore operations with monthly reporting, result analysis, budgets, forecasts, project invoicing, pricing calculations, KPIs, profitability analysis and improvement follow-up.",
+      "requirements": "Education in economics or finance is required. Previous controller or accounting experience is explicitly advantageous rather than mandatory, making the role suitable for an early-career candidate. The advert does not specify a completed-degree level; confirm eligibility if still studying.",
+      "url": "https://jobb.compass-group.no/jobs/8497404-junior-business-controller",
+      "deadline": "2026-10-31",
+      "firstSeen": "2026-10-20",
+      "verifiedAt": "2026-10-20T06:01:48Z"
+    },
     {
       "id": "finn-478702840",
       "title": "Student Assistant to Regional Manager · DNV Maritime",
@@ -663,7 +684,7 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Plan and coordinate domestic and international raw-material deliveries, purchase orders, inventory and forecasts while following terminal operations, freight and port calls.",
       "requirements": "Higher education in economics, supply chain or a similar field is required, along with analytical ability and strong system understanding. Purchasing, supplier follow-up and supply-chain experience are advantages rather than mandatory; container freight, maritime transport and port knowledge are also preferred.",
       "url": "https://www.finn.no/job/ad/478074986",
