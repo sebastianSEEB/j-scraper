@@ -1,38 +1,103 @@
 {
-  "updatedAt": "2026-10-20T06:01:48Z",
+  "updatedAt": "2026-10-21T06:05:02Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. SafeClean and Frosna remain active on their 20 and 21 October deadlines. The Raw Material Planner advert was closed after its 19 October deadline."
+      "note": "Current FINN adverts were searched and original pages opened. OKEA's junior accounts-payable role was added as a graduate-friendly match and Flak's buyer role as an experience-heavy stretch match. Frosna remains active on its 21 October deadline; SafeClean and Boreal were closed after their adverts expired."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings were searched and original pages opened. Compass Group's graduate-friendly Junior Business Controller role was found and then verified on the employer's original career page. Forsvarsmateriell remains active on its 20 October deadline."
+      "note": "Current NAV listings and original pages were checked. Boreal's duplicate listing is inactive and was merged into the retained NAV record, while Forsvarsmateriell's procurement-adviser role was closed after its 20 October deadline. No additional verified target-profile role was added from NAV."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge results were searched again, but direct public coverage remained limited by JavaScript-only pages. The NAV Økonomi trainee page still exposed only a script notice, so its earlier verification timestamp was preserved."
+      "note": "Jobbnorge results were searched again, but direct public coverage remained limited by JavaScript-only pages. Records that could not be re-opened kept their earlier verification timestamps."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public listings were checked. The existing Selecta analyst and planner trainee roles remain the relevant matches; no additional verified target-profile role was found."
+      "note": "Academic Work's current public listings were checked. Airbus Defence and Space's Junior Project Leader role was added because it accepts a relevant bachelor and explicitly requires no previous experience. More technical results without a clear target-profile fit were not added."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched and original pages opened. Results that looked newly relevant were withdrawn, expired or required a master's degree; no additional active target-profile role was added."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Results were mainly stale, withdrawn or already represented elsewhere, so no additional verified active target-profile role was added."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Employer career pages and public results were searched. Compass Group's Junior Business Controller role was verified on its original career page. Wilhelmsen's Workday original remained unreadable, so its earlier verification timestamp was preserved."
+      "note": "Employer career pages and public results were searched. OKEA's vacancy was corroborated through its employer listing, while Wilhelmsen's Workday original remained unreadable; affected existing records kept their earlier verification timestamps."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-478572886",
+      "title": "Junior Accounts Payable Accountant",
+      "company": "OKEA",
+      "location": "Stavanger, Trondheim, Bergen, Oslo or Kristiansund",
+      "type": "Permanent · Full time · Junior accounting",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Process and post supplier invoices, monitor approval flows, execute payments, reconcile supplier and balance accounts, support period-end closing and improve or automate accounting processes.",
+      "requirements": "A completed bachelor’s in accounting, auditing, economics or an equivalent field is mandatory. Relevant invoice-processing or accounting experience is sought, but newly graduated candidates are explicitly encouraged. Excel plus Norwegian and English are required; accounting-system experience is advantageous rather than mandatory.",
+      "url": "https://www.finn.no/job/ad/478572886",
+      "deadline": "2026-10-31",
+      "firstSeen": "2026-10-20",
+      "verifiedAt": "2026-10-21T06:05:02Z"
+    },
+    {
+      "id": "academicwork-BIOUFV",
+      "title": "Junior Project Leader",
+      "company": "Airbus Defence and Space",
+      "location": "Bærum · Lysaker",
+      "type": "Permanent · Full time · Junior project management",
+      "source": "Academic Work",
+      "categories": [
+        "Business",
+        "Operations",
+        "Supply chain"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Coordinate resources, deliveries, meetings and project communication; track risks, expenses, invoices, payments and reporting while gradually taking end-to-end responsibility for defence and space projects.",
+      "requirements": "A bachelor’s in business administration, business information systems, computer science, engineering or a related field is mandatory. Microsoft Office and professional English are required, plus eligibility for NATO SECRET clearance. No previous experience is required; the employer offers tailored onboarding and explicitly supports development into project leadership.",
+      "url": "https://www.academicwork.no/ledige-stillinger/j/junior-project-leader-to-airbus-defence-and-space/BIOUFV",
+      "deadline": "2026-10-29",
+      "firstSeen": "2026-10-21",
+      "verifiedAt": "2026-10-21T06:05:02Z"
+    },
+    {
+      "id": "finn-476997092",
+      "title": "Innkjøper",
+      "company": "Flak",
+      "location": "Kristiansand",
+      "type": "Permanent · Full time · Operational purchasing",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Procurement",
+        "Supply chain",
+        "Logistics",
+        "Shipping"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Manage a supplier and product portfolio from demand planning and ordering through delivery, inventory follow-up, invoice checks, shipping documents and product-data maintenance.",
+      "requirements": "Education in procurement, economics, logistics or a technical field is expected, although experience may compensate. Relevant purchasing experience plus Excel and ERP experience are requested; Norwegian and English are mandatory. Because prior purchasing and ERP experience are expected, this is a stretch match.",
+      "url": "https://www.finn.no/job/ad/476997092",
+      "deadline": "2026-10-25",
+      "firstSeen": "2026-10-20",
+      "verifiedAt": "2026-10-21T06:05:02Z"
+    },
     {
       "id": "compass-8497404",
       "title": "Junior Business Controller",
@@ -133,13 +198,13 @@
         "Procurement"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Plan, run and follow procurement and contract processes, prepare strategies and tender material, support negotiations and supplier follow-up, and advise defence projects and management.",
       "requirements": "The adviser track requires a bachelor’s in economics, law, engineering, public administration, project management or a similar field, and new graduates are explicitly encouraged; procurement experience is advantageous rather than mandatory. Norwegian and English plus eligibility for HEMMELIG and NATO SECRET clearance are mandatory. The senior-adviser track separately requires a relevant master’s and professional experience.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/fd3db7cf-1a91-40eb-8ad3-626889f8c59e",
       "deadline": "2026-10-20",
       "firstSeen": "2026-10-18",
-      "verifiedAt": "2026-10-18T17:12:48Z"
+      "verifiedAt": "2026-10-21T06:05:02Z"
     },
     {
       "id": "linkedin-4466197135",
@@ -268,7 +333,7 @@
       "url": "https://www.finn.no/job/ad/477583648",
       "deadline": "2026-10-21",
       "firstSeen": "2026-10-16",
-      "verifiedAt": "2026-10-16T17:04:40Z"
+      "verifiedAt": "2026-10-21T06:05:02Z"
     },
     {
       "id": "finn-478318447",
@@ -512,13 +577,13 @@
         "Procurement"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Provide practical support across purchasing and accounting by maintaining supplier and contract data, following requisitions and purchase orders, checking system data and updating accounts payable.",
       "requirements": "The role explicitly suits new graduates, people taking a gap year or candidates building experience. No particular degree is required, and experience from administration, customer service, office work or warehousing is advantageous rather than mandatory. Accuracy, reliability, clear written communication and comfort learning several systems are required.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/fc7edff0-7f05-40cc-964f-0b72ce4afddc",
       "deadline": "2026-10-25",
-      "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-11T17:04:58Z"
+      "firstSeen": "2026-10-05",
+      "verifiedAt": "2026-10-21T06:05:02Z"
     },
     {
       "id": "finn-478097302",
@@ -1022,27 +1087,6 @@
       "firstSeen": "2026-10-05"
     },
     {
-      "id": "finn-477576351",
-      "title": "Administrasjon · Innkjøp og regnskap",
-      "company": "Boreal Norge",
-      "location": "Stavanger",
-      "type": "Temporary · Full time",
-      "source": "FINN",
-      "categories": [
-        "Procurement",
-        "Finance",
-        "Business"
-      ],
-      "fit": "potential",
-      "summary": "Support supplier records, purchase-order follow-up, accounts payable and routine procurement controls in a transport group through summer 2027.",
-      "requirements": "Suitable for a gap-year candidate or new graduate; no specific degree is required. Relevant office, customer-service, warehouse or administrative experience is advantageous but not mandatory. Rolling deadline; recruitment is continuous.",
-      "url": "https://www.finn.no/job/ad/477576351",
-      "deadline": null,
-      "status": "open",
-      "verifiedAt": "2026-10-05T17:09:38Z",
-      "firstSeen": "2026-10-05"
-    },
-    {
       "id": "nav-dof-2027",
       "title": "Commercial Graduate 2027",
       "company": "DOF",
@@ -1490,13 +1534,13 @@
         "Logistics"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Own purchasing, supplier follow-up, inventory control and operational logistics across SafeClean locations, with reporting and process-improvement work.",
       "requirements": "Relevant education is desired, but experience can compensate. Experience in purchasing, logistics, supply chain or inventory management, supplier follow-up and negotiations, ERP systems, Excel, and Norwegian and English is expected; no exact minimum years are stated.",
       "url": "https://www.finn.no/job/ad/477494033",
       "deadline": "2026-10-20",
       "firstSeen": "2026-09-29",
-      "verifiedAt": "2026-09-29T16:58:42Z"
+      "verifiedAt": "2026-10-21T06:05:02Z"
     },
     {
       "id": "finn-477276299",
