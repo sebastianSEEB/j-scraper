@@ -1,38 +1,61 @@
 {
-  "updatedAt": "2026-10-21T06:05:02Z",
+  "updatedAt": "2026-10-21T16:56:40Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN adverts were searched and original pages opened. OKEA's junior accounts-payable role was added as a graduate-friendly match and Flak's buyer role as an experience-heavy stretch match. Frosna remains active on its 21 October deadline; SafeClean and Boreal were closed after their adverts expired."
+      "note": "Current FINN search results and original adverts were checked. Frosna remained active on its 21 October deadline, and Framo Fusa's graduate-friendly logistics coordinator role was reverified on its canonical FINN page. No expired record was left open from the checked set."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Boreal's duplicate listing is inactive and was merged into the retained NAV record, while Forsvarsmateriell's procurement-adviser role was closed after its 20 October deadline. No additional verified target-profile role was added from NAV."
+      "note": "Current NAV listings and original pages were checked. K2 Project Forwarding's student internship in freight forwarding and project logistics was added as a strong match with no prior-experience minimum stated."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge results were searched again, but direct public coverage remained limited by JavaScript-only pages. Records that could not be re-opened kept their earlier verification timestamps."
+      "note": "Jobbnorge searches returned no newly verifiable target-profile advert, and relevant application pages remained JavaScript or login dependent. Existing records that could not be re-opened kept their earlier verification timestamps."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public listings were checked. Airbus Defence and Space's Junior Project Leader role was added because it accepts a relevant bachelor and explicitly requires no previous experience. More technical results without a clear target-profile fit were not added."
+      "note": "Academic Work's public listings were checked. The existing Airbus junior project-leader and Selecta planner-trainee roles remain the strongest current matches; no additional verified target-profile role was added."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Results were mainly stale, withdrawn or already represented elsewhere, so no additional verified active target-profile role was added."
+      "note": "Public LinkedIn results were searched without login or access bypass. Results were stale, already represented elsewhere or unsuitable for the target profile, so no new LinkedIn record was added."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Employer career pages and public results were searched. OKEA's vacancy was corroborated through its employer listing, while Wilhelmsen's Workday original remained unreadable; affected existing records kept their earlier verification timestamps."
+      "note": "Relevant employer career pages were checked where publicly readable. Alfa Laval's Workday pages exposed no readable advert text, so the accessible FINN originals were used; other unreadable employer records kept their previous verification timestamps."
     }
   ],
   "jobs": [
+    {
+      "id": "nav-3ec10965",
+      "title": "Project Logistics Internship",
+      "company": "K2 Project Forwarding",
+      "location": "Bergen · Nyborg",
+      "type": "Internship · Freight forwarding and project logistics",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Shipping",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support daily freight-forwarding work, plan national and international transport assignments, register orders, follow shipments and communicate with customers, carriers and suppliers in live logistics projects.",
+      "requirements": "Must currently study for a bachelor’s or master’s in logistics, supply-chain management or a related field. Microsoft 365 familiarity plus fluent Norwegian and English are required. No professional-experience minimum is stated. Applications are requested as soon as possible, with no fixed public closing date.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/3ec10965-f205-4256-8961-4d6d87840884",
+      "deadline": null,
+      "firstSeen": "2026-10-21",
+      "verifiedAt": "2026-10-21T16:56:40Z"
+    },
     {
       "id": "finn-478572886",
       "title": "Junior Accounts Payable Accountant",
@@ -333,7 +356,7 @@
       "url": "https://www.finn.no/job/ad/477583648",
       "deadline": "2026-10-21",
       "firstSeen": "2026-10-16",
-      "verifiedAt": "2026-10-21T06:05:02Z"
+      "verifiedAt": "2026-10-21T16:56:40Z"
     },
     {
       "id": "finn-478318447",
@@ -445,7 +468,7 @@
       "company": "Framo Fusa",
       "location": "Fusa · Bjørnafjorden",
       "type": "Full time · Logistics and project coordination",
-      "source": "NAV",
+      "source": "FINN",
       "categories": [
         "Business",
         "Shipping",
@@ -456,10 +479,10 @@
       "status": "open",
       "summary": "Coordinate orders, international shipments, delivery documentation, invoicing and reporting across project, production, finance and sales for a maritime pump-system manufacturer.",
       "requirements": "Relevant education or experience in logistics, economics, administration, order handling or project coordination is accepted. Industrial or international-delivery experience is advantageous, not mandatory. Norwegian and English plus strong system understanding are required.",
-      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/15baf81e-5a21-4455-9b3d-dbfb988e81d9",
+      "url": "https://www.finn.no/job/ad/478297997",
       "deadline": "2026-10-31",
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-15T16:55:12Z"
+      "verifiedAt": "2026-10-21T16:56:40Z"
     },
     {
       "id": "nav-95a4a7f9",
