@@ -1,38 +1,83 @@
 {
-  "updatedAt": "2026-10-21T16:56:40Z",
+  "updatedAt": "2026-10-22T06:05:12Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN search results and original adverts were checked. Frosna remained active on its 21 October deadline, and Framo Fusa's graduate-friendly logistics coordinator role was reverified on its canonical FINN page. No expired record was left open from the checked set."
+      "note": "Current FINN results and original adverts were checked. Geminor's bachelor-friendly Commercial Trainee programme was added. Frosna was closed after its 21 October deadline, and Felleskjøpet was closed because its advert now explicitly says the deadline has expired despite displaying 25 October. Flak remains active."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. K2 Project Forwarding's student internship in freight forwarding and project logistics was added as a strong match with no prior-experience minimum stated."
+      "note": "Current NAV listings and original pages were checked. Konsmo Fabrikker's graduate-friendly economist role remains active for its 23 October deadline; no additional distinct target-profile record was added from NAV."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge searches returned no newly verifiable target-profile advert, and relevant application pages remained JavaScript or login dependent. Existing records that could not be re-opened kept their earlier verification timestamps."
+      "note": "Jobbnorge searches did not expose a newly verifiable target-profile advert, and relevant application pages remained JavaScript or login dependent. Existing affected records kept their previous verification timestamps."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's public listings were checked. The existing Airbus junior project-leader and Selecta planner-trainee roles remain the strongest current matches; no additional verified target-profile role was added."
+      "note": "Academic Work's public listings were searched. A potentially relevant Selecta Business Analyst result returned 404 on its original page, so it was not added or treated as verified. Existing accessible Academic Work records kept their prior timestamps unless directly checked."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn results were searched without login or access bypass. Results were stale, already represented elsewhere or unsuitable for the target profile, so no new LinkedIn record was added."
+      "note": "Public LinkedIn listings were searched without login or access bypass. DHL's early-career sourcing role was added as a stretch match because at least one year of experience or practical internship/work-placement experience is mandatory."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Relevant employer career pages were checked where publicly readable. Alfa Laval's Workday pages exposed no readable advert text, so the accessible FINN originals were used; other unreadable employer records kept their previous verification timestamps."
+      "note": "Yinson's original employer page was reverified and retained while its duplicate FINN record was removed. Other employer pages that remained unreadable, including Workday-hosted adverts, kept their earlier verification timestamps."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-478767899",
+      "title": "Commercial Trainee · Sales & Business Development",
+      "company": "Geminor Norway",
+      "location": "Avaldsnes · Karmøy",
+      "type": "Fixed term · Full time · 18-month commercial trainee programme",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Shipping",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Rotate through commercial operations, logistics and compliance, support customer and supplier dialogue, build offers and shipment notices, complete international placements and progress toward responsibility for a customer portfolio.",
+      "requirements": "A bachelor’s or master’s completed by summer 2027 in business, economics, engineering, logistics and supply chain, environmental studies or energy studies is required. Professional English and willingness to travel are mandatory. No waste-industry experience is needed; sales or internship experience and additional languages are advantages only. Applications are reviewed as soon as possible, with no fixed public deadline.",
+      "url": "https://www.finn.no/job/ad/478767899",
+      "deadline": null,
+      "firstSeen": "2026-10-22",
+      "verifiedAt": "2026-10-22T06:05:12Z"
+    },
+    {
+      "id": "linkedin-4481297441",
+      "title": "Sourcing Manager · Early-career Procurement",
+      "company": "DHL",
+      "location": "Oslo",
+      "type": "Full time · Early-career sourcing and procurement",
+      "source": "LinkedIn",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Procurement",
+        "Logistics"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Support sourcing projects, supplier selection, commercial-offer reviews, negotiations and contracting while working with internal stakeholders to improve cost, quality and service.",
+      "requirements": "Either at least one year of procurement, purchasing, sourcing, supply-chain or related commercial experience, or a relevant degree combined with practical internship or work-placement experience, is mandatory. Strong Norwegian and English are required. Because practical experience is required, this is a stretch match for someone with no professional background. No public deadline was displayed.",
+      "url": "https://no.linkedin.com/jobs/view/sourcing-manager-procurement-at-dhl-4481297441",
+      "deadline": null,
+      "firstSeen": "2026-10-22",
+      "verifiedAt": "2026-10-22T06:05:12Z"
+    },
     {
       "id": "nav-3ec10965",
       "title": "Project Logistics Internship",
@@ -119,7 +164,7 @@
       "url": "https://www.finn.no/job/ad/476997092",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-20",
-      "verifiedAt": "2026-10-21T06:05:02Z"
+      "verifiedAt": "2026-10-22T06:05:12Z"
     },
     {
       "id": "compass-8497404",
@@ -185,29 +230,6 @@
       "deadline": null,
       "firstSeen": "2026-10-19",
       "verifiedAt": "2026-10-19T17:03:15Z"
-    },
-    {
-      "id": "finn-478300945",
-      "title": "Procurement Officer",
-      "company": "Yinson Production",
-      "location": "Oslo",
-      "type": "Permanent · Full time · Maritime procurement and logistics",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Supply chain",
-        "Shipping",
-        "Logistics",
-        "Procurement"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Place and follow purchase and repair orders through delivery to offshore units, maintain purchasing-system records, check invoices and documentation, onboard suppliers and support supplier evaluation and process improvement.",
-      "requirements": "A bachelor’s degree in a relevant field is required, although relevant experience can compensate. Norwegian and English are mandatory. ERP or IFS experience is advantageous rather than required, and no prior professional-experience minimum is stated.",
-      "url": "https://www.finn.no/job/ad/478300945",
-      "deadline": "2026-10-25",
-      "firstSeen": "2026-10-18",
-      "verifiedAt": "2026-10-18T17:12:48Z"
     },
     {
       "id": "nav-fd3db7cf",
@@ -350,13 +372,13 @@
         "Operations"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Coordinate purchasing and deliveries, follow up suppliers and deviations, maintain product information and support digitalization and improvement projects.",
       "requirements": "Relevant education in logistics, economics, technical studies or a similar field is expected. Coordination, purchasing, logistics or administration experience is advantageous rather than mandatory, and the advert emphasizes learning ability and support from experienced colleagues.",
       "url": "https://www.finn.no/job/ad/477583648",
       "deadline": "2026-10-21",
       "firstSeen": "2026-10-16",
-      "verifiedAt": "2026-10-21T16:56:40Z"
+      "verifiedAt": "2026-10-22T06:05:12Z"
     },
     {
       "id": "finn-478318447",
@@ -579,13 +601,13 @@
         "Procurement"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Manage daily purchasing and product flow for a retail portfolio, following orders, deliveries, inventory, deviations, invoices and supply performance while improving forecasts and stock levels.",
       "requirements": "A bachelor’s in logistics, purchasing or economics is required; five years of experience is only an alternative for applicants without the degree. No prior professional-experience minimum is stated for bachelor graduates. Excel, general IT skills and written and spoken Norwegian and English are required.",
       "url": "https://www.finn.no/job/ad/478147058",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-14",
-      "verifiedAt": "2026-10-14T17:03:30Z"
+      "verifiedAt": "2026-10-22T06:05:12Z"
     },
     {
       "id": "nav-fc7edff0",
@@ -755,7 +777,7 @@
       "url": "https://careers.yinson.com/job/Oslo-Procurement-Officer/1370995355/",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-10",
-      "verifiedAt": "2026-10-10T17:04:57Z"
+      "verifiedAt": "2026-10-22T06:05:12Z"
     },
     {
       "id": "finn-478074986",
@@ -818,7 +840,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/ceb9ef65-0bcc-4611-bf1b-63875a6e8711",
       "deadline": "2026-10-23",
       "firstSeen": "2026-10-09",
-      "verifiedAt": "2026-10-09T06:06:37Z"
+      "verifiedAt": "2026-10-22T06:05:12Z"
     },
     {
       "id": "finn-476471336",
