@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-22T06:05:12Z",
+  "updatedAt": "2026-10-22T16:55:54Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Geminor's bachelor-friendly Commercial Trainee programme was added. Frosna was closed after its 21 October deadline, and Felleskjøpet was closed because its advert now explicitly says the deadline has expired despite displaying 25 October. Flak remains active."
+      "note": "Current FINN results and original adverts were checked. Forsvaret's bachelor-level Innkjøper role was added as a potential match. KSAT's Operations & Procurement Specialist and Skretting's Procurement Analyst were added as stretch matches because they require relevant experience or specialist commodity knowledge. The duplicate FINN copy of ColliCare's Operational Controller role was removed in favour of the older NAV record. Geminor remains active."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Konsmo Fabrikker's graduate-friendly economist role remains active for its 23 October deadline; no additional distinct target-profile record was added from NAV."
+      "note": "Current NAV listings and original pages were checked. Konsmo Fabrikker's graduate-friendly economist role remains active and closes 23 October; no additional distinct target-profile record was added from NAV."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge searches did not expose a newly verifiable target-profile advert, and relevant application pages remained JavaScript or login dependent. Existing affected records kept their previous verification timestamps."
+      "note": "Jobbnorge searches did not expose a newly verifiable bachelor-friendly target-profile advert. Search results were mostly senior, academic or otherwise out of scope, so existing records kept their previous verification timestamps."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's public listings were searched. A potentially relevant Selecta Business Analyst result returned 404 on its original page, so it was not added or treated as verified. Existing accessible Academic Work records kept their prior timestamps unless directly checked."
+      "note": "Academic Work's public listings and original pages were checked. Selecta's Planner trainee remains active, while its Business Analyst trainee page now returns 404 and was closed. No new distinct target-profile record was added."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. DHL's early-career sourcing role was added as a stretch match because at least one year of experience or practical internship/work-placement experience is mandatory."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Midport Scandinavia's Junior ERP Consultant – Logistics role was added as a potential match; it requires a completed relevant degree or equivalent experience, fluent Norwegian and English, a driving licence and Norwegian citizenship."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Yinson's original employer page was reverified and retained while its duplicate FINN record was removed. Other employer pages that remained unreadable, including Workday-hosted adverts, kept their earlier verification timestamps."
+      "note": "Yara's original career page was checked and its bachelor-level Jr. Global Planner role was added. Yinson's previously verified employer listing was retained. Some employer career pages, particularly Workday-hosted adverts, remained unreadable and kept their earlier verification timestamps."
     }
   ],
   "jobs": [
@@ -54,7 +54,7 @@
       "url": "https://www.finn.no/job/ad/478767899",
       "deadline": null,
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-10-22T06:05:12Z"
+      "verifiedAt": "2026-10-22T16:55:54Z"
     },
     {
       "id": "linkedin-4481297441",
@@ -455,13 +455,13 @@
         "Logistics"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Turn Nordic operating data and KPIs into management insight, dashboards and improvement initiatives while working with finance, logistics, supply-chain and service teams.",
-      "requirements": "Power BI and Excel knowledge, strong business and systems understanding, process-improvement competence, and good Norwegian and English are required. The advert states no degree or prior professional-experience minimum. Selection is rolling and may close early.",
+      "requirements": "The original Academic Work advert now returns 404 and is no longer available. It was previously a rolling six-month trainee role with no stated degree or professional-experience minimum.",
       "url": "https://www.academicwork.no/ledige-stillinger/j/selecta-sker-en-business-analyst-er-det-deg/DXKTU2",
       "deadline": null,
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-17T06:04:36Z"
+      "verifiedAt": "2026-10-22T16:55:54Z"
     },
     {
       "id": "academicwork-FAE6SN",
@@ -482,7 +482,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/glad-i-excel-struktur-og-flyt/FAE6SN",
       "deadline": null,
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-17T06:04:36Z"
+      "verifiedAt": "2026-10-22T16:55:54Z"
     },
     {
       "id": "nav-15baf81e",
@@ -652,27 +652,6 @@
       "verifiedAt": "2026-10-11T17:04:58Z"
     },
     {
-      "id": "finn-477643957",
-      "title": "Operational Controller · Økonomi og logistikk",
-      "company": "ColliCare Logistics",
-      "location": "Vestby",
-      "type": "Permanent · Full time · Finance and logistics",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Finance",
-        "Logistics"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Follow revenue, costs, invoicing and month-end work for transport assignments while analysing profitability and improving routines in an international logistics business.",
-      "requirements": "Relevant higher education in economics is required, and new graduates are explicitly welcome. Strong Excel, system understanding and written and spoken Norwegian and English are required; no prior professional experience is stated.",
-      "url": "https://www.finn.no/job/ad/477643957",
-      "deadline": "2026-10-30",
-      "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-11T06:05:14Z"
-    },
-    {
       "id": "finn-476050064",
       "title": "Trainee",
       "company": "Statnett",
@@ -840,7 +819,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/ceb9ef65-0bcc-4611-bf1b-63875a6e8711",
       "deadline": "2026-10-23",
       "firstSeen": "2026-10-09",
-      "verifiedAt": "2026-10-22T06:05:12Z"
+      "verifiedAt": "2026-10-22T16:55:54Z"
     },
     {
       "id": "finn-476471336",
@@ -1888,6 +1867,117 @@
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-24",
       "verifiedAt": "2026-10-04T05:58:47Z"
+    },
+    {
+      "id": "yara-26045",
+      "title": "Jr. Global Planner",
+      "company": "Yara International",
+      "location": "Oslo",
+      "type": "Permanent · Full time · Hybrid · Global supply-chain planning",
+      "source": "Employer careers",
+      "categories": [
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Operations",
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support global supply-demand balancing, production and vessel planning, capacity and margin analysis, inventory insight and digital improvement across Yara’s international production network.",
+      "requirements": "A bachelor’s degree in business, finance, supply-chain management, logistics, engineering or a related field is required. Advanced Excel and fluent English are required. Previous planning, logistics, sourcing, manufacturing or analytical experience is explicitly advantageous but not required; Power BI, Power Query and SAP IBP are advantages only.",
+      "url": "https://jobs.yara.com/job/Oslo-Jr_-Global-Planner/1448834233/",
+      "deadline": "2026-11-01",
+      "firstSeen": "2026-10-22",
+      "verifiedAt": "2026-10-22T16:55:54Z"
+    },
+    {
+      "id": "linkedin-4476438809",
+      "title": "Junior ERP Consultant · Logistics",
+      "company": "Midport Scandinavia",
+      "location": "Oslo",
+      "type": "Permanent · Full time · Junior consulting and academy programme",
+      "source": "LinkedIn",
+      "categories": [
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Operations",
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Join Midport Academy and learn to turn logistics, purchasing, warehouse, production and service processes into ERP solutions through workshops, configuration, testing and improvement projects.",
+      "requirements": "A recently completed relevant degree in logistics, supply chain, industrial economics, engineering or IT, or equivalent relevant work experience, is required. Fluent Norwegian and English, a driving licence, travel readiness and Norwegian citizenship are mandatory. Industry and ERP experience are advantages rather than requirements. Applications are reviewed on a rolling basis.",
+      "url": "https://no.linkedin.com/jobs/view/junior-erp-consultant-%E2%80%93-logistics-at-midport-scandinavia-4476438809",
+      "deadline": null,
+      "firstSeen": "2026-10-22",
+      "verifiedAt": "2026-10-22T16:55:54Z"
+    },
+    {
+      "id": "finn-479283578",
+      "title": "Innkjøper",
+      "company": "Forsvaret",
+      "location": "Bjerkvik · Narvik",
+      "type": "Permanent · Full time · Public procurement",
+      "source": "FINN",
+      "categories": [
+        "Procurement",
+        "Supply chain",
+        "Logistics",
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Plan and run purchases and call-offs under framework agreements, handle invoices and credit notes, support public-sector casework and follow an assigned procurement area for the Army.",
+      "requirements": "A bachelor’s degree in economics, administration or management is required, though more than three years of relevant experience may compensate. Norwegian proficiency, willingness to complete basic military training if needed, and eligibility for HEMMELIG and NATO SECRET clearance are mandatory. Procurement, public-sector, SAP and ERP experience are advantages only.",
+      "url": "https://www.finn.no/job/ad/479283578",
+      "deadline": "2026-11-11",
+      "firstSeen": "2026-10-22",
+      "verifiedAt": "2026-10-22T16:55:54Z"
+    },
+    {
+      "id": "finn-479288443",
+      "title": "Operations & Procurement Specialist",
+      "company": "Kongsberg Satellite Services · KSATlite",
+      "location": "Tromsø · Trondheim · Oslo",
+      "type": "Permanent · Full time · Procurement, logistics and operations",
+      "source": "FINN",
+      "categories": [
+        "Procurement",
+        "Supply chain",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Own purchase orders, supplier follow-up, logistics, deployment, contracts, invoices, inventory and ERP data for a global satellite ground-station network.",
+      "requirements": "Relevant procurement, logistics or supply-chain experience and hands-on ERP experience are mandatory, making this a stretch match without prior professional experience. Supplier communication skills and eligibility for Norwegian security clearance are also required; Dynamics 365 and space, defence or cross-border logistics experience are advantages.",
+      "url": "https://www.finn.no/job/ad/479288443",
+      "deadline": "2026-11-12",
+      "firstSeen": "2026-10-22",
+      "verifiedAt": "2026-10-22T16:55:54Z"
+    },
+    {
+      "id": "finn-478609102",
+      "title": "Procurement Analyst · Agri-Commodities",
+      "company": "Skretting · Nutreco",
+      "location": "Stavanger",
+      "type": "Permanent · Full time · Procurement analytics",
+      "source": "FINN",
+      "categories": [
+        "Procurement",
+        "Supply chain",
+        "Business"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Build commodity-market analysis, sourcing dashboards, price curves and procurement recommendations while supporting supplier onboarding, supply-chain resilience and AI-enabled workflows.",
+      "requirements": "A bachelor’s or master’s in business, procurement, supply chain, logistics, analytics, economics or a related field is required. In-depth agri-commodity market knowledge, data-analysis or reporting experience, advanced Excel, Power BI or similar tools, and strong English are required. These mandatory specialist requirements make it a stretch match. The advert closes 22 October 2026.",
+      "url": "https://www.finn.no/job/ad/478609102",
+      "deadline": "2026-10-22",
+      "firstSeen": "2026-10-22",
+      "verifiedAt": "2026-10-22T16:55:54Z"
     }
   ]
 }
