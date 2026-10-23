@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-22T16:55:54Z",
+  "updatedAt": "2026-10-23T06:03:30Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Forsvaret's bachelor-level Innkjøper role was added as a potential match. KSAT's Operations & Procurement Specialist and Skretting's Procurement Analyst were added as stretch matches because they require relevant experience or specialist commodity knowledge. The duplicate FINN copy of ColliCare's Operational Controller role was removed in favour of the older NAV record. Geminor remains active."
+      "note": "Current FINN results and original adverts were checked. Skretting's Procurement Analyst was closed after FINN explicitly marked the 22 October deadline expired. Flak, both Hydro graduate roles and Forsvaret's accounting-rules role remain active for 25 October."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Konsmo Fabrikker's graduate-friendly economist role remains active and closes 23 October; no additional distinct target-profile record was added from NAV."
+      "note": "Current NAV listings and original pages were checked. Konsmo Fabrikker's graduate-friendly economist role remains active on its 23 October deadline; no additional distinct target-profile record was added from NAV."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge searches did not expose a newly verifiable bachelor-friendly target-profile advert. Search results were mostly senior, academic or otherwise out of scope, so existing records kept their previous verification timestamps."
+      "note": "Jobbnorge searches did not expose a newly verifiable bachelor-friendly target-profile advert. Existing records kept their previous verification timestamps rather than overstating coverage."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's public listings and original pages were checked. Selecta's Planner trainee remains active, while its Business Analyst trainee page now returns 404 and was closed. No new distinct target-profile record was added."
+      "note": "Academic Work's public listings were searched. No new distinct target-profile record was found; existing accessible records kept their earlier verification timestamps unless directly checked."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Midport Scandinavia's Junior ERP Consultant – Logistics role was added as a potential match; it requires a completed relevant degree or equivalent experience, fluent Norwegian and English, a driving licence and Norwegian citizenship."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Midport Scandinavia's Junior ERP Consultant – Logistics listing remains publicly accessible; no new LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Yara's original career page was checked and its bachelor-level Jr. Global Planner role was added. Yinson's previously verified employer listing was retained. Some employer career pages, particularly Workday-hosted adverts, remained unreadable and kept their earlier verification timestamps."
+      "note": "SAP's bachelor-level Young Professionals training programme and Pearl's experience-required SAP consultancy programme were verified on their original employer pages and added. Yinson's Procurement Officer remains active for 25 October. Wilhelmsen's Workday page returned no readable content, so its older verification timestamp was preserved."
     }
   ],
   "jobs": [
@@ -164,7 +164,7 @@
       "url": "https://www.finn.no/job/ad/476997092",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-20",
-      "verifiedAt": "2026-10-22T06:05:12Z"
+      "verifiedAt": "2026-10-23T06:03:30Z"
     },
     {
       "id": "compass-8497404",
@@ -649,7 +649,7 @@
       "url": "https://www.finn.no/job/ad/478097302",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-11T17:04:58Z"
+      "verifiedAt": "2026-10-23T06:03:30Z"
     },
     {
       "id": "finn-476050064",
@@ -756,7 +756,7 @@
       "url": "https://careers.yinson.com/job/Oslo-Procurement-Officer/1370995355/",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-10",
-      "verifiedAt": "2026-10-22T06:05:12Z"
+      "verifiedAt": "2026-10-23T06:03:30Z"
     },
     {
       "id": "finn-478074986",
@@ -819,7 +819,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/ceb9ef65-0bcc-4611-bf1b-63875a6e8711",
       "deadline": "2026-10-23",
       "firstSeen": "2026-10-09",
-      "verifiedAt": "2026-10-22T16:55:54Z"
+      "verifiedAt": "2026-10-23T06:03:30Z"
     },
     {
       "id": "finn-476471336",
@@ -1445,7 +1445,7 @@
       "url": "https://www.finn.no/job/ad/476600136",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-10-12T17:04:55Z"
+      "verifiedAt": "2026-10-23T06:03:30Z"
     },
     {
       "id": "finn-475781619",
@@ -1521,7 +1521,7 @@
       "url": "https://www.finn.no/job/ad/476600129",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-09-28T06:09:19Z"
+      "verifiedAt": "2026-10-23T06:03:30Z"
     },
     {
       "id": "finn-476975441",
@@ -1912,7 +1912,7 @@
       "url": "https://no.linkedin.com/jobs/view/junior-erp-consultant-%E2%80%93-logistics-at-midport-scandinavia-4476438809",
       "deadline": null,
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-10-22T16:55:54Z"
+      "verifiedAt": "2026-10-23T06:03:30Z"
     },
     {
       "id": "finn-479283578",
@@ -1971,13 +1971,59 @@
         "Business"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Build commodity-market analysis, sourcing dashboards, price curves and procurement recommendations while supporting supplier onboarding, supply-chain resilience and AI-enabled workflows.",
       "requirements": "A bachelor’s or master’s in business, procurement, supply chain, logistics, analytics, economics or a related field is required. In-depth agri-commodity market knowledge, data-analysis or reporting experience, advanced Excel, Power BI or similar tools, and strong English are required. These mandatory specialist requirements make it a stretch match. The advert closes 22 October 2026.",
       "url": "https://www.finn.no/job/ad/478609102",
       "deadline": "2026-10-22",
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-10-22T16:55:54Z"
+      "verifiedAt": "2026-10-23T06:03:30Z"
+    },
+    {
+      "id": "sap-1449082633",
+      "title": "SAP Young Professionals Program Norway 2027",
+      "company": "SAP",
+      "location": "Norway · Online live classroom",
+      "type": "Free full-time training · Two months · Talent pool, not guaranteed employment",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Operations",
+        "Supply chain",
+        "Procurement",
+        "Logistics"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Complete an intensive two-month SAP consulting and certification programme covering enterprise systems, business processes, implementation and client-facing consulting skills, followed by introductions to SAP ecosystem opportunities.",
+      "requirements": "At least a completed bachelor’s in business administration, management information systems, engineering, data science, AI or a related field is mandatory. Applicants must be unemployed or in part-time or non-permanent work unrelated to their career goals, fluent in English, interested in travel, and available full time online from 09:00–18:00 on weekdays from late January 2027. Recent graduation and top-quartile grades are preferred. This is a talent-pool training programme and does not guarantee employment. No public deadline is displayed.",
+      "url": "https://careers.sap.com/job/Oslo-SAP-Young-Professionals-Program-Norway-2027-0164/1449082633/",
+      "deadline": null,
+      "firstSeen": "2026-10-23",
+      "verifiedAt": "2026-10-23T06:03:30Z"
+    },
+    {
+      "id": "pearl-8513450",
+      "title": "Pearl Accelerate 2027 · SAP Consultant",
+      "company": "Pearl Group",
+      "location": "Oslo or Sandefjord",
+      "type": "Permanent · Full time · SAP consulting programme",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Train and work as a junior SAP consultant in Finance, Logistics or Technology, combining a shared SAP foundation course, specialist training, mentoring and client-project experience.",
+      "requirements": "A bachelor’s or master’s in a relevant field is required. The Finance and Logistics tracks each require at least two years of relevant professional experience; the Technology track requires practical AI and software-development experience. Norwegian and English fluency are mandatory and travel may be required. These experience requirements make the programme a stretch match.",
+      "url": "https://career.pearlgroup.no/jobs/8513450-pearl-accelerate-2027-bli-sap-konsulent",
+      "deadline": "2026-11-09",
+      "firstSeen": "2026-10-23",
+      "verifiedAt": "2026-10-23T06:03:30Z"
     }
   ]
 }
