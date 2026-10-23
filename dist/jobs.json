@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-23T06:03:30Z",
+  "updatedAt": "2026-10-23T17:03:43Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Skretting's Procurement Analyst was closed after FINN explicitly marked the 22 October deadline expired. Flak, both Hydro graduate roles and Forsvaret's accounting-rules role remain active for 25 October."
+      "note": "Current FINN results and original adverts were checked. Peak CSL Group's student shipping internship was added, NORBIT Subsea's student role was reverified, and Konsmo Fabrikker remained active on its 23 October deadline. Flak, both Hydro graduate roles and Forsvaret's accounting-rules role remain active for 25 October."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Konsmo Fabrikker's graduate-friendly economist role remains active on its 23 October deadline; no additional distinct target-profile record was added from NAV."
+      "note": "Current NAV listings and original pages were checked. K2 Project Forwarding remains active with an as-soon-as-possible deadline; no additional distinct target-profile record was added from NAV."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge searches did not expose a newly verifiable bachelor-friendly target-profile advert. Existing records kept their previous verification timestamps rather than overstating coverage."
+      "note": "Jobbnorge searches did not expose a newly readable, verifiable bachelor-friendly target-profile advert. Existing records retained their previous verification timestamps."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's public listings were searched. No new distinct target-profile record was found; existing accessible records kept their earlier verification timestamps unless directly checked."
+      "note": "Academic Work public listings were searched. No new distinct target-profile record was found; existing records retained their earlier verification timestamps unless directly checked."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Midport Scandinavia's Junior ERP Consultant – Logistics listing remains publicly accessible; no new LinkedIn-only record was added."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Midport Scandinavia was reverified, and Cambi's experience-required Procurement and Logistics Specialist was added as a stretch match."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "SAP's bachelor-level Young Professionals training programme and Pearl's experience-required SAP consultancy programme were verified on their original employer pages and added. Yinson's Procurement Officer remains active for 25 October. Wilhelmsen's Workday page returned no readable content, so its older verification timestamp was preserved."
+      "note": "Yinson's Procurement Officer remains active for 25 October. Wilhelmsen's Workday advert again returned no readable content, so its older verification timestamp was preserved."
     }
   ],
   "jobs": [
@@ -164,7 +164,7 @@
       "url": "https://www.finn.no/job/ad/476997092",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-20",
-      "verifiedAt": "2026-10-23T06:03:30Z"
+      "verifiedAt": "2026-10-23T17:03:43Z"
     },
     {
       "id": "compass-8497404",
@@ -292,7 +292,7 @@
       "url": "https://www.finn.no/job/ad/478789937",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-10-17T17:04:01Z"
+      "verifiedAt": "2026-10-23T17:03:43Z"
     },
     {
       "id": "nav-b2dfba76",
@@ -649,7 +649,7 @@
       "url": "https://www.finn.no/job/ad/478097302",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-23T06:03:30Z"
+      "verifiedAt": "2026-10-23T17:03:43Z"
     },
     {
       "id": "finn-476050064",
@@ -756,7 +756,7 @@
       "url": "https://careers.yinson.com/job/Oslo-Procurement-Officer/1370995355/",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-10",
-      "verifiedAt": "2026-10-23T06:03:30Z"
+      "verifiedAt": "2026-10-23T17:03:43Z"
     },
     {
       "id": "finn-478074986",
@@ -819,7 +819,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/ceb9ef65-0bcc-4611-bf1b-63875a6e8711",
       "deadline": "2026-10-23",
       "firstSeen": "2026-10-09",
-      "verifiedAt": "2026-10-23T06:03:30Z"
+      "verifiedAt": "2026-10-23T17:03:43Z"
     },
     {
       "id": "finn-476471336",
@@ -1445,7 +1445,7 @@
       "url": "https://www.finn.no/job/ad/476600136",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-10-23T06:03:30Z"
+      "verifiedAt": "2026-10-23T17:03:43Z"
     },
     {
       "id": "finn-475781619",
@@ -1521,7 +1521,7 @@
       "url": "https://www.finn.no/job/ad/476600129",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-10-23T06:03:30Z"
+      "verifiedAt": "2026-10-23T17:03:43Z"
     },
     {
       "id": "finn-476975441",
@@ -1912,7 +1912,7 @@
       "url": "https://no.linkedin.com/jobs/view/junior-erp-consultant-%E2%80%93-logistics-at-midport-scandinavia-4476438809",
       "deadline": null,
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-10-23T06:03:30Z"
+      "verifiedAt": "2026-10-23T17:03:43Z"
     },
     {
       "id": "finn-479283578",
@@ -2024,6 +2024,54 @@
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-23",
       "verifiedAt": "2026-10-23T06:03:30Z"
+    },
+    {
+      "id": "finn-479327027",
+      "title": "Internship · Agency, Operations & Chartering",
+      "company": "Peak CSL Group",
+      "location": "Bergen / Stavanger",
+      "type": "Full time · Internship",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Shipping",
+        "Logistics",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Choose between ship-agency work involving port operations, offshore logistics, procurement and invoicing, or commercial shipping work involving vessel operations, voyage follow-up, chartering and cargo coordination.",
+      "requirements": "Must currently pursue a relevant bachelor or master degree such as shipping management, maritime management or logistics. Norwegian and English, Microsoft 365 familiarity and an interest in maritime operations are required. No professional-experience minimum is stated. Deadline is listed as as soon as possible.",
+      "url": "https://www.finn.no/job/ad/479327027",
+      "deadline": null,
+      "firstSeen": "2026-10-23",
+      "verifiedAt": "2026-10-23T17:03:43Z"
+    },
+    {
+      "id": "linkedin-4477633613",
+      "title": "Procurement and Logistics Specialist",
+      "company": "Cambi",
+      "location": "Asker",
+      "type": "Full time",
+      "source": "LinkedIn",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Shipping",
+        "Logistics",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Lead project purchasing from RFQs and supplier negotiations through purchase orders, international logistics, customs clearance, delivery, contract records and procurement performance.",
+      "requirements": "A bachelor or master in business administration, industrial economics, engineering logistics, supply-chain management or a related discipline is requested. Hands-on procurement, logistics, purchasing, supplier-negotiation and ERP experience are mandatory, so this is a stretch match. Deadline 8 November.",
+      "url": "https://no.linkedin.com/jobs/view/procurement-and-logistics-specialist-at-cambi-4477633613",
+      "deadline": "2026-11-08",
+      "firstSeen": "2026-10-23",
+      "verifiedAt": "2026-10-23T17:03:43Z"
     }
   ]
 }
