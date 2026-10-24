@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-23T17:03:43Z",
+  "updatedAt": "2026-10-24T05:55:36Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Peak CSL Group's student shipping internship was added, NORBIT Subsea's student role was reverified, and Konsmo Fabrikker remained active on its 23 October deadline. Flak, both Hydro graduate roles and Forsvaret's accounting-rules role remain active for 25 October."
+      "note": "Current FINN results and original adverts were checked. Hydro Aluminium Metal's graduate-friendly Logistics Coordinator and Sykehusinnkjøp HF's new-graduate Contract Management Adviser were added. Konsmo Fabrikker was closed after its 23 October deadline. Flak, both Hydro graduate roles and Forsvaret's accounting-rules role remain active for 25 October."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. K2 Project Forwarding remains active with an as-soon-as-possible deadline; no additional distinct target-profile record was added from NAV."
+      "note": "Current NAV listings and original pages were checked. Sykehusinnkjøp HF's adviser role was deduplicated against its canonical FINN record; no additional distinct target-profile record was added from NAV."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge searches did not expose a newly readable, verifiable bachelor-friendly target-profile advert. Existing records retained their previous verification timestamps."
+      "note": "Jobbnorge searches did not expose a newly readable and verifiable bachelor-friendly target-profile advert. Existing records retained their previous verification timestamps."
     },
     {
       "name": "Academic Work",
@@ -24,7 +24,7 @@
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Midport Scandinavia was reverified, and Cambi's experience-required Procurement and Logistics Specialist was added as a stretch match."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Midport Scandinavia's Junior ERP Consultant remained publicly accessible. An old Capgemini result was excluded because LinkedIn explicitly says it no longer accepts applications."
     },
     {
       "name": "Employer careers",
@@ -164,7 +164,7 @@
       "url": "https://www.finn.no/job/ad/476997092",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-20",
-      "verifiedAt": "2026-10-23T17:03:43Z"
+      "verifiedAt": "2026-10-24T05:55:36Z"
     },
     {
       "id": "compass-8497404",
@@ -649,7 +649,7 @@
       "url": "https://www.finn.no/job/ad/478097302",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-23T17:03:43Z"
+      "verifiedAt": "2026-10-24T05:55:36Z"
     },
     {
       "id": "finn-476050064",
@@ -756,7 +756,7 @@
       "url": "https://careers.yinson.com/job/Oslo-Procurement-Officer/1370995355/",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-10",
-      "verifiedAt": "2026-10-23T17:03:43Z"
+      "verifiedAt": "2026-10-24T05:55:36Z"
     },
     {
       "id": "finn-478074986",
@@ -813,13 +813,13 @@
         "Finance"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Combine financial analysis, budgeting, project follow-up, accounting and contract documentation with improvements using IT, automation and AI.",
       "requirements": "Higher education in economics, accounting, finance or a similar field. Relevant experience is advantageous, but the employer explicitly welcomes new graduates; accounting systems, business intelligence and project-economics experience are preferred rather than mandatory.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/ceb9ef65-0bcc-4611-bf1b-63875a6e8711",
       "deadline": "2026-10-23",
       "firstSeen": "2026-10-09",
-      "verifiedAt": "2026-10-23T17:03:43Z"
+      "verifiedAt": "2026-10-24T05:55:36Z"
     },
     {
       "id": "finn-476471336",
@@ -1445,7 +1445,7 @@
       "url": "https://www.finn.no/job/ad/476600136",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-10-23T17:03:43Z"
+      "verifiedAt": "2026-10-24T05:55:36Z"
     },
     {
       "id": "finn-475781619",
@@ -1521,7 +1521,7 @@
       "url": "https://www.finn.no/job/ad/476600129",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-10-23T17:03:43Z"
+      "verifiedAt": "2026-10-24T05:55:36Z"
     },
     {
       "id": "finn-476975441",
@@ -1912,7 +1912,7 @@
       "url": "https://no.linkedin.com/jobs/view/junior-erp-consultant-%E2%80%93-logistics-at-midport-scandinavia-4476438809",
       "deadline": null,
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-10-23T17:03:43Z"
+      "verifiedAt": "2026-10-24T05:55:36Z"
     },
     {
       "id": "finn-479283578",
@@ -2072,6 +2072,51 @@
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-23",
       "verifiedAt": "2026-10-23T17:03:43Z"
+    },
+    {
+      "id": "finn-479379769",
+      "title": "Logistics Coordinator",
+      "company": "Hydro Aluminium Metal",
+      "location": "Håvik · Karmøy",
+      "type": "Full time · Approximately eight-month temporary position",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Shipping",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Coordinate transport activities and material flows across plants, terminals, carriers and suppliers; monitor deliveries and logistics KPIs, and contribute to process improvement and digitalisation.",
+      "requirements": "Relevant higher education in logistics, supply chain, economics, administration or a similar field is expected. Norwegian, English and strong Office 365 and Excel skills are required. Logistics, shipping, SAP, Power BI and improvement-project experience are advantages rather than mandatory; new graduates and students with relevant competence are explicitly encouraged. Deadline 6 November.",
+      "url": "https://www.finn.no/job/ad/479379769",
+      "deadline": "2026-11-06",
+      "firstSeen": "2026-10-24",
+      "verifiedAt": "2026-10-24T05:55:36Z"
+    },
+    {
+      "id": "finn-479155512",
+      "title": "Contract Management Adviser",
+      "company": "Sykehusinnkjøp HF",
+      "location": "Bergen, Trondheim or Drammen",
+      "type": "Permanent · Full time · Public procurement and contract management",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Follow supplier contracts for medical equipment and laboratory products, handle stakeholder enquiries, maintain agreement data and support deviations, changes and process improvements.",
+      "requirements": "A relevant bachelor or master degree in economics and administration, logistics, supply-chain management, procurement, public administration, law, engineering or a related field is required. Norwegian and digital competence are mandatory. New graduates are explicitly encouraged and prior contract-management or procurement experience is not required; training is provided. Deadline 9 November.",
+      "url": "https://www.finn.no/job/ad/479155512",
+      "deadline": "2026-11-09",
+      "firstSeen": "2026-10-24",
+      "verifiedAt": "2026-10-24T05:55:36Z"
     }
   ]
 }
