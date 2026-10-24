@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-24T05:55:36Z",
+  "updatedAt": "2026-10-24T17:04:27Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Hydro Aluminium Metal's graduate-friendly Logistics Coordinator and Sykehusinnkjøp HF's new-graduate Contract Management Adviser were added. Konsmo Fabrikker was closed after its 23 October deadline. Flak, both Hydro graduate roles and Forsvaret's accounting-rules role remain active for 25 October."
+      "note": "Current FINN results and original adverts were checked. Helseplattformen's graduate-friendly HR Consultant was added. Flak, both Hydro graduate roles and Forsvaret's accounting-rules role remain active for 25 October; experience-heavy new purchasing and junior-controller adverts were reviewed but were not promoted as strong matches."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Sykehusinnkjøp HF's adviser role was deduplicated against its canonical FINN record; no additional distinct target-profile record was added from NAV."
+      "note": "Current NAV listings and original pages were checked. Blue Ctrl's operations-coordinator advert asks for relevant experience and preferably some years, while another purchaser advert explicitly says the position is filled; neither was added as a strong target-profile match."
     },
     {
       "name": "Jobbnorge",
@@ -19,12 +19,12 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work public listings were searched. No new distinct target-profile record was found; existing records retained their earlier verification timestamps unless directly checked."
+      "note": "Academic Work public listings were searched. Airbus's existing junior project-leader advert remained publicly readable; no new distinct target-profile record was found."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Midport Scandinavia's Junior ERP Consultant remained publicly accessible. An old Capgemini result was excluded because LinkedIn explicitly says it no longer accepts applications."
+      "note": "Public LinkedIn listings were searched without login or access bypass. No new distinct current target-profile advert was added; older search results that explicitly no longer accept applications were excluded."
     },
     {
       "name": "Employer careers",
@@ -33,6 +33,26 @@
     }
   ],
   "jobs": [
+    {
+      "id": "finn-479415582",
+      "title": "HR Consultant",
+      "company": "Helseplattformen",
+      "location": "Trondheim · Hybrid",
+      "type": "Permanent · Full time · HR and administration",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support HR processes, recruitment and onboarding, personnel administration, documentation, meetings and process improvement while building broad early-career experience across HR and administrative services.",
+      "requirements": "A relevant bachelor's or master's in HR, organisation, administration, management or a related field is mandatory. Microsoft 365, very strong Norwegian and good English are required. New graduates are explicitly encouraged; service, administration, HR and records-system experience are advantages rather than requirements.",
+      "url": "https://www.finn.no/job/ad/479415582",
+      "deadline": "2026-11-15",
+      "firstSeen": "2026-10-24",
+      "verifiedAt": "2026-10-24T17:04:27Z"
+    },
     {
       "id": "finn-478767899",
       "title": "Commercial Trainee · Sales & Business Development",
@@ -164,7 +184,7 @@
       "url": "https://www.finn.no/job/ad/476997092",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-20",
-      "verifiedAt": "2026-10-24T05:55:36Z"
+      "verifiedAt": "2026-10-24T17:04:27Z"
     },
     {
       "id": "compass-8497404",
@@ -649,7 +669,7 @@
       "url": "https://www.finn.no/job/ad/478097302",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-24T05:55:36Z"
+      "verifiedAt": "2026-10-24T17:04:27Z"
     },
     {
       "id": "finn-476050064",
@@ -756,7 +776,7 @@
       "url": "https://careers.yinson.com/job/Oslo-Procurement-Officer/1370995355/",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-10",
-      "verifiedAt": "2026-10-24T05:55:36Z"
+      "verifiedAt": "2026-10-24T17:04:27Z"
     },
     {
       "id": "finn-478074986",
@@ -1445,7 +1465,7 @@
       "url": "https://www.finn.no/job/ad/476600136",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-10-24T05:55:36Z"
+      "verifiedAt": "2026-10-24T17:04:27Z"
     },
     {
       "id": "finn-475781619",
@@ -1521,7 +1541,7 @@
       "url": "https://www.finn.no/job/ad/476600129",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-10-24T05:55:36Z"
+      "verifiedAt": "2026-10-24T17:04:27Z"
     },
     {
       "id": "finn-476975441",
