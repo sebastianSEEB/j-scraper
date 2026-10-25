@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-10-24T17:04:27Z",
+  "updatedAt": "2026-10-25T06:55:14Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Helseplattformen's graduate-friendly HR Consultant was added. Flak, both Hydro graduate roles and Forsvaret's accounting-rules role remain active for 25 October; experience-heavy new purchasing and junior-controller adverts were reviewed but were not promoted as strong matches."
+      "note": "Current FINN results and original adverts were checked. Tindegruppen's bachelor-friendly Project Controller and Oslo municipality's master-required Procurement Adviser were added. Yinson, Flak, Forsvaret and both Hydro graduate roles remain active for 25 October; DNV's student assistant remains active for 27 October."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Blue Ctrl's operations-coordinator advert asks for relevant experience and preferably some years, while another purchaser advert explicitly says the position is filled; neither was added as a strong target-profile match."
+      "note": "Current NAV listings and original pages were checked. Blue Ctrl's operations-coordinator advert prefers some years of relevant experience and was not promoted as a strong no-experience match. No additional distinct bachelor-friendly target-profile record was added from NAV."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge searches did not expose a newly readable and verifiable bachelor-friendly target-profile advert. Existing records retained their previous verification timestamps."
+      "note": "Jobbnorge search results exposed a potentially relevant adviser role, but its original page returned only a JavaScript notice. It was not added as verified, and existing Jobbnorge records retained their previous verification timestamps."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work public listings were searched. Airbus's existing junior project-leader advert remained publicly readable; no new distinct target-profile record was found."
+      "note": "Academic Work public listings were searched. No new distinct current target-profile record was found; existing records retained their earlier verification timestamps."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. No new distinct current target-profile advert was added; older search results that explicitly no longer accept applications were excluded."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Old Steem1960, Alva Industries, Kempower and Bring results explicitly no longer accepted applications or had 2025/early-2026 deadlines and were excluded."
     },
     {
       "name": "Employer careers",
@@ -33,6 +33,49 @@
     }
   ],
   "jobs": [
+    {
+      "id": "finn-478303399",
+      "title": "Project Controller",
+      "company": "Tindegruppen",
+      "location": "Vinstra",
+      "type": "Permanent · Full time · Project controlling and procurement",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Follow project costs, margins and results; prepare forecasts, reports and variance analyses; support purchasing and suppliers; and improve management information across the group.",
+      "requirements": "Education in economics, accounting, administration or a related field is expected, although relevant experience may compensate. Project-finance, controlling, accounting or purchasing experience is desirable rather than mandatory. Strong numerical and business understanding plus Excel skills are expected.",
+      "url": "https://www.finn.no/job/ad/478303399",
+      "deadline": "2026-10-25",
+      "firstSeen": "2026-10-25",
+      "verifiedAt": "2026-10-25T06:55:14Z"
+    },
+    {
+      "id": "finn-478221485",
+      "title": "Procurement Adviser",
+      "company": "Oslo Municipality · Agency for Financial Management",
+      "location": "Oslo",
+      "type": "Permanent · Full time · Public procurement and contract management",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Lead public procurement processes, mini-competitions and call-offs; manage contracts and agreements; support municipal users; and help develop procurement tools and working methods.",
+      "requirements": "A master's-level education, preferably in law, economics, social sciences, procurement, administration or management, is mandatory. Relevant work, study practice, student-organisation or part-time experience is advantageous rather than required. Strong Norwegian communication and basic knowledge of contract law and public procurement are expected. This is a stretch match because a master's level is mandatory.",
+      "url": "https://www.finn.no/job/ad/478221485",
+      "deadline": "2026-10-25",
+      "firstSeen": "2026-10-25",
+      "verifiedAt": "2026-10-25T06:55:14Z"
+    },
     {
       "id": "finn-479415582",
       "title": "HR Consultant",
@@ -184,7 +227,7 @@
       "url": "https://www.finn.no/job/ad/476997092",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-20",
-      "verifiedAt": "2026-10-24T17:04:27Z"
+      "verifiedAt": "2026-10-25T06:55:14Z"
     },
     {
       "id": "compass-8497404",
@@ -226,7 +269,7 @@
       "url": "https://www.finn.no/job/ad/478702840",
       "deadline": "2026-10-27",
       "firstSeen": "2026-10-19",
-      "verifiedAt": "2026-10-19T17:03:15Z"
+      "verifiedAt": "2026-10-25T06:55:14Z"
     },
     {
       "id": "linkedin-4467057508",
@@ -669,7 +712,7 @@
       "url": "https://www.finn.no/job/ad/478097302",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-24T17:04:27Z"
+      "verifiedAt": "2026-10-25T06:55:14Z"
     },
     {
       "id": "finn-476050064",
@@ -776,7 +819,7 @@
       "url": "https://careers.yinson.com/job/Oslo-Procurement-Officer/1370995355/",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-10",
-      "verifiedAt": "2026-10-24T17:04:27Z"
+      "verifiedAt": "2026-10-25T06:55:14Z"
     },
     {
       "id": "finn-478074986",
@@ -1465,7 +1508,7 @@
       "url": "https://www.finn.no/job/ad/476600136",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-10-24T17:04:27Z"
+      "verifiedAt": "2026-10-25T06:55:14Z"
     },
     {
       "id": "finn-475781619",
@@ -1541,7 +1584,7 @@
       "url": "https://www.finn.no/job/ad/476600129",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-10-24T17:04:27Z"
+      "verifiedAt": "2026-10-25T06:55:14Z"
     },
     {
       "id": "finn-476975441",
