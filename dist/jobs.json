@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-25T06:55:14Z",
+  "updatedAt": "2026-10-25T17:56:04Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Tindegruppen's bachelor-friendly Project Controller and Oslo municipality's master-required Procurement Adviser were added. Yinson, Flak, Forsvaret and both Hydro graduate roles remain active for 25 October; DNV's student assistant remains active for 27 October."
+      "note": "Current FINN results and original adverts were checked. Tindegruppen, Yinson, Flak, Forsvaret, Oslo municipality and both Hydro graduate roles were still active on their 25 October deadline. NORBIT EMS's experience-required order coordinator was added as stretch, while DNV's student assistant remains active for 27 October."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Blue Ctrl's operations-coordinator advert prefers some years of relevant experience and was not promoted as a strong no-experience match. No additional distinct bachelor-friendly target-profile record was added from NAV."
+      "note": "Current NAV listings and original pages were checked. No additional distinct bachelor-friendly target-profile record was found. Existing records retained their prior verification timestamps unless their canonical original page was rechecked."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge search results exposed a potentially relevant adviser role, but its original page returned only a JavaScript notice. It was not added as verified, and existing Jobbnorge records retained their previous verification timestamps."
+      "note": "Jobbnorge search again exposed only a JavaScript-dependent listing index, and the potentially relevant adviser page was inaccessible. It was not added as verified, and existing Jobbnorge records retained their previous verification timestamps."
     },
     {
       "name": "Academic Work",
@@ -24,12 +24,12 @@
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Old Steem1960, Alva Industries, Kempower and Bring results explicitly no longer accepted applications or had 2025/early-2026 deadlines and were excluded."
+      "note": "Public LinkedIn listings were searched without login or access bypass. AVA of Norway's supply-chain student assistant was reverified from its fully readable public listing; no additional distinct bachelor-friendly target-profile record was added from LinkedIn."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Yinson's Procurement Officer remains active for 25 October. Wilhelmsen's Workday advert again returned no readable content, so its older verification timestamp was preserved."
+      "note": "Yinson's Procurement Officer remained active on its 25 October deadline. Ocean Installer's current graduate vacancy index and a detailed student-career-board copy confirmed its Graduate Planner role, added as stretch because a master's is mandatory. Wilhelmsen's Workday advert remained unreadable, so its older verification timestamp was preserved."
     }
   ],
   "jobs": [
@@ -53,7 +53,7 @@
       "url": "https://www.finn.no/job/ad/478303399",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-25",
-      "verifiedAt": "2026-10-25T06:55:14Z"
+      "verifiedAt": "2026-10-25T17:56:04Z"
     },
     {
       "id": "finn-478221485",
@@ -74,7 +74,7 @@
       "url": "https://www.finn.no/job/ad/478221485",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-25",
-      "verifiedAt": "2026-10-25T06:55:14Z"
+      "verifiedAt": "2026-10-25T17:56:04Z"
     },
     {
       "id": "finn-479415582",
@@ -227,7 +227,7 @@
       "url": "https://www.finn.no/job/ad/476997092",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-20",
-      "verifiedAt": "2026-10-25T06:55:14Z"
+      "verifiedAt": "2026-10-25T17:56:04Z"
     },
     {
       "id": "compass-8497404",
@@ -269,7 +269,7 @@
       "url": "https://www.finn.no/job/ad/478702840",
       "deadline": "2026-10-27",
       "firstSeen": "2026-10-19",
-      "verifiedAt": "2026-10-25T06:55:14Z"
+      "verifiedAt": "2026-10-25T17:56:04Z"
     },
     {
       "id": "linkedin-4467057508",
@@ -419,7 +419,7 @@
       "url": "https://no.linkedin.com/jobs/view/student-assistant-%E2%80%93-supply-chain-logistics-at-ava-of-norway-4479296311",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-10-17T06:04:36Z"
+      "verifiedAt": "2026-10-25T17:56:04Z"
     },
     {
       "id": "finn-477583648",
@@ -712,7 +712,7 @@
       "url": "https://www.finn.no/job/ad/478097302",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-25T06:55:14Z"
+      "verifiedAt": "2026-10-25T17:56:04Z"
     },
     {
       "id": "finn-476050064",
@@ -819,7 +819,7 @@
       "url": "https://careers.yinson.com/job/Oslo-Procurement-Officer/1370995355/",
       "deadline": "2026-10-25",
       "firstSeen": "2026-10-10",
-      "verifiedAt": "2026-10-25T06:55:14Z"
+      "verifiedAt": "2026-10-25T17:56:04Z"
     },
     {
       "id": "finn-478074986",
@@ -1508,7 +1508,7 @@
       "url": "https://www.finn.no/job/ad/476600136",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-10-25T06:55:14Z"
+      "verifiedAt": "2026-10-25T17:56:04Z"
     },
     {
       "id": "finn-475781619",
@@ -1584,7 +1584,7 @@
       "url": "https://www.finn.no/job/ad/476600129",
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-10-25T06:55:14Z"
+      "verifiedAt": "2026-10-25T17:56:04Z"
     },
     {
       "id": "finn-476975441",
@@ -2180,6 +2180,50 @@
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-24",
       "verifiedAt": "2026-10-24T05:55:36Z"
+    },
+    {
+      "id": "ocean-installer-117",
+      "title": "Graduate Planner",
+      "company": "Ocean Installer",
+      "location": "Oslo",
+      "type": "Graduate · Full time · Starts August 2027",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Shipping",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Support project and tender schedules, forecasts, project reporting, cross-department coordination, subcontractor schedule reviews, document tracking and offshore-progress analysis.",
+      "requirements": "Must be completing a master's degree in 2027 in business, economics, project management, engineering or a related field. No professional-experience minimum is stated, but the mandatory master's makes this a stretch match. Deadline 28 October.",
+      "url": "https://web103.reachmee.com/ext/I012/2348/job?job_id=117&lang=UK&site=6&validator=d954ced607940bbd8f44d1928c6d0bfb",
+      "deadline": "2026-10-28",
+      "firstSeen": "2026-10-25",
+      "verifiedAt": "2026-10-25T17:56:04Z"
+    },
+    {
+      "id": "finn-479219855",
+      "title": "Purchase Order Coordinator",
+      "company": "NORBIT EMS",
+      "location": "Røros",
+      "type": "Permanent · Full time · Purchasing and logistics",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Follow purchase orders, deliveries and deviations; maintain ERP records; and coordinate with buyers, suppliers, warehouse teams and production.",
+      "requirements": "Experience in purchasing, logistics or order handling plus an understanding of purchasing processes and EDI systems is required, so this is a stretch match. Norwegian and English are mandatory; interest in AI, agents and Power BI is requested. Training and support are offered. Deadline 16 November.",
+      "url": "https://www.finn.no/job/ad/479219855",
+      "deadline": "2026-11-16",
+      "firstSeen": "2026-10-25",
+      "verifiedAt": "2026-10-25T17:56:04Z"
     }
   ]
 }
