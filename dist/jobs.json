@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-25T17:56:04Z",
+  "updatedAt": "2026-10-26T06:56:35Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Tindegruppen, Yinson, Flak, Forsvaret, Oslo municipality and both Hydro graduate roles were still active on their 25 October deadline. NORBIT EMS's experience-required order coordinator was added as stretch, while DNV's student assistant remains active for 27 October."
+      "note": "Current FINN results and original adverts were checked. The 25 October listings from Tindegruppen, Flak, Forsvaret, Oslo municipality and Hydro were closed after their deadlines passed. No additional distinct bachelor-friendly target-profile record was added from FINN."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. No additional distinct bachelor-friendly target-profile record was found. Existing records retained their prior verification timestamps unless their canonical original page was rechecked."
+      "note": "Current NAV listings and original pages were checked. A graduate project-engineer result required a construction-engineering degree and was excluded as outside the target profile. No additional distinct target-profile record was added."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge search again exposed only a JavaScript-dependent listing index, and the potentially relevant adviser page was inaccessible. It was not added as verified, and existing Jobbnorge records retained their previous verification timestamps."
+      "note": "Jobbnorge search again exposed a JavaScript-dependent index and stale PDF results rather than a current accessible target-profile listing. Existing Jobbnorge records retained their previous verification timestamps."
     },
     {
       "name": "Academic Work",
@@ -24,12 +24,12 @@
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. AVA of Norway's supply-chain student assistant was reverified from its fully readable public listing; no additional distinct bachelor-friendly target-profile record was added from LinkedIn."
+      "note": "Public LinkedIn listings were searched without login or access bypass. No additional distinct bachelor-friendly target-profile record was found; existing records retained their prior successful verification timestamps."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Yinson's Procurement Officer remained active on its 25 October deadline. Ocean Installer's current graduate vacancy index and a detailed student-career-board copy confirmed its Graduate Planner role, added as stretch because a master's is mandatory. Wilhelmsen's Workday advert remained unreadable, so its older verification timestamp was preserved."
+      "note": "Gjensidige's employer-original investment internship and SSY's public shipping-finance assistant advert were added. Yinson and Wilhelmsen were closed after their 25 October deadlines; Wilhelmsen's older verification timestamp was preserved because its Workday page remained unreadable."
     }
   ],
   "jobs": [
@@ -47,7 +47,7 @@
         "Operations"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Follow project costs, margins and results; prepare forecasts, reports and variance analyses; support purchasing and suppliers; and improve management information across the group.",
       "requirements": "Education in economics, accounting, administration or a related field is expected, although relevant experience may compensate. Project-finance, controlling, accounting or purchasing experience is desirable rather than mandatory. Strong numerical and business understanding plus Excel skills are expected.",
       "url": "https://www.finn.no/job/ad/478303399",
@@ -68,7 +68,7 @@
         "Operations"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Lead public procurement processes, mini-competitions and call-offs; manage contracts and agreements; support municipal users; and help develop procurement tools and working methods.",
       "requirements": "A master's-level education, preferably in law, economics, social sciences, procurement, administration or management, is mandatory. Relevant work, study practice, student-organisation or part-time experience is advantageous rather than required. Strong Norwegian communication and basic knowledge of contract law and public procurement are expected. This is a stretch match because a master's level is mandatory.",
       "url": "https://www.finn.no/job/ad/478221485",
@@ -221,7 +221,7 @@
         "Shipping"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Manage a supplier and product portfolio from demand planning and ordering through delivery, inventory follow-up, invoice checks, shipping documents and product-data maintenance.",
       "requirements": "Education in procurement, economics, logistics or a technical field is expected, although experience may compensate. Relevant purchasing experience plus Excel and ERP experience are requested; Norwegian and English are mandatory. Because prior purchasing and ERP experience are expected, this is a stretch match.",
       "url": "https://www.finn.no/job/ad/476997092",
@@ -706,7 +706,7 @@
         "Operations"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Develop accounting rules, internal-control frameworks and digital finance processes while supporting year-end work and automation of Forsvaret's ERP environment.",
       "requirements": "A relevant bachelor’s degree is required and new graduates are welcome, but knowledge of ERP upgrades and implementation, process digitalization and Norwegian public-sector financial-management rules are mandatory. Very strong Norwegian and eligibility for HEMMELIG/NATO Secret clearance are also required; a master’s and SAP, Power BI or SRS experience are preferred.",
       "url": "https://www.finn.no/job/ad/478097302",
@@ -813,7 +813,7 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Support daily procurement and logistics for seven international FPSO units by placing and following orders, coordinating deliveries, checking invoices and maintaining supplier and purchasing records.",
       "requirements": "A bachelor's degree in a relevant field is required unless compensated by relevant experience. Norwegian and English fluency are mandatory. ERP or IFS experience is advantageous rather than required; no minimum professional-experience requirement is stated.",
       "url": "https://careers.yinson.com/job/Oslo-Procurement-Officer/1370995355/",
@@ -1502,7 +1502,7 @@
         "Procurement"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "A graduate role focused on logistics, value-chain and procurement improvement projects, including daily operational follow-up at Hydro Årdal.",
       "requirements": "Mandatory master’s in supply chain, logistics, economics or similar; maximum two years of post-graduation experience and professional Norwegian and English.",
       "url": "https://www.finn.no/job/ad/476600136",
@@ -1578,7 +1578,7 @@
         "Business"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Commercial analytics role supporting reports, data models and process improvements across finance, sales, logistics and credit management.",
       "requirements": "Mandatory relevant master’s in business analytics, finance, economics, engineering or similar. SQL or Python, Power BI, SAP Analytics Cloud and fluent English are required.",
       "url": "https://www.finn.no/job/ad/476600129",
@@ -1923,7 +1923,7 @@
         "Shipping"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "An interdisciplinary maritime project involving data analysis, strategy development and presentations on real shipping-industry challenges.",
       "requirements": "Open to students in economics, business and other disciplines; students expected to graduate in 2028 are prioritized but this is not stated as mandatory. A valid Norwegian work permit for the internship is required. The six-week programme runs in weeks 24–26 and 30–32.",
       "url": "https://wilhelmsen.wd3.myworkdayjobs.com/en-US/Wilhelmsen/job/Lysaker/Wilhelmsen-Summer-Internship-2027_JOBREQ_13100",
@@ -2224,6 +2224,48 @@
       "deadline": "2026-11-16",
       "firstSeen": "2026-10-25",
       "verifiedAt": "2026-10-25T17:56:04Z"
+    },
+    {
+      "id": "gjensidige-1447221733",
+      "title": "Summer Internship 2027 · Investments",
+      "company": "Gjensidige",
+      "location": "Oslo",
+      "type": "Summer internship · Full time · Six weeks",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support credit analysis of Norwegian bond issuers and contribute to investment projects involving financial markets, company analysis, macro trends and portfolio management.",
+      "requirements": "Must be entering study year 3–5 in autumn 2027 within finance, economics, mathematics or a similar field. Interest in finance and portfolio investment plus good Norwegian are required; Excel experience is advantageous rather than mandatory. No professional-experience minimum is stated. Deadline 8 November.",
+      "url": "https://jobs.gjensidige.com/job/OSLO-Summer-internship-2027-Investeringer-0191/1447221733/",
+      "deadline": "2026-11-08",
+      "firstSeen": "2026-10-26",
+      "verifiedAt": "2026-10-26T06:56:35Z"
+    },
+    {
+      "id": "ssy-accounts-assistant-2026",
+      "title": "Accounts Assistant · 50%",
+      "company": "SSY",
+      "location": "Oslo",
+      "type": "Part time · 50% · Shipping finance",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Finance",
+        "Shipping",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Process supplier and customer invoices, follow receivables and payables, reconcile bank and balance-sheet accounts, and support month-end reporting and finance administration for a global shipping broker.",
+      "requirements": "Good Excel, Norwegian and English skills plus sound systems understanding are required. Accounting or finance experience is desirable rather than essential. The advert explicitly says the role suits a student or recent graduate seeking experience. Deadline 13 November.",
+      "url": "https://www.uio.no/english/studies/career/career-opportunities/ssy.pdf",
+      "deadline": "2026-11-13",
+      "firstSeen": "2026-10-26",
+      "verifiedAt": "2026-10-26T06:56:35Z"
     }
   ]
 }
