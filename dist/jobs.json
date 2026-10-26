@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-26T06:56:35Z",
+  "updatedAt": "2026-10-26T18:01:26Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. The 25 October listings from Tindegruppen, Flak, Forsvaret, Oslo municipality and Hydro were closed after their deadlines passed. DNV's student assistant was reverified for 27 October; no additional distinct target-profile record was added from FINN."
+      "note": "Current FINN results and original adverts were checked. DNV's bachelor-friendly maritime student assistant was reverified as active for 27 October. No additional distinct target-profile record was added from FINN in this evening refresh."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. A graduate project-engineer result required a construction-engineering degree and was excluded as outside the target profile. No additional distinct target-profile record was added."
+      "note": "Current NAV listings and original pages were checked. No additional distinct bachelor-friendly target-profile record was found in this evening refresh."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge search again exposed a JavaScript-dependent index and stale PDF results rather than a current accessible target-profile listing. Existing Jobbnorge records retained their previous verification timestamps."
+      "note": "Jobbnorge search again exposed a JavaScript-dependent index or stale results rather than a current accessible target-profile listing. Existing Jobbnorge records retained their previous verification timestamps."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work public listings were searched. Airbus's junior project leader was reverified for 29 October; no new distinct current target-profile record was found."
+      "note": "Academic Work public listings were searched. Airbus's no-experience junior project leader was reverified as active for 29 October; no new distinct current target-profile record was found."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. No additional distinct bachelor-friendly target-profile record was found; existing records retained their prior successful verification timestamps."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Siemens's finance student worker and Glamox's business-development analyst internship were added from accessible public listings; no login-only content was used."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Gjensidige's employer-original investment internship and SSY's public shipping-finance assistant advert were added. Ocean Installer's master-required Graduate Planner was reverified for 28 October. Yinson and Wilhelmsen were closed after their 25 October deadlines; Wilhelmsen's older verification timestamp was preserved because its Workday page remained unreadable."
+      "note": "Rystad Energy's employer-original commercial internship was added, while Barilla's experience-required category-analyst trainee was added as stretch. Ocean Installer's master-required Graduate Planner was reverified as active for 28 October. Siemens's employer pages returned HTTP 406 and Wilhelmsen's Workday page remained unreadable, so coverage is marked degraded and older unaffected records kept their prior timestamps."
     }
   ],
   "jobs": [
@@ -204,7 +204,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/junior-project-leader-to-airbus-defence-and-space/BIOUFV",
       "deadline": "2026-10-29",
       "firstSeen": "2026-10-21",
-      "verifiedAt": "2026-10-26T06:56:35Z"
+      "verifiedAt": "2026-10-26T18:01:26Z"
     },
     {
       "id": "finn-476997092",
@@ -269,7 +269,7 @@
       "url": "https://www.finn.no/job/ad/478702840",
       "deadline": "2026-10-27",
       "firstSeen": "2026-10-19",
-      "verifiedAt": "2026-10-26T06:56:35Z"
+      "verifiedAt": "2026-10-26T18:01:26Z"
     },
     {
       "id": "linkedin-4467057508",
@@ -502,7 +502,7 @@
       "requirements": "A bachelor’s in project management, economics/business, engineering or another relevant field is expected. New graduates and early-career candidates are explicitly encouraged, and experience is advantageous rather than mandatory. Good English and general IT competence are required. Applications are reviewed as soon as possible.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/7b6617be-17bd-4e80-bfdc-d7d20bd773fd",
       "deadline": null,
-      "firstSeen": "2026-10-16",
+      "firstSeen": "2026-10-06",
       "verifiedAt": "2026-10-16T06:03:09Z"
     },
     {
@@ -1050,26 +1050,6 @@
       "deadline": "2026-10-08",
       "firstSeen": "2026-10-07",
       "verifiedAt": "2026-10-09T06:06:37Z"
-    },
-    {
-      "id": "finn-477617012",
-      "title": "Junior Prosjektkoordinator",
-      "company": "MOYO",
-      "location": "Horten",
-      "type": "Temporary · Full time through 2027",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Procurement"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Coordinate project documentation, meetings, milestones and follow-up in an international medical-technology environment, including purchasing, orders and administrative support.",
-      "requirements": "Bachelor’s in project management, engineering, economics, business or another relevant field. New graduates and early-career candidates are explicitly encouraged; experience is advantageous but not required. English and general IT competence are required. Rolling deadline marked 'as soon as possible'.",
-      "url": "https://www.finn.no/job/ad/477617012",
-      "deadline": null,
-      "firstSeen": "2026-10-06",
-      "verifiedAt": "2026-10-06T16:56:54Z"
     },
     {
       "id": "finn-477633069",
@@ -2200,7 +2180,7 @@
       "url": "https://web103.reachmee.com/ext/I012/2348/job?job_id=117&lang=UK&site=6&validator=d954ced607940bbd8f44d1928c6d0bfb",
       "deadline": "2026-10-28",
       "firstSeen": "2026-10-25",
-      "verifiedAt": "2026-10-26T06:56:35Z"
+      "verifiedAt": "2026-10-26T18:01:26Z"
     },
     {
       "id": "finn-479219855",
@@ -2266,6 +2246,89 @@
       "deadline": "2026-11-13",
       "firstSeen": "2026-10-26",
       "verifiedAt": "2026-10-26T06:56:35Z"
+    },
+    {
+      "id": "rystad-energy-3A92C62A8E",
+      "title": "Commercial Intern · Summer 2027",
+      "company": "Rystad Energy",
+      "location": "Oslo",
+      "type": "Summer internship · Commercial · On-site",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support Rystad Energy's commercial team with market and client work while learning how energy data and research are translated into business decisions and commercial activity.",
+      "requirements": "Must currently pursue a bachelor's or master's degree. Strong academic performance, analytical and problem-solving ability, communication skills and genuine interest in energy markets are required. No professional-experience minimum is stated. Deadline 13 November.",
+      "url": "https://apply.workable.com/rystad-energy/j/3A92C62A8E",
+      "deadline": "2026-11-13",
+      "firstSeen": "2026-10-26",
+      "verifiedAt": "2026-10-26T18:01:26Z"
+    },
+    {
+      "id": "siemens-524304",
+      "title": "Student Worker · Finance",
+      "company": "Siemens",
+      "location": "Oslo",
+      "type": "Part time · 20–40% · Student finance",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support controlling, receivables, invoicing, budgeting, forecasting, accounting control and financial-data quality in a role designed around the study calendar.",
+      "requirements": "Must currently study economics, business or finance at bachelor's or master's level and have good written and spoken Norwegian. No professional-experience minimum is stated; Siemens provides training. Deadline 15 November, with planned start in spring 2027.",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524304",
+      "deadline": "2026-11-15",
+      "firstSeen": "2026-10-26",
+      "verifiedAt": "2026-10-26T18:01:26Z"
+    },
+    {
+      "id": "linkedin-4468783054",
+      "title": "Business Development Analyst Intern",
+      "company": "Glamox",
+      "location": "Oslo",
+      "type": "Part time internship · Approximately 20%",
+      "source": "LinkedIn",
+      "categories": [
+        "Business",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Analyse markets and large-project opportunities, structure opportunity data, improve repeatable research workflows and prepare reports and presentations for business-development and sales teams.",
+      "requirements": "Must currently be in the third year of a bachelor's or in a master's programme in business, economics, data or analytics, with strong academic results. English and a Scandinavian language plus the right to work in Norway are required. Excel or Power BI and automation experience are advantages rather than mandatory. No deadline is stated; the public listing remains open.",
+      "url": "https://no.linkedin.com/jobs/view/business-development-analyst-intern-at-glamox-4468783054",
+      "deadline": null,
+      "firstSeen": "2026-10-26",
+      "verifiedAt": "2026-10-26T18:01:26Z"
+    },
+    {
+      "id": "barilla-1444817433",
+      "title": "Future Leader Trainee · Category Analyst",
+      "company": "Barilla Group",
+      "location": "Hamar · Hybrid",
+      "type": "Permanent · Two-year trainee programme · Sales and marketing",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Begin a two-year commercial trainee programme as a category analyst, using customer and market data to assess category performance, recommend growth actions and prepare customer presentations.",
+      "requirements": "An academic background and 1–3 years of work experience are mandatory, making this a stretch match. Norwegian or Swedish and English plus advanced Microsoft Office skills are required; FMCG and Nielsen experience are advantageous. Applications are reviewed continuously and no final deadline is stated.",
+      "url": "https://jobs.barillagroup.com/job/Hamar-Future-Leader-Trainee-Category-Analyst-Hama-Hamar/1444817433/",
+      "deadline": null,
+      "firstSeen": "2026-10-26",
+      "verifiedAt": "2026-10-26T18:01:26Z"
     }
   ]
 }
