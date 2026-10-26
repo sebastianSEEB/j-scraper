@@ -4,7 +4,7 @@
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. The 25 October listings from Tindegruppen, Flak, Forsvaret, Oslo municipality and Hydro were closed after their deadlines passed. No additional distinct bachelor-friendly target-profile record was added from FINN."
+      "note": "Current FINN results and original adverts were checked. The 25 October listings from Tindegruppen, Flak, Forsvaret, Oslo municipality and Hydro were closed after their deadlines passed. DNV's student assistant was reverified for 27 October; no additional distinct target-profile record was added from FINN."
     },
     {
       "name": "NAV Arbeidsplassen",
@@ -19,7 +19,7 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work public listings were searched. No new distinct current target-profile record was found; existing records retained their earlier verification timestamps."
+      "note": "Academic Work public listings were searched. Airbus's junior project leader was reverified for 29 October; no new distinct current target-profile record was found."
     },
     {
       "name": "LinkedIn",
@@ -29,7 +29,7 @@
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Gjensidige's employer-original investment internship and SSY's public shipping-finance assistant advert were added. Yinson and Wilhelmsen were closed after their 25 October deadlines; Wilhelmsen's older verification timestamp was preserved because its Workday page remained unreadable."
+      "note": "Gjensidige's employer-original investment internship and SSY's public shipping-finance assistant advert were added. Ocean Installer's master-required Graduate Planner was reverified for 28 October. Yinson and Wilhelmsen were closed after their 25 October deadlines; Wilhelmsen's older verification timestamp was preserved because its Workday page remained unreadable."
     }
   ],
   "jobs": [
@@ -204,7 +204,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/junior-project-leader-to-airbus-defence-and-space/BIOUFV",
       "deadline": "2026-10-29",
       "firstSeen": "2026-10-21",
-      "verifiedAt": "2026-10-21T06:05:02Z"
+      "verifiedAt": "2026-10-26T06:56:35Z"
     },
     {
       "id": "finn-476997092",
@@ -269,7 +269,7 @@
       "url": "https://www.finn.no/job/ad/478702840",
       "deadline": "2026-10-27",
       "firstSeen": "2026-10-19",
-      "verifiedAt": "2026-10-25T17:56:04Z"
+      "verifiedAt": "2026-10-26T06:56:35Z"
     },
     {
       "id": "linkedin-4467057508",
@@ -2200,7 +2200,7 @@
       "url": "https://web103.reachmee.com/ext/I012/2348/job?job_id=117&lang=UK&site=6&validator=d954ced607940bbd8f44d1928c6d0bfb",
       "deadline": "2026-10-28",
       "firstSeen": "2026-10-25",
-      "verifiedAt": "2026-10-25T17:56:04Z"
+      "verifiedAt": "2026-10-26T06:56:35Z"
     },
     {
       "id": "finn-479219855",
