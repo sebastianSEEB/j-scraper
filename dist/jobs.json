@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-26T18:01:26Z",
+  "updatedAt": "2026-10-27T06:58:16Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. DNV's bachelor-friendly maritime student assistant was reverified as active for 27 October. No additional distinct target-profile record was added from FINN in this evening refresh."
+      "note": "Current FINN results and original adverts were checked. DNV's bachelor-friendly maritime student assistant remains active on its 27 October deadline. Ramboll's broad summer-intern advert now explicitly says it is closed despite displaying an 8 November date, so that record was closed."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. No additional distinct bachelor-friendly target-profile record was found in this evening refresh."
+      "note": "Current NAV listings and original pages were checked. No additional distinct bachelor-friendly target-profile record was found in this morning refresh."
     },
     {
       "name": "Jobbnorge",
@@ -19,17 +19,17 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work public listings were searched. Airbus's no-experience junior project leader was reverified as active for 29 October; no new distinct current target-profile record was found."
+      "note": "Academic Work public listings were searched, but the Airbus original page was not accessible in this refresh. Its previous verification timestamp was preserved; no new distinct current target-profile record was added."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Siemens's finance student worker and Glamox's business-development analyst internship were added from accessible public listings; no login-only content was used."
+      "note": "Public LinkedIn listings were searched without login or access bypass. No new distinct current target-profile record was added, and no login-only content was used."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Rystad Energy's employer-original commercial internship was added, while Barilla's experience-required category-analyst trainee was added as stretch. Ocean Installer's master-required Graduate Planner was reverified as active for 28 October. Siemens's employer pages returned HTTP 406 and Wilhelmsen's Workday page remained unreadable, so coverage is marked degraded and older unaffected records kept their prior timestamps."
+      "note": "Ramboll's employer-original sales and business-development summer internship was added after the broad FINN advert closed. Ocean Installer's Graduate Planner page was inaccessible in this refresh, so its previous verification timestamp was preserved. Other inaccessible employer pages were not marked reverified."
     }
   ],
   "jobs": [
@@ -269,7 +269,7 @@
       "url": "https://www.finn.no/job/ad/478702840",
       "deadline": "2026-10-27",
       "firstSeen": "2026-10-19",
-      "verifiedAt": "2026-10-26T18:01:26Z"
+      "verifiedAt": "2026-10-27T06:58:16Z"
     },
     {
       "id": "linkedin-4467057508",
@@ -1084,13 +1084,33 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Ramboll's 2027 internship pool includes Business Development alongside transport, energy, water and buildings placements, with hands-on work alongside specialist teams.",
       "requirements": "Open to students, but the shared advert does not state a degree level or the detailed eligibility for each placement. Check the specific Business Development vacancy before applying; applications may close early if positions fill.",
       "url": "https://www.finn.no/job/ad/475815326",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-06",
-      "verifiedAt": "2026-10-06T16:56:54Z"
+      "verifiedAt": "2026-10-27T06:58:16Z"
+    },
+    {
+      "id": "smartrecruiters-744000155938309",
+      "title": "Summer Intern 2027 · Sales & Business Development",
+      "company": "Ramboll",
+      "location": "Norway · location not stated",
+      "type": "Summer internship · Full time",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support Ramboll's commercial team with customer and market analysis, sales-process improvements, presentations, shared sales resources and testing of AI-enabled business-development tools.",
+      "requirements": "Must currently study economics, industrial economics, strategy, marketing, technology, innovation, data analytics or a similar subject. Norwegian and English are required. No completed-degree or professional-experience minimum is stated. Deadline 8 November; applications are reviewed continuously and may fill early.",
+      "url": "https://jobs.smartrecruiters.com/Ramboll3/744000155938309-sommerpraktikant-2027-salg-og-forretningsutvikling-",
+      "deadline": "2026-11-08",
+      "firstSeen": "2026-10-27",
+      "verifiedAt": "2026-10-27T06:58:16Z"
     },
     {
       "id": "webcruiter-5187004303",
