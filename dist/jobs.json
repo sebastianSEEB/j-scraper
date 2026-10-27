@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-27T06:58:16Z",
+  "updatedAt": "2026-10-27T18:03:41Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. DNV's bachelor-friendly maritime student assistant remains active on its 27 October deadline. Ramboll's broad summer-intern advert now explicitly says it is closed despite displaying an 8 November date, so that record was closed."
+      "note": "Current FINN results and original adverts were checked. DNV's bachelor-friendly maritime student assistant remains active on its 27 October deadline. Geminor's commercial trainee and NORBIT's junior document controller were also reverified as active."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. No additional distinct bachelor-friendly target-profile record was found in this morning refresh."
+      "note": "Current NAV listings and original pages were checked. Knutsen OAS Shipping's graduate-friendly Accountant was added, and Delta Regnskap's trainee deadline was corrected to 7 November."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge search again exposed a JavaScript-dependent index or stale results rather than a current accessible target-profile listing. Existing Jobbnorge records retained their previous verification timestamps."
+      "note": "Jobbnorge's current feed exposed a relevant controller title and deadline, but the original listing remained JavaScript-dependent and did not expose qualifications. It was not added, and existing Jobbnorge records retained their previous verification timestamps."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work public listings were searched, but the Airbus original page was not accessible in this refresh. Its previous verification timestamp was preserved; no new distinct current target-profile record was added."
+      "note": "Academic Work public listings were searched. Airbus's junior project leader was reverified as active for 29 October; no new distinct current target-profile record was added."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. No new distinct current target-profile record was added, and no login-only content was used."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Colgate-Palmolive's commercial student internship and Wilhelmsen's master-required graduate programme were added from accessible public listings."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Ramboll's employer-original sales and business-development summer internship was added after the broad FINN advert closed. Ocean Installer's Graduate Planner page was inaccessible in this refresh, so its previous verification timestamp was preserved. Other inaccessible employer pages were not marked reverified."
+      "note": "Employer career pages were searched, but Ocean Installer's Graduate Planner and Wilhelmsen's Workday page were inaccessible in this refresh. Their older records were not falsely reverified; the new Wilhelmsen graduate programme was verified through its accessible public LinkedIn listing."
     }
   ],
   "jobs": [
@@ -117,7 +117,7 @@
       "url": "https://www.finn.no/job/ad/478767899",
       "deadline": null,
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-10-22T16:55:54Z"
+      "verifiedAt": "2026-10-27T18:03:41Z"
     },
     {
       "id": "linkedin-4481297441",
@@ -204,7 +204,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/junior-project-leader-to-airbus-defence-and-space/BIOUFV",
       "deadline": "2026-10-29",
       "firstSeen": "2026-10-21",
-      "verifiedAt": "2026-10-26T18:01:26Z"
+      "verifiedAt": "2026-10-27T18:03:41Z"
     },
     {
       "id": "finn-476997092",
@@ -269,7 +269,7 @@
       "url": "https://www.finn.no/job/ad/478702840",
       "deadline": "2026-10-27",
       "firstSeen": "2026-10-19",
-      "verifiedAt": "2026-10-27T06:58:16Z"
+      "verifiedAt": "2026-10-27T18:03:41Z"
     },
     {
       "id": "linkedin-4467057508",
@@ -355,7 +355,7 @@
       "url": "https://www.finn.no/job/ad/478789937",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-10-23T17:03:43Z"
+      "verifiedAt": "2026-10-27T18:03:41Z"
     },
     {
       "id": "nav-b2dfba76",
@@ -392,11 +392,11 @@
       "fit": "potential",
       "status": "open",
       "summary": "Develop through bookkeeping, payroll, invoicing, reconciliations, reporting, quality control and customer dialogue, with responsibility increasing alongside competence.",
-      "requirements": "Relevant accounting or economics education and/or experience is sought. A relevant three-year degree is advantageous rather than stated as mandatory, authorization is not required, and new graduates are explicitly encouraged. No application deadline was shown on the public page.",
+      "requirements": "Relevant accounting or economics education and/or experience is sought. A relevant three-year degree is advantageous rather than stated as mandatory, authorization is not required, and new graduates are explicitly encouraged. Deadline 7 November.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e7852631-451f-462d-ad3b-10f5ce148ac1",
-      "deadline": null,
+      "deadline": "2026-11-07",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-10-17T17:04:01Z"
+      "verifiedAt": "2026-10-27T18:03:41Z"
     },
     {
       "id": "linkedin-4479296311",
@@ -2349,6 +2349,71 @@
       "deadline": null,
       "firstSeen": "2026-10-26",
       "verifiedAt": "2026-10-26T18:01:26Z"
+    },
+    {
+      "id": "nav-46666a07",
+      "title": "Accountant",
+      "company": "Knutsen OAS Shipping",
+      "location": "Haugesund",
+      "type": "Permanent · Full time · Maritime accounting",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Finance",
+        "Shipping",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Handle accounting, reconciliations, analysis and periodic reporting for an international shipping company, with responsibilities adapted to the successful candidate's competence and experience.",
+      "requirements": "A completed bachelor’s or higher degree in economics and accounting is mandatory for new graduates. Norwegian and English, sound accounting knowledge and familiarity with current rules are required. Prior professional experience is not required for the graduate profile. Deadline 1 November; candidates are reviewed continuously.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/46666a07-1bbd-4061-b9b6-e83ca473abf4",
+      "deadline": "2026-11-01",
+      "firstSeen": "2026-10-27",
+      "verifiedAt": "2026-10-27T18:03:41Z"
+    },
+    {
+      "id": "linkedin-4468163482",
+      "title": "Commercial Intern",
+      "company": "Colgate-Palmolive",
+      "location": "Oslo · On-site",
+      "type": "Student internship · 12 months · Minimum two days per week",
+      "source": "LinkedIn",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support Colgate's Norwegian commercial team with market and competitor analysis, pricing and promotion materials, commercial reporting, presentations, events, invoice processing and day-to-day administration.",
+      "requirements": "The role is explicitly for a current student and requires excellent Norwegian and English, organisation, attention to detail and the ability to manage several tasks independently. No degree level or professional-experience minimum is stated. Working time is flexible around studies with at least two office days per week. No fixed deadline is published.",
+      "url": "https://no.linkedin.com/jobs/view/commercial-intern-at-colgate-palmolive-4468163482",
+      "deadline": null,
+      "firstSeen": "2026-10-27",
+      "verifiedAt": "2026-10-27T18:03:41Z"
+    },
+    {
+      "id": "linkedin-4484053685",
+      "title": "Graduate Programme 2027",
+      "company": "Wilhelmsen",
+      "location": "Lysaker · Hybrid",
+      "type": "Graduate programme · Full time · 24 months",
+      "source": "LinkedIn",
+      "categories": [
+        "Business",
+        "Shipping",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Complete a 24-month maritime graduate programme with challenging projects, cross-functional development and a preferred international rotation focused on technology, logistics and sustainability.",
+      "requirements": "A master’s degree in business, engineering, data science or IT is mandatory, so this is a stretch match. Applicants may be fresh graduates or have one to two years of experience. Strong communication, curiosity and interest in technology and maritime logistics are required. Deadline 4 November.",
+      "url": "https://no.linkedin.com/jobs/view/graduate-programme-2027-at-wilhelmsen-group-4484053685",
+      "deadline": "2026-11-04",
+      "firstSeen": "2026-10-27",
+      "verifiedAt": "2026-10-27T18:03:41Z"
     }
   ]
 }
