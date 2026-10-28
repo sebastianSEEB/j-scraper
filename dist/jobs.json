@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-28T06:55:14Z",
+  "updatedAt": "2026-10-28T17:55:19Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Laerdal Medical's 2027 summer internships and Anticimex's procurement coordinator were added from active original adverts. DNV's student assistant was closed after its 27 October deadline."
+      "note": "Current FINN results and original adverts were checked. Forsvaret's bachelor-level purchaser in Rena was added, Airbus remained active for 29 October, and Personalhuset's student finance advert was closed after FINN explicitly marked it expired."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV results were checked. OKEA's graduate recruitment was surfaced there, and the dedicated bachelor-friendly Supply Chain Management Trainee was verified on its original Webcruiter page."
+      "note": "Current NAV listings and original pages were checked. Two bachelor-level Forsvaret purchaser roles in Rena and Bjerkvik were added; their relevant experience requirements are advantages rather than mandatory."
     },
     {
       "name": "Jobbnorge",
@@ -19,17 +19,17 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work public listings were searched. Airbus's junior project leader was reverified as active for its 29 October deadline; no new distinct target-profile record was added."
+      "note": "Academic Work public listings were searched. Airbus's junior project leader remained active for its 29 October deadline and still states that no prior experience is required."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Laerdal's current public internship listing corroborated the logistics, procurement and business tracks; AVA's supply-chain student assistant remained accessible."
+      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's supply-chain student assistant remained active for 1 November; no new distinct target-profile LinkedIn record was added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were searched. OKEA's dedicated Supply Chain trainee was verified on its original Webcruiter page, and Ocean Installer's vacancy list still showed Graduate Planner through 28 October. No inaccessible page was marked freshly verified."
+      "note": "Employer career pages were checked. OKEA's dedicated Supply Chain trainee remained active through 15 November, and Ocean Installer's vacancy list still displayed Graduate Planner through 28 October."
     }
   ],
   "jobs": [
@@ -204,7 +204,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/junior-project-leader-to-airbus-defence-and-space/BIOUFV",
       "deadline": "2026-10-29",
       "firstSeen": "2026-10-21",
-      "verifiedAt": "2026-10-28T06:55:14Z"
+      "verifiedAt": "2026-10-28T17:55:19Z"
     },
     {
       "id": "finn-476997092",
@@ -419,7 +419,7 @@
       "url": "https://no.linkedin.com/jobs/view/student-assistant-%E2%80%93-supply-chain-logistics-at-ava-of-norway-4479296311",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-10-25T17:56:04Z"
+      "verifiedAt": "2026-10-28T17:55:19Z"
     },
     {
       "id": "finn-477583648",
@@ -856,13 +856,13 @@
         "Finance"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Support the finance department alongside studies with invoice processing, simple reconciliations, administration and digital process-improvement work.",
       "requirements": "Currently studying economics, accounting, auditing or a similar subject at bachelor’s or master’s level. Excel, general digital-system skills, accuracy and structure are required; no previous professional experience is stated. The employer offers training and flexible hours around studies.",
       "url": "https://www.finn.no/job/ad/478077334",
-      "deadline": "2026-11-05",
+      "deadline": "2026-10-27",
       "firstSeen": "2026-10-09",
-      "verifiedAt": "2026-10-09T16:57:48Z"
+      "verifiedAt": "2026-10-28T17:55:19Z"
     },
     {
       "id": "nav-ceb9ef65",
@@ -2200,7 +2200,7 @@
       "url": "https://web103.reachmee.com/ext/I012/2348/job?job_id=117&lang=UK&site=6&validator=d954ced607940bbd8f44d1928c6d0bfb",
       "deadline": "2026-10-28",
       "firstSeen": "2026-10-25",
-      "verifiedAt": "2026-10-28T06:55:14Z"
+      "verifiedAt": "2026-10-28T17:55:19Z"
     },
     {
       "id": "finn-479219855",
@@ -2460,7 +2460,7 @@
       "url": "https://55632.webcruiter.no/Main/Recruit/Public/5192867724?language=nb&showExpired=False",
       "deadline": "2026-11-15",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-10-28T06:55:14Z"
+      "verifiedAt": "2026-10-28T17:55:19Z"
     },
     {
       "id": "finn-479090185",
@@ -2484,6 +2484,52 @@
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-28",
       "verifiedAt": "2026-10-28T06:55:14Z"
+    },
+    {
+      "id": "nav-6a20da25",
+      "title": "Innkjøper · Hærens våpenskole",
+      "company": "Forsvaret",
+      "location": "Rena",
+      "type": "Permanent · Full time · Public procurement",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Process requisitions and purchases, follow deviations and complaints, guide internal requesters, improve purchasing routines, plan major equipment replacements and prepare decision support for the Army Weapons School.",
+      "requirements": "A completed bachelor’s in economics, administration, management or an equivalent field is mandatory unless relevant work experience compensates. Norwegian and English plus eligibility for HEMMELIG and NATO SECRET clearance are required. SAP experience and knowledge of Forsvaret are desirable rather than mandatory. Deadline 1 November.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/6a20da25-c963-4995-9a82-43e4a69d3510",
+      "deadline": "2026-11-01",
+      "firstSeen": "2026-10-28",
+      "verifiedAt": "2026-10-28T17:55:19Z"
+    },
+    {
+      "id": "nav-cbb4b077",
+      "title": "Innkjøper · Våpenteknisk regiment",
+      "company": "Forsvaret",
+      "location": "Bjerkvik",
+      "type": "Permanent · Full time · Public procurement and logistics",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Handle public and commercial casework, call off framework agreements, run supplier competitions, process invoices and credit notes, and manage a purchasing responsibility area in the Army's technical supply organisation.",
+      "requirements": "A completed bachelor’s in economics, administration or management is mandatory unless more than three years of experience compensates. Norwegian, eligibility for HEMMELIG and NATO SECRET clearance, and completed basic military training or willingness to take the introductory course after appointment are required. Public-sector, procurement, contract, ERP and SAP experience are advantages rather than requirements. Deadline 11 November.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/cbb4b077-8adf-41f5-9992-79b2299a62bd",
+      "deadline": "2026-11-11",
+      "firstSeen": "2026-10-28",
+      "verifiedAt": "2026-10-28T17:55:19Z"
     }
   ]
 }
