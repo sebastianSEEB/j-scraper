@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-29T07:07:43Z",
+  "updatedAt": "2026-10-29T17:58:26Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. IKM's Business Controller was added as stretch because three years of experience is the primary requirement, while Yara's junior planner, Daimyo's finance internship and EY's student audit internship were reverified."
+      "note": "Current FINN results and original adverts were checked. Bunker Oil's graduate-friendly Controller and Forsvarsmateriell's bachelor-level Controller were added as potential matches; Mowi's Operations Planner was added as stretch because ERP experience is listed as a qualification. EY's internship was closed after its 29 October noon deadline."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Nofir's bachelor-friendly sustainability and circular-economy trainee was added, and ColliCare's graduate-friendly Operational Controller was reverified for its 30 October deadline."
+      "note": "Current NAV listings and original pages were checked. ColliCare's graduate-friendly Operational Controller remained active for 30 October; no new distinct NAV-only target-profile listing was added."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge's current feed and NTNU's Controller – adviser in economics were checked, but the original listing still exposed only a JavaScript notice and no qualifications. It was not added, and existing Jobbnorge records retained their previous verification timestamps."
+      "note": "Jobbnorge's current feed and NTNU's Controller – adviser in economics were checked again, but the original listing still exposed only a JavaScript notice and no qualifications. It was not added, and existing Jobbnorge records retained their previous verification timestamps."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work public listings were searched. Airbus's junior project leader was closed because its original page now returns 404; no new distinct target-profile Academic Work listing was verified."
+      "note": "Academic Work's public list of 35 current roles was searched. No new distinct target-profile listing was verified; the previously closed Airbus page remained unavailable."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Daimyo's LinkedIn copy no longer accepted applications, but the canonical FINN advert remained active; no new distinct LinkedIn-only record was added."
+      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's supply-chain student assistant remained visible for its 1 November deadline; no new distinct LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were checked. Yara's original careers page remained active for its junior global planner, while Ocean Installer's Graduate Planner was closed after its 28 October deadline."
+      "note": "Employer and recruiter career pages were checked. Adecco Select's original Bunker Oil Controller page confirmed that new graduates are eligible and that ERP knowledge is advantageous rather than mandatory."
     }
   ],
   "jobs": [
@@ -476,13 +476,13 @@
         "Finance"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Build practical experience in audit, accounting, financial reporting, internal control, risk assessment and economic analysis through training and client work.",
       "requirements": "Open to second- through fifth-year students in economics, strategy, administration, accounting, audit, finance or a related field. Good academic results, analytical ability and strong Norwegian and English are required; no prior professional experience is stated. The deadline is 29 October at 12:00, and the aptitude test plus video application must be completed by 30 October at 12:00.",
       "url": "https://www.finn.no/job/ad/478002094",
       "deadline": "2026-10-29",
       "firstSeen": "2026-10-16",
-      "verifiedAt": "2026-10-29T07:07:43Z"
+      "verifiedAt": "2026-10-29T17:58:26Z"
     },
     {
       "id": "nav-7b6617be",
@@ -1150,7 +1150,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/c19944ca-836f-4506-87d2-6bc7b15ba88c",
       "deadline": "2026-10-30",
       "status": "open",
-      "verifiedAt": "2026-10-29T07:07:43Z",
+      "verifiedAt": "2026-10-29T17:58:26Z",
       "firstSeen": "2026-10-05"
     },
     {
@@ -1254,26 +1254,6 @@
       "firstSeen": "2026-09-22"
     },
     {
-      "id": "nav-63e3d76e",
-      "title": "Trainee innen innkjøp",
-      "company": "Academic Work / Rolls-Royce",
-      "location": "Trondheim",
-      "type": "Part time · Student",
-      "source": "NAV",
-      "categories": [
-        "Procurement",
-        "Supply chain"
-      ],
-      "fit": "stretch",
-      "summary": "Support purchase orders, supplier administration and commercial agreements alongside your studies.",
-      "requirements": "Specifically seeks a first-year master’s student in economics, logistics or technology. A BBA alone does not meet this stated requirement.",
-      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/63e3d76e-461a-40a5-8db8-ebfd6111cdef",
-      "deadline": "2026-09-23",
-      "status": "closed",
-      "verifiedAt": "2026-09-24T05:59:45Z",
-      "firstSeen": "2026-09-22"
-    },
-    {
       "id": "aw-ZMCBAA",
       "title": "Salg- og kundekonsulent",
       "company": "Facit Bank / Academic Work",
@@ -1312,25 +1292,6 @@
       "verifiedAt": "2026-10-10T17:04:57Z"
     },
     {
-      "id": "dnv-7314",
-      "title": "Global Finance Trainee 2027",
-      "company": "DNV",
-      "location": "Oslo",
-      "type": "Permanent · Graduate programme",
-      "source": "Employer careers",
-      "categories": [
-        "Business"
-      ],
-      "fit": "stretch",
-      "status": "closed",
-      "summary": "A two-year finance and business programme with rotations in strategy, controlling, accounting, commercial management and business analysis, including one rotation outside Norway.",
-      "requirements": "Mandatory relevant master’s completed by summer 2027, preferably in business administration, finance or economics. Maximum two years of full-time experience, strong academic results and fluent English.",
-      "url": "https://jobs.dnv.com/job-search/group/support/oslo-norway/global-finance-trainee-2027/300001672661558",
-      "deadline": "2026-09-26",
-      "firstSeen": "2026-09-23",
-      "verifiedAt": "2026-09-27T06:14:01Z"
-    },
-    {
       "id": "dnv-7479",
       "title": "Maritime Advisory Trainee 2027",
       "company": "DNV",
@@ -1349,25 +1310,6 @@
       "deadline": "2026-10-16",
       "firstSeen": "2026-09-23",
       "verifiedAt": "2026-10-17T06:04:36Z"
-    },
-    {
-      "id": "finn-476722814",
-      "title": "Summer Intern 2027",
-      "company": "KLP Kapitalforvaltning",
-      "location": "Oslo",
-      "type": "Summer internship · Eight weeks",
-      "source": "FINN",
-      "categories": [
-        "Business"
-      ],
-      "fit": "potential",
-      "status": "closed",
-      "summary": "Work on a mentored independent project in capital management, with possible exposure to risk analysis, fund analysis, valuation, data and responsible investment.",
-      "requirements": "At least the first year of higher education completed, good academic results and interest in finance. CV plus transcript or diploma are mandatory. No completed degree or prior finance experience is stated as required.",
-      "url": "https://www.finn.no/job/ad/476722814",
-      "deadline": "2026-09-27",
-      "firstSeen": "2026-09-24",
-      "verifiedAt": "2026-09-28T06:09:19Z"
     },
     {
       "id": "nav-050d17b4",
@@ -1509,25 +1451,6 @@
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-26",
       "verifiedAt": "2026-10-25T17:56:04Z"
-    },
-    {
-      "id": "finn-475781619",
-      "title": "Storebrand Trainee 2027",
-      "company": "Storebrand",
-      "location": "Lysaker",
-      "type": "Permanent · 18-month trainee programme",
-      "source": "FINN",
-      "categories": [
-        "Business"
-      ],
-      "fit": "stretch",
-      "status": "closed",
-      "summary": "Three rotations across finance, technology, sustainability and business development, with work ranging from strategic projects to customer analysis and digital products.",
-      "requirements": "Mandatory relevant master’s degree, good academic results, maximum three years of experience and strong Norwegian and English. A bachelor’s alone does not meet the stated requirement.",
-      "url": "https://www.finn.no/job/ad/475781619",
-      "deadline": "2026-09-27",
-      "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-09-28T06:09:19Z"
     },
     {
       "id": "finn-474643232",
@@ -2572,6 +2495,73 @@
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-29",
       "verifiedAt": "2026-10-29T07:07:43Z"
+    },
+    {
+      "id": "finn-479832790",
+      "title": "Controller",
+      "company": "Bunker Oil",
+      "location": "Ålesund",
+      "type": "Permanent · Full time · Finance and controlling",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Shipping",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support month- and year-end closing, public reporting, budgeting, bookkeeping backup, financial analysis, KPI follow-up and improvement of finance processes for a maritime fuel supplier.",
+      "requirements": "A bachelor's or master's in economics and administration is mandatory. Newly graduated candidates are explicitly welcome and prior professional experience is not required. Strong Excel and interest in digital tools are expected; Business Central or other ERP knowledge is advantageous rather than mandatory. Deadline 20 November.",
+      "url": "https://www.finn.no/job/ad/479832790",
+      "deadline": "2026-11-20",
+      "firstSeen": "2026-10-29",
+      "verifiedAt": "2026-10-29T17:58:26Z"
+    },
+    {
+      "id": "finn-479848356",
+      "title": "Økonomi- og virksomhetskontroller",
+      "company": "Forsvarsmateriell",
+      "location": "Kjeller",
+      "type": "Permanent · Full time · Public-sector controlling",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations",
+        "Procurement"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support budgeting, forecasts, economic reporting, internal controls, performance measures and analysis for defence-materiel disposal projects, while advising purchasers and contract managers.",
+      "requirements": "A completed bachelor's in economics, finance, accounting or a related field is mandatory, together with Norwegian and English and eligibility for HEMMELIG and NATO SECRET clearance. A master's, ERP/SAP experience, public-sector knowledge and prior controller experience are desirable rather than mandatory. The advert explicitly welcomes applicants who are new to working life. Deadline 22 November.",
+      "url": "https://www.finn.no/job/ad/479848356",
+      "deadline": "2026-11-22",
+      "firstSeen": "2026-10-29",
+      "verifiedAt": "2026-10-29T17:58:26Z"
+    },
+    {
+      "id": "finn-479816067",
+      "title": "Operations Planner",
+      "company": "Mowi Markets Norway",
+      "location": "Bergen",
+      "type": "Permanent · Full time · Planning and operations",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Shipping",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Coordinate orders, deliveries and daily supply-chain activity; handle logistics documentation, customer follow-up, ERP purchasing and production entries, deviations and process improvements across Mowi's global seafood value chain.",
+      "requirements": "A bachelor's in logistics, economics, administration, supply chain or a comparable field is desired, although relevant experience may compensate. Logistics, coordination, customer-service or operations experience is advantageous, while ERP-system experience, Excel, Norwegian and English are listed as qualifications. Because ERP experience is expected, this is a stretch match for a candidate with no professional experience. Deadline 15 November.",
+      "url": "https://www.finn.no/job/ad/479816067",
+      "deadline": "2026-11-15",
+      "firstSeen": "2026-10-29",
+      "verifiedAt": "2026-10-29T17:58:26Z"
     }
   ]
 }
