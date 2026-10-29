@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-28T17:55:19Z",
+  "updatedAt": "2026-10-29T07:07:43Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Forsvaret's bachelor-level purchaser in Rena was added, Airbus remained active for 29 October, and Personalhuset's student finance advert was closed after FINN explicitly marked it expired."
+      "note": "Current FINN results and original adverts were checked. IKM's Business Controller was added as stretch because three years of experience is the primary requirement, while Yara's junior planner, Daimyo's finance internship and EY's student audit internship were reverified."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Two bachelor-level Forsvaret purchaser roles in Rena and Bjerkvik were added; their relevant experience requirements are advantages rather than mandatory."
+      "note": "Current NAV listings and original pages were checked. Nofir's bachelor-friendly sustainability and circular-economy trainee was added, and ColliCare's graduate-friendly Operational Controller was reverified for its 30 October deadline."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge's current feed exposed NTNU's Controller – adviser in economics with a 16 November deadline, but the original listing remained JavaScript-dependent and did not expose qualifications. It was not added, and existing Jobbnorge records retained their previous verification timestamps."
+      "note": "Jobbnorge's current feed and NTNU's Controller – adviser in economics were checked, but the original listing still exposed only a JavaScript notice and no qualifications. It was not added, and existing Jobbnorge records retained their previous verification timestamps."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work public listings were searched. Airbus's junior project leader remained active for its 29 October deadline and still states that no prior experience is required."
+      "note": "Academic Work public listings were searched. Airbus's junior project leader was closed because its original page now returns 404; no new distinct target-profile Academic Work listing was verified."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's supply-chain student assistant remained active for 1 November; no new distinct target-profile LinkedIn record was added."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Daimyo's LinkedIn copy no longer accepted applications, but the canonical FINN advert remained active; no new distinct LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer career pages were checked. OKEA's dedicated Supply Chain trainee remained active through 15 November, and Ocean Installer's vacancy list still displayed Graduate Planner through 28 October."
+      "note": "Employer career pages were checked. Yara's original careers page remained active for its junior global planner, while Ocean Installer's Graduate Planner was closed after its 28 October deadline."
     }
   ],
   "jobs": [
@@ -198,13 +198,13 @@
         "Supply chain"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Coordinate resources, deliveries, meetings and project communication; track risks, expenses, invoices, payments and reporting while gradually taking end-to-end responsibility for defence and space projects.",
       "requirements": "A bachelor’s in business administration, business information systems, computer science, engineering or a related field is mandatory. Microsoft Office and professional English are required, plus eligibility for NATO SECRET clearance. No previous experience is required; the employer offers tailored onboarding and explicitly supports development into project leadership.",
       "url": "https://www.academicwork.no/ledige-stillinger/j/junior-project-leader-to-airbus-defence-and-space/BIOUFV",
       "deadline": "2026-10-29",
       "firstSeen": "2026-10-21",
-      "verifiedAt": "2026-10-28T17:55:19Z"
+      "verifiedAt": "2026-10-29T07:07:43Z"
     },
     {
       "id": "finn-476997092",
@@ -482,7 +482,7 @@
       "url": "https://www.finn.no/job/ad/478002094",
       "deadline": "2026-10-29",
       "firstSeen": "2026-10-16",
-      "verifiedAt": "2026-10-16T06:03:09Z"
+      "verifiedAt": "2026-10-29T07:07:43Z"
     },
     {
       "id": "nav-7b6617be",
@@ -648,7 +648,7 @@
       "url": "https://www.finn.no/job/ad/478335216",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-15T06:01:10Z"
+      "verifiedAt": "2026-10-29T07:07:43Z"
     },
     {
       "id": "finn-478147058",
@@ -1150,7 +1150,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/c19944ca-836f-4506-87d2-6bc7b15ba88c",
       "deadline": "2026-10-30",
       "status": "open",
-      "verifiedAt": "2026-10-05T17:09:38Z",
+      "verifiedAt": "2026-10-29T07:07:43Z",
       "firstSeen": "2026-10-05"
     },
     {
@@ -1952,7 +1952,7 @@
       "url": "https://jobs.yara.com/job/Oslo-Jr_-Global-Planner/1448834233/",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-10-22T16:55:54Z"
+      "verifiedAt": "2026-10-29T07:07:43Z"
     },
     {
       "id": "linkedin-4476438809",
@@ -2194,13 +2194,13 @@
         "Operations"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Support project and tender schedules, forecasts, project reporting, cross-department coordination, subcontractor schedule reviews, document tracking and offshore-progress analysis.",
       "requirements": "Must be completing a master's degree in 2027 in business, economics, project management, engineering or a related field. No professional-experience minimum is stated, but the mandatory master's makes this a stretch match. Deadline 28 October.",
       "url": "https://web103.reachmee.com/ext/I012/2348/job?job_id=117&lang=UK&site=6&validator=d954ced607940bbd8f44d1928c6d0bfb",
       "deadline": "2026-10-28",
       "firstSeen": "2026-10-25",
-      "verifiedAt": "2026-10-28T17:55:19Z"
+      "verifiedAt": "2026-10-29T07:07:43Z"
     },
     {
       "id": "finn-479219855",
@@ -2530,6 +2530,48 @@
       "deadline": "2026-11-11",
       "firstSeen": "2026-10-28",
       "verifiedAt": "2026-10-28T17:55:19Z"
+    },
+    {
+      "id": "nav-7250eab8",
+      "title": "Trainee · Sustainability and circular economy",
+      "company": "Nofir",
+      "location": "Bodø",
+      "type": "Trainee · Full time · Two years",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Operations",
+        "Shipping"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support sustainability, circular-economy, innovation and producer-responsibility work connected to recycling fishing and aquaculture equipment, with international tasks and structured trainee development.",
+      "requirements": "A relevant education is preferred; a master's is desirable but a bachelor's is explicitly accepted. Relevant work experience is advantageous rather than required. Strong written communication and English are required. The employer emphasizes motivation, learning ability and personal suitability. Deadline 30 November.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/7250eab8-5329-4597-a183-c0f73e43be5c",
+      "deadline": "2026-11-30",
+      "firstSeen": "2026-10-29",
+      "verifiedAt": "2026-10-29T07:07:43Z"
+    },
+    {
+      "id": "finn-479357078",
+      "title": "Business Controller",
+      "company": "IKM Karsten Moholt",
+      "location": "Kleppestø · Askøy",
+      "type": "Permanent · Full time · Business controlling",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Follow project economics and profitability, analyse productivity and resource use, support project managers, contribute to budgets and forecasts, and improve reporting through automation and digital tools.",
+      "requirements": "A bachelor's or master's in economics is mandatory. The employer primarily seeks at least three years of relevant controlling, audit, finance or project-follow-up experience, although newly graduated applicants with strong academic results may still be considered. Excel plus Norwegian and English are required; Power BI and project-based experience are advantages. The stated experience preference makes this a stretch match. Deadline 6 November.",
+      "url": "https://www.finn.no/job/ad/479357078",
+      "deadline": "2026-11-06",
+      "firstSeen": "2026-10-29",
+      "verifiedAt": "2026-10-29T07:07:43Z"
     }
   ]
 }
