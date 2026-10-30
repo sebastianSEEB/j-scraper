@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-30T06:58:52Z",
+  "updatedAt": "2026-10-30T18:05:58Z",
   "sources": [
     {
       "name": "FINN",
-      "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Norsk Gjenvinning Downstream's Logistics- and Procurement Specialist was added as a stretch match because relevant logistics-procurement and negotiation experience is required and the role carries team responsibility. NORBIT's student Junior Document Controller remained active for 8 November."
+      "status": "Degraded",
+      "note": "FINN live search and original-page reads were unavailable during this evening refresh. Existing FINN records were retained with their prior verification timestamps; no listing was claimed newly verified or closed from an unsuccessful check."
     },
     {
       "name": "NAV Arbeidsplassen",
-      "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. ColliCare's graduate-friendly Operational Controller remained active on its 30 October deadline. Yara, Anticimex, Knutsen and the Norwegian Armed Forces roles closing 1 November were also reverified; no new distinct NAV-only record was added."
+      "status": "Degraded",
+      "note": "NAV Arbeidsplassen live search and original-page reads were unavailable during this evening refresh. Existing NAV records retained their prior verification timestamps. ColliCare remained open through its 30 October deadline date based on the successful morning check and was not falsely reverified."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge's current feed and NTNU's Controller – adviser in economics were checked again, but the original listing still did not expose complete qualifications in a publicly readable page. It was not added, and existing Jobbnorge records retained their previous verification timestamps."
+      "note": "Jobbnorge live search and original-page reads were unavailable during this evening refresh. The previously observed qualification-access limitation remains unresolved, and existing Jobbnorge records retained their prior verification timestamps."
     },
     {
       "name": "Academic Work",
-      "status": "Listings checked",
-      "note": "Academic Work's current public listings were searched and Selecta's graduate-friendly Planner page was rechecked. No new distinct target-profile listing was added."
+      "status": "Degraded",
+      "note": "Academic Work live search and original-page reads were unavailable during this evening refresh. Existing records retained their prior verification timestamps; no listing was claimed newly verified."
     },
     {
       "name": "LinkedIn",
-      "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's supply-chain student assistant remained publicly visible for its 1 November deadline; no new distinct LinkedIn-only record was added."
+      "status": "Degraded",
+      "note": "Public LinkedIn search and listing reads were unavailable during this evening refresh. No login scraping or access bypass was attempted, and existing records retained their prior verification timestamps."
     },
     {
       "name": "Employer careers",
-      "status": "Listings checked",
-      "note": "Employer and recruiter career pages were checked. Subsea7's Commercial Graduate remained active for 1 November, while NG Nordic's public vacancy list corroborated the new Norsk Gjenvinning Downstream role and its 30 November deadline."
+      "status": "Degraded",
+      "note": "Employer and recruiter career-page reads were unavailable during this evening refresh. Existing employer-career records retained their prior verification timestamps; no listing was claimed newly verified or closed from a failed check."
     }
   ],
   "jobs": [
@@ -1493,25 +1493,6 @@
       "deadline": "2026-10-01",
       "firstSeen": "2026-09-28",
       "verifiedAt": "2026-10-02T06:06:26Z"
-    },
-    {
-      "id": "finn-474113064",
-      "title": "Summer Internship 2027 · Business Support",
-      "company": "DNO Norge",
-      "location": "Stavanger",
-      "type": "Summer internship · Six to eight weeks",
-      "source": "FINN",
-      "categories": [
-        "Business"
-      ],
-      "fit": "potential",
-      "status": "closed",
-      "summary": "Business-support internship with possible assignments in HR, reporting, data quality, process improvement or risk and compliance.",
-      "requirements": "Currently studying for a relevant bachelor’s or master’s and must have completed at least two years of higher education before the internship. Fluent English and a valid Norwegian work permit are mandatory.",
-      "url": "https://www.finn.no/job/ad/474113064",
-      "deadline": "2026-09-29",
-      "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-09-30T06:08:14Z"
     },
     {
       "id": "finn-476600129",
