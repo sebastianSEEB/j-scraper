@@ -1,38 +1,61 @@
 {
-  "updatedAt": "2026-10-29T17:58:26Z",
+  "updatedAt": "2026-10-30T06:58:52Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Bunker Oil's graduate-friendly Controller and Forsvarsmateriell's bachelor-level Controller were added as potential matches; Mowi's Operations Planner was added as stretch because ERP experience is listed as a qualification. EY's internship was closed after its 29 October noon deadline."
+      "note": "Current FINN results and original adverts were checked. Norsk Gjenvinning Downstream's Logistics- and Procurement Specialist was added as a stretch match because relevant logistics-procurement and negotiation experience is required and the role carries team responsibility. NORBIT's student Junior Document Controller remained active for 8 November."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. ColliCare's graduate-friendly Operational Controller remained active for 30 October; no new distinct NAV-only target-profile listing was added."
+      "note": "Current NAV listings and original pages were checked. ColliCare's graduate-friendly Operational Controller remained active on its 30 October deadline. Yara, Anticimex, Knutsen and the Norwegian Armed Forces roles closing 1 November were also reverified; no new distinct NAV-only record was added."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge's current feed and NTNU's Controller – adviser in economics were checked again, but the original listing still exposed only a JavaScript notice and no qualifications. It was not added, and existing Jobbnorge records retained their previous verification timestamps."
+      "note": "Jobbnorge's current feed and NTNU's Controller – adviser in economics were checked again, but the original listing still did not expose complete qualifications in a publicly readable page. It was not added, and existing Jobbnorge records retained their previous verification timestamps."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's public list of 35 current roles was searched. No new distinct target-profile listing was verified; the previously closed Airbus page remained unavailable."
+      "note": "Academic Work's current public listings were searched and Selecta's graduate-friendly Planner page was rechecked. No new distinct target-profile listing was added."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's supply-chain student assistant remained visible for its 1 November deadline; no new distinct LinkedIn-only record was added."
+      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's supply-chain student assistant remained publicly visible for its 1 November deadline; no new distinct LinkedIn-only record was added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were checked. Adecco Select's original Bunker Oil Controller page confirmed that new graduates are eligible and that ERP knowledge is advantageous rather than mandatory."
+      "note": "Employer and recruiter career pages were checked. Subsea7's Commercial Graduate remained active for 1 November, while NG Nordic's public vacancy list corroborated the new Norsk Gjenvinning Downstream role and its 30 November deadline."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-479751550",
+      "title": "Logistics- and Procurement Specialist",
+      "company": "Norsk Gjenvinning Downstream",
+      "location": "Oslo · Bjerke",
+      "type": "Permanent · Full time · Logistics procurement and supplier development",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Procurement",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Source and develop transport partners, lead negotiations, improve contracts and logistics processes, analyse costs and prices, and coordinate market and logistics work for a Nordic circular-economy business.",
+      "requirements": "Relevant higher education, preferably in logistics or economics, is expected. Prior experience buying long-haul road or sea logistics services, negotiation experience and experience identifying and commercialising opportunities are required. Norwegian and English, Excel, strong numerical and commercial skills, travel of about 4–6 days per month and responsibility for the purchasing team are part of the role. This is a stretch match because it is an experienced specialist position with team responsibility, not a graduate role.",
+      "url": "https://www.finn.no/job/ad/479751550",
+      "deadline": "2026-11-30",
+      "firstSeen": "2026-10-30",
+      "verifiedAt": "2026-10-30T06:58:52Z"
+    },
     {
       "id": "finn-478303399",
       "title": "Project Controller",
@@ -355,7 +378,7 @@
       "url": "https://www.finn.no/job/ad/478789937",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-10-27T18:03:41Z"
+      "verifiedAt": "2026-10-30T06:58:52Z"
     },
     {
       "id": "nav-b2dfba76",
@@ -419,7 +442,7 @@
       "url": "https://no.linkedin.com/jobs/view/student-assistant-%E2%80%93-supply-chain-logistics-at-ava-of-norway-4479296311",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-10-28T17:55:19Z"
+      "verifiedAt": "2026-10-30T06:58:52Z"
     },
     {
       "id": "finn-477583648",
@@ -545,7 +568,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/glad-i-excel-struktur-og-flyt/FAE6SN",
       "deadline": null,
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-22T16:55:54Z"
+      "verifiedAt": "2026-10-30T06:58:52Z"
     },
     {
       "id": "nav-15baf81e",
@@ -1150,7 +1173,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/c19944ca-836f-4506-87d2-6bc7b15ba88c",
       "deadline": "2026-10-30",
       "status": "open",
-      "verifiedAt": "2026-10-29T17:58:26Z",
+      "verifiedAt": "2026-10-30T06:58:52Z",
       "firstSeen": "2026-10-05"
     },
     {
@@ -1408,7 +1431,7 @@
       "url": "https://careers.subsea7.com/job/STAVANGER-Graduate-Development-Programme-2027-Commercial/1369134455/",
       "deadline": "2026-11-01",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-10-19T17:03:15Z"
+      "verifiedAt": "2026-10-30T06:58:52Z"
     },
     {
       "id": "finn-473639278",
@@ -1875,7 +1898,7 @@
       "url": "https://jobs.yara.com/job/Oslo-Jr_-Global-Planner/1448834233/",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-10-29T07:07:43Z"
+      "verifiedAt": "2026-10-30T06:58:52Z"
     },
     {
       "id": "linkedin-4476438809",
@@ -2293,7 +2316,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/46666a07-1bbd-4061-b9b6-e83ca473abf4",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-10-27T18:03:41Z"
+      "verifiedAt": "2026-10-30T06:58:52Z"
     },
     {
       "id": "linkedin-4468163482",
@@ -2406,7 +2429,7 @@
       "url": "https://www.finn.no/job/ad/479090185",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-10-28T06:55:14Z"
+      "verifiedAt": "2026-10-30T06:58:52Z"
     },
     {
       "id": "nav-6a20da25",
@@ -2429,7 +2452,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/6a20da25-c963-4995-9a82-43e4a69d3510",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-10-28T17:55:19Z"
+      "verifiedAt": "2026-10-30T06:58:52Z"
     },
     {
       "id": "nav-cbb4b077",
