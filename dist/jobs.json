@@ -1,38 +1,80 @@
 {
-  "updatedAt": "2026-10-30T18:05:58Z",
+  "updatedAt": "2026-10-31T07:06:36Z",
   "sources": [
     {
       "name": "FINN",
-      "status": "Degraded",
-      "note": "FINN live search and original-page reads were unavailable during this evening refresh. Existing FINN records were retained with their prior verification timestamps; no listing was claimed newly verified or closed from an unsuccessful check."
+      "status": "Listings checked",
+      "note": "Current FINN results and original adverts were checked. OKEA's Junior Accounts Payable Accountant and Framo's Logistics & Project Coordinator remained active on their 31 October deadline. Anticimex extended its deadline from 1 November to 9 November."
     },
     {
       "name": "NAV Arbeidsplassen",
-      "status": "Degraded",
-      "note": "NAV Arbeidsplassen live search and original-page reads were unavailable during this evening refresh. Existing NAV records retained their prior verification timestamps. ColliCare remained open through its 30 October deadline date based on the successful morning check and was not falsely reverified."
+      "status": "Listings checked",
+      "note": "Current NAV listings and original pages were checked. Knutsen's graduate-friendly Accountant and the Norwegian Armed Forces' bachelor-level purchaser remained active for 1 November. ColliCare was closed after its 30 October deadline."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge live search and original-page reads were unavailable during this evening refresh. The previously observed qualification-access limitation remains unresolved, and existing Jobbnorge records retained their prior verification timestamps."
+      "note": "Jobbnorge's current results and NTNU's Controller – adviser in economics were checked, but the original page still exposed only a JavaScript notice and no qualifications. It was not added, and existing Jobbnorge records retained their prior verification timestamps."
     },
     {
       "name": "Academic Work",
-      "status": "Degraded",
-      "note": "Academic Work live search and original-page reads were unavailable during this evening refresh. Existing records retained their prior verification timestamps; no listing was claimed newly verified."
+      "status": "Listings checked",
+      "note": "Academic Work's current public listings and original pages were checked. Two new Atea roles aimed at new economics graduates were added as potential matches; both use rolling selection and publish no fixed closing date."
     },
     {
       "name": "LinkedIn",
-      "status": "Degraded",
-      "note": "Public LinkedIn search and listing reads were unavailable during this evening refresh. No login scraping or access bypass was attempted, and existing records retained their prior verification timestamps."
+      "status": "Listings checked",
+      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's supply-chain student assistant remained publicly visible for its 1 November deadline; the surfaced Novo Nordisk student listing was not added because the original page says it no longer accepts applications."
     },
     {
       "name": "Employer careers",
-      "status": "Degraded",
-      "note": "Employer and recruiter career-page reads were unavailable during this evening refresh. Existing employer-career records retained their prior verification timestamps; no listing was claimed newly verified or closed from a failed check."
+      "status": "Listings checked",
+      "note": "Employer and recruiter career pages were checked. Yara's Junior Global Planner and Subsea7's Commercial Graduate remained active for 1 November. Compass Group's Junior Business Controller original returned 410 Gone and was closed."
     }
   ],
   "jobs": [
+    {
+      "id": "academicwork-FQ0N82",
+      "title": "Contract Controlling · Graduate Economist",
+      "company": "Atea",
+      "location": "Oslo · Hybrid",
+      "type": "Full time · Six-month assignment · Possible permanent conversion",
+      "source": "Academic Work",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Allocate regional costs and revenue, process supplier invoices, reconcile balance accounts, invoice manually, analyse reports and investigate agreement discrepancies with controllers and operational teams.",
+      "requirements": "A completed bachelor's in economics and administration or a similar field is mandatory, and new graduates are explicitly encouraged. Strong numerical understanding and interest in accounting are required. Accounting experience and experience with SAP, ServiceNow or Excel are advantageous rather than mandatory. Selection is rolling and no fixed public deadline is stated.",
+      "url": "https://www.academicwork.no/ledige-stillinger/j/strukturert-og-nyutdannet-konom-til-atea/FQ0N82",
+      "deadline": null,
+      "firstSeen": "2026-10-31",
+      "verifiedAt": "2026-10-31T07:06:36Z"
+    },
+    {
+      "id": "academicwork-4467BH",
+      "title": "Accounts Receivable Assistant · Graduate-friendly",
+      "company": "Atea",
+      "location": "Oslo · Hybrid",
+      "type": "Full time · Six-month assignment · Possible permanent conversion",
+      "source": "Academic Work",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Follow customer receivables by phone, work systematically through customer lists, resolve complex enquiries, collaborate across finance teams and help improve routines and systems.",
+      "requirements": "Basic accounting and numerical understanding plus professional Norwegian and English are required. Higher education in economics or accounting is preferred rather than mandatory, and new graduates are explicitly encouraged. SAP or comparable ERP experience is advantageous only. Selection is rolling and no fixed public deadline is stated.",
+      "url": "https://www.academicwork.no/ledige-stillinger/j/trives-du-med-kundedialog-bli-regnskapsmedarbeider-i-atea/4467BH",
+      "deadline": null,
+      "firstSeen": "2026-10-31",
+      "verifiedAt": "2026-10-31T07:06:36Z"
+    },
     {
       "id": "finn-479751550",
       "title": "Logistics- and Procurement Specialist",
@@ -206,7 +248,7 @@
       "url": "https://www.finn.no/job/ad/478572886",
       "deadline": "2026-10-31",
       "firstSeen": "2026-10-20",
-      "verifiedAt": "2026-10-21T06:05:02Z"
+      "verifiedAt": "2026-10-31T07:06:36Z"
     },
     {
       "id": "academicwork-BIOUFV",
@@ -265,13 +307,13 @@
         "Operations"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Support offshore operations with monthly reporting, result analysis, budgets, forecasts, project invoicing, pricing calculations, KPIs, profitability analysis and improvement follow-up.",
       "requirements": "Education in economics or finance is required. Previous controller or accounting experience is explicitly advantageous rather than mandatory, making the role suitable for an early-career candidate. The advert does not specify a completed-degree level; confirm eligibility if still studying.",
       "url": "https://jobb.compass-group.no/jobs/8497404-junior-business-controller",
       "deadline": "2026-10-31",
       "firstSeen": "2026-10-20",
-      "verifiedAt": "2026-10-20T06:01:48Z"
+      "verifiedAt": "2026-10-31T07:06:36Z"
     },
     {
       "id": "finn-478702840",
@@ -442,7 +484,7 @@
       "url": "https://no.linkedin.com/jobs/view/student-assistant-%E2%80%93-supply-chain-logistics-at-ava-of-norway-4479296311",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-10-30T06:58:52Z"
+      "verifiedAt": "2026-10-31T07:06:36Z"
     },
     {
       "id": "finn-477583648",
@@ -485,7 +527,7 @@
       "url": "https://www.finn.no/job/ad/478318447",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-16",
-      "verifiedAt": "2026-10-16T17:04:40Z"
+      "verifiedAt": "2026-10-31T07:06:36Z"
     },
     {
       "id": "finn-478002094",
@@ -568,7 +610,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/glad-i-excel-struktur-og-flyt/FAE6SN",
       "deadline": null,
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-30T06:58:52Z"
+      "verifiedAt": "2026-10-31T07:06:36Z"
     },
     {
       "id": "nav-15baf81e",
@@ -590,7 +632,7 @@
       "url": "https://www.finn.no/job/ad/478297997",
       "deadline": "2026-10-31",
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-21T16:56:40Z"
+      "verifiedAt": "2026-10-31T07:06:36Z"
     },
     {
       "id": "nav-95a4a7f9",
@@ -1172,7 +1214,7 @@
       "requirements": "Relevant higher education in economics; new graduates are explicitly welcome. Excel, systems understanding and Norwegian and English are required; prior experience is not stated as mandatory.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/c19944ca-836f-4506-87d2-6bc7b15ba88c",
       "deadline": "2026-10-30",
-      "status": "open",
+      "status": "closed",
       "verifiedAt": "2026-10-30T06:58:52Z",
       "firstSeen": "2026-10-05"
     },
@@ -1214,26 +1256,6 @@
       "deadline": "2026-10-04",
       "status": "closed",
       "verifiedAt": "2026-10-05T17:09:38Z",
-      "firstSeen": "2026-09-22"
-    },
-    {
-      "id": "finn-475925195",
-      "title": "Business Operations Executive",
-      "company": "Skuld",
-      "location": "Oslo",
-      "type": "Permanent · Hybrid",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Shipping"
-      ],
-      "fit": "potential",
-      "summary": "Work with marine insurance documentation, premiums and client portfolios, collaborating with finance and underwriting teams.",
-      "requirements": "Business/economics higher education OR three years of relevant experience. Strong Excel and professional Norwegian and English.",
-      "url": "https://www.finn.no/job/ad/475925195",
-      "deadline": "2026-09-30",
-      "status": "closed",
-      "verifiedAt": "2026-10-01T06:07:52Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -1431,7 +1453,7 @@
       "url": "https://careers.subsea7.com/job/STAVANGER-Graduate-Development-Programme-2027-Commercial/1369134455/",
       "deadline": "2026-11-01",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-10-30T06:58:52Z"
+      "verifiedAt": "2026-10-31T07:06:36Z"
     },
     {
       "id": "finn-473639278",
@@ -1879,7 +1901,7 @@
       "url": "https://jobs.yara.com/job/Oslo-Jr_-Global-Planner/1448834233/",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-10-30T06:58:52Z"
+      "verifiedAt": "2026-10-31T07:06:36Z"
     },
     {
       "id": "linkedin-4476438809",
@@ -2297,7 +2319,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/46666a07-1bbd-4061-b9b6-e83ca473abf4",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-10-30T06:58:52Z"
+      "verifiedAt": "2026-10-31T07:06:36Z"
     },
     {
       "id": "linkedin-4468163482",
@@ -2406,11 +2428,11 @@
       "fit": "potential",
       "status": "open",
       "summary": "Coordinate purchasing from order to receipt, follow suppliers and deviations, produce analyses, maintain inventory and master data, and support facilities and vehicle administration in a newly created role.",
-      "requirements": "Higher education in procurement, economics, logistics or a similar field is expected; relevant experience may compensate for missing formal education. A few years in procurement, logistics, inventory or supplier follow-up is described as advantageous rather than mandatory. Excel and Power BI analysis experience is expected, while ERP experience is preferred. Deadline 1 November.",
+      "requirements": "Higher education in procurement, economics, logistics or a similar field is expected; relevant experience may compensate for missing formal education. A few years in procurement, logistics, inventory or supplier follow-up is described as advantageous rather than mandatory. Excel and Power BI analysis experience is expected, while ERP experience is preferred. Deadline 9 November.",
       "url": "https://www.finn.no/job/ad/479090185",
-      "deadline": "2026-11-01",
+      "deadline": "2026-11-09",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-10-30T06:58:52Z"
+      "verifiedAt": "2026-10-31T07:06:36Z"
     },
     {
       "id": "nav-6a20da25",
@@ -2433,7 +2455,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/6a20da25-c963-4995-9a82-43e4a69d3510",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-10-30T06:58:52Z"
+      "verifiedAt": "2026-10-31T07:06:36Z"
     },
     {
       "id": "nav-cbb4b077",
