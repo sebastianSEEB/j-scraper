@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-31T07:06:36Z",
+  "updatedAt": "2026-10-31T18:03:59Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. OKEA's Junior Accounts Payable Accountant and Framo's Logistics & Project Coordinator remained active on their 31 October deadline. Anticimex extended its deadline from 1 November to 9 November."
+      "note": "Current FINN results and original adverts were checked. OKEA's Junior Accounts Payable Accountant and Framo's Logistics & Project Coordinator remained active on their 31 October deadline. Three bachelor-friendly roles were added: James Walker's Production Planner, Retura's Business Controller and BB Computerteknikk's Controller. Skretting's master-level optimisation role was added as a stretch match."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Knutsen's graduate-friendly Accountant and the Norwegian Armed Forces' bachelor-level purchaser remained active for 1 November. ColliCare was closed after its 30 October deadline."
+      "note": "Current NAV listings and original pages were checked. Knutsen's graduate-friendly Accountant and the Norwegian Armed Forces' bachelor-level purchaser remained active for 1 November. The Armed Forces' bachelor-level purchaser in Bjerkvik also remained active for 11 November."
     },
     {
       "name": "Jobbnorge",
@@ -19,20 +19,131 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public listings and original pages were checked. Two new Atea roles aimed at new economics graduates were added as potential matches; both use rolling selection and publish no fixed closing date."
+      "note": "Academic Work's current public listings and original pages were checked. Both Atea roles aimed at new economics graduates remained active; both use rolling selection and publish no fixed closing date."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's supply-chain student assistant remained publicly visible for its 1 November deadline; the surfaced Novo Nordisk student listing was not added because the original page says it no longer accepts applications."
+      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's supply-chain student assistant remained publicly visible for its 1 November deadline. No additional role was added from LinkedIn without a sufficiently current original page."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were checked. Yara's Junior Global Planner and Subsea7's Commercial Graduate remained active for 1 November. Compass Group's Junior Business Controller original returned 410 Gone and was closed."
+      "note": "Employer and recruiter career pages were checked. Yara's Junior Global Planner and Subsea7's Commercial Graduate remained active for 1 November. TINE's graduate business controller was added as a stretch match because a master's degree is mandatory."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-479703774",
+      "title": "Production Planner · Graduate-friendly",
+      "company": "James Walker Norge",
+      "location": "Oslo · Østensjø",
+      "type": "Permanent · Full time · Production and material planning",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Own daily production plans, release and follow production orders, coordinate material requirements with purchasing, analyse delivery and capacity KPIs, and improve planning processes and ERP data.",
+      "requirements": "Relevant higher education in logistics, supply-chain management, industrial economics, production technology, engineering or a related field is desired. Excel and Norwegian are required. ERP knowledge is expected, while production-planning, logistics or supply-chain experience is advantageous rather than mandatory; new graduates are explicitly encouraged. Selection is rolling and no fixed public deadline is stated.",
+      "url": "https://www.finn.no/job/ad/479703774",
+      "deadline": null,
+      "firstSeen": "2026-10-31",
+      "verifiedAt": "2026-10-31T18:03:59Z"
+    },
+    {
+      "id": "finn-479678888",
+      "title": "Business Controller · Graduate-friendly",
+      "company": "Retura Norge",
+      "location": "Lillestrøm",
+      "type": "Permanent · Full time · Commercial controlling",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Analyse sales and profitability, support budgets and forecasts, automate reporting, maintain pricing and customer data, and contribute to contract, tender and business-development work.",
+      "requirements": "Higher education in economics, finance or a similar field, very strong Excel and Norwegian are required. Controlling, Salesforce, Qlik and Power BI experience are advantageous rather than mandatory, and new graduates with a relevant background are explicitly encouraged. Deadline 16 November.",
+      "url": "https://www.finn.no/job/ad/479678888",
+      "deadline": "2026-11-16",
+      "firstSeen": "2026-10-31",
+      "verifiedAt": "2026-10-31T18:03:59Z"
+    },
+    {
+      "id": "finn-478112335",
+      "title": "Controller · Early-career",
+      "company": "BB Computerteknikk",
+      "location": "Drammen",
+      "type": "Permanent · Full time · Finance, contracts and operations",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Procurement",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Combine financial reporting and invoicing with contract follow-up, purchasing support, bid work, master-data maintenance and practical administration in an airport-technology company.",
+      "requirements": "Relevant education in economics, accounting, administration or a similar field is expected, although relevant experience may compensate. Excel, digital-system confidence, Norwegian and English are required. ERP, CRM, invoicing, accounting, quality or tender experience is advantageous rather than mandatory; new graduates and early-career candidates are explicitly encouraged. Selection is rolling and no fixed public deadline is stated.",
+      "url": "https://www.finn.no/job/ad/478112335",
+      "deadline": null,
+      "firstSeen": "2026-10-31",
+      "verifiedAt": "2026-10-31T18:03:59Z"
+    },
+    {
+      "id": "tine-1374704555",
+      "title": "Graduate Business Controller",
+      "company": "TINE",
+      "location": "Oslo · Possible rotation in Trondheim",
+      "type": "Permanent · Full time · Graduate programme",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Rotate across TINE's finance teams before moving into a permanent business-controller role, working with business cases, profitability, forecasting, management reporting and decision-support tools.",
+      "requirements": "A master's degree in economics, finance or a comparable field must be completed or nearly completed. Strong analytical, modelling and Excel skills plus Norwegian and English are required. No professional-experience minimum is stated, but the mandatory master's degree makes this a stretch match. Deadline 17 November.",
+      "url": "https://careers.tine.no/job/OSLO-Kickstart-karrieren-som-graduate-business-controll-950/1374704555/",
+      "deadline": "2026-11-17",
+      "firstSeen": "2026-10-31",
+      "verifiedAt": "2026-10-31T18:03:59Z"
+    },
+    {
+      "id": "finn-479685623",
+      "title": "Raw-material Optimisation Specialist · Graduate-friendly",
+      "company": "Skretting",
+      "location": "Stavanger or Averøy",
+      "type": "Permanent · Full time · Supply-chain optimisation",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Optimise feed recipes and raw-material availability, analyse production data, improve planning and data flows, and build decision-support solutions across procurement, inbound logistics and production.",
+      "requirements": "A master's-level profile in data science, industrial economics, logistics or a related field is expected, with data analysis, optimisation or operations-research skills, programming or API experience, Norwegian and English. Relevant professional experience and demonstrated competence may compensate for the master's degree. New graduates are encouraged, but the advanced technical and master's-level profile makes this a stretch match. Deadline 20 November.",
+      "url": "https://www.finn.no/job/ad/479685623",
+      "deadline": "2026-11-20",
+      "firstSeen": "2026-10-31",
+      "verifiedAt": "2026-10-31T18:03:59Z"
+    },
     {
       "id": "academicwork-FQ0N82",
       "title": "Contract Controlling · Graduate Economist",
