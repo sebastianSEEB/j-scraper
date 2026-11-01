@@ -1,38 +1,82 @@
 {
-  "updatedAt": "2026-11-01T07:03:30Z",
+  "updatedAt": "2026-11-01T18:06:25Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. OKEA's Junior Accounts Payable Accountant and Framo's Logistics & Project Coordinator were explicitly marked expired after their 31 October deadline and were closed. Subsea7's Commercial Graduate, Forsvarsmateriell's Contract Manager and Yara's Junior Global Planner remained active for 1 November."
+      "note": "Current FINN results and original adverts were checked. Yara's Junior Global Planner, Subsea7's Commercial Graduate and Forsvarsmateriell's Contract Manager were still active on their 1 November deadline. Blue Ctrl's Office & Operations Coordinator remained active ahead of 2 November. Two relevant adverts were added as stretch matches because they require prior professional experience."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Knutsen's graduate-friendly Accountant and the Norwegian Armed Forces' bachelor-level purchaser remained active for 1 November. A rolling finance and accounting role at Revisorgruppen Fjordane that explicitly accepts new graduates was added."
+      "note": "Current NAV listings and original pages were checked. Knutsen's graduate-friendly Accountant and the Norwegian Armed Forces' bachelor-level purchaser were still accepting applications on their 1 November deadline. NAV mirrors for the newly added experience-required procurement and controller roles were deduplicated in favour of their canonical FINN adverts."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge's current results and NTNU's Controller – adviser in economics were checked, but the original page still exposed only a JavaScript notice and no qualifications. It was not added, and existing Jobbnorge records retained their prior verification timestamps."
+      "note": "Jobbnorge's current feed and the original pages for NTNU's Controller – adviser in economics and Byggmakker's logistics employee were checked. The originals still exposed only a JavaScript notice and no qualification details, so neither was added and existing Jobbnorge records retained their prior verification timestamps."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public listings were checked. No additional target-profile role was added; existing records retained their previous successful verification timestamps unless their original page was opened."
+      "note": "Academic Work's current public list was checked. Atea's two recently added graduate-friendly finance roles and Selecta's planning trainee remained listed; no distinct new target-profile role was added, and prior verification timestamps were retained where the original advert was not reopened."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's supply-chain student assistant remained publicly visible for its 1 November deadline. No additional role was added without a sufficiently current original page."
+      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's supply-chain student assistant was still publicly visible on its 1 November deadline, and Wilhelmsen's programme remained active ahead of 4 November. Siemens' student business-development advert was reviewed but excluded because it requires a technology-focused field of study rather than the target BBA profile."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were checked. Yara's Junior Global Planner and Subsea7's Commercial Graduate remained active for 1 November. No additional employer-career role met the evidence and profile threshold."
+      "note": "Employer and recruiter career pages were checked. Yara's Junior Global Planner and Subsea7's Commercial Graduate were still accepting applications on 1 November. No additional Norway-based employer-career role met the evidence and profile threshold."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-479704516",
+      "title": "Operativ innkjøper · Experience required",
+      "company": "Borregaard",
+      "location": "Sarpsborg",
+      "type": "Full time · Temporary through 30 September 2027 · Operational procurement",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Create and follow purchase orders, coordinate deliveries, handle deviations, maintain purchasing data, support sourcing and contract implementation, and improve indirect-procurement processes.",
+      "requirements": "Prior professional experience in operational purchasing is mandatory, so this is a stretch match for a candidate with no professional experience. Education in economics, logistics, technical subjects or a similar field is desirable rather than mandatory. Norwegian and English are required; SAP knowledge is advantageous. Deadline 15 November, with rolling review.",
+      "url": "https://www.finn.no/job/ad/479704516",
+      "deadline": "2026-11-15",
+      "firstSeen": "2026-11-01",
+      "verifiedAt": "2026-11-01T18:06:25Z"
+    },
+    {
+      "id": "finn-479373234",
+      "title": "Junior Controller · 3–5 years required",
+      "company": "Temp-Team client",
+      "location": "Lillestrøm",
+      "type": "Full time · Temporary up to 19 months · Controlling",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Prepare management analyses, profitability reports, forecasts and budgets; support month-end closing, reconcile accounts and improve finance-reporting routines.",
+      "requirements": "Higher education in economics or accounting and a minimum of three to five years of relevant finance, controlling, analysis or accounting experience are mandatory. This makes the role a clear stretch match despite the junior title. Strong Excel plus Norwegian and English are required; SAP experience is advantageous. Deadline 8 November.",
+      "url": "https://www.finn.no/job/ad/479373234",
+      "deadline": "2026-11-08",
+      "firstSeen": "2026-11-01",
+      "verifiedAt": "2026-11-01T18:06:25Z"
+    },
     {
       "id": "nav-1e3c045a",
       "title": "Finance Assistant / Accountant · Graduate-friendly",
@@ -616,7 +660,7 @@
       "url": "https://no.linkedin.com/jobs/view/student-assistant-%E2%80%93-supply-chain-logistics-at-ava-of-norway-4479296311",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-01T07:03:30Z"
+      "verifiedAt": "2026-11-01T18:06:25Z"
     },
     {
       "id": "finn-477583648",
@@ -659,7 +703,7 @@
       "url": "https://www.finn.no/job/ad/478318447",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-16",
-      "verifiedAt": "2026-11-01T07:03:30Z"
+      "verifiedAt": "2026-11-01T18:06:25Z"
     },
     {
       "id": "finn-478002094",
@@ -1186,7 +1230,7 @@
       "url": "https://www.finn.no/job/ad/478007066",
       "deadline": "2026-11-02",
       "firstSeen": "2026-10-08",
-      "verifiedAt": "2026-10-08T05:57:29Z"
+      "verifiedAt": "2026-11-01T18:06:25Z"
     },
     {
       "id": "nav-e388354a",
@@ -1585,7 +1629,7 @@
       "url": "https://careers.subsea7.com/job/STAVANGER-Graduate-Development-Programme-2027-Commercial/1369134455/",
       "deadline": "2026-11-01",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-11-01T07:03:30Z"
+      "verifiedAt": "2026-11-01T18:06:25Z"
     },
     {
       "id": "finn-473639278",
@@ -1995,7 +2039,7 @@
       "url": "https://jobs.yara.com/job/Oslo-Jr_-Global-Planner/1448834233/",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-11-01T07:03:30Z"
+      "verifiedAt": "2026-11-01T18:06:25Z"
     },
     {
       "id": "linkedin-4476438809",
@@ -2413,7 +2457,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/46666a07-1bbd-4061-b9b6-e83ca473abf4",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-11-01T07:03:30Z"
+      "verifiedAt": "2026-11-01T18:06:25Z"
     },
     {
       "id": "linkedin-4468163482",
@@ -2456,7 +2500,7 @@
       "url": "https://no.linkedin.com/jobs/view/graduate-programme-2027-at-wilhelmsen-group-4484053685",
       "deadline": "2026-11-04",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-10-27T18:03:41Z"
+      "verifiedAt": "2026-11-01T18:06:25Z"
     },
     {
       "id": "finn-479239653",
@@ -2549,7 +2593,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/6a20da25-c963-4995-9a82-43e4a69d3510",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-11-01T07:03:30Z"
+      "verifiedAt": "2026-11-01T18:06:25Z"
     },
     {
       "id": "nav-cbb4b077",
