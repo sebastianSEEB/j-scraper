@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-31T18:03:59Z",
+  "updatedAt": "2026-11-01T07:03:30Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. OKEA's Junior Accounts Payable Accountant and Framo's Logistics & Project Coordinator remained active on their 31 October deadline. Three bachelor-friendly roles were added: James Walker's Production Planner, Retura's Business Controller and BB Computerteknikk's Controller. Skretting's master-level optimisation role was added as a stretch match."
+      "note": "Current FINN results and original adverts were checked. OKEA's Junior Accounts Payable Accountant and Framo's Logistics & Project Coordinator were explicitly marked expired after their 31 October deadline and were closed. Subsea7's Commercial Graduate, Forsvarsmateriell's Contract Manager and Yara's Junior Global Planner remained active for 1 November."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Knutsen's graduate-friendly Accountant and the Norwegian Armed Forces' bachelor-level purchaser remained active for 1 November. The Armed Forces' bachelor-level purchaser in Bjerkvik also remained active for 11 November."
+      "note": "Current NAV listings and original pages were checked. Knutsen's graduate-friendly Accountant and the Norwegian Armed Forces' bachelor-level purchaser remained active for 1 November. A rolling finance and accounting role at Revisorgruppen Fjordane that explicitly accepts new graduates was added."
     },
     {
       "name": "Jobbnorge",
@@ -19,20 +19,41 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public listings and original pages were checked. Both Atea roles aimed at new economics graduates remained active; both use rolling selection and publish no fixed closing date."
+      "note": "Academic Work's current public listings were checked. No additional target-profile role was added; existing records retained their previous successful verification timestamps unless their original page was opened."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's supply-chain student assistant remained publicly visible for its 1 November deadline. No additional role was added from LinkedIn without a sufficiently current original page."
+      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's supply-chain student assistant remained publicly visible for its 1 November deadline. No additional role was added without a sufficiently current original page."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were checked. Yara's Junior Global Planner and Subsea7's Commercial Graduate remained active for 1 November. TINE's graduate business controller was added as a stretch match because a master's degree is mandatory."
+      "note": "Employer and recruiter career pages were checked. Yara's Junior Global Planner and Subsea7's Commercial Graduate remained active for 1 November. No additional employer-career role met the evidence and profile threshold."
     }
   ],
   "jobs": [
+    {
+      "id": "nav-1e3c045a",
+      "title": "Finance Assistant / Accountant · Graduate-friendly",
+      "company": "Revisorgruppen Fjordane",
+      "location": "Førde",
+      "type": "Full time · Accounting and advisory · Rolling selection",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Work with bookkeeping, reconciliations, periodic and annual reporting, tax, financial analysis, customer advice and digital improvement of clients' finance processes.",
+      "requirements": "The employer accepts candidates whose competence comes from education, practice or both, including a bachelor's in economics or accounting. New graduates are explicitly included, and the advert says applicants are not expected to know everything. Sound accounting understanding, accuracy, customer interest and willingness to develop are important. Selection is rolling and no fixed public deadline is stated.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/1e3c045a-6f53-4789-b824-f6b988729a73",
+      "deadline": null,
+      "firstSeen": "2026-11-01",
+      "verifiedAt": "2026-11-01T07:03:30Z"
+    },
     {
       "id": "finn-479703774",
       "title": "Production Planner · Graduate-friendly",
@@ -353,13 +374,13 @@
         "Operations"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Process and post supplier invoices, monitor approval flows, execute payments, reconcile supplier and balance accounts, support period-end closing and improve or automate accounting processes.",
       "requirements": "A completed bachelor’s in accounting, auditing, economics or an equivalent field is mandatory. Relevant invoice-processing or accounting experience is sought, but newly graduated candidates are explicitly encouraged. Excel plus Norwegian and English are required; accounting-system experience is advantageous rather than mandatory.",
       "url": "https://www.finn.no/job/ad/478572886",
       "deadline": "2026-10-31",
       "firstSeen": "2026-10-20",
-      "verifiedAt": "2026-10-31T07:06:36Z"
+      "verifiedAt": "2026-11-01T07:03:30Z"
     },
     {
       "id": "academicwork-BIOUFV",
@@ -595,7 +616,7 @@
       "url": "https://no.linkedin.com/jobs/view/student-assistant-%E2%80%93-supply-chain-logistics-at-ava-of-norway-4479296311",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-10-31T07:06:36Z"
+      "verifiedAt": "2026-11-01T07:03:30Z"
     },
     {
       "id": "finn-477583648",
@@ -638,7 +659,7 @@
       "url": "https://www.finn.no/job/ad/478318447",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-16",
-      "verifiedAt": "2026-10-31T07:06:36Z"
+      "verifiedAt": "2026-11-01T07:03:30Z"
     },
     {
       "id": "finn-478002094",
@@ -737,13 +758,13 @@
         "Operations"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Coordinate orders, international shipments, delivery documentation, invoicing and reporting across project, production, finance and sales for a maritime pump-system manufacturer.",
       "requirements": "Relevant education or experience in logistics, economics, administration, order handling or project coordination is accepted. Industrial or international-delivery experience is advantageous, not mandatory. Norwegian and English plus strong system understanding are required.",
       "url": "https://www.finn.no/job/ad/478297997",
       "deadline": "2026-10-31",
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-31T07:06:36Z"
+      "verifiedAt": "2026-11-01T07:03:30Z"
     },
     {
       "id": "nav-95a4a7f9",
@@ -1564,7 +1585,7 @@
       "url": "https://careers.subsea7.com/job/STAVANGER-Graduate-Development-Programme-2027-Commercial/1369134455/",
       "deadline": "2026-11-01",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-10-31T07:06:36Z"
+      "verifiedAt": "2026-11-01T07:03:30Z"
     },
     {
       "id": "finn-473639278",
@@ -1607,25 +1628,6 @@
       "deadline": "2026-10-25",
       "firstSeen": "2026-09-26",
       "verifiedAt": "2026-10-25T17:56:04Z"
-    },
-    {
-      "id": "finn-474643232",
-      "title": "Summer Internship 2027",
-      "company": "Axaz",
-      "location": "Oslo",
-      "type": "Summer internship · Eight weeks",
-      "source": "FINN",
-      "categories": [
-        "Business"
-      ],
-      "fit": "potential",
-      "status": "closed",
-      "summary": "A paid interdisciplinary internship solving a real business case from idea to delivery, with possible work in strategy, user research and data analysis.",
-      "requirements": "For students in economics, business development, strategy, technology or engineering who start their final study year in autumn 2027. Interest in technology and problem-solving is required; no prior work experience is stated.",
-      "url": "https://www.finn.no/job/ad/474643232",
-      "deadline": "2026-10-01",
-      "firstSeen": "2026-09-28",
-      "verifiedAt": "2026-10-02T06:06:26Z"
     },
     {
       "id": "finn-476600129",
@@ -1729,25 +1731,6 @@
       "deadline": "2026-10-18",
       "firstSeen": "2026-09-30",
       "verifiedAt": "2026-10-18T17:12:48Z"
-    },
-    {
-      "id": "nav-587eadd3",
-      "title": "Nyutdannet Forretningsrådgivning 2027",
-      "company": "Sopra Steria",
-      "location": "Multiple Norwegian offices",
-      "type": "Permanent · Graduate role",
-      "source": "NAV",
-      "categories": [
-        "Business"
-      ],
-      "fit": "potential",
-      "status": "closed",
-      "summary": "Business-consulting graduate role focused on process improvement, organisational change and the intersection of technology and business across several Norwegian offices.",
-      "requirements": "For candidates graduating in spring 2027 with at least a bachelor’s in economics, management, technology or security. Norwegian is required, along with interest in digitalisation and consulting. Maximum one year of relevant post-degree experience.",
-      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/587eadd3-5fb1-4556-b6c5-9734a5fae395",
-      "deadline": "2026-10-01",
-      "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-01T16:58:38Z"
     },
     {
       "id": "nav-cd3e8422",
@@ -2012,7 +1995,7 @@
       "url": "https://jobs.yara.com/job/Oslo-Jr_-Global-Planner/1448834233/",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-10-31T07:06:36Z"
+      "verifiedAt": "2026-11-01T07:03:30Z"
     },
     {
       "id": "linkedin-4476438809",
@@ -2430,7 +2413,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/46666a07-1bbd-4061-b9b6-e83ca473abf4",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-10-31T07:06:36Z"
+      "verifiedAt": "2026-11-01T07:03:30Z"
     },
     {
       "id": "linkedin-4468163482",
@@ -2566,7 +2549,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/6a20da25-c963-4995-9a82-43e4a69d3510",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-10-31T07:06:36Z"
+      "verifiedAt": "2026-11-01T07:03:30Z"
     },
     {
       "id": "nav-cbb4b077",
