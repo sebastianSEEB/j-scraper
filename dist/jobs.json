@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-02T07:11:27Z",
+  "updatedAt": "2026-11-02T17:58:11Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Forsvarsmateriell's Contract Manager was explicitly expired after its 1 November deadline, and the other past-deadline FINN mirrors were closed. Blue Ctrl's Office & Operations Coordinator remained active on 2 November. Anticimex's procurement coordinator remained active with its extended 9 November deadline."
+      "note": "Current FINN results and original adverts were checked. Blue Ctrl's Office & Operations Coordinator was still active on its 2 November deadline, while Hydro's Logistics Coordinator and IKM's Business Controller remained active ahead of 6 November. Orkla's Category Analyst was added as a stretch match because a master's degree and 1–3 years of relevant experience are mandatory."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Knutsen's Accountant and the Norwegian Armed Forces' purchaser were closed after their documented 1 November deadlines passed, even though the public pages still displayed stale deadline-day wording. No new distinct NAV role met the evidence and profile threshold."
+      "note": "Current NAV listings and original pages were checked. NAV Hjelpemiddelsentral Vestland's Controller with operations duties was added as a strong bachelor-friendly match: relevant higher education is required, but the advert explicitly says long experience is unnecessary and training is provided."
     },
     {
       "name": "Jobbnorge",
@@ -19,12 +19,12 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public list was checked. Atea's graduate-friendly finance roles and Selecta's planning trainee remained listed; no distinct new target-profile role was added. Only the Atea contract-controlling advert received a fresh verification timestamp because its original page was opened successfully."
+      "note": "Academic Work's current public list was checked. Atea's graduate-friendly finance roles and Selecta's planning trainee remained listed; no distinct new target-profile role was added. Selecta's original page was opened successfully and received a fresh verification timestamp."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's student assistant was closed after its documented 1 November deadline passed. Wilhelmsen's programme remained public ahead of 4 November. LinkedIn duplicates were deduplicated in favour of direct employer career pages."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Wilhelmsen's graduate programme remained public ahead of 4 November. LinkedIn duplicates were deduplicated in favour of direct employer career pages where available."
     },
     {
       "name": "Employer careers",
@@ -33,6 +33,51 @@
     }
   ],
   "jobs": [
+    {
+      "id": "nav-d9886753-d5bc-4958-8069-4d9493b8bf2e",
+      "title": "Controller med driftsoppgåver",
+      "company": "NAV Hjelpemiddelsentral Vestland",
+      "location": "Førde · Hybrid",
+      "type": "Permanent · Full time · Controller and operations",
+      "source": "NAV Arbeidsplassen",
+      "categories": [
+        "Business",
+        "Finance",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Follow invoices and accounts, prepare forecasts and reports, support budget management, purchasing and contract follow-up, and help improve administrative routines and daily operations.",
+      "requirements": "Relevant higher education in economics and administration or another relevant field is mandatory. Digital skills and good written and spoken communication are required. Experience with financial follow-up, analysis, forecasting or the public sector is desirable rather than mandatory; the advert explicitly says long experience is unnecessary and that training and development will be provided. Deadline 15 November.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d9886753-d5bc-4958-8069-4d9493b8bf2e",
+      "deadline": "2026-11-15",
+      "firstSeen": "2026-11-02",
+      "verifiedAt": "2026-11-02T17:58:11Z"
+    },
+    {
+      "id": "finn-479335254",
+      "title": "Category Analyst · Procurement · Master's and experience required",
+      "company": "Orkla Procurement",
+      "location": "Oslo · Malmö",
+      "type": "Permanent · Full time · Strategic procurement",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Finance"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Analyse supplier and market data, support tenders and negotiations, contribute to packaging-category strategy and collaborate across supply chain, finance and local business units.",
+      "requirements": "A master's degree in business, engineering, supply chain or an equivalent field is mandatory, together with 1–3 years of experience in procurement, logistics, supply chain, finance or similar. English and a Scandinavian language are required. The role is described as an entry point into Orkla Procurement, but the mandatory degree and experience requirements make it a clear stretch match. Deadline 9 November.",
+      "url": "https://www.finn.no/job/ad/479335254",
+      "deadline": "2026-11-09",
+      "firstSeen": "2026-11-02",
+      "verifiedAt": "2026-11-02T17:58:11Z"
+    },
     {
       "id": "nordea-1451550633",
       "title": "Junior Private Banker · Customer-facing experience expected",
@@ -829,7 +874,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/glad-i-excel-struktur-og-flyt/FAE6SN",
       "deadline": null,
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-31T07:06:36Z"
+      "verifiedAt": "2026-11-02T17:58:11Z"
     },
     {
       "id": "nav-15baf81e",
@@ -1273,7 +1318,7 @@
       "url": "https://www.finn.no/job/ad/478007066",
       "deadline": "2026-11-02",
       "firstSeen": "2026-10-08",
-      "verifiedAt": "2026-11-02T07:11:27Z"
+      "verifiedAt": "2026-11-02T17:58:11Z"
     },
     {
       "id": "nav-e388354a",
@@ -2226,7 +2271,7 @@
       "url": "https://www.finn.no/job/ad/479379769",
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-24",
-      "verifiedAt": "2026-10-24T05:55:36Z"
+      "verifiedAt": "2026-11-02T17:58:11Z"
     },
     {
       "id": "finn-479155512",
@@ -2482,7 +2527,7 @@
       "url": "https://no.linkedin.com/jobs/view/graduate-programme-2027-at-wilhelmsen-group-4484053685",
       "deadline": "2026-11-04",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-11-02T07:11:27Z"
+      "verifiedAt": "2026-11-02T17:58:11Z"
     },
     {
       "id": "finn-479239653",
@@ -2640,7 +2685,7 @@
       "url": "https://www.finn.no/job/ad/479357078",
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-29",
-      "verifiedAt": "2026-10-29T07:07:43Z"
+      "verifiedAt": "2026-11-02T17:58:11Z"
     },
     {
       "id": "finn-479832790",
