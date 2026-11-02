@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-01T18:06:25Z",
+  "updatedAt": "2026-11-02T07:11:27Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Yara's Junior Global Planner, Subsea7's Commercial Graduate and Forsvarsmateriell's Contract Manager were still active on their 1 November deadline. Blue Ctrl's Office & Operations Coordinator remained active ahead of 2 November. Two relevant adverts were added as stretch matches because they require prior professional experience."
+      "note": "Current FINN results and original adverts were checked. Forsvarsmateriell's Contract Manager was explicitly expired after its 1 November deadline, and the other past-deadline FINN mirrors were closed. Blue Ctrl's Office & Operations Coordinator remained active on 2 November. Anticimex's procurement coordinator remained active with its extended 9 November deadline."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Knutsen's graduate-friendly Accountant and the Norwegian Armed Forces' bachelor-level purchaser were still accepting applications on their 1 November deadline. NAV mirrors for the newly added experience-required procurement and controller roles were deduplicated in favour of their canonical FINN adverts."
+      "note": "Current NAV listings and original pages were checked. Knutsen's Accountant and the Norwegian Armed Forces' purchaser were closed after their documented 1 November deadlines passed, even though the public pages still displayed stale deadline-day wording. No new distinct NAV role met the evidence and profile threshold."
     },
     {
       "name": "Jobbnorge",
@@ -19,20 +19,63 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public list was checked. Atea's two recently added graduate-friendly finance roles and Selecta's planning trainee remained listed; no distinct new target-profile role was added, and prior verification timestamps were retained where the original advert was not reopened."
+      "note": "Academic Work's current public list was checked. Atea's graduate-friendly finance roles and Selecta's planning trainee remained listed; no distinct new target-profile role was added. Only the Atea contract-controlling advert received a fresh verification timestamp because its original page was opened successfully."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's supply-chain student assistant was still publicly visible on its 1 November deadline, and Wilhelmsen's programme remained active ahead of 4 November. Siemens' student business-development advert was reviewed but excluded because it requires a technology-focused field of study rather than the target BBA profile."
+      "note": "Public LinkedIn listings were searched without login or access bypass. AVA's student assistant was closed after its documented 1 November deadline passed. Wilhelmsen's programme remained public ahead of 4 November. LinkedIn duplicates were deduplicated in favour of direct employer career pages."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were checked. Yara's Junior Global Planner and Subsea7's Commercial Graduate were still accepting applications on 1 November. No additional Norway-based employer-career role met the evidence and profile threshold."
+      "note": "Employer and recruiter career pages were checked. Subsea7's Commercial Graduate was explicitly marked filled, and Yara's Junior Global Planner was closed after its 1 November deadline passed. Nordea's Junior Private Banker and TINE's logistics business developer were added as stretch matches because customer-facing or several years of professional experience are expected."
     }
   ],
   "jobs": [
+    {
+      "id": "nordea-1451550633",
+      "title": "Junior Private Banker · Customer-facing experience expected",
+      "company": "Nordea",
+      "location": "Oslo · Majorstuen",
+      "type": "Full time · Private banking · Junior finance",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Prepare customer and investment material, analyse portfolios, support investment proposals and client meetings, and learn wealth management alongside experienced private bankers.",
+      "requirements": "A relevant bachelor's or master's degree, Norwegian and English, analytical ability and interest in banking and investments are expected. New graduates are explicitly welcomed and prior private-banking expertise is not required, but experience from customer-facing work is listed as an expected qualification. Because no professional experience can be assumed, this is a stretch match. Deadline 9 November.",
+      "url": "https://careers.nordea.com/job/Oslo-Nordea-s%C3%B8ker-Junior-Private-Banker!-0368/1451550633/",
+      "deadline": "2026-11-09",
+      "firstSeen": "2026-11-02",
+      "verifiedAt": "2026-11-02T07:11:27Z"
+    },
+    {
+      "id": "tine-1372755255",
+      "title": "Business Developer · Logistics · Experience required",
+      "company": "TINE",
+      "location": "Oslo · Some travel",
+      "type": "Permanent · Full time · Supply-chain development",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Develop warehouse and distribution strategy, lead improvement projects, analyse logistics costs and profitability, improve capacity planning and contribute to ERP, WMS, TMS and routing-system development.",
+      "requirements": "Relevant higher education in logistics, supply chain, economics or engineering is expected. Several years of warehouse, distribution or supply-chain experience plus experience leading improvement or change projects are expected, making this a clear stretch match. Excel, Power BI and logistics-system experience are advantages. Deadline 13 November.",
+      "url": "https://careers.tine.no/job/OSLO-TINE-Supply-Chain-s%C3%B8ker-Forretningsutvikler-Logi-950/1372755255/",
+      "deadline": "2026-11-13",
+      "firstSeen": "2026-11-02",
+      "verifiedAt": "2026-11-02T07:11:27Z"
+    },
     {
       "id": "finn-479704516",
       "title": "Operativ innkjøper · Experience required",
@@ -228,7 +271,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/strukturert-og-nyutdannet-konom-til-atea/FQ0N82",
       "deadline": null,
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-10-31T07:06:36Z"
+      "verifiedAt": "2026-11-02T07:11:27Z"
     },
     {
       "id": "academicwork-4467BH",
@@ -654,13 +697,13 @@
         "Operations"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Support deliveries and container transport, inventory, supplier invoices, transport-cost allocation, warehouse transfers, production and delivery plans, reporting and Excel analysis.",
       "requirements": "Must currently study economics, logistics, supply-chain management or a similar field. Excel, comfort with digital systems, and Norwegian and English are required. No prior logistics experience is required; logistics or ERP experience is only an advantage.",
       "url": "https://no.linkedin.com/jobs/view/student-assistant-%E2%80%93-supply-chain-logistics-at-ava-of-norway-4479296311",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-01T18:06:25Z"
+      "verifiedAt": "2026-11-02T07:11:27Z"
     },
     {
       "id": "finn-477583648",
@@ -697,13 +740,13 @@
         "Logistics"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Manage defence-sector supplier contracts from implementation and performance follow-up through change handling, cost control, improvement and future procurement input.",
       "requirements": "A relevant bachelor’s in economics, procurement, logistics, law or a comparable field is mandatory unless relevant experience compensates. Contract, supplier, public-procurement, ERP and value-chain experience are desirable rather than stated minimums. Strong Norwegian, good English and eligibility for Hemmelig/NATO Secret clearance are mandatory.",
       "url": "https://www.finn.no/job/ad/478318447",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-16",
-      "verifiedAt": "2026-11-01T18:06:25Z"
+      "verifiedAt": "2026-11-02T07:11:27Z"
     },
     {
       "id": "finn-478002094",
@@ -1230,7 +1273,7 @@
       "url": "https://www.finn.no/job/ad/478007066",
       "deadline": "2026-11-02",
       "firstSeen": "2026-10-08",
-      "verifiedAt": "2026-11-01T18:06:25Z"
+      "verifiedAt": "2026-11-02T07:11:27Z"
     },
     {
       "id": "nav-e388354a",
@@ -1475,25 +1518,6 @@
       "firstSeen": "2026-09-22"
     },
     {
-      "id": "aw-ZMCBAA",
-      "title": "Salg- og kundekonsulent",
-      "company": "Facit Bank / Academic Work",
-      "location": "Oslo",
-      "type": "Full time · Staffing · Hybrid possible",
-      "source": "Academic Work",
-      "categories": [
-        "Business"
-      ],
-      "fit": "potential",
-      "status": "closed",
-      "summary": "An early-career banking role focused on insurance sales, customer service and some loan administration. Relevant for business graduates interested in customer-facing commercial work.",
-      "requirements": "Completed relevant bachelor’s degree and some telephone-sales experience; insurance sales experience may compensate for education. Fluent Norwegian or another Scandinavian language. Deadline 2 October shown on the matching NAV advert.",
-      "url": "https://www.academicwork.no/ledige-stillinger/j/nyutdannet-og-klar-for-en-karriere-innen-salg-og-kundeservice/ZMCBAA",
-      "deadline": "2026-10-02",
-      "firstSeen": "2026-09-22",
-      "verifiedAt": "2026-10-02T16:59:17Z"
-    },
-    {
       "id": "kongsberg-summer-2027",
       "title": "Summer Internship 2027",
       "company": "KONGSBERG",
@@ -1623,13 +1647,13 @@
         "Shipping"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "A commercial graduate scheme with placements in project cost control, tendering, HSSEQ or HR, combining practical offshore-energy work with training and networking.",
       "requirements": "Accepts BSc, MSc or MBA backgrounds including administration, economics, finance, business and legal studies. No prior experience requirement is stated; background checks require consent.",
       "url": "https://careers.subsea7.com/job/STAVANGER-Graduate-Development-Programme-2027-Commercial/1369134455/",
       "deadline": "2026-11-01",
       "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-11-01T18:06:25Z"
+      "verifiedAt": "2026-11-02T07:11:27Z"
     },
     {
       "id": "finn-473639278",
@@ -1839,28 +1863,6 @@
       "verifiedAt": "2026-10-16T06:03:09Z"
     },
     {
-      "id": "finn-476469118",
-      "title": "Prosjektplanlegger / Innkjøper",
-      "company": "R&M Ship Interior",
-      "location": "Molde or Ålesund",
-      "type": "Permanent · Full time",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Shipping",
-        "Procurement",
-        "Logistics"
-      ],
-      "fit": "potential",
-      "status": "closed",
-      "summary": "Graduate-friendly maritime role combining project planning, procurement, supplier follow-up, delivery coordination and project-cost tracking for ship-interior projects.",
-      "requirements": "Higher education in logistics, economics, procurement, project management, maritime studies or a related field. Newly graduated candidates are explicitly encouraged; some years of experience are also accepted but not mandatory. Norwegian and English plus solid digital skills are required.",
-      "url": "https://www.finn.no/job/ad/476469118",
-      "deadline": "2026-10-02",
-      "firstSeen": "2026-10-01",
-      "verifiedAt": "2026-10-02T16:59:17Z"
-    },
-    {
       "id": "finn-477638566",
       "title": "Summer Internship 2027 · Finance & Trading",
       "company": "Equinor",
@@ -1899,26 +1901,6 @@
       "deadline": "2026-10-18",
       "firstSeen": "2026-09-30",
       "verifiedAt": "2026-10-18T17:12:48Z"
-    },
-    {
-      "id": "clarksons-oslo-summer-2027",
-      "title": "Summer Internship 2027 · Oslo",
-      "company": "Clarksons Norway",
-      "location": "Oslo",
-      "type": "Summer internship · Approximately eight weeks",
-      "source": "Employer careers",
-      "categories": [
-        "Business",
-        "Shipping"
-      ],
-      "fit": "potential",
-      "status": "closed",
-      "summary": "Work with shipbrokers and analysts on market research, commercial activity and live shipping or offshore opportunities across market analysis and broking teams.",
-      "requirements": "Open to undergraduate students. Strong academic performance, English fluency, analytical and numerical ability, commercial awareness, a demonstrated interest in shipping or offshore markets, and the right to work in Oslo are required. The employer page is active; the 2 October deadline was cross-checked on NHH’s public student job board.",
-      "url": "https://www.clarksons.com/home/careers/early-careers/summer-internship-oslo/",
-      "deadline": "2026-10-02",
-      "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-02T16:59:17Z"
     },
     {
       "id": "finn-476455443",
@@ -2033,13 +2015,13 @@
         "Business"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Support global supply-demand balancing, production and vessel planning, capacity and margin analysis, inventory insight and digital improvement across Yara’s international production network.",
       "requirements": "A bachelor’s degree in business, finance, supply-chain management, logistics, engineering or a related field is required. Advanced Excel and fluent English are required. Previous planning, logistics, sourcing, manufacturing or analytical experience is explicitly advantageous but not required; Power BI, Power Query and SAP IBP are advantages only.",
       "url": "https://jobs.yara.com/job/Oslo-Jr_-Global-Planner/1448834233/",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-11-01T18:06:25Z"
+      "verifiedAt": "2026-11-02T07:11:27Z"
     },
     {
       "id": "linkedin-4476438809",
@@ -2451,13 +2433,13 @@
         "Operations"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Handle accounting, reconciliations, analysis and periodic reporting for an international shipping company, with responsibilities adapted to the successful candidate's competence and experience.",
       "requirements": "A completed bachelor’s or higher degree in economics and accounting is mandatory for new graduates. Norwegian and English, sound accounting knowledge and familiarity with current rules are required. Prior professional experience is not required for the graduate profile. Deadline 1 November; candidates are reviewed continuously.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/46666a07-1bbd-4061-b9b6-e83ca473abf4",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-11-01T18:06:25Z"
+      "verifiedAt": "2026-11-02T07:11:27Z"
     },
     {
       "id": "linkedin-4468163482",
@@ -2500,7 +2482,7 @@
       "url": "https://no.linkedin.com/jobs/view/graduate-programme-2027-at-wilhelmsen-group-4484053685",
       "deadline": "2026-11-04",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-11-01T18:06:25Z"
+      "verifiedAt": "2026-11-02T07:11:27Z"
     },
     {
       "id": "finn-479239653",
@@ -2547,7 +2529,7 @@
       "url": "https://55632.webcruiter.no/Main/Recruit/Public/5192867724?language=nb&showExpired=False",
       "deadline": "2026-11-15",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-10-28T17:55:19Z"
+      "verifiedAt": "2026-11-02T07:11:27Z"
     },
     {
       "id": "finn-479090185",
@@ -2570,7 +2552,7 @@
       "url": "https://www.finn.no/job/ad/479090185",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-10-31T07:06:36Z"
+      "verifiedAt": "2026-11-02T07:11:27Z"
     },
     {
       "id": "nav-6a20da25",
@@ -2587,13 +2569,13 @@
         "Operations"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Process requisitions and purchases, follow deviations and complaints, guide internal requesters, improve purchasing routines, plan major equipment replacements and prepare decision support for the Army Weapons School.",
       "requirements": "A completed bachelor’s in economics, administration, management or an equivalent field is mandatory unless relevant work experience compensates. Norwegian and English plus eligibility for HEMMELIG and NATO SECRET clearance are required. SAP experience and knowledge of Forsvaret are desirable rather than mandatory. Deadline 1 November.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/6a20da25-c963-4995-9a82-43e4a69d3510",
       "deadline": "2026-11-01",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-11-01T18:06:25Z"
+      "verifiedAt": "2026-11-02T07:11:27Z"
     },
     {
       "id": "nav-cbb4b077",
