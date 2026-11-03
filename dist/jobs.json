@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-03T06:57:37Z",
+  "updatedAt": "2026-11-03T17:58:31Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Blue Ctrl's Office & Operations Coordinator was closed after its documented 2 November deadline passed. Veidekke's graduate programme, 4human's analysis product-owner role and Sparebank 68° Nord's accounting role were added as graduate-friendly matches. Nordic Bond Pricing's analyst role was added as stretch because a master's degree is mandatory. Hydro and IKM remained active ahead of 6 November."
+      "note": "Current FINN results and original adverts were checked. Hydro's Logistics Coordinator and IKM's Business Controller remained active ahead of 6 November, and NORBIT's order coordinator remained active ahead of 16 November. No distinct new FINN role met the evidence and profile threshold."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Delta Regnskap's graduate-friendly trainee remained active ahead of 7 November. FINN and NAV duplicates were deduplicated in favour of the canonical FINN advert where available; no additional distinct NAV role met the profile threshold."
+      "note": "Current NAV listings and original pages were checked. Delta Regnskap's graduate-friendly trainee remained active ahead of 7 November. FINN and NAV duplicates were deduplicated in favour of the canonical FINN advert where available; no distinct new NAV role met the profile threshold."
     },
     {
       "name": "Jobbnorge",
@@ -19,20 +19,83 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public list and original pages were checked. Atea's graduate-friendly contract-controlling role and Selecta's planning trainee remained active; no distinct new target-profile role was added."
+      "note": "Academic Work's current public list and Atea's original contract-controlling page were checked. Atea remained active, while the newly listed Academic Work roles were outside the target profile or senior; no distinct new target-profile role was added."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Wilhelmsen's graduate programme remained public ahead of 4 November. OKEA and NORBIT duplicates were deduplicated in favour of their direct employer or FINN pages."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Wilhelmsen's graduate programme remained public ahead of 4 November. Vår Energi's stale Commercial Analyst result explicitly said it was no longer accepting applications and was not added. Duplicates were retained only on direct employer or canonical listing pages."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were checked. OKEA's Supply Chain Management Trainee remained active ahead of 15 November. No new distinct employer-career role met the evidence and profile threshold."
+      "note": "Employer and recruiter career pages were checked. Nordea's two paid student roles were added as strong current-student matches. Scatec's Commercial & Origination Business Analyst was added as stretch because a master's degree and at least two years of relevant experience are mandatory. OKEA's Supply Chain Management Trainee remained active ahead of 15 November."
     }
   ],
   "jobs": [
+    {
+      "id": "nordea-1452954333",
+      "title": "Student · Stress Testing and Projections",
+      "company": "Nordea",
+      "location": "Oslo · Hybrid",
+      "type": "Paid student position · Part time · Approximately 2–3 days per week",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Build reporting and data-automation solutions, support credit-risk and ESG reconciliation and forecasting, contribute to regulatory stress testing and data quality, and document reporting processes for senior stakeholders.",
+      "requirements": "Must study international business, finance, engineering, statistics, technology or a similar field with at least 1.5 years of studies remaining. Strong analytical skills, English, Excel and PowerPoint are expected. Database and coding experience in Python, SAS or SQL plus Agentic AI experience are described under the ideal background, but no professional employment requirement is stated. Deadline 13 November.",
+      "url": "https://careers.nordea.com/job/Oslo-Student-in-Stress-Testing-and-Projections-0368/1452954333",
+      "deadline": "2026-11-13",
+      "firstSeen": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:58:31Z"
+    },
+    {
+      "id": "nordea-1451566033",
+      "title": "Student Assistant · Nordea Liv",
+      "company": "Nordea",
+      "location": "Oslo · Majorstuen",
+      "type": "Paid student position · Part time · Hours adapted to studies",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support Nordea Liv's management team with projects, decision material, presentations and reports, leadership-development activities, internal communication, employer branding and administrative coordination.",
+      "requirements": "Must be a third- or fourth-year student in economics, organisational development, management, communication or another relevant subject. Norwegian and English, Microsoft 365 skills and comfort with AI tools are required. Student-organisation, part-time or internship experience is advantageous rather than mandatory. Deadline 11 November.",
+      "url": "https://careers.nordea.com/job/Oslo-Studentmedarbeider-Nordea-Liv-0368/1451566033/",
+      "deadline": "2026-11-11",
+      "firstSeen": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:58:31Z"
+    },
+    {
+      "id": "scatec-2615",
+      "title": "Business Analyst · Commercial & Origination · Master's and experience required",
+      "company": "Scatec",
+      "location": "Oslo",
+      "type": "Full time · Commercial analysis and project finance",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Analyse European strategy and live energy deals, maintain the PPA pipeline, prepare commercial recommendations, support pricing and market analysis, and contribute to project business cases, valuations and financing processes.",
+      "requirements": "A master's degree in finance, economics, business administration, engineering or a similar field is mandatory, together with at least two years of relevant experience from consulting, corporate finance, utilities, trading, development or a comparable industry. Strong Excel financial modelling and fluent English are required. This is therefore a clear stretch match. Applications are reviewed on an ongoing basis and no fixed deadline is published.",
+      "url": "https://careers-scatec.icims.com/jobs/2615/business-analyst%2C-commercial-%26-origination-%E2%80%93-europe/job?in_iframe=1",
+      "deadline": null,
+      "firstSeen": "2026-11-03",
+      "verifiedAt": "2026-11-03T17:58:31Z"
+    },
     {
       "id": "finn-478636807",
       "title": "Graduate Project Engineer · Economics background accepted",
@@ -400,7 +463,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/strukturert-og-nyutdannet-konom-til-atea/FQ0N82",
       "deadline": null,
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-03T06:57:37Z"
+      "verifiedAt": "2026-11-03T17:58:31Z"
     },
     {
       "id": "academicwork-4467BH",
@@ -809,7 +872,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e7852631-451f-462d-ad3b-10f5ce148ac1",
       "deadline": "2026-11-07",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-03T06:57:37Z"
+      "verifiedAt": "2026-11-03T17:58:31Z"
     },
     {
       "id": "linkedin-4479296311",
@@ -2355,7 +2418,7 @@
       "url": "https://www.finn.no/job/ad/479379769",
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-24",
-      "verifiedAt": "2026-11-03T06:57:37Z"
+      "verifiedAt": "2026-11-03T17:58:31Z"
     },
     {
       "id": "finn-479155512",
@@ -2421,7 +2484,7 @@
       "url": "https://www.finn.no/job/ad/479219855",
       "deadline": "2026-11-16",
       "firstSeen": "2026-10-25",
-      "verifiedAt": "2026-10-25T17:56:04Z"
+      "verifiedAt": "2026-11-03T17:58:31Z"
     },
     {
       "id": "gjensidige-1447221733",
@@ -2611,7 +2674,7 @@
       "url": "https://no.linkedin.com/jobs/view/graduate-programme-2027-at-wilhelmsen-group-4484053685",
       "deadline": "2026-11-04",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-11-03T06:57:37Z"
+      "verifiedAt": "2026-11-03T17:58:31Z"
     },
     {
       "id": "finn-479239653",
@@ -2658,7 +2721,7 @@
       "url": "https://55632.webcruiter.no/Main/Recruit/Public/5192867724?language=nb&showExpired=False",
       "deadline": "2026-11-15",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-11-03T06:57:37Z"
+      "verifiedAt": "2026-11-03T17:58:31Z"
     },
     {
       "id": "finn-479090185",
@@ -2769,7 +2832,7 @@
       "url": "https://www.finn.no/job/ad/479357078",
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-29",
-      "verifiedAt": "2026-11-03T06:57:37Z"
+      "verifiedAt": "2026-11-03T17:58:31Z"
     },
     {
       "id": "finn-479832790",
