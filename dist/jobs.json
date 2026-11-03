@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-02T17:58:11Z",
+  "updatedAt": "2026-11-03T06:57:37Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Blue Ctrl's Office & Operations Coordinator was still active on its 2 November deadline, while Hydro's Logistics Coordinator and IKM's Business Controller remained active ahead of 6 November. Orkla's Category Analyst was added as a stretch match because a master's degree and 1–3 years of relevant experience are mandatory."
+      "note": "Current FINN results and original adverts were checked. Blue Ctrl's Office & Operations Coordinator was closed after its documented 2 November deadline passed. Veidekke's graduate programme, 4human's analysis product-owner role and Sparebank 68° Nord's accounting role were added as graduate-friendly matches. Nordic Bond Pricing's analyst role was added as stretch because a master's degree is mandatory. Hydro and IKM remained active ahead of 6 November."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. NAV Hjelpemiddelsentral Vestland's Controller with operations duties was added as a strong bachelor-friendly match: relevant higher education is required, but the advert explicitly says long experience is unnecessary and training is provided."
+      "note": "Current NAV listings and original pages were checked. Delta Regnskap's graduate-friendly trainee remained active ahead of 7 November. FINN and NAV duplicates were deduplicated in favour of the canonical FINN advert where available; no additional distinct NAV role met the profile threshold."
     },
     {
       "name": "Jobbnorge",
@@ -19,20 +19,104 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public list was checked. Atea's graduate-friendly finance roles and Selecta's planning trainee remained listed; no distinct new target-profile role was added. Selecta's original page was opened successfully and received a fresh verification timestamp."
+      "note": "Academic Work's current public list and original pages were checked. Atea's graduate-friendly contract-controlling role and Selecta's planning trainee remained active; no distinct new target-profile role was added."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Wilhelmsen's graduate programme remained public ahead of 4 November. LinkedIn duplicates were deduplicated in favour of direct employer career pages where available."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Wilhelmsen's graduate programme remained public ahead of 4 November. OKEA and NORBIT duplicates were deduplicated in favour of their direct employer or FINN pages."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were checked. Subsea7's Commercial Graduate was explicitly marked filled, and Yara's Junior Global Planner was closed after its 1 November deadline passed. Nordea's Junior Private Banker and TINE's logistics business developer were added as stretch matches because customer-facing or several years of professional experience are expected."
+      "note": "Employer and recruiter career pages were checked. OKEA's Supply Chain Management Trainee remained active ahead of 15 November. No new distinct employer-career role met the evidence and profile threshold."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-478636807",
+      "title": "Graduate Project Engineer · Economics background accepted",
+      "company": "Veidekke",
+      "location": "Nationwide Norway · Advert tagged Oslo",
+      "type": "Graduate programme · Full time · Starts summer or autumn 2027",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Join construction, infrastructure or road-operation projects and build experience in operational follow-up, procurement, contracts, tenders, quality and project coordination through Veidekke's first-year graduate programme.",
+      "requirements": "Applicants must be new graduates with a relevant engineering, vocational-college or economics background. The advert states Norwegian as the working language and requests preliminary academic results, but does not require prior professional experience. Multiple locations and project areas are available, so individual placement fit should be checked. Deadline 15 November.",
+      "url": "https://www.finn.no/job/ad/478636807",
+      "deadline": "2026-11-15",
+      "firstSeen": "2026-11-03",
+      "verifiedAt": "2026-11-03T06:57:37Z"
+    },
+    {
+      "id": "finn-478852067",
+      "title": "Product Owner · Analysis and Insights · Graduate-friendly",
+      "company": "4human",
+      "location": "Oslo",
+      "type": "Permanent · Full time · Business analytics and product operations",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Own the roadmap and backlog for an analytics platform, translate customer needs into product requirements, define reliable KPIs and data foundations, and collaborate with technical and business teams.",
+      "requirements": "Higher education in economics, business analytics, technology, product management or a similar field is required, together with strong business, numerical and technical understanding and very good Norwegian and English. New graduates are explicitly accepted. Power BI, agile product development or data-heavy system experience is advantageous rather than mandatory. Deadline 13 November.",
+      "url": "https://www.finn.no/job/ad/478852067",
+      "deadline": "2026-11-13",
+      "firstSeen": "2026-11-03",
+      "verifiedAt": "2026-11-03T06:57:37Z"
+    },
+    {
+      "id": "finn-479818606",
+      "title": "Accounting Manager · New graduates considered",
+      "company": "Sparebank 68° Nord",
+      "location": "Harstad or another bank office in Northern Norway",
+      "type": "Permanent · Full time · Accounting and controlling",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Handle bookkeeping and reconciliations, support monthly, quarterly and annual reporting, analyse costs and profitability, improve finance processes and work closely with the CFO.",
+      "requirements": "Higher education in economics or accounting and strong accounting understanding are expected. Excel and digital confidence are required. Accounting, audit, reporting or analysis experience is advantageous rather than mandatory, and new graduates with strong accounting knowledge and analytical skills are explicitly invited. Deadline 22 November.",
+      "url": "https://www.finn.no/job/ad/479818606",
+      "deadline": "2026-11-22",
+      "firstSeen": "2026-11-03",
+      "verifiedAt": "2026-11-03T06:57:37Z"
+    },
+    {
+      "id": "finn-479908588",
+      "title": "Bond Pricing Analyst · Master's mandatory",
+      "company": "Nordic Bond Pricing",
+      "location": "Oslo · Hybrid",
+      "type": "Permanent · Full time · Financial analysis",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Value bonds daily, analyse market data and market events, quality-check price and index calculations, collect market information and communicate with professional market participants.",
+      "requirements": "A master's degree in finance, economics, mathematics, statistics or a similar field is mandatory. The employer primarily seeks 1–3 years of relevant experience, although new graduates and students completing a master's in autumn 2026 may be considered with strong academic results. Bond-market knowledge plus fluent Norwegian and English are required; R, SQL or Python is advantageous. This is therefore a clear stretch match. Deadline 15 November.",
+      "url": "https://www.finn.no/job/ad/479908588",
+      "deadline": "2026-11-15",
+      "firstSeen": "2026-11-03",
+      "verifiedAt": "2026-11-03T06:57:37Z"
+    },
     {
       "id": "nav-d9886753-d5bc-4958-8069-4d9493b8bf2e",
       "title": "Controller med driftsoppgåver",
@@ -316,7 +400,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/strukturert-og-nyutdannet-konom-til-atea/FQ0N82",
       "deadline": null,
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-02T07:11:27Z"
+      "verifiedAt": "2026-11-03T06:57:37Z"
     },
     {
       "id": "academicwork-4467BH",
@@ -684,7 +768,7 @@
       "url": "https://www.finn.no/job/ad/478789937",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-10-30T06:58:52Z"
+      "verifiedAt": "2026-11-03T06:57:37Z"
     },
     {
       "id": "nav-b2dfba76",
@@ -725,7 +809,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e7852631-451f-462d-ad3b-10f5ce148ac1",
       "deadline": "2026-11-07",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-10-27T18:03:41Z"
+      "verifiedAt": "2026-11-03T06:57:37Z"
     },
     {
       "id": "linkedin-4479296311",
@@ -874,7 +958,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/glad-i-excel-struktur-og-flyt/FAE6SN",
       "deadline": null,
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-11-02T17:58:11Z"
+      "verifiedAt": "2026-11-03T06:57:37Z"
     },
     {
       "id": "nav-15baf81e",
@@ -1102,7 +1186,7 @@
       "url": "https://www.finn.no/job/ad/478219030",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-10-11T06:05:14Z"
+      "verifiedAt": "2026-11-03T06:57:37Z"
     },
     {
       "id": "finn-478294329",
@@ -1312,13 +1396,13 @@
         "Shipping"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Run logistics, purchasing follow-up, invoicing, inventory, office coordination and process improvement for a maritime automation company.",
       "requirements": "Relevant education in logistics, economics, administration or supply chain is advantageous rather than mandatory. The employer prefers some years of coordination, logistics, administration or purchasing experience, so this is marked stretch. Norwegian, English and good digital-system skills are required.",
       "url": "https://www.finn.no/job/ad/478007066",
       "deadline": "2026-11-02",
       "firstSeen": "2026-10-08",
-      "verifiedAt": "2026-11-02T17:58:11Z"
+      "verifiedAt": "2026-11-03T06:57:37Z"
     },
     {
       "id": "nav-e388354a",
@@ -2271,7 +2355,7 @@
       "url": "https://www.finn.no/job/ad/479379769",
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-24",
-      "verifiedAt": "2026-11-02T17:58:11Z"
+      "verifiedAt": "2026-11-03T06:57:37Z"
     },
     {
       "id": "finn-479155512",
@@ -2527,7 +2611,7 @@
       "url": "https://no.linkedin.com/jobs/view/graduate-programme-2027-at-wilhelmsen-group-4484053685",
       "deadline": "2026-11-04",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-11-02T17:58:11Z"
+      "verifiedAt": "2026-11-03T06:57:37Z"
     },
     {
       "id": "finn-479239653",
@@ -2574,7 +2658,7 @@
       "url": "https://55632.webcruiter.no/Main/Recruit/Public/5192867724?language=nb&showExpired=False",
       "deadline": "2026-11-15",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-11-02T07:11:27Z"
+      "verifiedAt": "2026-11-03T06:57:37Z"
     },
     {
       "id": "finn-479090185",
@@ -2685,7 +2769,7 @@
       "url": "https://www.finn.no/job/ad/479357078",
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-29",
-      "verifiedAt": "2026-11-02T17:58:11Z"
+      "verifiedAt": "2026-11-03T06:57:37Z"
     },
     {
       "id": "finn-479832790",
