@@ -1,38 +1,85 @@
 {
-  "updatedAt": "2026-11-03T17:58:31Z",
+  "updatedAt": "2026-11-04T07:08:20Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Hydro's Logistics Coordinator and IKM's Business Controller remained active ahead of 6 November, and NORBIT's order coordinator remained active ahead of 16 November. No distinct new FINN role met the evidence and profile threshold."
+      "note": "Current FINN results and original adverts were checked. Mowi Markets' student Planning & Operations / Quality Coordinator was added as a strong match, and Kongsberg's Logistics Coordinator was added as stretch because relevant logistics experience is expected. Hydro, IKM and NORBIT remained active."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Delta Regnskap's graduate-friendly trainee remained active ahead of 7 November. FINN and NAV duplicates were deduplicated in favour of the canonical FINN advert where available; no distinct new NAV role met the profile threshold."
+      "note": "Current NAV listings and original pages were checked. Delta Regnskap's graduate-friendly trainee remained active ahead of 7 November, and NAV Økonomi Stønad's trainee deadline was confirmed as 1 March 2027. FINN and NAV duplicates were deduplicated in favour of the canonical FINN advert where available."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge's current feed and the original pages for NTNU's Controller – adviser in economics and Byggmakker's logistics employee were checked. The originals still exposed only a JavaScript notice and no qualification details, so neither was added and existing Jobbnorge records retained their prior verification timestamps."
+      "note": "Jobbnorge search results exposed a relevant NTNU project-economist role, but its original page returned 404 and was not added. The original NAV Økonomi Stønad trainee page still exposed only a JavaScript notice; its qualifications and 1 March 2027 deadline were instead verified on the public NAV duplicate. Jobbnorge therefore remains degraded."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public list and Atea's original contract-controlling page were checked. Atea remained active, while the newly listed Academic Work roles were outside the target profile or senior; no distinct new target-profile role was added."
+      "note": "Academic Work's current public list and Atea's original contract-controlling page were checked. Atea remained active and graduate-friendly; no distinct new target-profile role was added."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Wilhelmsen's graduate programme remained public ahead of 4 November. Vår Energi's stale Commercial Analyst result explicitly said it was no longer accepting applications and was not added. Duplicates were retained only on direct employer or canonical listing pages."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Wilhelmsen's graduate programme remained open on its 4 November deadline, while AVA and Novo Nordisk student listings were explicitly no longer accepting applications. Duplicates were retained only on direct employer or canonical listing pages."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were checked. Nordea's two paid student roles were added as strong current-student matches. Scatec's Commercial & Origination Business Analyst was added as stretch because a master's degree and at least two years of relevant experience are mandatory. OKEA's Supply Chain Management Trainee remained active ahead of 15 November."
+      "note": "Employer and recruiter career pages were checked. Nordea's student stress-testing role and OKEA's Supply Chain Management Trainee remained active. Wilhelmsen's direct Workday page confirmed the graduate programme remained open on 4 November; its master's requirement keeps it a stretch match."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-479941450",
+      "title": "Planning & Operations / Quality Coordinator · Student",
+      "company": "Mowi Markets Norway",
+      "location": "Bergen · On-site",
+      "type": "Temporary part-time student position · Three openings",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Shipping",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support order and delivery follow-up, customer service, logistics documentation, deviations and complaints, ERP registration and continuous improvement across Mowi's planning, operations and quality teams.",
+      "requirements": "Must currently study logistics, aquaculture, economics, administration, supply chain or a similar subject. Norwegian and English plus a structured, service-oriented and willing-to-learn approach are required. No professional-experience minimum is stated. The flexible part-time role is intended to run alongside studies. Deadline 15 November; applications are reviewed continuously.",
+      "url": "https://www.finn.no/job/ad/479941450",
+      "deadline": "2026-11-15",
+      "firstSeen": "2026-11-04",
+      "verifiedAt": "2026-11-04T07:08:20Z"
+    },
+    {
+      "id": "finn-478790121",
+      "title": "Logistics Coordinator · Experience expected",
+      "company": "Kongsberg Defence & Aerospace · Space",
+      "location": "Kongsberg",
+      "type": "Permanent · Full time · Logistics and transport coordination",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Shipping",
+        "Logistics",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Coordinate domestic and international shipments, transport bookings, export and import documentation, material flow, inventory support and logistics-process improvements for space projects and production.",
+      "requirements": "Education in logistics, supply chain, procurement or a similar field is expected, although relevant experience may compensate. Experience from logistics, warehouse, transport or material handling and ERP familiarity are expected, making this a stretch match when no professional experience can be assumed. Norwegian and English, a class B licence and eligibility for Norwegian security clearance are required. Deadline 5 November; applications are reviewed continuously.",
+      "url": "https://www.finn.no/job/ad/478790121",
+      "deadline": "2026-11-05",
+      "firstSeen": "2026-11-04",
+      "verifiedAt": "2026-11-04T07:08:20Z"
+    },
     {
       "id": "nordea-1452954333",
       "title": "Student · Stress Testing and Projections",
@@ -52,7 +99,7 @@
       "url": "https://careers.nordea.com/job/Oslo-Student-in-Stress-Testing-and-Projections-0368/1452954333",
       "deadline": "2026-11-13",
       "firstSeen": "2026-11-03",
-      "verifiedAt": "2026-11-03T17:58:31Z"
+      "verifiedAt": "2026-11-04T07:08:20Z"
     },
     {
       "id": "nordea-1451566033",
@@ -463,7 +510,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/strukturert-og-nyutdannet-konom-til-atea/FQ0N82",
       "deadline": null,
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-03T17:58:31Z"
+      "verifiedAt": "2026-11-04T07:08:20Z"
     },
     {
       "id": "academicwork-4467BH",
@@ -831,7 +878,7 @@
       "url": "https://www.finn.no/job/ad/478789937",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-03T06:57:37Z"
+      "verifiedAt": "2026-11-04T07:08:20Z"
     },
     {
       "id": "nav-b2dfba76",
@@ -848,11 +895,11 @@
       "fit": "potential",
       "status": "open",
       "summary": "Build early-career experience with payments, tax and deduction records, accounting, reconciliations, reporting and internal collaboration in NAV's national economics unit.",
-      "requirements": "A completed bachelor’s or master’s in economics, administration or public administration is mandatory. Norwegian communication, digital competence, initiative and service orientation are required; no prior professional experience is stated. The public page says applications close Monday 1 March but does not expose the year, so verify the full date before applying.",
+      "requirements": "A completed bachelor’s or master’s in economics, administration or public administration is mandatory. Norwegian communication, digital competence, initiative and service orientation are required; no prior professional experience is stated. Deadline 1 March 2027.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/b2dfba76-57eb-481d-857f-0d1f5d99a873",
-      "deadline": null,
+      "deadline": "2027-03-01",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-10-17T17:04:01Z"
+      "verifiedAt": "2026-11-04T07:08:20Z"
     },
     {
       "id": "nav-e7852631",
@@ -872,7 +919,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e7852631-451f-462d-ad3b-10f5ce148ac1",
       "deadline": "2026-11-07",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-03T17:58:31Z"
+      "verifiedAt": "2026-11-04T07:08:20Z"
     },
     {
       "id": "linkedin-4479296311",
@@ -1650,26 +1697,6 @@
       "firstSeen": "2026-10-05"
     },
     {
-      "id": "nav-dof-2027",
-      "title": "Commercial Graduate 2027",
-      "company": "DOF",
-      "location": "Bergen",
-      "type": "Graduate · 2027 intake",
-      "source": "NAV",
-      "categories": [
-        "Business",
-        "Shipping"
-      ],
-      "fit": "potential",
-      "summary": "Commercial work across pricing, bids and contract delivery in offshore projects. A clear connection between business studies and the maritime industry.",
-      "requirements": "Accepts bachelor’s or master’s in business, law, finance or related fields; 0–2 years of experience. English required. Confirm graduation and start dates.",
-      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/4d78c2fb-eeed-40c0-954b-3e4d87d60964",
-      "deadline": "2026-10-04",
-      "status": "closed",
-      "verifiedAt": "2026-10-05T17:09:38Z",
-      "firstSeen": "2026-09-22"
-    },
-    {
       "id": "finn-476372712",
       "title": "Supply Planner",
       "company": "Haugen-Gruppen",
@@ -1846,27 +1873,6 @@
       "deadline": "2026-11-01",
       "firstSeen": "2026-09-26",
       "verifiedAt": "2026-11-02T07:11:27Z"
-    },
-    {
-      "id": "finn-473639278",
-      "title": "Maritime Trainee 2027 · Corporate track",
-      "company": "DOF",
-      "location": "Bergen",
-      "type": "Permanent · 18-month trainee programme",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Shipping",
-        "Supply chain"
-      ],
-      "fit": "stretch",
-      "status": "closed",
-      "summary": "Corporate-track rotations can cover contracts, insurance, supply-chain projects, compliance, finance and commercial support in an international maritime company.",
-      "requirements": "Mandatory relevant master’s degree in business, finance, supply chain, law or similar; 0–2 years of experience and fluent English. A bachelor’s alone does not meet the stated requirement.",
-      "url": "https://www.finn.no/job/ad/473639278",
-      "deadline": "2026-10-04",
-      "firstSeen": "2026-09-26",
-      "verifiedAt": "2026-10-03T17:07:21Z"
     },
     {
       "id": "finn-476600136",
@@ -2418,7 +2424,7 @@
       "url": "https://www.finn.no/job/ad/479379769",
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-24",
-      "verifiedAt": "2026-11-03T17:58:31Z"
+      "verifiedAt": "2026-11-04T07:08:20Z"
     },
     {
       "id": "finn-479155512",
@@ -2484,7 +2490,7 @@
       "url": "https://www.finn.no/job/ad/479219855",
       "deadline": "2026-11-16",
       "firstSeen": "2026-10-25",
-      "verifiedAt": "2026-11-03T17:58:31Z"
+      "verifiedAt": "2026-11-04T07:08:20Z"
     },
     {
       "id": "gjensidige-1447221733",
@@ -2674,7 +2680,7 @@
       "url": "https://no.linkedin.com/jobs/view/graduate-programme-2027-at-wilhelmsen-group-4484053685",
       "deadline": "2026-11-04",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-11-03T17:58:31Z"
+      "verifiedAt": "2026-11-04T07:08:20Z"
     },
     {
       "id": "finn-479239653",
@@ -2721,7 +2727,7 @@
       "url": "https://55632.webcruiter.no/Main/Recruit/Public/5192867724?language=nb&showExpired=False",
       "deadline": "2026-11-15",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-11-03T17:58:31Z"
+      "verifiedAt": "2026-11-04T07:08:20Z"
     },
     {
       "id": "finn-479090185",
@@ -2744,7 +2750,7 @@
       "url": "https://www.finn.no/job/ad/479090185",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-11-02T07:11:27Z"
+      "verifiedAt": "2026-11-04T07:08:20Z"
     },
     {
       "id": "nav-6a20da25",
@@ -2832,7 +2838,7 @@
       "url": "https://www.finn.no/job/ad/479357078",
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-29",
-      "verifiedAt": "2026-11-03T17:58:31Z"
+      "verifiedAt": "2026-11-04T07:08:20Z"
     },
     {
       "id": "finn-479832790",
