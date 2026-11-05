@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-04T18:06:14Z",
+  "updatedAt": "2026-11-05T07:07:35Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Mowi Markets' student coordinator, Kongsberg's logistics coordinator, Anticimex and NORBIT remained public. No distinct new target-profile role met the evidence and level threshold this evening."
+      "note": "Current FINN results and original adverts were checked. Kongsberg's logistics coordinator remained public on its 5 November deadline; Hydro's graduate-friendly logistics role remains open through 6 November, and NORBIT's student document-control role through 8 November. No distinct new target-profile role met the evidence and level threshold this morning."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Delta Regnskap's graduate-friendly trainee remained active ahead of 7 November. FINN and NAV duplicates were deduplicated in favour of canonical original adverts; no distinct new target-profile role was added."
+      "note": "Current NAV listings and original pages were checked. Delta Regnskap's graduate-friendly trainee remained active through 7 November. FINN and NAV duplicates were deduplicated in favour of canonical original adverts; no distinct new target-profile role was added."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge's current search was checked, but relevant original pages remained unavailable, returned 404 or exposed only a JavaScript notice. No unverifiable role was added and Jobbnorge remains degraded."
+      "note": "Jobbnorge's current search was checked, but relevant original pages remained unavailable or exposed insufficient readable detail for verification. No unverifiable role was added and Jobbnorge remains degraded."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public list and Atea's original contract-controlling page were checked. Atea remained active and graduate-friendly; no distinct new target-profile role was added this evening."
+      "note": "Academic Work's current public list and relevant original pages were checked. Existing graduate-friendly Atea and Selecta records remain retained; no distinct new target-profile role was added this morning."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. DHL's early-career sourcing role still appeared in public search, but its direct employer page said applications were closed, so the record was closed. Stale AVA, Aker Solutions and Novo Nordisk results were not re-added."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Cambi's procurement and logistics specialist remained publicly readable, with mandatory hands-on experience still flagged as a stretch. Stale or already-expired results were not re-added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were checked. Nordea's student stress-testing role and OKEA's Supply Chain Management Trainee remained public. Wilhelmsen's direct Workday page still accepted applications on its 4 November deadline; its master's requirement keeps it a stretch match."
+      "note": "Employer and recruiter career pages were checked. Ramboll's commercial summer internship and Gjensidige's investment internship remained public through 8 November. Wilhelmsen's 4 November graduate deadline has passed, so that master's-required stretch record was closed."
     }
   ],
   "jobs": [
@@ -78,7 +78,7 @@
       "url": "https://www.finn.no/job/ad/478790121",
       "deadline": "2026-11-05",
       "firstSeen": "2026-11-04",
-      "verifiedAt": "2026-11-04T07:08:20Z"
+      "verifiedAt": "2026-11-05T07:07:35Z"
     },
     {
       "id": "nordea-1452954333",
@@ -878,7 +878,7 @@
       "url": "https://www.finn.no/job/ad/478789937",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-04T07:08:20Z"
+      "verifiedAt": "2026-11-05T07:07:35Z"
     },
     {
       "id": "nav-b2dfba76",
@@ -919,7 +919,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e7852631-451f-462d-ad3b-10f5ce148ac1",
       "deadline": "2026-11-07",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-04T07:08:20Z"
+      "verifiedAt": "2026-11-05T07:07:35Z"
     },
     {
       "id": "linkedin-4479296311",
@@ -1633,7 +1633,7 @@
       "url": "https://jobs.smartrecruiters.com/Ramboll3/744000155938309-sommerpraktikant-2027-salg-og-forretningsutvikling-",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-10-27T06:58:16Z"
+      "verifiedAt": "2026-11-05T07:07:35Z"
     },
     {
       "id": "webcruiter-5187004303",
@@ -1693,7 +1693,7 @@
       "url": "https://www.finn.no/job/ad/477483379",
       "deadline": "2026-11-08",
       "status": "open",
-      "verifiedAt": "2026-10-05T17:09:38Z",
+      "verifiedAt": "2026-11-05T07:07:35Z",
       "firstSeen": "2026-10-05"
     },
     {
@@ -1997,47 +1997,6 @@
       "deadline": "2026-10-18",
       "firstSeen": "2026-09-30",
       "verifiedAt": "2026-10-18T17:12:48Z"
-    },
-    {
-      "id": "nav-cd3e8422",
-      "title": "Business Consulting Graduate 2027",
-      "company": "EY",
-      "location": "Oslo, Bergen, Stavanger or Trondheim",
-      "type": "Permanent · Graduate role",
-      "source": "NAV",
-      "categories": [
-        "Business",
-        "Supply chain",
-        "Procurement",
-        "Logistics"
-      ],
-      "fit": "potential",
-      "status": "closed",
-      "summary": "Graduate consulting across business transformation, finance, supply chain and operations, with work spanning planning, procurement, production, warehousing, distribution and strategy.",
-      "requirements": "Higher education must be completed by summer 2027; the advert does not state that a master’s is mandatory. Strong Norwegian and English are required. An aptitude test and separate video application must be completed. Deadline is 5 October at 12:00.",
-      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/cd3e8422-24ae-4cec-a4a4-ad967798ac3b",
-      "deadline": "2026-10-05",
-      "firstSeen": "2026-09-30",
-      "verifiedAt": "2026-10-05T17:09:38Z"
-    },
-    {
-      "id": "nav-2afce91e",
-      "title": "Risk Consulting Graduate 2027",
-      "company": "EY",
-      "location": "Oslo, Trondheim or Stavanger",
-      "type": "Permanent · Graduate role",
-      "source": "NAV",
-      "categories": [
-        "Business"
-      ],
-      "fit": "potential",
-      "status": "closed",
-      "summary": "Graduate consulting focused on governance, internal control, business-process improvement and risk management, including work with banking, finance and insurance clients.",
-      "requirements": "Higher education must be completed by summer 2027; the advert does not state that a master’s is mandatory. Norwegian and English are required. An aptitude test and separate video application must be completed. Deadline is 5 October at 12:00.",
-      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/2afce91e-1112-41a0-9ee3-bf7a64bb99c1",
-      "deadline": "2026-10-05",
-      "firstSeen": "2026-10-03",
-      "verifiedAt": "2026-10-05T17:09:38Z"
     },
     {
       "id": "finn-477641678",
@@ -2401,7 +2360,7 @@
       "url": "https://no.linkedin.com/jobs/view/procurement-and-logistics-specialist-at-cambi-4477633613",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-23",
-      "verifiedAt": "2026-10-23T17:03:43Z"
+      "verifiedAt": "2026-11-05T07:07:35Z"
     },
     {
       "id": "finn-479379769",
@@ -2424,7 +2383,7 @@
       "url": "https://www.finn.no/job/ad/479379769",
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-24",
-      "verifiedAt": "2026-11-04T07:08:20Z"
+      "verifiedAt": "2026-11-05T07:07:35Z"
     },
     {
       "id": "finn-479155512",
@@ -2510,7 +2469,7 @@
       "url": "https://jobs.gjensidige.com/job/OSLO-Summer-internship-2027-Investeringer-0191/1447221733/",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-26",
-      "verifiedAt": "2026-10-26T06:56:35Z"
+      "verifiedAt": "2026-11-05T07:07:35Z"
     },
     {
       "id": "ssy-accounts-assistant-2026",
@@ -2674,13 +2633,13 @@
         "Operations"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Complete a 24-month maritime graduate programme with challenging projects, cross-functional development and a preferred international rotation focused on technology, logistics and sustainability.",
       "requirements": "A master’s degree in business, engineering, data science or IT is mandatory, so this is a stretch match. Applicants may be fresh graduates or have one to two years of experience. Strong communication, curiosity and interest in technology and maritime logistics are required. Deadline 4 November.",
       "url": "https://wilhelmsen.wd3.myworkdayjobs.com/Wilhelmsen/job/Lysaker/Graduate-Programme-2027_JOBREQ_13319",
       "deadline": "2026-11-04",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-11-04T18:06:14Z"
+      "verifiedAt": "2026-11-05T07:07:35Z"
     },
     {
       "id": "finn-479239653",
@@ -2838,7 +2797,7 @@
       "url": "https://www.finn.no/job/ad/479357078",
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-29",
-      "verifiedAt": "2026-11-04T07:08:20Z"
+      "verifiedAt": "2026-11-05T07:07:35Z"
     },
     {
       "id": "finn-479832790",
