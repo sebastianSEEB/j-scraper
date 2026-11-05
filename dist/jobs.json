@@ -1,38 +1,83 @@
 {
-  "updatedAt": "2026-11-05T07:07:35Z",
+  "updatedAt": "2026-11-05T17:57:17Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Kongsberg's logistics coordinator remained public on its 5 November deadline; Hydro's graduate-friendly logistics role remains open through 6 November, and NORBIT's student document-control role through 8 November. No distinct new target-profile role met the evidence and level threshold this morning."
+      "note": "Current FINN results and original adverts were checked. Two distinct current roles were added: VOICE's explicitly graduate-friendly supply-chain coordinator and ASKO NORD's logistics-analysis coordinator. Kongsberg remained public on its 5 November deadline; Hydro and IKM remain public through 6 November."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Delta Regnskap's graduate-friendly trainee remained active through 7 November. FINN and NAV duplicates were deduplicated in favour of canonical original adverts; no distinct new target-profile role was added."
+      "note": "Current NAV listings and original pages were checked. Delta Regnskap's graduate-friendly trainee remained active through 7 November. FINN and NAV duplicates were deduplicated in favour of canonical original adverts; no distinct new target-profile role was added this evening."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge's current search was checked, but relevant original pages remained unavailable or exposed insufficient readable detail for verification. No unverifiable role was added and Jobbnorge remains degraded."
+      "note": "Jobbnorge feeds exposed current finance vacancies, but the relevant original adverts still returned only a JavaScript notice without qualifications. No unverifiable role was added; prior verification timestamps were preserved and Jobbnorge remains degraded."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public list and relevant original pages were checked. Existing graduate-friendly Atea and Selecta records remain retained; no distinct new target-profile role was added this morning."
+      "note": "Academic Work's current public list and relevant original pages were checked. Existing graduate-friendly Atea and Selecta records remain retained; no distinct new target-profile role was added this evening."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Cambi's procurement and logistics specialist remained publicly readable, with mandatory hands-on experience still flagged as a stretch. Stale or already-expired results were not re-added."
+      "note": "Public LinkedIn listings were searched without login or access bypass. OKEA's bachelor-friendly Supply Chain Management Trainee remained visible; stale or already-expired results were not re-added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were checked. Ramboll's commercial summer internship and Gjensidige's investment internship remained public through 8 November. Wilhelmsen's 4 November graduate deadline has passed, so that master's-required stretch record was closed."
+      "note": "Employer and recruiter career pages were checked. Existing Ramboll, Gjensidige, Nordea and OKEA records remain retained. No separate direct-employer listing met the evidence and level threshold this evening."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-480111201",
+      "title": "Supply Chain Coordinator · Graduate-friendly",
+      "company": "VOICE Norge",
+      "location": "Oslo · On-site",
+      "type": "Temporary · Full time · Two openings through May or July 2027",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Plan and coordinate product flow from suppliers through the central warehouse to stores, monitor receipts and inventory, support store transfers and improve routines across physical and online retail.",
+      "requirements": "The employer explicitly welcomes recent graduates with a bachelor's in economics, logistics or a similar field. Relevant vocational or other higher education is also considered, while clothing-store experience can compensate for missing higher education. Completed upper-secondary education, retail-process familiarity and analytical understanding are required; e-commerce familiarity is advantageous. No professional-experience minimum is stated. Deadline 16 November.",
+      "url": "https://www.finn.no/job/ad/480111201",
+      "deadline": "2026-11-16",
+      "firstSeen": "2026-11-05",
+      "verifiedAt": "2026-11-05T17:57:17Z"
+    },
+    {
+      "id": "finn-480247421",
+      "title": "Market and Logistics Coordinator",
+      "company": "ASKO NORD",
+      "location": "Tromsdalen",
+      "type": "Permanent · Full time · Logistics analysis and coordination",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Analyse and improve product flow, deliveries and transport across ASKO NORD's value chain, coordinate with stores and internal teams, lead improvement projects and quantify operational impacts.",
+      "requirements": "Higher education in logistics or relevant experience is expected, but no completed degree level or minimum years of professional experience is stated. Norwegian communication and strong IT skills are required. ERP/SAP, AI, Power BI, Microsoft 365 and grocery-industry experience are preferred, so candidates without those should treat this as a more competitive potential match. Deadline 26 November.",
+      "url": "https://www.finn.no/job/ad/480247421",
+      "deadline": "2026-11-26",
+      "firstSeen": "2026-11-05",
+      "verifiedAt": "2026-11-05T17:57:17Z"
+    },
     {
       "id": "finn-479941450",
       "title": "Planning & Operations / Quality Coordinator · Student",
@@ -78,7 +123,7 @@
       "url": "https://www.finn.no/job/ad/478790121",
       "deadline": "2026-11-05",
       "firstSeen": "2026-11-04",
-      "verifiedAt": "2026-11-05T07:07:35Z"
+      "verifiedAt": "2026-11-05T17:57:17Z"
     },
     {
       "id": "nordea-1452954333",
@@ -2383,7 +2428,7 @@
       "url": "https://www.finn.no/job/ad/479379769",
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-24",
-      "verifiedAt": "2026-11-05T07:07:35Z"
+      "verifiedAt": "2026-11-05T17:57:17Z"
     },
     {
       "id": "finn-479155512",
@@ -2797,7 +2842,7 @@
       "url": "https://www.finn.no/job/ad/479357078",
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-29",
-      "verifiedAt": "2026-11-05T07:07:35Z"
+      "verifiedAt": "2026-11-05T17:57:17Z"
     },
     {
       "id": "finn-479832790",
