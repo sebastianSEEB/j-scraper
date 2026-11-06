@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-06T07:06:34Z",
+  "updatedAt": "2026-11-06T17:57:31Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Kongsberg's logistics coordinator was closed after its 5 November deadline passed. Hydro's graduate-friendly logistics role and IKM's experience-led controller role remain public on their 6 November deadline; NORBIT's student role remains public through 8 November. No distinct new target-profile role met the evidence and level threshold this morning."
+      "note": "Current FINN results and original adverts were checked. Hydro's graduate-friendly logistics role and IKM's experience-led controller role remain public on their 6 November deadline; NORBIT's student role remains public through 8 November and Mowi's student role through 15 November. Atea duplicates were retained at their more direct canonical sources, and no distinct new target-profile role met the evidence and level threshold this evening."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Delta Regnskap's graduate-friendly trainee remained active through 7 November. FINN and NAV duplicates were deduplicated in favour of canonical original adverts; no distinct new target-profile role was added this morning."
+      "note": "Current NAV listings and original pages were checked. Delta Regnskap's graduate-friendly trainee remains active through 7 November. Cross-posted duplicates were deduplicated in favour of their canonical original adverts; no distinct new target-profile role was added this evening."
     },
     {
       "name": "Jobbnorge",
@@ -19,17 +19,17 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public list and relevant original pages were checked. Existing graduate-friendly Atea and Selecta records remain retained; no distinct new target-profile role was added this morning."
+      "note": "Academic Work's current public list and relevant original pages were checked. Existing graduate-friendly Atea records remain active; the accounts-receivable role was deduplicated to Atea's direct career page, which confirms a 22 November deadline. No distinct new target-profile role was added this evening."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. OKEA's bachelor-friendly Supply Chain Management Trainee and Cambi's experience-required procurement role remained visible; stale or expired results were not re-added."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Siemens' current Student Worker - Finance listing was readable and matched the existing direct-employer record, so it was refreshed without creating a duplicate. Stale or expired results were not re-added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career results were checked alongside original adverts where readable. Existing Ramboll, Gjensidige, Nordea and OKEA records remain retained. No separate direct-employer listing met the evidence and level threshold this morning."
+      "note": "Employer and recruiter career results were checked alongside original adverts where readable. Atea's direct career page confirmed its graduate-friendly accounts-receivable role through 22 November. Siemens' direct page returned HTTP 406, so the matching public LinkedIn original was used to verify the existing record and its employer-career URL was retained. No distinct new target-profile role was added this evening."
     }
   ],
   "jobs": [
@@ -99,7 +99,7 @@
       "url": "https://www.finn.no/job/ad/479941450",
       "deadline": "2026-11-15",
       "firstSeen": "2026-11-04",
-      "verifiedAt": "2026-11-06T07:06:34Z"
+      "verifiedAt": "2026-11-06T17:57:31Z"
     },
     {
       "id": "finn-478790121",
@@ -563,7 +563,7 @@
       "company": "Atea",
       "location": "Oslo · Hybrid",
       "type": "Full time · Six-month assignment · Possible permanent conversion",
-      "source": "Academic Work",
+      "source": "Employer careers",
       "categories": [
         "Business",
         "Finance",
@@ -572,11 +572,11 @@
       "fit": "potential",
       "status": "open",
       "summary": "Follow customer receivables by phone, work systematically through customer lists, resolve complex enquiries, collaborate across finance teams and help improve routines and systems.",
-      "requirements": "Basic accounting and numerical understanding plus professional Norwegian and English are required. Higher education in economics or accounting is preferred rather than mandatory, and new graduates are explicitly encouraged. SAP or comparable ERP experience is advantageous only. Selection is rolling and no fixed public deadline is stated.",
-      "url": "https://www.academicwork.no/ledige-stillinger/j/trives-du-med-kundedialog-bli-regnskapsmedarbeider-i-atea/4467BH",
-      "deadline": null,
+      "requirements": "Basic accounting and numerical understanding plus professional Norwegian and English are required. Higher education in economics or accounting is preferred rather than mandatory, and new graduates are explicitly encouraged. SAP or comparable ERP experience is advantageous only. Atea's direct career page states a 22 November deadline.",
+      "url": "https://web106.reachmee.com/ext/I020/1291/job?job_id=3491&lang=NO&site=8&validator=d594bc3c2481e1a1b365c588ca788523",
+      "deadline": "2026-11-22",
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-10-31T07:06:36Z"
+      "verifiedAt": "2026-11-06T17:57:31Z"
     },
     {
       "id": "finn-479751550",
@@ -923,7 +923,7 @@
       "url": "https://www.finn.no/job/ad/478789937",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-06T07:06:34Z"
+      "verifiedAt": "2026-11-06T17:57:31Z"
     },
     {
       "id": "nav-b2dfba76",
@@ -964,7 +964,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e7852631-451f-462d-ad3b-10f5ce148ac1",
       "deadline": "2026-11-07",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-06T07:06:34Z"
+      "verifiedAt": "2026-11-06T17:57:31Z"
     },
     {
       "id": "linkedin-4479296311",
@@ -2407,7 +2407,7 @@
       "url": "https://www.finn.no/job/ad/479379769",
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-24",
-      "verifiedAt": "2026-11-06T07:06:34Z"
+      "verifiedAt": "2026-11-06T17:57:31Z"
     },
     {
       "id": "finn-479155512",
@@ -2557,7 +2557,7 @@
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524304",
       "deadline": "2026-11-15",
       "firstSeen": "2026-10-26",
-      "verifiedAt": "2026-10-26T18:01:26Z"
+      "verifiedAt": "2026-11-06T17:57:31Z"
     },
     {
       "id": "linkedin-4468783054",
@@ -2821,7 +2821,7 @@
       "url": "https://www.finn.no/job/ad/479357078",
       "deadline": "2026-11-06",
       "firstSeen": "2026-10-29",
-      "verifiedAt": "2026-11-06T07:06:34Z"
+      "verifiedAt": "2026-11-06T17:57:31Z"
     },
     {
       "id": "finn-479832790",
