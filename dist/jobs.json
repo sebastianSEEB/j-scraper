@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-07T06:59:05Z",
+  "updatedAt": "2026-11-07T18:06:45Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. Hydro's graduate-friendly logistics role and IKM's experience-led controller role now explicitly show expired 6 November deadlines and were closed. NORBIT's student role, Golar's internship and other 8 November opportunities remain active. No distinct new target-profile role met the evidence and level threshold this morning."
+      "note": "Current FINN results and original adverts were rechecked. NORBIT's student role and Golar's internship remain active through 8 November, while Mowi's student role remains active through 15 November. A surfaced Vår Energi supply-chain graduate result had already closed and was excluded. No distinct new target-profile role met the evidence and level threshold this evening."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Delta Regnskap's graduate-friendly trainee remains active through 7 November. Cross-posted NORBIT and Mowi results were deduplicated in favour of their canonical FINN adverts; no distinct new target-profile role was added this morning."
+      "note": "Current NAV listings and original pages were rechecked. Delta Regnskap's graduate-friendly trainee remains active through 7 November. Cross-posted NORBIT and Mowi results were deduplicated in favour of their canonical FINN adverts; no distinct new target-profile role was added this evening."
     },
     {
       "name": "Jobbnorge",
@@ -19,17 +19,17 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public list and relevant original pages were checked. Atea's graduate-friendly contract-controlling role remains active on a rolling basis, while its accounts-receivable role remains retained at the direct employer source through 22 November. No distinct new target-profile role was added this morning."
+      "note": "Academic Work's current public list and relevant original pages were rechecked. Atea's graduate-friendly contract-controlling role remains active on a rolling basis, while its accounts-receivable role remains retained at the direct employer source through 22 November. No distinct new target-profile role was added this evening."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Midport's junior logistics ERP consultant and OKEA's supply-chain trainee remain visible; AVA's stale result was not reopened after its 1 November deadline. No duplicate or expired listing was re-added."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Midport's junior logistics ERP consultant remains visible; stale AVA and Yara results were not reopened, and Vår Energi's closed graduate result was excluded. No duplicate or expired listing was re-added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career results were checked alongside original adverts where readable. TINE's graduate controller remains active through 17 November but requires a master's degree; Ramboll and Gjensidige internships remain active through 8 November. No distinct new target-profile role was added this morning."
+      "note": "Employer and recruiter career results were checked alongside original adverts where readable. Ramboll's commercial internship and Gjensidige's investment internship remain active through 8 November. No distinct new target-profile role was added this evening."
     }
   ],
   "jobs": [
@@ -99,7 +99,7 @@
       "url": "https://www.finn.no/job/ad/479941450",
       "deadline": "2026-11-15",
       "firstSeen": "2026-11-04",
-      "verifiedAt": "2026-11-07T06:59:05Z"
+      "verifiedAt": "2026-11-07T18:06:45Z"
     },
     {
       "id": "finn-478790121",
@@ -555,7 +555,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/strukturert-og-nyutdannet-konom-til-atea/FQ0N82",
       "deadline": null,
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-07T06:59:05Z"
+      "verifiedAt": "2026-11-07T18:06:45Z"
     },
     {
       "id": "academicwork-4467BH",
@@ -923,7 +923,7 @@
       "url": "https://www.finn.no/job/ad/478789937",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-07T06:59:05Z"
+      "verifiedAt": "2026-11-07T18:06:45Z"
     },
     {
       "id": "nav-b2dfba76",
@@ -964,7 +964,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e7852631-451f-462d-ad3b-10f5ce148ac1",
       "deadline": "2026-11-07",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-07T06:59:05Z"
+      "verifiedAt": "2026-11-07T18:06:45Z"
     },
     {
       "id": "linkedin-4479296311",
@@ -1678,7 +1678,7 @@
       "url": "https://jobs.smartrecruiters.com/Ramboll3/744000155938309-sommerpraktikant-2027-salg-og-forretningsutvikling-",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-11-07T06:59:05Z"
+      "verifiedAt": "2026-11-07T18:06:45Z"
     },
     {
       "id": "webcruiter-5187004303",
@@ -1738,7 +1738,7 @@
       "url": "https://www.finn.no/job/ad/477483379",
       "deadline": "2026-11-08",
       "status": "open",
-      "verifiedAt": "2026-11-07T06:59:05Z",
+      "verifiedAt": "2026-11-07T18:06:45Z",
       "firstSeen": "2026-10-05"
     },
     {
@@ -2225,7 +2225,7 @@
       "url": "https://no.linkedin.com/jobs/view/junior-erp-consultant-%E2%80%93-logistics-at-midport-scandinavia-4476438809",
       "deadline": null,
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-11-07T06:59:05Z"
+      "verifiedAt": "2026-11-07T18:06:45Z"
     },
     {
       "id": "finn-479283578",
@@ -2493,7 +2493,7 @@
       "url": "https://jobs.gjensidige.com/job/OSLO-Summer-internship-2027-Investeringer-0191/1447221733/",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-26",
-      "verifiedAt": "2026-11-07T06:59:05Z"
+      "verifiedAt": "2026-11-07T18:06:45Z"
     },
     {
       "id": "ssy-accounts-assistant-2026",
