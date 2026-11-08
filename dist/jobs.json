@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-08T07:01:23Z",
+  "updatedAt": "2026-11-08T17:57:51Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were checked. NORBIT's student document-control role and Golar's LNG internship remain open through 8 November; current 9 November finance and procurement deadlines were also verified. No distinct new FINN role met the evidence and level threshold this morning."
+      "note": "Current FINN results and original adverts were rechecked. NORBIT's student document-control role and Golar's LNG internship remain open through 8 November; Daimyo, Directa, Anticimex and Orkla remain open through 9 November. No distinct new FINN role met the evidence and level threshold this evening."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were checked. Fauske kommune's controller/economics adviser role was added after the original page explicitly encouraged new graduates. Delta Regnskap's trainee was closed after its 7 November deadline; cross-posted adverts were deduplicated in favour of direct sources."
+      "note": "Current NAV listings and original pages were rechecked. Fauske kommune's graduate-friendly controller/economics adviser remains retained from this morning, while cross-posted adverts were deduplicated in favour of direct sources. No distinct new NAV role was added this evening."
     },
     {
       "name": "Jobbnorge",
@@ -19,17 +19,17 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public list and original pages were checked. Atea's graduate-friendly contract-controlling role remains active on a rolling basis. Selecta's planner trainee original now returns 404 and was closed; no distinct new role was added."
+      "note": "Academic Work's current public list and original pages were rechecked. Atea's graduate-friendly contract-controlling role remains active on a rolling basis. Selecta's withdrawn planner result was not reopened; no distinct new role was added."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Cambi's experience-led procurement and logistics specialist remains visible through 8 November. Stale or closed graduate results were not reopened, and no duplicate listing was added."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Current OKEA and other retained early-career listings remained visible, while stale or closed results were not reopened. No distinct new or duplicate listing was added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were checked alongside original adverts. Ramboll's commercial internship and Gjensidige's investment internship remain open through 8 November. No distinct new employer-career role met the evidence and level threshold this morning."
+      "note": "Employer and recruiter career pages were rechecked alongside original adverts. Ramboll's commercial internship and Gjensidige's investment internship remain open through 8 November. No distinct new employer-career role met the evidence and level threshold this evening."
     }
   ],
   "jobs": [
@@ -336,7 +336,7 @@
       "url": "https://www.finn.no/job/ad/479335254",
       "deadline": "2026-11-09",
       "firstSeen": "2026-11-02",
-      "verifiedAt": "2026-11-02T17:58:11Z"
+      "verifiedAt": "2026-11-08T17:57:51Z"
     },
     {
       "id": "nordea-1451550633",
@@ -576,7 +576,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/strukturert-og-nyutdannet-konom-til-atea/FQ0N82",
       "deadline": null,
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-08T07:01:23Z"
+      "verifiedAt": "2026-11-08T17:57:51Z"
     },
     {
       "id": "academicwork-4467BH",
@@ -944,7 +944,7 @@
       "url": "https://www.finn.no/job/ad/478789937",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-08T07:01:23Z"
+      "verifiedAt": "2026-11-08T17:57:51Z"
     },
     {
       "id": "nav-b2dfba76",
@@ -1237,7 +1237,7 @@
       "url": "https://www.finn.no/job/ad/478335216",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-11-08T07:01:23Z"
+      "verifiedAt": "2026-11-08T17:57:51Z"
     },
     {
       "id": "finn-478147058",
@@ -1362,7 +1362,7 @@
       "url": "https://www.finn.no/job/ad/478219030",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-11-08T07:01:23Z"
+      "verifiedAt": "2026-11-08T17:57:51Z"
     },
     {
       "id": "finn-478294329",
@@ -1679,7 +1679,7 @@
       "url": "https://jobs.smartrecruiters.com/Ramboll3/744000155938309-sommerpraktikant-2027-salg-og-forretningsutvikling-",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-11-08T07:01:23Z"
+      "verifiedAt": "2026-11-08T17:57:51Z"
     },
     {
       "id": "webcruiter-5187004303",
@@ -1739,7 +1739,7 @@
       "url": "https://www.finn.no/job/ad/477483379",
       "deadline": "2026-11-08",
       "status": "open",
-      "verifiedAt": "2026-11-08T07:01:23Z",
+      "verifiedAt": "2026-11-08T17:57:51Z",
       "firstSeen": "2026-10-05"
     },
     {
@@ -2494,7 +2494,7 @@
       "url": "https://jobs.gjensidige.com/job/OSLO-Summer-internship-2027-Investeringer-0191/1447221733/",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-26",
-      "verifiedAt": "2026-11-08T07:01:23Z"
+      "verifiedAt": "2026-11-08T17:57:51Z"
     },
     {
       "id": "ssy-accounts-assistant-2026",
@@ -2711,7 +2711,7 @@
       "url": "https://55632.webcruiter.no/Main/Recruit/Public/5192867724?language=nb&showExpired=False",
       "deadline": "2026-11-15",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-11-07T06:59:05Z"
+      "verifiedAt": "2026-11-08T17:57:51Z"
     },
     {
       "id": "finn-479090185",
@@ -2734,7 +2734,7 @@
       "url": "https://www.finn.no/job/ad/479090185",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-11-04T18:06:14Z"
+      "verifiedAt": "2026-11-08T17:57:51Z"
     },
     {
       "id": "nav-6a20da25",
