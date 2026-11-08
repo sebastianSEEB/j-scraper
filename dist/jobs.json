@@ -1,38 +1,59 @@
 {
-  "updatedAt": "2026-11-07T18:06:45Z",
+  "updatedAt": "2026-11-08T07:01:23Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were rechecked. NORBIT's student role and Golar's internship remain active through 8 November, while Mowi's student role remains active through 15 November. A surfaced Vår Energi supply-chain graduate result had already closed and was excluded. No distinct new target-profile role met the evidence and level threshold this evening."
+      "note": "Current FINN results and original adverts were checked. NORBIT's student document-control role and Golar's LNG internship remain open through 8 November; current 9 November finance and procurement deadlines were also verified. No distinct new FINN role met the evidence and level threshold this morning."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were rechecked. Delta Regnskap's graduate-friendly trainee remains active through 7 November. Cross-posted NORBIT and Mowi results were deduplicated in favour of their canonical FINN adverts; no distinct new target-profile role was added this evening."
+      "note": "Current NAV listings and original pages were checked. Fauske kommune's controller/economics adviser role was added after the original page explicitly encouraged new graduates. Delta Regnskap's trainee was closed after its 7 November deadline; cross-posted adverts were deduplicated in favour of direct sources."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge's current feed exposed finance and budget vacancies, but relevant original adverts still returned only a JavaScript notice without qualifications. No unverifiable role was added, prior verification timestamps were preserved, and Jobbnorge remains degraded."
+      "note": "Jobbnorge's current public search was checked, but relevant original adverts still did not expose readable qualification details. No unverifiable role was added, prior verification timestamps were preserved, and Jobbnorge remains degraded."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public list and relevant original pages were rechecked. Atea's graduate-friendly contract-controlling role remains active on a rolling basis, while its accounts-receivable role remains retained at the direct employer source through 22 November. No distinct new target-profile role was added this evening."
+      "note": "Academic Work's current public list and original pages were checked. Atea's graduate-friendly contract-controlling role remains active on a rolling basis. Selecta's planner trainee original now returns 404 and was closed; no distinct new role was added."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Midport's junior logistics ERP consultant remains visible; stale AVA and Yara results were not reopened, and Vår Energi's closed graduate result was excluded. No duplicate or expired listing was re-added."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Cambi's experience-led procurement and logistics specialist remains visible through 8 November. Stale or closed graduate results were not reopened, and no duplicate listing was added."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career results were checked alongside original adverts where readable. Ramboll's commercial internship and Gjensidige's investment internship remain active through 8 November. No distinct new target-profile role was added this evening."
+      "note": "Employer and recruiter career pages were checked alongside original adverts. Ramboll's commercial internship and Gjensidige's investment internship remain open through 8 November. No distinct new employer-career role met the evidence and level threshold this morning."
     }
   ],
   "jobs": [
+    {
+      "id": "nav-3ac06c6f",
+      "title": "Controller / Economics Adviser · Graduate-friendly",
+      "company": "Fauske kommune",
+      "location": "Fauske",
+      "type": "Permanent · Full time · Municipal finance and analysis",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support municipal leaders with budgets, financial plans, annual accounts and reporting; analyse results and forecasts, develop decision support and improve internal-control and finance processes.",
+      "requirements": "Relevant higher education in economics, accounting, auditing or a similar field is required. Economics and analysis experience is desirable rather than mandatory, and new graduates with relevant education and an interest in financial management are explicitly encouraged. Excel experience, Norwegian communication and a sound understanding of financial analysis are required; Power BI is advantageous only. Deadline 18 November.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/3ac06c6f-4b96-4d72-92f8-b59ed5a14543",
+      "deadline": "2026-11-18",
+      "firstSeen": "2026-11-08",
+      "verifiedAt": "2026-11-08T07:01:23Z"
+    },
     {
       "id": "finn-480111201",
       "title": "Supply Chain Coordinator · Graduate-friendly",
@@ -402,7 +423,7 @@
       "url": "https://www.finn.no/job/ad/479373234",
       "deadline": "2026-11-08",
       "firstSeen": "2026-11-01",
-      "verifiedAt": "2026-11-01T18:06:25Z"
+      "verifiedAt": "2026-11-08T07:01:23Z"
     },
     {
       "id": "nav-1e3c045a",
@@ -555,7 +576,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/strukturert-og-nyutdannet-konom-til-atea/FQ0N82",
       "deadline": null,
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-07T18:06:45Z"
+      "verifiedAt": "2026-11-08T07:01:23Z"
     },
     {
       "id": "academicwork-4467BH",
@@ -923,7 +944,7 @@
       "url": "https://www.finn.no/job/ad/478789937",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-07T18:06:45Z"
+      "verifiedAt": "2026-11-08T07:01:23Z"
     },
     {
       "id": "nav-b2dfba76",
@@ -958,13 +979,13 @@
         "Finance"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Develop through bookkeeping, payroll, invoicing, reconciliations, reporting, quality control and customer dialogue, with responsibility increasing alongside competence.",
       "requirements": "Relevant accounting or economics education and/or experience is sought. A relevant three-year degree is advantageous rather than stated as mandatory, authorization is not required, and new graduates are explicitly encouraged. Deadline 7 November.",
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e7852631-451f-462d-ad3b-10f5ce148ac1",
       "deadline": "2026-11-07",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-07T18:06:45Z"
+      "verifiedAt": "2026-11-08T07:01:23Z"
     },
     {
       "id": "linkedin-4479296311",
@@ -1107,13 +1128,13 @@
         "Operations"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Plan and optimize national driver and technician routes, maintain master data, monitor service needs and use Excel to keep daily logistics flows efficient.",
-      "requirements": "Recently completed education in logistics, administration, economics or a related field is explicitly accepted as an alternative to experience. Pivot-table-level Excel and very good Norwegian and English are required. Selection is rolling and may close early.",
+      "requirements": "The original Academic Work advert now returns 404 and is no longer available. It previously accepted recently completed education in logistics, administration, economics or a related field as an alternative to experience.",
       "url": "https://www.academicwork.no/ledige-stillinger/j/glad-i-excel-struktur-og-flyt/FAE6SN",
       "deadline": null,
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-11-03T06:57:37Z"
+      "verifiedAt": "2026-11-08T07:01:23Z"
     },
     {
       "id": "nav-15baf81e",
@@ -1216,7 +1237,7 @@
       "url": "https://www.finn.no/job/ad/478335216",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-10-29T07:07:43Z"
+      "verifiedAt": "2026-11-08T07:01:23Z"
     },
     {
       "id": "finn-478147058",
@@ -1341,7 +1362,7 @@
       "url": "https://www.finn.no/job/ad/478219030",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-11-03T06:57:37Z"
+      "verifiedAt": "2026-11-08T07:01:23Z"
     },
     {
       "id": "finn-478294329",
@@ -1600,26 +1621,6 @@
       "verifiedAt": "2026-10-13T05:55:27Z"
     },
     {
-      "id": "nordea-4702",
-      "title": "Student Analyst · Asset & Wealth Management",
-      "company": "Nordea",
-      "location": "Oslo",
-      "type": "Part time · Student",
-      "source": "Employer careers",
-      "categories": [
-        "Business",
-        "Finance"
-      ],
-      "fit": "potential",
-      "status": "closed",
-      "summary": "Support Nordea Asset & Wealth Management's strategy team with analysis, market research, decision materials, presentations and AI-enabled business-transformation work.",
-      "requirements": "Currently pursuing a bachelor’s or master’s degree with at least one year remaining until graduation. Strong academic performance, interest in strategy, finance, investments, technology or innovation, Microsoft Office skills, active use of AI tools, and good English are required. Relevant extracurricular or analytical experience is preferred, not mandatory.",
-      "url": "https://careers.nordea.com/job/Oslo-Student-Analyst,-Nordea-Asset-&-Wealth-Management-(part-time-position)-0368/1440999633/",
-      "deadline": "2026-10-08",
-      "firstSeen": "2026-10-07",
-      "verifiedAt": "2026-10-09T06:06:37Z"
-    },
-    {
       "id": "finn-477633069",
       "title": "Supply Chain & ERP Coordinator",
       "company": "Egersund Net",
@@ -1678,7 +1679,7 @@
       "url": "https://jobs.smartrecruiters.com/Ramboll3/744000155938309-sommerpraktikant-2027-salg-og-forretningsutvikling-",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-11-07T18:06:45Z"
+      "verifiedAt": "2026-11-08T07:01:23Z"
     },
     {
       "id": "webcruiter-5187004303",
@@ -1738,7 +1739,7 @@
       "url": "https://www.finn.no/job/ad/477483379",
       "deadline": "2026-11-08",
       "status": "open",
-      "verifiedAt": "2026-11-07T18:06:45Z",
+      "verifiedAt": "2026-11-08T07:01:23Z",
       "firstSeen": "2026-10-05"
     },
     {
@@ -2384,7 +2385,7 @@
       "url": "https://no.linkedin.com/jobs/view/procurement-and-logistics-specialist-at-cambi-4477633613",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-23",
-      "verifiedAt": "2026-11-05T07:07:35Z"
+      "verifiedAt": "2026-11-08T07:01:23Z"
     },
     {
       "id": "finn-479379769",
@@ -2493,7 +2494,7 @@
       "url": "https://jobs.gjensidige.com/job/OSLO-Summer-internship-2027-Investeringer-0191/1447221733/",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-26",
-      "verifiedAt": "2026-11-07T18:06:45Z"
+      "verifiedAt": "2026-11-08T07:01:23Z"
     },
     {
       "id": "ssy-accounts-assistant-2026",
