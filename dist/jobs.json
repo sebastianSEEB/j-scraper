@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-08T17:57:51Z",
+  "updatedAt": "2026-11-09T07:01:05Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were rechecked. NORBIT's student document-control role and Golar's LNG internship remain open through 8 November; Daimyo, Directa, Anticimex and Orkla remain open through 9 November. No distinct new FINN role met the evidence and level threshold this evening."
+      "note": "Current FINN results and original adverts were rechecked. Listings whose 8 November deadlines passed were closed, while Daimyo, Directa, Anticimex and Orkla remain open through 9 November. No distinct new FINN role met the evidence and level threshold this morning."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were rechecked. Fauske kommune's graduate-friendly controller/economics adviser remains retained from this morning, while cross-posted adverts were deduplicated in favour of direct sources. No distinct new NAV role was added this evening."
+      "note": "Current NAV listings and original pages were rechecked. Bergen Engines' Operations Intelligence Controller was added as a stretch match because relevant experience is required; cross-posted adverts were deduplicated in favour of direct sources."
     },
     {
       "name": "Jobbnorge",
@@ -24,15 +24,38 @@
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Current OKEA and other retained early-career listings remained visible, while stale or closed results were not reopened. No distinct new or duplicate listing was added."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Cambi's listing was closed after its 8 November deadline, while current OKEA and other retained early-career listings remained visible. Stale or closed results were not reopened."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were rechecked alongside original adverts. Ramboll's commercial internship and Gjensidige's investment internship remain open through 8 November. No distinct new employer-career role met the evidence and level threshold this evening."
+      "note": "Employer and recruiter career pages were rechecked alongside original adverts. Ramboll's commercial internship and Gjensidige's investment internship were closed after their 8 November deadlines. No distinct new employer-career role met the evidence and level threshold this morning."
     }
   ],
   "jobs": [
+    {
+      "id": "nav-440b2181",
+      "title": "Operations Intelligence Controller · Experience required",
+      "company": "Bergen Engines",
+      "location": "Hordvik · Bergen",
+      "type": "Permanent · Full time · Finance and operations intelligence",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Finance",
+        "Supply chain",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Analyse financial and operational data, costs, productivity, capacity, inventory and resource use; develop KPIs and decision support, improve data quality and processes, and explore AI/Copilot automation across finance, production, logistics and supply chain.",
+      "requirements": "Relevant higher education in economics, finance, industrial economics, production economics, data analysis or a similar field is required. Relevant experience in controlling, financial analysis, business intelligence, operational analysis or similar work is also required, making this a stretch match when no professional experience can be assumed. Strong Excel, ERP/reporting-tool understanding, Norwegian and English are required; industry, logistics, SAP ECC, Power BI and AI experience are advantages. Deadline 22 November.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/440b2181-c572-4921-b95b-e95966cded43",
+      "deadline": "2026-11-22",
+      "firstSeen": "2026-11-09",
+      "verifiedAt": "2026-11-09T07:01:05Z"
+    },
     {
       "id": "nav-3ac06c6f",
       "title": "Controller / Economics Adviser · Graduate-friendly",
@@ -336,7 +359,7 @@
       "url": "https://www.finn.no/job/ad/479335254",
       "deadline": "2026-11-09",
       "firstSeen": "2026-11-02",
-      "verifiedAt": "2026-11-08T17:57:51Z"
+      "verifiedAt": "2026-11-09T07:01:05Z"
     },
     {
       "id": "nordea-1451550633",
@@ -417,13 +440,13 @@
         "Operations"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Prepare management analyses, profitability reports, forecasts and budgets; support month-end closing, reconcile accounts and improve finance-reporting routines.",
       "requirements": "Higher education in economics or accounting and a minimum of three to five years of relevant finance, controlling, analysis or accounting experience are mandatory. This makes the role a clear stretch match despite the junior title. Strong Excel plus Norwegian and English are required; SAP experience is advantageous. Deadline 8 November.",
       "url": "https://www.finn.no/job/ad/479373234",
       "deadline": "2026-11-08",
       "firstSeen": "2026-11-01",
-      "verifiedAt": "2026-11-08T07:01:23Z"
+      "verifiedAt": "2026-11-09T07:01:05Z"
     },
     {
       "id": "nav-1e3c045a",
@@ -938,13 +961,13 @@
         "Operations"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Review customs declarations and trade documents, verify invoices and shipment data, document discrepancies and help maintain accurate import and export records in a maritime-technology logistics team.",
       "requirements": "Must currently study economics, logistics, supply-chain management, international trade or a similar field. Norwegian and English, numerical accuracy and comfort with digital tools are required. Customs, import/export or document-control experience is advantageous, not mandatory; training is provided.",
       "url": "https://www.finn.no/job/ad/478789937",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-08T17:57:51Z"
+      "verifiedAt": "2026-11-09T07:01:05Z"
     },
     {
       "id": "nav-b2dfba76",
@@ -1237,7 +1260,7 @@
       "url": "https://www.finn.no/job/ad/478335216",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-11-08T17:57:51Z"
+      "verifiedAt": "2026-11-09T07:01:05Z"
     },
     {
       "id": "finn-478147058",
@@ -1362,7 +1385,7 @@
       "url": "https://www.finn.no/job/ad/478219030",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-11-08T17:57:51Z"
+      "verifiedAt": "2026-11-09T07:01:05Z"
     },
     {
       "id": "finn-478294329",
@@ -1474,28 +1497,6 @@
       "verifiedAt": "2026-10-24T05:55:36Z"
     },
     {
-      "id": "finn-476471336",
-      "title": "Økonomimedarbeider",
-      "company": "Ålesundregionens Havnevesen",
-      "location": "Ålesund",
-      "type": "Permanent · Full time · Hybrid",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Finance",
-        "Procurement",
-        "Shipping"
-      ],
-      "fit": "stretch",
-      "status": "closed",
-      "summary": "Handle accounting, payroll, administration, purchasing and reporting for a regional port serving fisheries, containers, cruises and wider maritime trade.",
-      "requirements": "Relevant education in economics, accounting or administration is requested, together with accounting experience and preferably payroll or personnel experience. No minimum number of years is stated, but the experience requirement makes this a stretch. Strong Norwegian and digital skills are important.",
-      "url": "https://www.finn.no/job/ad/476471336",
-      "deadline": "2026-10-09",
-      "firstSeen": "2026-10-09",
-      "verifiedAt": "2026-10-10T06:02:30Z"
-    },
-    {
       "id": "finn-477518014",
       "title": "Økonomikonsulent",
       "company": "Hørselsforbundet",
@@ -1581,26 +1582,6 @@
       "verifiedAt": "2026-11-03T06:57:37Z"
     },
     {
-      "id": "nav-e388354a",
-      "title": "Revisor",
-      "company": "Hverven Revisjon",
-      "location": "Hønefoss",
-      "type": "Permanent · Junior audit",
-      "source": "NAV",
-      "categories": [
-        "Business",
-        "Finance"
-      ],
-      "fit": "potential",
-      "status": "closed",
-      "summary": "Audit and advisory role covering small and medium-sized clients, annual accounts, tax documentation, customer relationships and digital improvement work.",
-      "requirements": "Bachelor’s or master’s degree in economics or auditing. The advert mentions experience as useful but explicitly encourages new graduates to apply, so prior professional experience is not mandatory. Norwegian-language client work and strong accounting understanding are important.",
-      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/e388354a-a0c3-4642-84d6-d327e5c332b1",
-      "deadline": "2026-10-09",
-      "firstSeen": "2026-10-07",
-      "verifiedAt": "2026-10-10T06:02:30Z"
-    },
-    {
       "id": "nav-94f4ef72",
       "title": "Økonomimedarbeider",
       "company": "Wenaas Workwear",
@@ -1673,13 +1654,13 @@
         "Operations"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Support Ramboll's commercial team with customer and market analysis, sales-process improvements, presentations, shared sales resources and testing of AI-enabled business-development tools.",
       "requirements": "Must currently study economics, industrial economics, strategy, marketing, technology, innovation, data analytics or a similar subject. Norwegian and English are required. No completed-degree or professional-experience minimum is stated. Deadline 8 November; applications are reviewed continuously and may fill early.",
       "url": "https://jobs.smartrecruiters.com/Ramboll3/744000155938309-sommerpraktikant-2027-salg-og-forretningsutvikling-",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-27",
-      "verifiedAt": "2026-11-08T17:57:51Z"
+      "verifiedAt": "2026-11-09T07:01:05Z"
     },
     {
       "id": "webcruiter-5187004303",
@@ -1738,8 +1719,8 @@
       "requirements": "Third- or fourth-year student in business or another relevant discipline. Strong English required; Norwegian is helpful but not mandatory. State the preferred project in the application.",
       "url": "https://www.finn.no/job/ad/477483379",
       "deadline": "2026-11-08",
-      "status": "open",
-      "verifiedAt": "2026-11-08T17:57:51Z",
+      "status": "closed",
+      "verifiedAt": "2026-11-09T07:01:05Z",
       "firstSeen": "2026-10-05"
     },
     {
@@ -2106,25 +2087,6 @@
       "verifiedAt": "2026-10-18T17:12:48Z"
     },
     {
-      "id": "nav-d165fcf9",
-      "title": "Økonomi- og revisjonsmedarbeider",
-      "company": "Sør-Hedmark Revisjon",
-      "location": "Kongsvinger",
-      "type": "Permanent · Junior finance",
-      "source": "NAV",
-      "categories": [
-        "Business"
-      ],
-      "fit": "potential",
-      "status": "closed",
-      "summary": "Junior economics and audit role with client work, financial analysis, structured training and gradually increasing responsibility.",
-      "requirements": "Higher education in economics, accounting, auditing or business administration is preferred, but the employer says the exact academic background is not decisive. New graduates are welcome; prior experience is not mandatory.",
-      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d165fcf9-f104-41b9-833e-15d1091478a2",
-      "deadline": "2026-10-09",
-      "firstSeen": "2026-10-02",
-      "verifiedAt": "2026-10-10T06:02:30Z"
-    },
-    {
       "id": "nav-fbf43378",
       "title": "Regnskapsfører",
       "company": "Hatteland",
@@ -2379,13 +2341,13 @@
         "Operations"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Lead project purchasing from RFQs and supplier negotiations through purchase orders, international logistics, customs clearance, delivery, contract records and procurement performance.",
       "requirements": "A bachelor or master in business administration, industrial economics, engineering logistics, supply-chain management or a related discipline is requested. Hands-on procurement, logistics, purchasing, supplier-negotiation and ERP experience are mandatory, so this is a stretch match. Deadline 8 November.",
       "url": "https://no.linkedin.com/jobs/view/procurement-and-logistics-specialist-at-cambi-4477633613",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-23",
-      "verifiedAt": "2026-11-08T07:01:23Z"
+      "verifiedAt": "2026-11-09T07:01:05Z"
     },
     {
       "id": "finn-479379769",
@@ -2488,13 +2450,13 @@
         "Finance"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Support credit analysis of Norwegian bond issuers and contribute to investment projects involving financial markets, company analysis, macro trends and portfolio management.",
       "requirements": "Must be entering study year 3–5 in autumn 2027 within finance, economics, mathematics or a similar field. Interest in finance and portfolio investment plus good Norwegian are required; Excel experience is advantageous rather than mandatory. No professional-experience minimum is stated. Deadline 8 November.",
       "url": "https://jobs.gjensidige.com/job/OSLO-Summer-internship-2027-Investeringer-0191/1447221733/",
       "deadline": "2026-11-08",
       "firstSeen": "2026-10-26",
-      "verifiedAt": "2026-11-08T17:57:51Z"
+      "verifiedAt": "2026-11-09T07:01:05Z"
     },
     {
       "id": "ssy-accounts-assistant-2026",
@@ -2734,7 +2696,7 @@
       "url": "https://www.finn.no/job/ad/479090185",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-11-08T17:57:51Z"
+      "verifiedAt": "2026-11-09T07:01:05Z"
     },
     {
       "id": "nav-6a20da25",
