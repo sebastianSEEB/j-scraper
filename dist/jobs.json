@@ -1,38 +1,61 @@
 {
-  "updatedAt": "2026-11-09T07:01:05Z",
+  "updatedAt": "2026-11-09T17:59:47Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were rechecked. Listings whose 8 November deadlines passed were closed, while Daimyo, Directa, Anticimex and Orkla remain open through 9 November. No distinct new FINN role met the evidence and level threshold this morning."
+      "note": "Current FINN results and original adverts were rechecked. Forsvaret's buyer role in Bodø was added as a stretch match because at least two years of relevant experience is mandatory. Daimyo, Directa, Anticimex, Orkla and Sykehusinnkjøp remain live through 9 November."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV listings and original pages were rechecked. Bergen Engines' Operations Intelligence Controller was added as a stretch match because relevant experience is required; cross-posted adverts were deduplicated in favour of direct sources."
+      "note": "Current NAV searches and original pages were rechecked. Relevant cross-posted adverts were deduplicated in favour of direct sources, and no distinct new NAV-only listing met the evidence and level threshold this evening."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge's current public search was checked, but relevant original adverts still did not expose readable qualification details. No unverifiable role was added, prior verification timestamps were preserved, and Jobbnorge remains degraded."
+      "note": "Jobbnorge's current public feed was checked, but relevant original adverts still returned only a JavaScript-required shell without readable qualification details. No unverifiable role was added, prior verification timestamps were preserved, and Jobbnorge remains degraded."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public list and original pages were rechecked. Atea's graduate-friendly contract-controlling role remains active on a rolling basis. Selecta's withdrawn planner result was not reopened; no distinct new role was added."
+      "note": "Academic Work's current public list and original pages were rechecked. Atea's graduate-friendly contract-controlling role remains active on a rolling basis. Selecta's planner page now returns 404 and was not reopened; no distinct new role was added."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Cambi's listing was closed after its 8 November deadline, while current OKEA and other retained early-career listings remained visible. Stale or closed results were not reopened."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Current retained early-career listings remained visible, while stale or closed results were not reopened. No distinct new public LinkedIn role met the evidence and level threshold this evening."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were rechecked alongside original adverts. Ramboll's commercial internship and Gjensidige's investment internship were closed after their 8 November deadlines. No distinct new employer-career role met the evidence and level threshold this morning."
+      "note": "Employer and recruiter career pages were rechecked alongside original adverts. Nordea's Junior Private Banker and Pearl Accelerate remain live through 9 November. No distinct new employer-career role met the evidence and level threshold this evening."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-479100120",
+      "title": "Buyer · Two years' experience required",
+      "company": "Forsvaret · CAOC Bodø",
+      "location": "Bodø",
+      "type": "Permanent · Full time · Procurement and logistics support",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Plan and run procurement processes, market research and negotiations; create purchase orders, follow deliveries and complaints, and coordinate logistics support for the Combined Air Operations Centre in Bodø.",
+      "requirements": "Relevant education in economics, administration or logistics is required unless four years of relevant experience compensates. At least two years of relevant professional experience is mandatory, making this a clear stretch match when no work experience can be assumed. Norwegian and English plus eligibility for HEMMELIG and NATO SECRET clearance are required; public-procurement and SAP or other ERP experience are advantages. Deadline 9 November.",
+      "url": "https://www.finn.no/job/ad/479100120",
+      "deadline": "2026-11-09",
+      "firstSeen": "2026-11-09",
+      "verifiedAt": "2026-11-09T17:59:47Z"
+    },
     {
       "id": "nav-440b2181",
       "title": "Operations Intelligence Controller · Experience required",
@@ -359,7 +382,7 @@
       "url": "https://www.finn.no/job/ad/479335254",
       "deadline": "2026-11-09",
       "firstSeen": "2026-11-02",
-      "verifiedAt": "2026-11-09T07:01:05Z"
+      "verifiedAt": "2026-11-09T17:59:47Z"
     },
     {
       "id": "nordea-1451550633",
@@ -380,7 +403,7 @@
       "url": "https://careers.nordea.com/job/Oslo-Nordea-s%C3%B8ker-Junior-Private-Banker!-0368/1451550633/",
       "deadline": "2026-11-09",
       "firstSeen": "2026-11-02",
-      "verifiedAt": "2026-11-02T07:11:27Z"
+      "verifiedAt": "2026-11-09T17:59:47Z"
     },
     {
       "id": "tine-1372755255",
@@ -599,7 +622,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/strukturert-og-nyutdannet-konom-til-atea/FQ0N82",
       "deadline": null,
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-08T17:57:51Z"
+      "verifiedAt": "2026-11-09T17:59:47Z"
     },
     {
       "id": "academicwork-4467BH",
@@ -1260,7 +1283,7 @@
       "url": "https://www.finn.no/job/ad/478335216",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-11-09T07:01:05Z"
+      "verifiedAt": "2026-11-09T17:59:47Z"
     },
     {
       "id": "finn-478147058",
@@ -1385,7 +1408,7 @@
       "url": "https://www.finn.no/job/ad/478219030",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-11-09T07:01:05Z"
+      "verifiedAt": "2026-11-09T17:59:47Z"
     },
     {
       "id": "finn-478294329",
@@ -2299,7 +2322,7 @@
       "url": "https://career.pearlgroup.no/jobs/8513450-pearl-accelerate-2027-bli-sap-konsulent",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-23",
-      "verifiedAt": "2026-10-23T06:03:30Z"
+      "verifiedAt": "2026-11-09T17:59:47Z"
     },
     {
       "id": "finn-479327027",
@@ -2392,7 +2415,7 @@
       "url": "https://www.finn.no/job/ad/479155512",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-24",
-      "verifiedAt": "2026-10-24T05:55:36Z"
+      "verifiedAt": "2026-11-09T17:59:47Z"
     },
     {
       "id": "ocean-installer-117",
@@ -2696,7 +2719,7 @@
       "url": "https://www.finn.no/job/ad/479090185",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-11-09T07:01:05Z"
+      "verifiedAt": "2026-11-09T17:59:47Z"
     },
     {
       "id": "nav-6a20da25",
