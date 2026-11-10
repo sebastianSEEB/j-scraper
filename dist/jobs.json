@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-09T17:59:47Z",
+  "updatedAt": "2026-11-10T07:04:04Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were rechecked. Forsvaret's buyer role in Bodø was added as a stretch match because at least two years of relevant experience is mandatory. Daimyo, Directa, Anticimex, Orkla and Sykehusinnkjøp remain live through 9 November."
+      "note": "Current FINN results and original adverts were rechecked. Deloitte's student invoice role was added as a strong early-career match, and Geminor's retained commercial trainee programme was reverified. All listings whose 9 November deadlines passed were closed."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current NAV searches and original pages were rechecked. Relevant cross-posted adverts were deduplicated in favour of direct sources, and no distinct new NAV-only listing met the evidence and level threshold this evening."
+      "note": "Current NAV searches and original pages were rechecked. Gassco's finance summer-student role was added from its readable NAV original page. Cross-posted results were deduplicated in favour of one canonical source."
     },
     {
       "name": "Jobbnorge",
@@ -19,20 +19,62 @@
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public list and original pages were rechecked. Atea's graduate-friendly contract-controlling role remains active on a rolling basis. Selecta's planner page now returns 404 and was not reopened; no distinct new role was added."
+      "note": "Academic Work's current public list and original pages were rechecked. Atea's graduate-friendly contract-controlling role remains active on a rolling basis. No distinct new Academic Work role met the evidence and level threshold this morning."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Current retained early-career listings remained visible, while stale or closed results were not reopened. No distinct new public LinkedIn role met the evidence and level threshold this evening."
+      "note": "Public LinkedIn listings were searched without login or access bypass. Geminor's trainee role was also visible publicly but was deduplicated to its canonical FINN advert. Stale and closed graduate results were not reopened."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were rechecked alongside original adverts. Nordea's Junior Private Banker and Pearl Accelerate remain live through 9 November. No distinct new employer-career role met the evidence and level threshold this evening."
+      "note": "Employer and recruiter career pages were checked alongside public listings. TINE's newly surfaced logistics business-development role requires several years of experience and was not treated as an early-career match. No distinct employer-career listing was added."
     }
   ],
   "jobs": [
+    {
+      "id": "nav-f45f5d4d",
+      "title": "Finance Summer Student",
+      "company": "Gassco",
+      "location": "Kopervik · On-site",
+      "type": "Summer position · Full time · Finance operations",
+      "source": "NAV",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support day-to-day finance operations by checking and processing supplier invoices, assisting with payments and supplier follow-up, preparing customer invoices, and contributing to reconciliations and process improvements.",
+      "requirements": "Must study economics, accounting, auditing or a similar subject at a university or university college and complete at least the first study year before summer 2027. Digital understanding and the ability to learn new systems are required. No professional-experience minimum is stated. Deadline 18 November.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/f45f5d4d-b534-461e-94cf-796d7b001c10",
+      "deadline": "2026-11-18",
+      "firstSeen": "2026-11-10",
+      "verifiedAt": "2026-11-10T07:04:04Z"
+    },
+    {
+      "id": "finn-479687169",
+      "title": "Student Assistant · Invoice Team",
+      "company": "Deloitte Advokatfirma",
+      "location": "Oslo · On-site",
+      "type": "Temporary part-time student position · Possible extension",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Gain practical finance experience through invoicing, invoice specifications, information follow-up, system updates and Excel-based report extraction and processing, with close training from the invoice team.",
+      "requirements": "Must currently study economics, accounting or administration, have good Excel experience, communicate well in Norwegian and English, and be available at the Oslo office at least two days per week. No professional-experience minimum is stated. Deadline 10 November at 23:59.",
+      "url": "https://www.finn.no/job/ad/479687169",
+      "deadline": "2026-11-10",
+      "firstSeen": "2026-11-10",
+      "verifiedAt": "2026-11-10T07:04:04Z"
+    },
     {
       "id": "finn-479100120",
       "title": "Buyer · Two years' experience required",
@@ -48,13 +90,13 @@
         "Operations"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Plan and run procurement processes, market research and negotiations; create purchase orders, follow deliveries and complaints, and coordinate logistics support for the Combined Air Operations Centre in Bodø.",
       "requirements": "Relevant education in economics, administration or logistics is required unless four years of relevant experience compensates. At least two years of relevant professional experience is mandatory, making this a clear stretch match when no work experience can be assumed. Norwegian and English plus eligibility for HEMMELIG and NATO SECRET clearance are required; public-procurement and SAP or other ERP experience are advantages. Deadline 9 November.",
       "url": "https://www.finn.no/job/ad/479100120",
       "deadline": "2026-11-09",
       "firstSeen": "2026-11-09",
-      "verifiedAt": "2026-11-09T17:59:47Z"
+      "verifiedAt": "2026-11-10T07:04:04Z"
     },
     {
       "id": "nav-440b2181",
@@ -376,13 +418,13 @@
         "Finance"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Analyse supplier and market data, support tenders and negotiations, contribute to packaging-category strategy and collaborate across supply chain, finance and local business units.",
       "requirements": "A master's degree in business, engineering, supply chain or an equivalent field is mandatory, together with 1–3 years of experience in procurement, logistics, supply chain, finance or similar. English and a Scandinavian language are required. The role is described as an entry point into Orkla Procurement, but the mandatory degree and experience requirements make it a clear stretch match. Deadline 9 November.",
       "url": "https://www.finn.no/job/ad/479335254",
       "deadline": "2026-11-09",
       "firstSeen": "2026-11-02",
-      "verifiedAt": "2026-11-09T17:59:47Z"
+      "verifiedAt": "2026-11-10T07:04:04Z"
     },
     {
       "id": "nordea-1451550633",
@@ -397,13 +439,13 @@
         "Operations"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Prepare customer and investment material, analyse portfolios, support investment proposals and client meetings, and learn wealth management alongside experienced private bankers.",
       "requirements": "A relevant bachelor's or master's degree, Norwegian and English, analytical ability and interest in banking and investments are expected. New graduates are explicitly welcomed and prior private-banking expertise is not required, but experience from customer-facing work is listed as an expected qualification. Because no professional experience can be assumed, this is a stretch match. Deadline 9 November.",
       "url": "https://careers.nordea.com/job/Oslo-Nordea-s%C3%B8ker-Junior-Private-Banker!-0368/1451550633/",
       "deadline": "2026-11-09",
       "firstSeen": "2026-11-02",
-      "verifiedAt": "2026-11-09T17:59:47Z"
+      "verifiedAt": "2026-11-10T07:04:04Z"
     },
     {
       "id": "tine-1372755255",
@@ -622,7 +664,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/strukturert-og-nyutdannet-konom-til-atea/FQ0N82",
       "deadline": null,
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-09T17:59:47Z"
+      "verifiedAt": "2026-11-10T07:04:04Z"
     },
     {
       "id": "academicwork-4467BH",
@@ -752,7 +794,7 @@
       "url": "https://www.finn.no/job/ad/478767899",
       "deadline": null,
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-10-27T18:03:41Z"
+      "verifiedAt": "2026-11-10T07:04:04Z"
     },
     {
       "id": "linkedin-4481297441",
@@ -1277,13 +1319,13 @@
         "Finance"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Support an investment team through company and property screening, financial modelling, valuation, return analysis, due diligence and portfolio follow-up, with analysis used in live investment decisions.",
       "requirements": "For bachelor’s or master’s students or new graduates in finance, economics, engineering or another quantitative field; two study years are preferred, but strong earlier candidates may be considered. Corporate-finance, accounting and valuation knowledge, advanced Excel and PowerPoint, active AI use, and fluent Norwegian and English are required. Relevant finance experience is a plus, not mandatory. Applications are reviewed continuously and may close before the stated 9 November deadline.",
       "url": "https://www.finn.no/job/ad/478335216",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-15",
-      "verifiedAt": "2026-11-09T17:59:47Z"
+      "verifiedAt": "2026-11-10T07:04:04Z"
     },
     {
       "id": "finn-478147058",
@@ -1402,13 +1444,13 @@
         "Finance"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Work with accounting, year-end closing, quality assurance, client advice and development of digital and AI-enabled tools in an accounting firm.",
       "requirements": "A minimum bachelor’s degree in economics and accounting is accepted for new graduates; authorization or practical payroll/accounting experience are alternative profiles rather than mandatory for graduates. Strong system understanding and comfort with active client contact are required.",
       "url": "https://www.finn.no/job/ad/478219030",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-11",
-      "verifiedAt": "2026-11-09T17:59:47Z"
+      "verifiedAt": "2026-11-10T07:04:04Z"
     },
     {
       "id": "finn-478294329",
@@ -1764,26 +1806,6 @@
       "deadline": null,
       "status": "open",
       "verifiedAt": "2026-09-28T06:09:19Z",
-      "firstSeen": "2026-09-22"
-    },
-    {
-      "id": "finn-476128242",
-      "title": "Befrakter · Terminal Berger",
-      "company": "Veøy",
-      "location": "Skedsmokorset",
-      "type": "Permanent · Full time",
-      "source": "FINN",
-      "categories": [
-        "Logistics",
-        "Business"
-      ],
-      "fit": "stretch",
-      "summary": "Coordinate freight bookings, load planning and customer updates, balancing transport capacity and commercial performance.",
-      "requirements": "Experience in transport, logistics, forwarding or operational planning expected. Norwegian communication and digital planning skills.",
-      "url": "https://www.finn.no/job/ad/476128242",
-      "deadline": "2026-10-10",
-      "status": "closed",
-      "verifiedAt": "2026-10-11T06:05:14Z",
       "firstSeen": "2026-09-22"
     },
     {
@@ -2316,13 +2338,13 @@
         "Operations"
       ],
       "fit": "stretch",
-      "status": "open",
+      "status": "closed",
       "summary": "Train and work as a junior SAP consultant in Finance, Logistics or Technology, combining a shared SAP foundation course, specialist training, mentoring and client-project experience.",
       "requirements": "A bachelor’s or master’s in a relevant field is required. The Finance and Logistics tracks each require at least two years of relevant professional experience; the Technology track requires practical AI and software-development experience. Norwegian and English fluency are mandatory and travel may be required. These experience requirements make the programme a stretch match.",
       "url": "https://career.pearlgroup.no/jobs/8513450-pearl-accelerate-2027-bli-sap-konsulent",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-23",
-      "verifiedAt": "2026-11-09T17:59:47Z"
+      "verifiedAt": "2026-11-10T07:04:04Z"
     },
     {
       "id": "finn-479327027",
@@ -2409,13 +2431,13 @@
         "Operations"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Follow supplier contracts for medical equipment and laboratory products, handle stakeholder enquiries, maintain agreement data and support deviations, changes and process improvements.",
       "requirements": "A relevant bachelor or master degree in economics and administration, logistics, supply-chain management, procurement, public administration, law, engineering or a related field is required. Norwegian and digital competence are mandatory. New graduates are explicitly encouraged and prior contract-management or procurement experience is not required; training is provided. Deadline 9 November.",
       "url": "https://www.finn.no/job/ad/479155512",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-24",
-      "verifiedAt": "2026-11-09T17:59:47Z"
+      "verifiedAt": "2026-11-10T07:04:04Z"
     },
     {
       "id": "ocean-installer-117",
@@ -2713,13 +2735,13 @@
         "Operations"
       ],
       "fit": "potential",
-      "status": "open",
+      "status": "closed",
       "summary": "Coordinate purchasing from order to receipt, follow suppliers and deviations, produce analyses, maintain inventory and master data, and support facilities and vehicle administration in a newly created role.",
       "requirements": "Higher education in procurement, economics, logistics or a similar field is expected; relevant experience may compensate for missing formal education. A few years in procurement, logistics, inventory or supplier follow-up is described as advantageous rather than mandatory. Excel and Power BI analysis experience is expected, while ERP experience is preferred. Deadline 9 November.",
       "url": "https://www.finn.no/job/ad/479090185",
       "deadline": "2026-11-09",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-11-09T17:59:47Z"
+      "verifiedAt": "2026-11-10T07:04:04Z"
     },
     {
       "id": "nav-6a20da25",
