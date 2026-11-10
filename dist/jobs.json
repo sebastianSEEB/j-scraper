@@ -1,38 +1,77 @@
 {
-  "updatedAt": "2026-11-10T12:34:07.697Z",
+  "updatedAt": "2026-11-10T17:59:17.831Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Current FINN results and original adverts were rechecked. Deloitte's student invoice role was added as a strong early-career match, and Geminor's retained commercial trainee programme was reverified. All listings whose 9 November deadlines passed were closed."
+      "note": "Targeted public searches and original pages checked on 10 November evening. Added Jobzone graduate accounting and Randstad graduate SCM quality roles; reverified Deloitte, Forsvaret and KSAT deadlines. Not an exhaustive feed."
     },
     {
       "name": "NAV Arbeidsplassen",
-      "status": "Listings checked",
-      "note": "Current NAV searches and original pages were rechecked. Gassco's finance summer-student role was added from its readable NAV original page. Cross-posted results were deduplicated in favour of one canonical source."
+      "status": "Degraded",
+      "note": "Public search and Gassco original succeeded; Bergen municipality original requires substantial experience and was not added. Lesja finance-consultant original failed retrieval, so no unverified listing was added. Other retained records keep prior verification timestamps."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Jobbnorge's current public feed was checked, but relevant original adverts still returned only a JavaScript-required shell without readable qualification details. No unverifiable role was added, prior verification timestamps were preserved, and Jobbnorge remains degraded."
+      "note": "Current public feed searched; NTNU controller original returned only a JavaScript-required shell. No qualifications inferred or verification timestamps refreshed."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Academic Work's current public list and original pages were rechecked. Atea's graduate-friendly contract-controlling role remains active on a rolling basis. No distinct new Academic Work role met the evidence and level threshold this morning."
+      "note": "Current public searches and Atea contract-controlling original checked; no distinct new verified role added. Retained Atea record refreshed."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public LinkedIn listings were searched without login or access bypass. Geminor's trainee role was also visible publicly but was deduplicated to its canonical FINN advert. Stale and closed graduate results were not reopened."
+      "note": "Public searches and Aker Solutions summer-intern original checked without login. The advert states applications are closed and was excluded. Other retained listings were not falsely refreshed; coverage is targeted."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Employer and recruiter career pages were checked alongside public listings. TINE's newly surfaced logistics business-development role requires several years of experience and was not treated as an early-career match. No distinct employer-career listing was added."
+      "note": "Nordea Liv original verified using its retained canonical URL after an alternate URL failed. Clarksons Oslo summer internship explicitly states applications are closed and was excluded. Other retained employer records keep prior timestamps."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-480623254",
+      "title": "Accounting Assistant · Graduate 2027",
+      "company": "Jobzone Oslo · Undisclosed accounting client",
+      "location": "Oslo · Nydalen",
+      "type": "Permanent · Full time · Start autumn 2027",
+      "source": "FINN",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Two entry-level accounting openings covering bookkeeping, reconciliations, reporting and client support. Training and a development route toward accounting authorization are offered.",
+      "requirements": "Must have completed, or complete by spring 2027, a bachelor in economics/business administration with relevant accounting, finance, financial management or business-law subjects. Norwegian, English and digital skills required. No professional-experience minimum. FINN lists 30 November; applications are reviewed continuously.",
+      "url": "https://www.finn.no/job/ad/480623254",
+      "deadline": "2026-11-30",
+      "firstSeen": "2026-11-10",
+      "verifiedAt": "2026-11-10T17:59:17.831Z"
+    },
+    {
+      "id": "finn-480602652",
+      "title": "Quality Coordinator · SCM graduates welcome",
+      "company": "Randstad AS · Undisclosed client",
+      "location": "Ålesund",
+      "type": "Temporary assignment · Full time · Immediate start",
+      "source": "FINN",
+      "categories": [
+        "Supply chain",
+        "Procurement"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support supplier qualification, production quality, root-cause analysis and corrective actions for a sourcing and production team.",
+      "requirements": "Relevant production/quality experience OR a new graduate interested in the field. Knowledge of quality tools and methods, Norwegian and English, and immediate availability required. Production and supplier-follow-up familiarity is advantageous. No mandatory professional experience or master's degree stated. Rolling ASAP selection; no fixed deadline.",
+      "url": "https://www.finn.no/job/ad/480602652",
+      "deadline": null,
+      "firstSeen": "2026-11-10",
+      "verifiedAt": "2026-11-10T17:59:17.831Z"
+    },
     {
       "id": "nav-f45f5d4d",
       "title": "Finance Summer Student",
@@ -52,7 +91,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/f45f5d4d-b534-461e-94cf-796d7b001c10",
       "deadline": "2026-11-18",
       "firstSeen": "2026-11-10",
-      "verifiedAt": "2026-11-10T07:04:04Z"
+      "verifiedAt": "2026-11-10T17:59:17.831Z"
     },
     {
       "id": "finn-479687169",
@@ -73,7 +112,7 @@
       "url": "https://www.finn.no/job/ad/479687169",
       "deadline": "2026-11-10",
       "firstSeen": "2026-11-10",
-      "verifiedAt": "2026-11-10T07:04:04Z"
+      "verifiedAt": "2026-11-10T17:59:17.831Z"
     },
     {
       "id": "nav-440b2181",
@@ -227,7 +266,7 @@
       "url": "https://careers.nordea.com/job/Oslo-Studentmedarbeider-Nordea-Liv-0368/1451566033/",
       "deadline": "2026-11-11",
       "firstSeen": "2026-11-03",
-      "verifiedAt": "2026-11-03T17:58:31Z"
+      "verifiedAt": "2026-11-10T17:59:17.831Z"
     },
     {
       "id": "scatec-2615",
@@ -552,7 +591,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/strukturert-og-nyutdannet-konom-til-atea/FQ0N82",
       "deadline": null,
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-10T07:04:04Z"
+      "verifiedAt": "2026-11-10T17:59:17.831Z"
     },
     {
       "id": "academicwork-4467BH",
@@ -915,7 +954,7 @@
       "url": "https://www.finn.no/job/ad/479283578",
       "deadline": "2026-11-11",
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-11-10T07:04:04Z"
+      "verifiedAt": "2026-11-10T17:59:17.831Z"
     },
     {
       "id": "finn-479288443",
@@ -937,7 +976,7 @@
       "url": "https://www.finn.no/job/ad/479288443",
       "deadline": "2026-11-12",
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-10-22T16:55:54Z"
+      "verifiedAt": "2026-11-10T17:59:17.831Z"
     },
     {
       "id": "sap-1449082633",
