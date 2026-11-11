@@ -1,38 +1,77 @@
 {
-  "updatedAt": "2026-11-11T07:04:07.279Z",
+  "updatedAt": "2026-11-11T17:58:35.817Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Targeted searches and original ads checked 11 November. Added Yinson procurement internship from readable FINN original; removed Deloitte after explicit 10 November 23:59 deadline per user cleanup preference. Reverified Forsvaret and KSAT. Not exhaustive."
+      "note": "Targeted public searches and original Forsvaret/VOICE ads read on 11 November evening. VOICE NAV duplicate not added; FINN explicit 16 November deadline retained. Other records keep prior verification times. Not exhaustive."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Current public searches and Narvik/Lesja original adverts read. Added Narvik graduate-friendly payroll role using explicit 12 November 2026 date, not inconsistent relative countdown. Lesja seeks finance/accounting experience and was not prioritized. Unchecked retained records preserve timestamps."
+      "note": "Public searches and VOICE/Narvik originals checked. Narvik explicit deadline confirmed as 12 November 2026; VOICE deduplicated with existing FINN record. Unchecked records retain old timestamps."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Current feed searched; NTNU and Indre Østfold controller originals expose only JavaScript notices. No unverified qualifications added; retained timestamps preserved."
+      "note": "Targeted current search completed, but NTNU controller original only returned a JavaScript notice. No qualifications inferred from snippets; previous records and verification timestamps preserved."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Targeted public searches and Atea contract-controlling original checked. Atea remains graduate-friendly and rolling. No distinct verified new role added."
+      "note": "Public listing index and Atea original checked. Atea is still accepting rolling applications; bachelor required, new graduates welcome. No distinct new verified role added."
     },
     {
       "name": "LinkedIn",
-      "status": "Degraded",
-      "note": "Public searches surfaced Yinson procurement internship, but original retrieval failed. Verified and deduplicated that role using the employer-posted FINN advert. Retained LinkedIn records keep old verification timestamps. No login scraping."
+      "status": "Listings checked",
+      "note": "Public original Professional Team Intern #177174 at Colgate-Palmolive read and added; distinct from existing Commercial Intern. No fixed deadline stated. Public searches are not exhaustive; unchecked rows retain old timestamps."
     },
     {
       "name": "Employer careers",
-      "status": "Degraded",
-      "note": "Nordea Liv original remains active with 11 November deadline. Yinson employer original retrieval failed despite search visibility; its FINN original supplied verification instead. No failed check treated as successful; other retained records preserve timestamps."
+      "status": "Listings checked",
+      "note": "Nordea Liv original checked with 11 November deadline. Added Manpower Kristiansund economics/payroll role from readable original, deadline 22 November. Other employer records were not reverified. No claim of full coverage."
     }
   ],
   "jobs": [
+    {
+      "id": "linkedin-4487937173",
+      "title": "Professional Team Intern · Student",
+      "company": "Colgate-Palmolive",
+      "location": "Oslo · Lysaker",
+      "type": "Student internship · 3 days/week · 12 months",
+      "source": "LinkedIn",
+      "categories": [
+        "Business",
+        "Logistics"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support commercial marketing, market analysis, invoices, sample ordering and day-to-day operations in the Norwegian oral-care team.",
+      "requirements": "Current student; fluent Norwegian and English. Expected office availability three days weekly for 12 months. Academic education and relevant experience are mentioned, but no completed-degree level or minimum experience duration is specified. No mandatory master's stated. Deadline not stated.",
+      "url": "https://no.linkedin.com/jobs/view/professional-team-intern-at-colgate-palmolive-4487937173",
+      "deadline": null,
+      "firstSeen": "2026-11-11",
+      "verifiedAt": "2026-11-11T17:58:35.817Z"
+    },
+    {
+      "id": "manpower-54990",
+      "title": "Økonomikonsulent · Payroll and administration",
+      "company": "Manpower · Undisclosed client",
+      "location": "Kristiansund",
+      "type": "Temporary · Until 31 July 2027",
+      "source": "Employer careers",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Payroll and personnel administration, absence records, NAV reimbursements and routine payroll controls for a client finance team.",
+      "requirements": "Economics/administration education desired; relevant experience can compensate. No mandatory degree level or minimum prior experience specified. Communication, accuracy, service orientation and ability to learn systems required. ASAP start through 31 July 2027.",
+      "url": "https://www.manpower.no/nb/jobb/54990/okonomikonsulent",
+      "deadline": "2026-11-22",
+      "firstSeen": "2026-11-11",
+      "verifiedAt": "2026-11-11T17:58:35.817Z"
+    },
     {
       "id": "finn-480716806",
       "title": "Summer Intern 2027 · Procurement",
@@ -73,7 +112,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/80b6aca7-2a39-481b-b337-8bb7da54aa62",
       "deadline": "2026-11-12",
       "firstSeen": "2026-11-11",
-      "verifiedAt": "2026-11-11T07:04:07.279Z"
+      "verifiedAt": "2026-11-11T17:58:35.817Z"
     },
     {
       "id": "finn-480623254",
@@ -200,7 +239,7 @@
       "url": "https://www.finn.no/job/ad/480111201",
       "deadline": "2026-11-16",
       "firstSeen": "2026-11-05",
-      "verifiedAt": "2026-11-05T17:57:17Z"
+      "verifiedAt": "2026-11-11T17:58:35.817Z"
     },
     {
       "id": "finn-480247421",
@@ -287,7 +326,7 @@
       "url": "https://careers.nordea.com/job/Oslo-Studentmedarbeider-Nordea-Liv-0368/1451566033/",
       "deadline": "2026-11-11",
       "firstSeen": "2026-11-03",
-      "verifiedAt": "2026-11-11T07:04:07.279Z"
+      "verifiedAt": "2026-11-11T17:58:35.817Z"
     },
     {
       "id": "scatec-2615",
@@ -612,7 +651,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/strukturert-og-nyutdannet-konom-til-atea/FQ0N82",
       "deadline": null,
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-11T07:04:07.279Z"
+      "verifiedAt": "2026-11-11T17:58:35.817Z"
     },
     {
       "id": "academicwork-4467BH",
@@ -975,7 +1014,7 @@
       "url": "https://www.finn.no/job/ad/479283578",
       "deadline": "2026-11-11",
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-11-11T07:04:07.279Z"
+      "verifiedAt": "2026-11-11T17:58:35.817Z"
     },
     {
       "id": "finn-479288443",
