@@ -1,38 +1,77 @@
 {
-  "updatedAt": "2026-11-11T17:58:35.817Z",
+  "updatedAt": "2026-11-12T07:07:08.941Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "Targeted public searches and original Forsvaret/VOICE ads read on 11 November evening. VOICE NAV duplicate not added; FINN explicit 16 November deadline retained. Other records keep prior verification times. Not exhaustive."
+      "note": "Targeted public search and Mowi/KSAT originals checked 12 November. Removed Forsvaret buyer after 11 November deadline per cleanup preference. No new distinct FINN role verified. Unchecked timestamps preserved; not exhaustive."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Public searches and VOICE/Narvik originals checked. Narvik explicit deadline confirmed as 12 November 2026; VOICE deduplicated with existing FINN record. Unchecked records retain old timestamps."
+      "note": "Targeted search and Sommerskolen/Narvik originals read. Added unpaid study-integrated administration/logistics placement. Narvik explicit 12 November deadline confirmed; relative countdown not used."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Targeted current search completed, but NTNU controller original only returned a JavaScript notice. No qualifications inferred from snippets; previous records and verification timestamps preserved."
+      "note": "Current targeted search and NTNU controller original attempted; original returned only JavaScript notice. No new listing inferred from snippets. Retained verification timestamps unchanged."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Public listing index and Atea original checked. Atea is still accepting rolling applications; bachelor required, new graduates welcome. No distinct new verified role added."
+      "note": "Targeted search and Atea Contract Controlling original checked. Still rolling, bachelor required and graduates welcome. No new distinct verified role."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public original Professional Team Intern #177174 at Colgate-Palmolive read and added; distinct from existing Commercial Intern. No fixed deadline stated. Public searches are not exhaustive; unchecked rows retain old timestamps."
+      "note": "Public Summa Management Intern original read; added as stretch because completed master's is preferred, not explicitly mandatory. Rystad employer-posted LinkedIn ad reverified its 13 November deadline without adding duplicate. No login scraping."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Nordea Liv original checked with 11 November deadline. Added Manpower Kristiansund economics/payroll role from readable original, deadline 22 November. Other employer records were not reverified. No claim of full coverage."
+      "note": "Manpower original reverified with 22 November deadline. Removed Nordea Liv after 11 November deadline. Rystad verified through public employer LinkedIn advert, canonical Workable link retained. Other employer records retain old verification timestamps."
     }
   ],
   "jobs": [
+    {
+      "id": "nav-7bb4a472",
+      "title": "Study-placement Internship · Administration & Logistics · Unpaid",
+      "company": "Oslo kommune · Sommerskolen Oslo",
+      "location": "Oslo",
+      "type": "Unpaid study placement · March–July 2027",
+      "source": "NAV Arbeidsplassen",
+      "categories": [
+        "Business",
+        "Logistics"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Help coordinate equipment orders, project administration, supplier work, reporting and finance-system tasks for the Oslo summer school.",
+      "requirements": "Unpaid and must be an approved placement within current studies; relevant administration, project management, logistics or related subjects. Placement falls within March–July 2027; scope agreed with the university. Norwegian and English, Microsoft 365 and basic Excel required. No prior professional experience specified. Rolling selection may close early.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/7bb4a472-7c69-47b8-8cd9-3adc3d48c554",
+      "deadline": "2026-12-04",
+      "firstSeen": "2026-11-12",
+      "verifiedAt": "2026-11-12T07:07:08.941Z"
+    },
+    {
+      "id": "linkedin-4487470089",
+      "title": "Management Intern · Completed master's preferred",
+      "company": "Summa Equity",
+      "location": "Oslo",
+      "type": "Internship · Full time · 12 months from January 2027",
+      "source": "LinkedIn",
+      "categories": [
+        "Business"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Support operations leadership with data analysis, process improvement, investor materials and strategic projects.",
+      "requirements": "Recent graduate; completed relevant master's with strong grades is described as ideal, not explicitly mandatory. Advanced Excel/PowerPoint, analytical skills and fluent English expected. Prior analytical internship is an advantage, explicitly not required. Stretch for bachelor/current-student profile; full-time availability from January 2027 needed.",
+      "url": "https://no.linkedin.com/jobs/view/management-intern-at-summa-equity-4487470089",
+      "deadline": "2026-11-18",
+      "firstSeen": "2026-11-12",
+      "verifiedAt": "2026-11-12T07:07:08.941Z"
+    },
     {
       "id": "linkedin-4487937173",
       "title": "Professional Team Intern · Student",
@@ -70,7 +109,7 @@
       "url": "https://www.manpower.no/nb/jobb/54990/okonomikonsulent",
       "deadline": "2026-11-22",
       "firstSeen": "2026-11-11",
-      "verifiedAt": "2026-11-11T17:58:35.817Z"
+      "verifiedAt": "2026-11-12T07:07:08.941Z"
     },
     {
       "id": "finn-480716806",
@@ -112,7 +151,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/80b6aca7-2a39-481b-b337-8bb7da54aa62",
       "deadline": "2026-11-12",
       "firstSeen": "2026-11-11",
-      "verifiedAt": "2026-11-11T17:58:35.817Z"
+      "verifiedAt": "2026-11-12T07:07:08.941Z"
     },
     {
       "id": "finn-480623254",
@@ -284,7 +323,7 @@
       "url": "https://www.finn.no/job/ad/479941450",
       "deadline": "2026-11-15",
       "firstSeen": "2026-11-04",
-      "verifiedAt": "2026-11-07T18:06:45Z"
+      "verifiedAt": "2026-11-12T07:07:08.941Z"
     },
     {
       "id": "nordea-1452954333",
@@ -306,27 +345,6 @@
       "deadline": "2026-11-13",
       "firstSeen": "2026-11-03",
       "verifiedAt": "2026-11-04T18:06:14Z"
-    },
-    {
-      "id": "nordea-1451566033",
-      "title": "Student Assistant · Nordea Liv",
-      "company": "Nordea",
-      "location": "Oslo · Majorstuen",
-      "type": "Paid student position · Part time · Hours adapted to studies",
-      "source": "Employer careers",
-      "categories": [
-        "Business",
-        "Finance",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Support Nordea Liv's management team with projects, decision material, presentations and reports, leadership-development activities, internal communication, employer branding and administrative coordination.",
-      "requirements": "Must be a third- or fourth-year student in economics, organisational development, management, communication or another relevant subject. Norwegian and English, Microsoft 365 skills and comfort with AI tools are required. Student-organisation, part-time or internship experience is advantageous rather than mandatory. Deadline 11 November.",
-      "url": "https://careers.nordea.com/job/Oslo-Studentmedarbeider-Nordea-Liv-0368/1451566033/",
-      "deadline": "2026-11-11",
-      "firstSeen": "2026-11-03",
-      "verifiedAt": "2026-11-11T17:58:35.817Z"
     },
     {
       "id": "scatec-2615",
@@ -651,7 +669,7 @@
       "url": "https://www.academicwork.no/ledige-stillinger/j/strukturert-og-nyutdannet-konom-til-atea/FQ0N82",
       "deadline": null,
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-11T17:58:35.817Z"
+      "verifiedAt": "2026-11-12T07:07:08.941Z"
     },
     {
       "id": "academicwork-4467BH",
@@ -995,28 +1013,6 @@
       "verifiedAt": "2026-11-07T18:06:45Z"
     },
     {
-      "id": "finn-479283578",
-      "title": "Innkjøper",
-      "company": "Forsvaret",
-      "location": "Bjerkvik · Narvik",
-      "type": "Permanent · Full time · Public procurement",
-      "source": "FINN",
-      "categories": [
-        "Procurement",
-        "Supply chain",
-        "Logistics",
-        "Business"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Plan and run purchases and call-offs under framework agreements, handle invoices and credit notes, support public-sector casework and follow an assigned procurement area for the Army.",
-      "requirements": "A bachelor’s degree in economics, administration or management is required, though more than three years of relevant experience may compensate. Norwegian proficiency, willingness to complete basic military training if needed, and eligibility for HEMMELIG and NATO SECRET clearance are mandatory. Procurement, public-sector, SAP and ERP experience are advantages only.",
-      "url": "https://www.finn.no/job/ad/479283578",
-      "deadline": "2026-11-11",
-      "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-11-11T17:58:35.817Z"
-    },
-    {
       "id": "finn-479288443",
       "title": "Operations & Procurement Specialist",
       "company": "Kongsberg Satellite Services · KSATlite",
@@ -1036,7 +1032,7 @@
       "url": "https://www.finn.no/job/ad/479288443",
       "deadline": "2026-11-12",
       "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-11-11T07:04:07.279Z"
+      "verifiedAt": "2026-11-12T07:07:08.941Z"
     },
     {
       "id": "sap-1449082633",
@@ -1149,7 +1145,7 @@
       "url": "https://apply.workable.com/rystad-energy/j/3A92C62A8E",
       "deadline": "2026-11-13",
       "firstSeen": "2026-10-26",
-      "verifiedAt": "2026-10-26T18:01:26Z"
+      "verifiedAt": "2026-11-12T07:07:08.941Z"
     },
     {
       "id": "siemens-524304",
