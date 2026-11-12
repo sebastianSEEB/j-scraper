@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-12T07:07:08.941Z",
+  "updatedAt": "2026-11-12T18:04:29.953Z",
   "sources": [
     {
       "name": "FINN",
-      "status": "Listings checked",
-      "note": "Targeted public search and Mowi/KSAT originals checked 12 November. Removed Forsvaret buyer after 11 November deadline per cleanup preference. No new distinct FINN role verified. Unchecked timestamps preserved; not exhaustive."
+      "status": "Degraded",
+      "note": "Targeted search and OKEA graduate original checked 12 November evening; SCM programme already recorded, mandatory master retained. FINN 480804387 original retrieval failed; not added from snippet. All unchecked timestamps preserved."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Targeted search and Sommerskolen/Narvik originals read. Added unpaid study-integrated administration/logistics placement. Narvik explicit 12 November deadline confirmed; relative countdown not used."
+      "note": "Targeted public trainee searches and NAV economics trainee original read; completed bachelor/master required, no mandatory experience. Narvik original still offers application today. No distinct new role. Not exhaustive."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Current targeted search and NTNU controller original attempted; original returned only JavaScript notice. No new listing inferred from snippets. Retained verification timestamps unchanged."
+      "note": "Targeted search surfaced a senior controller role; original returned only JavaScript notice. No new record added on snippet evidence. Previous timestamps preserved."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Targeted search and Atea Contract Controlling original checked. Still rolling, bachelor required and graduates welcome. No new distinct verified role."
+      "note": "Targeted search and Atea receivables original read; graduate-friendly and rolling selection. Already recorded via direct employer page; no duplicate added. Stored deadline and verification timestamp retained because direct dated source was not rechecked."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public Summa Management Intern original read; added as stretch because completed master's is preferred, not explicitly mandatory. Rystad employer-posted LinkedIn ad reverified its 13 November deadline without adding duplicate. No login scraping."
+      "note": "Public targeted searches and Wilhelmsen graduate original read. Excluded expired 4 November advert despite recent search indexing; master's mandatory. Other results were old or already recorded. Existing timestamps retained."
     },
     {
       "name": "Employer careers",
-      "status": "Listings checked",
-      "note": "Manpower original reverified with 22 November deadline. Removed Nordea Liv after 11 November deadline. Rystad verified through public employer LinkedIn advert, canonical Workable link retained. Other employer records retain old verification timestamps."
+      "status": "Degraded",
+      "note": "Nordea Stress Testing original fully checked with explicit 13 November 2026 deadline. SSY PDF remained readable but did not independently confirm recorded deadline or active recruitment; previous verification preserved. AmCham search did not locate full current original. No new strong candidate verified."
     }
   ],
   "jobs": [
@@ -344,7 +344,7 @@
       "url": "https://careers.nordea.com/job/Oslo-Student-in-Stress-Testing-and-Projections-0368/1452954333",
       "deadline": "2026-11-13",
       "firstSeen": "2026-11-03",
-      "verifiedAt": "2026-11-04T18:06:14Z"
+      "verifiedAt": "2026-11-12T18:04:29.953Z"
     },
     {
       "id": "scatec-2615",
@@ -843,7 +843,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/b2dfba76-57eb-481d-857f-0d1f5d99a873",
       "deadline": "2027-03-01",
       "firstSeen": "2026-10-17",
-      "verifiedAt": "2026-11-04T07:08:20Z"
+      "verifiedAt": "2026-11-12T18:04:29.953Z"
     },
     {
       "id": "nav-7b6617be",
