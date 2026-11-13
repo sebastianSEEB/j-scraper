@@ -1,38 +1,98 @@
 {
-  "updatedAt": "2026-11-13T07:03:59.887Z",
+  "updatedAt": "2026-11-13T18:07:08Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "13 November targeted search and full Trondheim/Aberia originals checked; added three-year-education municipal consultant and graduate-friendly business developer. Removed KSAT after 12 November deadline. Not exhaustive; unchecked timestamps retained."
+      "note": "13 November evening targeted public search; full Vend and Arla originals checked. Vend added once; Arla deduplicated to recruiter original. Not exhaustive; other records retain prior verification times."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Targeted public search and Sommerskolen original checked; study-integrated unpaid placement remains open to 4 December. Removed Narvik after 12 November deadline. No new distinct NAV role verified."
+      "note": "Public search and Arla original checked; duplicate of recruiter/FINN listing, retained once. No whole-feed or full-dataset verification claimed."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Current targeted search completed; Forsvarsdepartementet economics/budget original returned only JavaScript notice. No qualifications inferred or new record added. Previous verification timestamps retained."
+      "note": "Targeted search found NTNU economics/controller; original 311282 returned only JavaScript notice. No unverified qualifications or new record added; previous records/timestamps preserved."
     },
     {
       "name": "Academic Work",
-      "status": "Listings checked",
-      "note": "Public searches and BNP Paribas Contract Admin original fully read. Added once; latest original lists Oslo or Ålesund, requires fluent Swedish and higher economics education, with rolling selection."
+      "status": "Degraded",
+      "note": "Arla original fully read and added as stretch due to mandatory experience. Vend original failed twice; identical employer ad fully checked on FINN instead. Existing Academic Work records retain prior timestamps."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public search and Yinson Operations Intern original read. Technical engineering education preferred and maintenance-focused tasks; not prioritized for business profile. Distinct procurement internship remains unchanged. No login scraping."
+      "note": "Public Siemens AI & Business Automation original read and added with study-field caveat. Glamox original explicitly no longer accepts applications; removed. No login scraping; unchecked records retain timestamps."
     },
     {
       "name": "Employer careers",
-      "status": "Degraded",
-      "note": "Nordea student original checked, deadline 13 November 2026. Rystad Workable original returned no readable content; existing record and old verification timestamp preserved. No failed retrieval marked verified."
+      "status": "Listings checked",
+      "note": "Nordea student original rechecked, explicit 13 November 2026 deadline. Limited targeted check, not exhaustive. Other employer listings including Rystad were not reverified and retain old timestamps."
     }
   ],
   "jobs": [
+    {
+      "status": "open",
+      "firstSeen": "2026-11-13",
+      "verifiedAt": "2026-11-13T18:07:08Z",
+      "id": "finn-480831479",
+      "title": "Data- og innholdsmedarbeider · FINN Nybil",
+      "company": "Vend Marketplaces via Academic Work",
+      "location": "Oslo",
+      "type": "Part-time · approximately 16 hours/week",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Operations"
+      ],
+      "fit": "potential",
+      "summary": "Maintain vehicle catalogue data and prices, check AI-produced content and coordinate corrections with sales and manufacturers. Flexible student-compatible hours.",
+      "requirements": "Active AI-tool use, car knowledge, visual judgement, Norwegian and English plus reading Swedish and Danish required. Relevant studies welcome but no completed degree, master's or professional-experience minimum stated. Rolling selection; apply promptly.",
+      "url": "https://www.finn.no/job/ad/480831479",
+      "deadline": null
+    },
+    {
+      "status": "open",
+      "firstSeen": "2026-11-13",
+      "verifiedAt": "2026-11-13T18:07:08Z",
+      "id": "linkedin-4472310955",
+      "title": "Student Worker · AI & Business Automation",
+      "company": "Siemens",
+      "location": "Oslo",
+      "type": "Student part-time · 20–40%",
+      "source": "LinkedIn",
+      "categories": [
+        "Business",
+        "Operations"
+      ],
+      "fit": "potential",
+      "summary": "Improve business processes with AI, automation, data analysis and decision-support visualisations. Flexible student role starting spring 2027.",
+      "requirements": "Current bachelor/master studies in IT, technology, digitalisation, industrial economics or similar; a general BBA alone is not explicitly listed. Norwegian and English required. AI, Python, Power BI and low-code experience are advantages, not a professional-experience minimum. Practical AI/analysis assessment. Deadline 15 November 2026.",
+      "url": "https://no.linkedin.com/jobs/view/student-worker-ai-business-automation-at-siemens-4472310955",
+      "deadline": "2026-11-15"
+    },
+    {
+      "status": "open",
+      "firstSeen": "2026-11-13",
+      "verifiedAt": "2026-11-13T18:07:08Z",
+      "id": "academicwork-KPCN6X",
+      "title": "Customer Logistics Specialist",
+      "company": "Arla Foods via Academic Work",
+      "location": "Oslo",
+      "type": "Full-time · six-month interim assignment",
+      "source": "Academic Work",
+      "categories": [
+        "Supply chain",
+        "Logistics"
+      ],
+      "fit": "stretch",
+      "summary": "Coordinate customer orders and goods flow, monitor deviations and service KPIs, and improve logistics processes with Norwegian wholesalers and Danish operations.",
+      "requirements": "Higher education in SCM/logistics or similar AND experience in logistics, demand planning or customer service required; duration unspecified. Norwegian and English required. SAP/FMCG knowledge advantageous; no mandatory master's specified. ASAP start, rolling selection.",
+      "url": "https://www.academicwork.no/ledige-stillinger/j/vil-du-styre-logistikken-for-kjente-merkevarer-i-arla/KPCN6X",
+      "deadline": null
+    },
     {
       "source": "FINN",
       "categories": [
@@ -382,7 +442,7 @@
       "url": "https://careers.nordea.com/job/Oslo-Student-in-Stress-Testing-and-Projections-0368/1452954333",
       "deadline": "2026-11-13",
       "firstSeen": "2026-11-03",
-      "verifiedAt": "2026-11-13T07:03:59.887Z"
+      "verifiedAt": "2026-11-13T18:07:08Z"
     },
     {
       "id": "scatec-2615",
@@ -1183,26 +1243,6 @@
       "deadline": "2026-11-15",
       "firstSeen": "2026-10-26",
       "verifiedAt": "2026-11-06T17:57:31Z"
-    },
-    {
-      "id": "linkedin-4468783054",
-      "title": "Business Development Analyst Intern",
-      "company": "Glamox",
-      "location": "Oslo",
-      "type": "Part time internship · Approximately 20%",
-      "source": "LinkedIn",
-      "categories": [
-        "Business",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Analyse markets and large-project opportunities, structure opportunity data, improve repeatable research workflows and prepare reports and presentations for business-development and sales teams.",
-      "requirements": "Must currently be in the third year of a bachelor's or in a master's programme in business, economics, data or analytics, with strong academic results. English and a Scandinavian language plus the right to work in Norway are required. Excel or Power BI and automation experience are advantages rather than mandatory. No deadline is stated; the public listing remains open.",
-      "url": "https://no.linkedin.com/jobs/view/business-development-analyst-intern-at-glamox-4468783054",
-      "deadline": null,
-      "firstSeen": "2026-10-26",
-      "verifiedAt": "2026-10-26T18:01:26Z"
     },
     {
       "id": "barilla-1444817433",
