@@ -1,38 +1,95 @@
 {
-  "updatedAt": "2026-11-12T18:04:29.953Z",
+  "updatedAt": "2026-11-13T07:03:59.887Z",
   "sources": [
     {
       "name": "FINN",
-      "status": "Degraded",
-      "note": "Targeted search and OKEA graduate original checked 12 November evening; SCM programme already recorded, mandatory master retained. FINN 480804387 original retrieval failed; not added from snippet. All unchecked timestamps preserved."
+      "status": "Listings checked",
+      "note": "13 November targeted search and full Trondheim/Aberia originals checked; added three-year-education municipal consultant and graduate-friendly business developer. Removed KSAT after 12 November deadline. Not exhaustive; unchecked timestamps retained."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Targeted public trainee searches and NAV economics trainee original read; completed bachelor/master required, no mandatory experience. Narvik original still offers application today. No distinct new role. Not exhaustive."
+      "note": "Targeted public search and Sommerskolen original checked; study-integrated unpaid placement remains open to 4 December. Removed Narvik after 12 November deadline. No new distinct NAV role verified."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Targeted search surfaced a senior controller role; original returned only JavaScript notice. No new record added on snippet evidence. Previous timestamps preserved."
+      "note": "Current targeted search completed; Forsvarsdepartementet economics/budget original returned only JavaScript notice. No qualifications inferred or new record added. Previous verification timestamps retained."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Targeted search and Atea receivables original read; graduate-friendly and rolling selection. Already recorded via direct employer page; no duplicate added. Stored deadline and verification timestamp retained because direct dated source was not rechecked."
+      "note": "Public searches and BNP Paribas Contract Admin original fully read. Added once; latest original lists Oslo or Ålesund, requires fluent Swedish and higher economics education, with rolling selection."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public targeted searches and Wilhelmsen graduate original read. Excluded expired 4 November advert despite recent search indexing; master's mandatory. Other results were old or already recorded. Existing timestamps retained."
+      "note": "Public search and Yinson Operations Intern original read. Technical engineering education preferred and maintenance-focused tasks; not prioritized for business profile. Distinct procurement internship remains unchanged. No login scraping."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Nordea Stress Testing original fully checked with explicit 13 November 2026 deadline. SSY PDF remained readable but did not independently confirm recorded deadline or active recruitment; previous verification preserved. AmCham search did not locate full current original. No new strong candidate verified."
+      "note": "Nordea student original checked, deadline 13 November 2026. Rystad Workable original returned no readable content; existing record and old verification timestamp preserved. No failed retrieval marked verified."
     }
   ],
   "jobs": [
+    {
+      "source": "FINN",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "firstSeen": "2026-11-13",
+      "verifiedAt": "2026-11-13T07:03:59.887Z",
+      "id": "finn-479948272",
+      "title": "Business Developer · Analysis & Service Development · Graduates welcome",
+      "company": "Aberia · via Assessit",
+      "location": "Oslo · Tromsø · Moss",
+      "type": "Permanent · Full time",
+      "summary": "Analyse markets, profitability and operations; support service development, bids, supplier agreements and improvement projects.",
+      "requirements": "Relevant economics, technology or similar education; degree level not specified. New graduates explicitly considered, with no mandatory professional experience or master's. Numerical, communication and digital skills needed. Rolling review; deadline 13 November 2026.",
+      "url": "https://www.finn.no/job/ad/479948272",
+      "deadline": "2026-11-13"
+    },
+    {
+      "source": "FINN",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "firstSeen": "2026-11-13",
+      "verifiedAt": "2026-11-13T07:03:59.887Z",
+      "id": "finn-480376100",
+      "title": "Economics & Political Administration Consultant · Graduates considered",
+      "company": "Trondheim kommune",
+      "location": "Trondheim",
+      "type": "Temporary · Full time · Six months",
+      "summary": "Support municipal budgeting, invoices, expenses, reporting, case administration and practical meeting technology.",
+      "requirements": "Relevant bachelor/three-year higher education, preferably economics/accounting; other education or experience may compensate. Graduates considered, but experienced use of case-management systems and IT tools is required. Strong Norwegian required. ASAP start; possible extension.",
+      "url": "https://www.finn.no/job/ad/480376100",
+      "deadline": "2026-11-23"
+    },
+    {
+      "source": "Academic Work",
+      "categories": [
+        "Business"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "firstSeen": "2026-11-13",
+      "verifiedAt": "2026-11-13T07:03:59.887Z",
+      "id": "academicwork-47P0TH",
+      "title": "Contract Administrator · Fluent Swedish required",
+      "company": "BNP Paribas Leasing Solutions",
+      "location": "Oslo · Ålesund",
+      "type": "Full time · Six-month assignment",
+      "summary": "Administer leasing contracts, customer queries, invoice documents, bookkeeping and reporting for Swedish customers.",
+      "requirements": "Higher economics education, numerical understanding, system skills and fluent written/spoken Swedish required. No mandatory master's or minimum professional experience stated. ASAP start; possible extension. Rolling selection, no fixed deadline stated.",
+      "url": "https://www.academicwork.no/ledige-stillinger/j/svensktalende-contract-admin-til-bnp-paribas/47P0TH",
+      "deadline": null
+    },
     {
       "id": "nav-7bb4a472",
       "title": "Study-placement Internship · Administration & Logistics · Unpaid",
@@ -51,7 +108,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/7bb4a472-7c69-47b8-8cd9-3adc3d48c554",
       "deadline": "2026-12-04",
       "firstSeen": "2026-11-12",
-      "verifiedAt": "2026-11-12T07:07:08.941Z"
+      "verifiedAt": "2026-11-13T07:03:59.887Z"
     },
     {
       "id": "linkedin-4487470089",
@@ -133,25 +190,6 @@
       "deadline": null,
       "firstSeen": "2026-11-11",
       "verifiedAt": "2026-11-11T07:04:07.279Z"
-    },
-    {
-      "id": "nav-80b6aca7",
-      "title": "Payroll Consultant · Bachelor students graduating 2027 welcome",
-      "company": "Narvik kommune",
-      "location": "Narvik / Ballangen / Kjøpsvik",
-      "type": "Permanent · Full time",
-      "source": "NAV",
-      "categories": [
-        "Business"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Handle payroll, advise employees and managers, and improve digital payroll routines. Initial training takes place in Narvik for 6–12 months.",
-      "requirements": "Relevant three-year higher education recognized in Norway; students graduating spring 2027 are explicitly encouraged, starting after graduation. Strong Norwegian, digital competence and system understanding required. Payroll and Visma HRM experience are desirable, not mandatory. Explicit advert deadline is 12 November 2026; relative NAV countdown is inconsistent.",
-      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/80b6aca7-2a39-481b-b337-8bb7da54aa62",
-      "deadline": "2026-11-12",
-      "firstSeen": "2026-11-11",
-      "verifiedAt": "2026-11-12T07:07:08.941Z"
     },
     {
       "id": "finn-480623254",
@@ -344,7 +382,7 @@
       "url": "https://careers.nordea.com/job/Oslo-Student-in-Stress-Testing-and-Projections-0368/1452954333",
       "deadline": "2026-11-13",
       "firstSeen": "2026-11-03",
-      "verifiedAt": "2026-11-12T18:04:29.953Z"
+      "verifiedAt": "2026-11-13T07:03:59.887Z"
     },
     {
       "id": "scatec-2615",
@@ -1011,28 +1049,6 @@
       "deadline": null,
       "firstSeen": "2026-10-22",
       "verifiedAt": "2026-11-07T18:06:45Z"
-    },
-    {
-      "id": "finn-479288443",
-      "title": "Operations & Procurement Specialist",
-      "company": "Kongsberg Satellite Services · KSATlite",
-      "location": "Tromsø · Trondheim · Oslo",
-      "type": "Permanent · Full time · Procurement, logistics and operations",
-      "source": "FINN",
-      "categories": [
-        "Procurement",
-        "Supply chain",
-        "Logistics",
-        "Operations"
-      ],
-      "fit": "stretch",
-      "status": "open",
-      "summary": "Own purchase orders, supplier follow-up, logistics, deployment, contracts, invoices, inventory and ERP data for a global satellite ground-station network.",
-      "requirements": "Relevant procurement, logistics or supply-chain experience and hands-on ERP experience are mandatory, making this a stretch match without prior professional experience. Supplier communication skills and eligibility for Norwegian security clearance are also required; Dynamics 365 and space, defence or cross-border logistics experience are advantages.",
-      "url": "https://www.finn.no/job/ad/479288443",
-      "deadline": "2026-11-12",
-      "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-11-12T07:07:08.941Z"
     },
     {
       "id": "sap-1449082633",
