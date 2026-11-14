@@ -1,38 +1,81 @@
 {
-  "updatedAt": "2026-11-13T18:07:08Z",
+  "updatedAt": "2026-11-14T06:59:04Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "13 November evening targeted public search; full Vend and Arla originals checked. Vend added once; Arla deduplicated to recruiter original. Not exhaustive; other records retain prior verification times."
+      "note": "14 November targeted search; Mowi student original reverified with 15 November deadline. Hiab Junior Controller original explicitly expired 8 October, excluded. Removed six dataset records with known 13 November deadlines. Other verification timestamps retained; not exhaustive."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Public search and Arla original checked; duplicate of recruiter/FINN listing, retained once. No whole-feed or full-dataset verification claimed."
+      "note": "Full BAMA Summer Internship original read: year 3/4 bachelor or master, relevant business/SCM projects and explicit 6 December 2026 deadline. Added one programme, not duplicate project entries."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Targeted search found NTNU economics/controller; original 311282 returned only JavaScript notice. No unverified qualifications or new record added; previous records/timestamps preserved."
+      "note": "Targeted search completed; Forsvarsdepartementet economics/budget original 311116 returned only JavaScript notice. No new record inferred; existing records and old verification times preserved."
     },
     {
       "name": "Academic Work",
       "status": "Degraded",
-      "note": "Arla original fully read and added as stretch due to mandatory experience. Vend original failed twice; identical employer ad fully checked on FINN instead. Existing Academic Work records retain prior timestamps."
+      "note": "Public search completed; Atea FQ0N82 original was inaccessible. Existing Atea and other unchecked listings kept with original verification timestamps; no failed check marked verified."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public Siemens AI & Business Automation original read and added with study-field caveat. Glamox original explicitly no longer accepts applications; removed. No login scraping; unchecked records retain timestamps."
+      "note": "Public targeted search and full GlobalConnect Oslo junior analyst original verified. Education-or-experience alternatives and technical prerequisites recorded; no login scraping. Other records not refreshed."
     },
     {
       "name": "Employer careers",
-      "status": "Listings checked",
-      "note": "Nordea student original rechecked, explicit 13 November 2026 deadline. Limited targeted check, not exhaustive. Other employer listings including Rystad were not reverified and retain old timestamps."
+      "status": "Degraded",
+      "note": "Targeted search returned no results. Siemens Finance original returned HTTP 406; BAMA employer application redirect was inaccessible. Old Siemens timestamp preserved; BAMA added solely from full NAV employer ad. Six known-deadline records removed despite any source limitations."
     }
   ],
   "jobs": [
+    {
+      "id": "nav-3996dc5e",
+      "title": "Summer Internship 2027 · Business, Finance & Supply Chain",
+      "company": "BAMA Gruppen",
+      "location": "Oslo / Tranby, Lier",
+      "type": "Summer internship · 21 June–13 August 2027",
+      "source": "NAV Arbeidsplassen",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Logistics",
+        "Procurement",
+        "Finance"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Student projects cover procurement digitalisation, transport and ocean-freight planning, supplier development, financial modelling and commercial analysis. Most relevant projects are in Oslo; supplier development and sales analysis are in Tranby.",
+      "requirements": "Must be in year 3 or 4 of relevant bachelor/master studies, including economics, finance, business analytics, leadership, procurement or logistics. No professional-experience minimum or mandatory master's. Latest transcript/diploma required; select up to two preferred projects. Available for 21 June–13 August 2027. Deadline 6 December 2026. NAV ad verified; employer application redirect could not be read.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/3996dc5e-1571-47c8-b23d-33bf44a1ca1e",
+      "deadline": "2026-12-06",
+      "firstSeen": "2026-11-14",
+      "verifiedAt": "2026-11-14T06:59:04Z"
+    },
+    {
+      "id": "linkedin-4482126280",
+      "title": "Junior Business Analyst · Customer Portfolio Management",
+      "company": "GlobalConnect",
+      "location": "Oslo / Fornebu",
+      "type": "Full-time · Graduate / junior",
+      "source": "LinkedIn",
+      "categories": [
+        "Business",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Analyse Nordic B2B customer and commercial performance, build dashboards and customer segments, and improve data quality with support from an experienced analyst mentor.",
+      "requirements": "Relevant data/analytics education OR 1–2 years of relevant experience; no mandatory master's or employment history for the education route. Solid SQL, Excel, Power BI and a concrete AI-use example from studies/work required. Business English; at least three office days weekly. No visa sponsorship or relocation package. Deadline not stated; public ad accepts applications.",
+      "url": "https://no.linkedin.com/jobs/view/junior-business-analyst-%E2%80%93-customer-portfolio-management-at-globalconnect-4482126280",
+      "deadline": null,
+      "firstSeen": "2026-11-14",
+      "verifiedAt": "2026-11-14T06:59:04Z"
+    },
     {
       "status": "open",
       "firstSeen": "2026-11-13",
@@ -92,25 +135,6 @@
       "requirements": "Higher education in SCM/logistics or similar AND experience in logistics, demand planning or customer service required; duration unspecified. Norwegian and English required. SAP/FMCG knowledge advantageous; no mandatory master's specified. ASAP start, rolling selection.",
       "url": "https://www.academicwork.no/ledige-stillinger/j/vil-du-styre-logistikken-for-kjente-merkevarer-i-arla/KPCN6X",
       "deadline": null
-    },
-    {
-      "source": "FINN",
-      "categories": [
-        "Business"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "firstSeen": "2026-11-13",
-      "verifiedAt": "2026-11-13T07:03:59.887Z",
-      "id": "finn-479948272",
-      "title": "Business Developer · Analysis & Service Development · Graduates welcome",
-      "company": "Aberia · via Assessit",
-      "location": "Oslo · Tromsø · Moss",
-      "type": "Permanent · Full time",
-      "summary": "Analyse markets, profitability and operations; support service development, bids, supplier agreements and improvement projects.",
-      "requirements": "Relevant economics, technology or similar education; degree level not specified. New graduates explicitly considered, with no mandatory professional experience or master's. Numerical, communication and digital skills needed. Rolling review; deadline 13 November 2026.",
-      "url": "https://www.finn.no/job/ad/479948272",
-      "deadline": "2026-11-13"
     },
     {
       "source": "FINN",
@@ -421,28 +445,7 @@
       "url": "https://www.finn.no/job/ad/479941450",
       "deadline": "2026-11-15",
       "firstSeen": "2026-11-04",
-      "verifiedAt": "2026-11-12T07:07:08.941Z"
-    },
-    {
-      "id": "nordea-1452954333",
-      "title": "Student · Stress Testing and Projections",
-      "company": "Nordea",
-      "location": "Oslo · Hybrid",
-      "type": "Paid student position · Part time · Approximately 2–3 days per week",
-      "source": "Employer careers",
-      "categories": [
-        "Business",
-        "Finance",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Build reporting and data-automation solutions, support credit-risk and ESG reconciliation and forecasting, contribute to regulatory stress testing and data quality, and document reporting processes for senior stakeholders.",
-      "requirements": "Must study international business, finance, engineering, statistics, technology or a similar field with at least 1.5 years of studies remaining. Strong analytical skills, English, Excel and PowerPoint are expected. Database and coding experience in Python, SAS or SQL plus Agentic AI experience are described under the ideal background, but no professional employment requirement is stated. Deadline 13 November.",
-      "url": "https://careers.nordea.com/job/Oslo-Student-in-Stress-Testing-and-Projections-0368/1452954333",
-      "deadline": "2026-11-13",
-      "firstSeen": "2026-11-03",
-      "verifiedAt": "2026-11-13T18:07:08Z"
+      "verifiedAt": "2026-11-14T06:59:04Z"
     },
     {
       "id": "scatec-2615",
@@ -483,27 +486,6 @@
       "requirements": "Applicants must be new graduates with a relevant engineering, vocational-college or economics background. The advert states Norwegian as the working language and requests preliminary academic results, but does not require prior professional experience. Multiple locations and project areas are available, so individual placement fit should be checked. Deadline 15 November.",
       "url": "https://www.finn.no/job/ad/478636807",
       "deadline": "2026-11-15",
-      "firstSeen": "2026-11-03",
-      "verifiedAt": "2026-11-03T06:57:37Z"
-    },
-    {
-      "id": "finn-478852067",
-      "title": "Product Owner · Analysis and Insights · Graduate-friendly",
-      "company": "4human",
-      "location": "Oslo",
-      "type": "Permanent · Full time · Business analytics and product operations",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Finance",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Own the roadmap and backlog for an analytics platform, translate customer needs into product requirements, define reliable KPIs and data foundations, and collaborate with technical and business teams.",
-      "requirements": "Higher education in economics, business analytics, technology, product management or a similar field is required, together with strong business, numerical and technical understanding and very good Norwegian and English. New graduates are explicitly accepted. Power BI, agile product development or data-heavy system experience is advantageous rather than mandatory. Deadline 13 November.",
-      "url": "https://www.finn.no/job/ad/478852067",
-      "deadline": "2026-11-13",
       "firstSeen": "2026-11-03",
       "verifiedAt": "2026-11-03T06:57:37Z"
     },
@@ -570,28 +552,6 @@
       "deadline": "2026-11-15",
       "firstSeen": "2026-11-02",
       "verifiedAt": "2026-11-02T17:58:11Z"
-    },
-    {
-      "id": "tine-1372755255",
-      "title": "Business Developer · Logistics · Experience required",
-      "company": "TINE",
-      "location": "Oslo · Some travel",
-      "type": "Permanent · Full time · Supply-chain development",
-      "source": "Employer careers",
-      "categories": [
-        "Business",
-        "Supply chain",
-        "Logistics",
-        "Operations"
-      ],
-      "fit": "stretch",
-      "status": "open",
-      "summary": "Develop warehouse and distribution strategy, lead improvement projects, analyse logistics costs and profitability, improve capacity planning and contribute to ERP, WMS, TMS and routing-system development.",
-      "requirements": "Relevant higher education in logistics, supply chain, economics or engineering is expected. Several years of warehouse, distribution or supply-chain experience plus experience leading improvement or change projects are expected, making this a clear stretch match. Excel, Power BI and logistics-system experience are advantages. Deadline 13 November.",
-      "url": "https://careers.tine.no/job/OSLO-TINE-Supply-Chain-s%C3%B8ker-Forretningsutvikler-Logi-950/1372755255/",
-      "deadline": "2026-11-13",
-      "firstSeen": "2026-11-02",
-      "verifiedAt": "2026-11-02T07:11:27Z"
     },
     {
       "id": "finn-479704516",
@@ -1179,49 +1139,6 @@
       "deadline": "2026-11-16",
       "firstSeen": "2026-10-25",
       "verifiedAt": "2026-11-04T18:06:14Z"
-    },
-    {
-      "id": "ssy-accounts-assistant-2026",
-      "title": "Accounts Assistant · 50%",
-      "company": "SSY",
-      "location": "Oslo",
-      "type": "Part time · 50% · Shipping finance",
-      "source": "Employer careers",
-      "categories": [
-        "Business",
-        "Finance",
-        "Shipping",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Process supplier and customer invoices, follow receivables and payables, reconcile bank and balance-sheet accounts, and support month-end reporting and finance administration for a global shipping broker.",
-      "requirements": "Good Excel, Norwegian and English skills plus sound systems understanding are required. Accounting or finance experience is desirable rather than essential. The advert explicitly says the role suits a student or recent graduate seeking experience. Deadline 13 November.",
-      "url": "https://www.uio.no/english/studies/career/career-opportunities/ssy.pdf",
-      "deadline": "2026-11-13",
-      "firstSeen": "2026-10-26",
-      "verifiedAt": "2026-10-26T06:56:35Z"
-    },
-    {
-      "id": "rystad-energy-3A92C62A8E",
-      "title": "Commercial Intern · Summer 2027",
-      "company": "Rystad Energy",
-      "location": "Oslo",
-      "type": "Summer internship · Commercial · On-site",
-      "source": "Employer careers",
-      "categories": [
-        "Business",
-        "Finance",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Support Rystad Energy's commercial team with market and client work while learning how energy data and research are translated into business decisions and commercial activity.",
-      "requirements": "Must currently pursue a bachelor's or master's degree. Strong academic performance, analytical and problem-solving ability, communication skills and genuine interest in energy markets are required. No professional-experience minimum is stated. Deadline 13 November.",
-      "url": "https://apply.workable.com/rystad-energy/j/3A92C62A8E",
-      "deadline": "2026-11-13",
-      "firstSeen": "2026-10-26",
-      "verifiedAt": "2026-11-12T07:07:08.941Z"
     },
     {
       "id": "siemens-524304",
