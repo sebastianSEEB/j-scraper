@@ -1,38 +1,79 @@
 {
-  "updatedAt": "2026-11-14T06:59:04Z",
+  "updatedAt": "2026-11-14T17:56:34Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "14 November targeted search; Mowi student original reverified with 15 November deadline. Hiab Junior Controller original explicitly expired 8 October, excluded. Removed six dataset records with known 13 November deadlines. Other verification timestamps retained; not exhaustive."
+      "note": "14 November evening targeted search and full Sopra Steria original checked. Added as stretch: master's plus 2–4 years post-graduation experience. Dataset expiry sweep removed 0 records; dates through today retained. Unchecked timestamps preserved."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Full BAMA Summer Internship original read: year 3/4 bachelor or master, relevant business/SCM projects and explicit 6 December 2026 deadline. Added one programme, not duplicate project entries."
+      "note": "Public search and full Norsk Gjenvinning Heimdal coordinator ad verified; added as stretch due to mandatory analysis/reporting experience. Distinct from existing Downstream procurement role."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Targeted search completed; Forsvarsdepartementet economics/budget original 311116 returned only JavaScript notice. No new record inferred; existing records and old verification times preserved."
+      "note": "Targeted search found NTNU controller 310385; original returned JavaScript-only notice. Qualifications not inferred; no new entry or refreshed old verification timestamp."
     },
     {
       "name": "Academic Work",
       "status": "Degraded",
-      "note": "Public search completed; Atea FQ0N82 original was inaccessible. Existing Atea and other unchecked listings kept with original verification timestamps; no failed check marked verified."
+      "note": "Public search completed; Atea FQ0N82 original failed retrieval. Existing jobs and old verification timestamps preserved."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public targeted search and full GlobalConnect Oslo junior analyst original verified. Education-or-experience alternatives and technical prerequisites recorded; no login scraping. Other records not refreshed."
+      "note": "Public finance/internship searches completed; Siemens Finance full public employer ad confirms student 20–40% role and 15 November deadline. Existing employer-careers entry retained without new timestamp because its canonical page failed. Many other search hits closed; none promoted as new strong candidates."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "Targeted search returned no results. Siemens Finance original returned HTTP 406; BAMA employer application redirect was inaccessible. Old Siemens timestamp preserved; BAMA added solely from full NAV employer ad. Six known-deadline records removed despite any source limitations."
+      "note": "Siemens Finance canonical page returned HTTP 406; old verifiedAt retained. Public LinkedIn duplicate checked successfully, but canonical employer verification is not claimed. Coverage targeted, not exhaustive."
     }
   ],
   "jobs": [
+    {
+      "status": "open",
+      "fit": "stretch",
+      "firstSeen": "2026-11-14",
+      "verifiedAt": "2026-11-14T17:56:34Z",
+      "id": "nav-58920568",
+      "title": "Administrasjon- og virksomhetskoordinator",
+      "company": "Norsk Gjenvinning",
+      "location": "Heimdal, Trondheim",
+      "type": "Administration and business support",
+      "source": "NAV Arbeidsplassen",
+      "categories": [
+        "Business",
+        "Operations",
+        "Finance"
+      ],
+      "summary": "Support regional management with monthly closing, profitability analysis, invoices, administration and process improvement.",
+      "requirements": "Bachelor in economics, administration, logistics or equivalent; relevant experience can compensate. Mandatory experience in analysis, reporting or financial follow-up (duration unspecified), strong Excel, accounting understanding and Norwegian/English. Power BI and SAP preferred. Not a no-experience role. Deadline 18 November 2026; rolling review.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/58920568-d587-42e0-8b7a-6ee1e0ec6e69",
+      "deadline": "2026-11-18"
+    },
+    {
+      "status": "open",
+      "fit": "stretch",
+      "firstSeen": "2026-11-14",
+      "verifiedAt": "2026-11-14T17:56:34Z",
+      "id": "finn-480619804",
+      "title": "Juniorkonsulent · Utredning og beslutningsstøtte",
+      "company": "Sopra Steria",
+      "location": "Oslo",
+      "type": "Permanent · Full-time",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "summary": "Produce economic assessments, cost models and decision support for public-sector clients. Two positions with hybrid working.",
+      "requirements": "Master's in economics AND 2–4 years of relevant analysis/investigation experience after graduation required despite the junior title. Clear written Norwegian; some client work may require background checks/security clearance. Deadline 29 November 2026, rolling review.",
+      "url": "https://www.finn.no/job/ad/480619804",
+      "deadline": "2026-11-29"
+    },
     {
       "id": "nav-3996dc5e",
       "title": "Summer Internship 2027 · Business, Finance & Supply Chain",
