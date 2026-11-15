@@ -1,38 +1,78 @@
 {
-  "updatedAt": "2026-11-14T17:56:34Z",
+  "updatedAt": "2026-11-15T07:00:22Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "14 November evening targeted search and full Sopra Steria original checked. Added as stretch: master's plus 2–4 years post-graduation experience. Dataset expiry sweep removed 0 records; dates through today retained. Unchecked timestamps preserved."
+      "note": "15 November targeted search and Laerdal full original rechecked; summer programme deadline remains 15 November. Dataset expiry sweep removed 0 records. Date-only deadlines today retained through today; other timestamps unchanged."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Public search and full Norsk Gjenvinning Heimdal coordinator ad verified; added as stretch due to mandatory analysis/reporting experience. Distinct from existing Downstream procurement role."
+      "note": "Public search; full VOICE and Fagskolen Innlandet originals read. VOICE duplicates existing coordinator role, no duplicate added; canonical FINN timestamp/deadline retained. Fagskolen not prioritized: mixed experience wording despite graduates invited."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Targeted search found NTNU controller 310385; original returned JavaScript-only notice. Qualifications not inferred; no new entry or refreshed old verification timestamp."
+      "note": "Targeted search and Sveio economics adviser 310838 attempted; original returned only JavaScript notice. No new record inferred. Old verification timestamps preserved."
     },
     {
       "name": "Academic Work",
-      "status": "Degraded",
-      "note": "Public search completed; Atea FQ0N82 original failed retrieval. Existing jobs and old verification timestamps preserved."
+      "status": "Listings checked",
+      "note": "Public search and internal Consultant Manager original fully read. Requires sales/service/customer-adviser experience, higher education and driving licence B; not a new strong match. Existing external-client jobs not reverified."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public finance/internship searches completed; Siemens Finance full public employer ad confirms student 20–40% role and 15 November deadline. Existing employer-careers entry retained without new timestamp because its canonical page failed. Many other search hits closed; none promoted as new strong candidates."
+      "note": "Targeted public search and full Nets HR Student Assistant and Business Development Associate originals read; two distinct student roles added with requirements. Rolling/no-deadline distinctions recorded; no login scraping."
     },
     {
       "name": "Employer careers",
-      "status": "Degraded",
-      "note": "Siemens Finance canonical page returned HTTP 406; old verifiedAt retained. Public LinkedIn duplicate checked successfully, but canonical employer verification is not claimed. Coverage targeted, not exhaustive."
+      "status": "Listings checked",
+      "note": "Academic Work employer career page for Consultant Manager checked directly, with 30 November deadline and experience requirements. Limited targeted coverage, not a full employer sweep; other employer records retain old timestamps."
     }
   ],
   "jobs": [
+    {
+      "status": "open",
+      "fit": "potential",
+      "firstSeen": "2026-11-15",
+      "verifiedAt": "2026-11-15T07:00:22Z",
+      "source": "LinkedIn",
+      "deadline": null,
+      "categories": [
+        "Business",
+        "Operations"
+      ],
+      "id": "linkedin-4479806417",
+      "title": "HR Student Assistant",
+      "company": "Nets / Nexi",
+      "location": "Lysaker, Oslo area",
+      "type": "Part-time · 2–3 days/week · Fixed term",
+      "summary": "Support onboarding, HR meetings, employee data, reports and Nordic HR process improvements. On-site student role expected to run at least through 2027.",
+      "requirements": "Current bachelor/master student in HR, business administration, psychology, law or related field; ideally 1–2 study years remaining. Fluent Norwegian and English, Excel/PowerPoint and comfort with data required. No completed degree or professional-experience minimum stated. ASAP start; rolling applications.",
+      "url": "https://no.linkedin.com/jobs/view/hr-student-assistant-at-nets-4479806417"
+    },
+    {
+      "status": "open",
+      "fit": "potential",
+      "firstSeen": "2026-11-15",
+      "verifiedAt": "2026-11-15T07:00:22Z",
+      "source": "LinkedIn",
+      "deadline": null,
+      "categories": [
+        "Business",
+        "Operations"
+      ],
+      "id": "linkedin-4488847497",
+      "title": "Business Development Associate · Student part-time",
+      "company": "Business and Technology Consulting Services AS",
+      "location": "Billingstad",
+      "type": "Student part-time · Around 2 days/week",
+      "summary": "B2B outreach and customer meetings for an unnamed health-products business, including presentations, price comparisons and customer follow-up. Advertised pay NOK 200/hour.",
+      "requirements": "Must be a student with regular availability; no specific study field or previous sales experience required. Professional Norwegian, Outlook/PowerPoint, digital confidence and interest in AI expected. Work arranged within 08–18; ASAP by agreement. CV and transcript requested. Deadline not stated; public listing accepts applications.",
+      "url": "https://no.linkedin.com/jobs/view/business-development-associate-%E2%80%93-deltid-for-studenter-at-business-and-technology-consulting-services-as-4488847497"
+    },
     {
       "status": "open",
       "fit": "stretch",
@@ -1266,7 +1306,7 @@
       "url": "https://www.finn.no/job/ad/479239653",
       "deadline": "2026-11-15",
       "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-10-28T06:55:14Z"
+      "verifiedAt": "2026-11-15T07:00:22Z"
     },
     {
       "id": "webcruiter-5192867724",
