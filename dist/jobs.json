@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-15T07:00:22Z",
+  "updatedAt": "2026-11-15T18:03:00Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "15 November targeted search and Laerdal full original rechecked; summer programme deadline remains 15 November. Dataset expiry sweep removed 0 records. Date-only deadlines today retained through today; other timestamps unchanged."
+      "note": "15 November evening targeted search and full VOICE original rechecked: deadline 16 November. Full dataset deadline/status sweep removed 0 records. Date-only 15 November deadlines remain valid through today in Europe/Oslo. Other records retain earlier verification timestamps."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Public search; full VOICE and Fagskolen Innlandet originals read. VOICE duplicates existing coordinator role, no duplicate added; canonical FINN timestamp/deadline retained. Fagskolen not prioritized: mixed experience wording despite graduates invited."
+      "note": "Targeted public search and full VOICE original read; duplicate of existing FINN coordinator record, no duplicate added. Limited coverage, not all retained records rechecked."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Targeted search and Sveio economics adviser 310838 attempted; original returned only JavaScript notice. No new record inferred. Old verification timestamps preserved."
+      "note": "15 November evening search and Sveio 310838 original attempted; only JavaScript notice returned. Requirements not verified; no listing added and previous verification timestamps preserved."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Public search and internal Consultant Manager original fully read. Requires sales/service/customer-adviser experience, higher education and driving licence B; not a new strong match. Existing external-client jobs not reverified."
+      "note": "Public search, listings index and internal Consultant Manager career page read. No new strong candidate confirmed; existing client ads not individually reverified."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Targeted public search and full Nets HR Student Assistant and Business Development Associate originals read; two distinct student roles added with requirements. Rolling/no-deadline distinctions recorded; no login scraping."
+      "note": "Targeted public searches and DNV Maritime student assistant, AIG claims student and Novo Nordisk commercial student originals checked. All three explicitly no longer accepting applications; none added. Existing jobs retain old verification timestamps."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Academic Work employer career page for Consultant Manager checked directly, with 30 November deadline and experience requirements. Limited targeted coverage, not a full employer sweep; other employer records retain old timestamps."
+      "note": "Academic Work employer career page checked directly. Limited targeted coverage; other employer listings were not reverified and retain their original timestamps."
     }
   ],
   "jobs": [
@@ -481,7 +481,7 @@
       "url": "https://www.finn.no/job/ad/480111201",
       "deadline": "2026-11-16",
       "firstSeen": "2026-11-05",
-      "verifiedAt": "2026-11-11T17:58:35.817Z"
+      "verifiedAt": "2026-11-15T18:03:00Z"
     },
     {
       "id": "finn-480247421",
