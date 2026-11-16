@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-15T18:03:00Z",
+  "updatedAt": "2026-11-16T07:11:05Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "15 November evening targeted search and full VOICE original rechecked: deadline 16 November. Full dataset deadline/status sweep removed 0 records. Date-only 15 November deadlines remain valid through today in Europe/Oslo. Other records retain earlier verification timestamps."
+      "note": "16 November targeted search and full Retura Business Controller original rechecked: deadline today, graduates invited. Deadline/status sweep removed 11 ads with 15 November deadlines; 54 remain. Today’s date-only deadlines retained through Europe/Oslo day end. Other verification timestamps preserved."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Targeted public search and full VOICE original read; duplicate of existing FINN coordinator record, no duplicate added. Limited coverage, not all retained records rechecked."
+      "note": "Public search and VOICE full original checked; duplicate of existing FINN coordinator record. NAV says ASAP, known FINN deadline 16 November retained. No new verified candidate; other records not rechecked."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "15 November evening search and Sveio 310838 original attempted; only JavaScript notice returned. Requirements not verified; no listing added and previous verification timestamps preserved."
+      "note": "Targeted search and NTNU controller 310385 original attempted; JavaScript-only notice prevents qualification verification. No new record inferred; prior verification timestamps preserved."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Public search, listings index and internal Consultant Manager career page read. No new strong candidate confirmed; existing client ads not individually reverified."
+      "note": "Public search, current listings index and Consultant Manager employer original checked. Requires sales/service/customer-adviser experience; not a new strong match. Existing client ads not individually reverified."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Targeted public searches and DNV Maritime student assistant, AIG claims student and Novo Nordisk commercial student originals checked. All three explicitly no longer accepting applications; none added. Existing jobs retain old verification timestamps."
+      "note": "Public search for procurement internships and Nets HR Student Assistant original read. No new distinct strong candidate confirmed. Nets qualification review partial; old verifiedAt retained. No login scraping."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Academic Work employer career page checked directly. Limited targeted coverage; other employer listings were not reverified and retain their original timestamps."
+      "note": "Academic Work career original checked: Consultant Manager deadline 30 November, relevant higher education, experience and driving licence B required. Homely search lead has September deadline and was not added. Targeted coverage only; remaining employer records retain old timestamps."
     }
   ],
   "jobs": [
@@ -176,26 +176,6 @@
       "requirements": "Active AI-tool use, car knowledge, visual judgement, Norwegian and English plus reading Swedish and Danish required. Relevant studies welcome but no completed degree, master's or professional-experience minimum stated. Rolling selection; apply promptly.",
       "url": "https://www.finn.no/job/ad/480831479",
       "deadline": null
-    },
-    {
-      "status": "open",
-      "firstSeen": "2026-11-13",
-      "verifiedAt": "2026-11-13T18:07:08Z",
-      "id": "linkedin-4472310955",
-      "title": "Student Worker · AI & Business Automation",
-      "company": "Siemens",
-      "location": "Oslo",
-      "type": "Student part-time · 20–40%",
-      "source": "LinkedIn",
-      "categories": [
-        "Business",
-        "Operations"
-      ],
-      "fit": "potential",
-      "summary": "Improve business processes with AI, automation, data analysis and decision-support visualisations. Flexible student role starting spring 2027.",
-      "requirements": "Current bachelor/master studies in IT, technology, digitalisation, industrial economics or similar; a general BBA alone is not explicitly listed. Norwegian and English required. AI, Python, Power BI and low-code experience are advantages, not a professional-experience minimum. Practical AI/analysis assessment. Deadline 15 November 2026.",
-      "url": "https://no.linkedin.com/jobs/view/student-worker-ai-business-automation-at-siemens-4472310955",
-      "deadline": "2026-11-15"
     },
     {
       "status": "open",
@@ -506,29 +486,6 @@
       "verifiedAt": "2026-11-05T17:57:17Z"
     },
     {
-      "id": "finn-479941450",
-      "title": "Planning & Operations / Quality Coordinator · Student",
-      "company": "Mowi Markets Norway",
-      "location": "Bergen · On-site",
-      "type": "Temporary part-time student position · Three openings",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Supply chain",
-        "Shipping",
-        "Logistics",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Support order and delivery follow-up, customer service, logistics documentation, deviations and complaints, ERP registration and continuous improvement across Mowi's planning, operations and quality teams.",
-      "requirements": "Must currently study logistics, aquaculture, economics, administration, supply chain or a similar subject. Norwegian and English plus a structured, service-oriented and willing-to-learn approach are required. No professional-experience minimum is stated. The flexible part-time role is intended to run alongside studies. Deadline 15 November; applications are reviewed continuously.",
-      "url": "https://www.finn.no/job/ad/479941450",
-      "deadline": "2026-11-15",
-      "firstSeen": "2026-11-04",
-      "verifiedAt": "2026-11-14T06:59:04Z"
-    },
-    {
       "id": "scatec-2615",
       "title": "Business Analyst · Commercial & Origination · Master's and experience required",
       "company": "Scatec",
@@ -550,27 +507,6 @@
       "verifiedAt": "2026-11-03T17:58:31Z"
     },
     {
-      "id": "finn-478636807",
-      "title": "Graduate Project Engineer · Economics background accepted",
-      "company": "Veidekke",
-      "location": "Nationwide Norway · Advert tagged Oslo",
-      "type": "Graduate programme · Full time · Starts summer or autumn 2027",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Procurement",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Join construction, infrastructure or road-operation projects and build experience in operational follow-up, procurement, contracts, tenders, quality and project coordination through Veidekke's first-year graduate programme.",
-      "requirements": "Applicants must be new graduates with a relevant engineering, vocational-college or economics background. The advert states Norwegian as the working language and requests preliminary academic results, but does not require prior professional experience. Multiple locations and project areas are available, so individual placement fit should be checked. Deadline 15 November.",
-      "url": "https://www.finn.no/job/ad/478636807",
-      "deadline": "2026-11-15",
-      "firstSeen": "2026-11-03",
-      "verifiedAt": "2026-11-03T06:57:37Z"
-    },
-    {
       "id": "finn-479818606",
       "title": "Accounting Manager · New graduates considered",
       "company": "Sparebank 68° Nord",
@@ -590,72 +526,6 @@
       "deadline": "2026-11-22",
       "firstSeen": "2026-11-03",
       "verifiedAt": "2026-11-03T06:57:37Z"
-    },
-    {
-      "id": "finn-479908588",
-      "title": "Bond Pricing Analyst · Master's mandatory",
-      "company": "Nordic Bond Pricing",
-      "location": "Oslo · Hybrid",
-      "type": "Permanent · Full time · Financial analysis",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Finance",
-        "Operations"
-      ],
-      "fit": "stretch",
-      "status": "open",
-      "summary": "Value bonds daily, analyse market data and market events, quality-check price and index calculations, collect market information and communicate with professional market participants.",
-      "requirements": "A master's degree in finance, economics, mathematics, statistics or a similar field is mandatory. The employer primarily seeks 1–3 years of relevant experience, although new graduates and students completing a master's in autumn 2026 may be considered with strong academic results. Bond-market knowledge plus fluent Norwegian and English are required; R, SQL or Python is advantageous. This is therefore a clear stretch match. Deadline 15 November.",
-      "url": "https://www.finn.no/job/ad/479908588",
-      "deadline": "2026-11-15",
-      "firstSeen": "2026-11-03",
-      "verifiedAt": "2026-11-03T06:57:37Z"
-    },
-    {
-      "id": "nav-d9886753-d5bc-4958-8069-4d9493b8bf2e",
-      "title": "Controller med driftsoppgåver",
-      "company": "NAV Hjelpemiddelsentral Vestland",
-      "location": "Førde · Hybrid",
-      "type": "Permanent · Full time · Controller and operations",
-      "source": "NAV Arbeidsplassen",
-      "categories": [
-        "Business",
-        "Finance",
-        "Procurement",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Follow invoices and accounts, prepare forecasts and reports, support budget management, purchasing and contract follow-up, and help improve administrative routines and daily operations.",
-      "requirements": "Relevant higher education in economics and administration or another relevant field is mandatory. Digital skills and good written and spoken communication are required. Experience with financial follow-up, analysis, forecasting or the public sector is desirable rather than mandatory; the advert explicitly says long experience is unnecessary and that training and development will be provided. Deadline 15 November.",
-      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/d9886753-d5bc-4958-8069-4d9493b8bf2e",
-      "deadline": "2026-11-15",
-      "firstSeen": "2026-11-02",
-      "verifiedAt": "2026-11-02T17:58:11Z"
-    },
-    {
-      "id": "finn-479704516",
-      "title": "Operativ innkjøper · Experience required",
-      "company": "Borregaard",
-      "location": "Sarpsborg",
-      "type": "Full time · Temporary through 30 September 2027 · Operational procurement",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Supply chain",
-        "Logistics",
-        "Procurement",
-        "Operations"
-      ],
-      "fit": "stretch",
-      "status": "open",
-      "summary": "Create and follow purchase orders, coordinate deliveries, handle deviations, maintain purchasing data, support sourcing and contract implementation, and improve indirect-procurement processes.",
-      "requirements": "Prior professional experience in operational purchasing is mandatory, so this is a stretch match for a candidate with no professional experience. Education in economics, logistics, technical subjects or a similar field is desirable rather than mandatory. Norwegian and English are required; SAP knowledge is advantageous. Deadline 15 November, with rolling review.",
-      "url": "https://www.finn.no/job/ad/479704516",
-      "deadline": "2026-11-15",
-      "firstSeen": "2026-11-01",
-      "verifiedAt": "2026-11-01T18:06:25Z"
     },
     {
       "id": "nav-1e3c045a",
@@ -720,7 +590,7 @@
       "url": "https://www.finn.no/job/ad/479678888",
       "deadline": "2026-11-16",
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-10-31T18:03:59Z"
+      "verifiedAt": "2026-11-16T07:11:05Z"
     },
     {
       "id": "finn-478112335",
@@ -853,26 +723,6 @@
       "deadline": "2026-11-30",
       "firstSeen": "2026-10-30",
       "verifiedAt": "2026-10-30T06:58:52Z"
-    },
-    {
-      "id": "finn-479415582",
-      "title": "HR Consultant",
-      "company": "Helseplattformen",
-      "location": "Trondheim · Hybrid",
-      "type": "Permanent · Full time · HR and administration",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Support HR processes, recruitment and onboarding, personnel administration, documentation, meetings and process improvement while building broad early-career experience across HR and administrative services.",
-      "requirements": "A relevant bachelor's or master's in HR, organisation, administration, management or a related field is mandatory. Microsoft 365, very strong Norwegian and good English are required. New graduates are explicitly encouraged; service, administration, HR and records-system experience are advantages rather than requirements.",
-      "url": "https://www.finn.no/job/ad/479415582",
-      "deadline": "2026-11-15",
-      "firstSeen": "2026-10-24",
-      "verifiedAt": "2026-10-24T17:04:27Z"
     },
     {
       "id": "finn-478767899",
@@ -1222,27 +1072,6 @@
       "verifiedAt": "2026-11-04T18:06:14Z"
     },
     {
-      "id": "siemens-524304",
-      "title": "Student Worker · Finance",
-      "company": "Siemens",
-      "location": "Oslo",
-      "type": "Part time · 20–40% · Student finance",
-      "source": "Employer careers",
-      "categories": [
-        "Business",
-        "Finance",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Support controlling, receivables, invoicing, budgeting, forecasting, accounting control and financial-data quality in a role designed around the study calendar.",
-      "requirements": "Must currently study economics, business or finance at bachelor's or master's level and have good written and spoken Norwegian. No professional-experience minimum is stated; Siemens provides training. Deadline 15 November, with planned start in spring 2027.",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524304",
-      "deadline": "2026-11-15",
-      "firstSeen": "2026-10-26",
-      "verifiedAt": "2026-11-06T17:57:31Z"
-    },
-    {
       "id": "barilla-1444817433",
       "title": "Future Leader Trainee · Category Analyst",
       "company": "Barilla Group",
@@ -1283,53 +1112,6 @@
       "deadline": null,
       "firstSeen": "2026-10-27",
       "verifiedAt": "2026-10-27T18:03:41Z"
-    },
-    {
-      "id": "finn-479239653",
-      "title": "Summer Internships 2027 · Logistics, Shipping & Procurement",
-      "company": "Laerdal Medical",
-      "location": "Stavanger",
-      "type": "Summer internship · Full time · Eight weeks",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Supply chain",
-        "Shipping",
-        "Logistics",
-        "Procurement",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Join an eight-week summer programme with target-profile tracks in logistics and shipping, sourcing and procurement, product operations, sales, business development and sustainability, using data and process improvement on real projects.",
-      "requirements": "Must currently pursue a bachelor’s or master’s in a relevant field and be available for six to eight weeks in summer 2027. The logistics and procurement track is aimed at supply-chain, logistics, economics or business-administration students. No professional-experience minimum is stated. Deadline 15 November; selection is continuous.",
-      "url": "https://www.finn.no/job/ad/479239653",
-      "deadline": "2026-11-15",
-      "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-11-15T07:00:22Z"
-    },
-    {
-      "id": "webcruiter-5192867724",
-      "title": "Supply Chain Management Trainee",
-      "company": "OKEA",
-      "location": "Kristiansund · Bergen",
-      "type": "Permanent · Full time · Graduate trainee · Starts August 2027",
-      "source": "Employer careers",
-      "categories": [
-        "Business",
-        "Supply chain",
-        "Logistics",
-        "Procurement",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Build early-career supply-chain experience across procurement, contract establishment and follow-up, supplier management, material control, digitalisation and continuous improvement, supported by OKEA's GNIST development programme.",
-      "requirements": "Must complete a relevant bachelor’s or master’s in spring 2027, or have recently completed one, in supply-chain management, economics and finance, industrial economics, business administration or another relevant field. Norwegian and English are required. The advert allows up to two years of post-degree experience but does not require prior professional experience. Deadline 15 November.",
-      "url": "https://55632.webcruiter.no/Main/Recruit/Public/5192867724?language=nb&showExpired=False",
-      "deadline": "2026-11-15",
-      "firstSeen": "2026-10-28",
-      "verifiedAt": "2026-11-08T17:57:51Z"
     },
     {
       "id": "nav-7250eab8",
@@ -1393,29 +1175,6 @@
       "requirements": "A completed bachelor's in economics, finance, accounting or a related field is mandatory, together with Norwegian and English and eligibility for HEMMELIG and NATO SECRET clearance. A master's, ERP/SAP experience, public-sector knowledge and prior controller experience are desirable rather than mandatory. The advert explicitly welcomes applicants who are new to working life. Deadline 22 November.",
       "url": "https://www.finn.no/job/ad/479848356",
       "deadline": "2026-11-22",
-      "firstSeen": "2026-10-29",
-      "verifiedAt": "2026-10-29T17:58:26Z"
-    },
-    {
-      "id": "finn-479816067",
-      "title": "Operations Planner",
-      "company": "Mowi Markets Norway",
-      "location": "Bergen",
-      "type": "Permanent · Full time · Planning and operations",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Supply chain",
-        "Logistics",
-        "Shipping",
-        "Operations"
-      ],
-      "fit": "stretch",
-      "status": "open",
-      "summary": "Coordinate orders, deliveries and daily supply-chain activity; handle logistics documentation, customer follow-up, ERP purchasing and production entries, deviations and process improvements across Mowi's global seafood value chain.",
-      "requirements": "A bachelor's in logistics, economics, administration, supply chain or a comparable field is desired, although relevant experience may compensate. Logistics, coordination, customer-service or operations experience is advantageous, while ERP-system experience, Excel, Norwegian and English are listed as qualifications. Because ERP experience is expected, this is a stretch match for a candidate with no professional experience. Deadline 15 November.",
-      "url": "https://www.finn.no/job/ad/479816067",
-      "deadline": "2026-11-15",
       "firstSeen": "2026-10-29",
       "verifiedAt": "2026-10-29T17:58:26Z"
     }
