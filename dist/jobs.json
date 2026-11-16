@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-16T07:11:05Z",
+  "updatedAt": "2026-11-16T18:08:48Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "16 November targeted search and full Retura Business Controller original rechecked: deadline today, graduates invited. Deadline/status sweep removed 11 ads with 15 November deadlines; 54 remain. Today’s date-only deadlines retained through Europe/Oslo day end. Other verification timestamps preserved."
+      "note": "16 November evening public search and full NORBIT original checked: 16 November deadline retained through today in Europe/Oslo. Dataset deadline/status sweep removed 0 records; 54 remain. Other FINN records retain earlier verification timestamps."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Public search and VOICE full original checked; duplicate of existing FINN coordinator record. NAV says ASAP, known FINN deadline 16 November retained. No new verified candidate; other records not rechecked."
+      "note": "Public search and full Gassco economics summer-student original rechecked: deadline 18 November, at least first study year completed before summer 2027. Other NAV records retain earlier verification timestamps."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Targeted search and NTNU controller 310385 original attempted; JavaScript-only notice prevents qualification verification. No new record inferred; prior verification timestamps preserved."
+      "note": "Targeted public search and Sveio 310838 original attempted; JavaScript-only notice. No new record inferred and retained records keep old verification timestamps."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Public search, current listings index and Consultant Manager employer original checked. Requires sales/service/customer-adviser experience; not a new strong match. Existing client ads not individually reverified."
+      "note": "Targeted web search and current listings index read. No distinct new verified match; client ads not individually reverified and retain old timestamps."
     },
     {
       "name": "LinkedIn",
-      "status": "Listings checked",
-      "note": "Public search for procurement internships and Nets HR Student Assistant original read. No new distinct strong candidate confirmed. Nets qualification review partial; old verifiedAt retained. No login scraping."
+      "status": "Degraded",
+      "note": "Public search and Multiconsult procurement analytics original checked: explicitly closed, not added. Accenture graduate SCM original qualification read failed with HTTP 429; not added. Existing LinkedIn records preserved with old verification timestamps."
     },
     {
       "name": "Employer careers",
-      "status": "Listings checked",
-      "note": "Academic Work career original checked: Consultant Manager deadline 30 November, relevant higher education, experience and driving licence B required. Homely search lead has September deadline and was not added. Targeted coverage only; remaining employer records retain old timestamps."
+      "status": "Degraded",
+      "note": "TINE graduate controller original fully checked: deadline 17 November, master's requirement retained as stretch. Storebrand student role surfaced in search but original Workday page returned no readable text; not added, deadline conflict with third-party source unresolved. Other employer records retain old verification timestamps."
     }
   ],
   "jobs": [
@@ -394,7 +394,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/f45f5d4d-b534-461e-94cf-796d7b001c10",
       "deadline": "2026-11-18",
       "firstSeen": "2026-11-10",
-      "verifiedAt": "2026-11-10T17:59:17.831Z"
+      "verifiedAt": "2026-11-16T18:08:48Z"
     },
     {
       "id": "nav-440b2181",
@@ -634,7 +634,7 @@
       "url": "https://careers.tine.no/job/OSLO-Kickstart-karrieren-som-graduate-business-controll-950/1374704555/",
       "deadline": "2026-11-17",
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-07T06:59:05Z"
+      "verifiedAt": "2026-11-16T18:08:48Z"
     },
     {
       "id": "finn-479685623",
@@ -1069,7 +1069,7 @@
       "url": "https://www.finn.no/job/ad/479219855",
       "deadline": "2026-11-16",
       "firstSeen": "2026-10-25",
-      "verifiedAt": "2026-11-04T18:06:14Z"
+      "verifiedAt": "2026-11-16T18:08:48Z"
     },
     {
       "id": "barilla-1444817433",
