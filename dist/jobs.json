@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-16T18:08:48Z",
+  "updatedAt": "2026-11-17T07:06:51Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "16 November evening public search and full NORBIT original checked: 16 November deadline retained through today in Europe/Oslo. Dataset deadline/status sweep removed 0 records; 54 remain. Other FINN records retain earlier verification timestamps."
+      "note": "17 November targeted search; Jobzone graduate accounting original rechecked (30 November header, rolling review) and Gassco FINN original confirms 18 November. Removed 3 known deadline-expired records: VOICE, Retura and NORBIT (16 November). Date-only deadlines today retained through Europe/Oslo day end. Other timestamps unchanged."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Public search and full Gassco economics summer-student original rechecked: deadline 18 November, at least first study year completed before summer 2027. Other NAV records retain earlier verification timestamps."
+      "note": "Public search and full Gassco economics summer-student original read; absolute 18 November deadline cross-checked on FINN because NAV relative date is ambiguous. No duplicate added. Remaining records retain old verification timestamps."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Targeted public search and Sveio 310838 original attempted; JavaScript-only notice. No new record inferred and retained records keep old verification timestamps."
+      "note": "Search and Sveio 310838 original attempted; JavaScript-only notice prevented verification. No new records inferred; old verification timestamps retained."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Targeted web search and current listings index read. No distinct new verified match; client ads not individually reverified and retain old timestamps."
+      "note": "Public search and current listings index checked. No new distinct verified match; existing client jobs were not individually reverified."
     },
     {
       "name": "LinkedIn",
       "status": "Degraded",
-      "note": "Public search and Multiconsult procurement analytics original checked: explicitly closed, not added. Accenture graduate SCM original qualification read failed with HTTP 429; not added. Existing LinkedIn records preserved with old verification timestamps."
+      "note": "Public student/business search; Accenture graduate SCM original again returned HTTP 429. No new entry added from snippets. Retained records keep old verification timestamps."
     },
     {
       "name": "Employer careers",
       "status": "Degraded",
-      "note": "TINE graduate controller original fully checked: deadline 17 November, master's requirement retained as stretch. Storebrand student role surfaced in search but original Workday page returned no readable text; not added, deadline conflict with third-party source unresolved. Other employer records retain old verification timestamps."
+      "note": "Storebrand Workday original returned no readable text; not added. Gassco application redirect inaccessible, but public FINN/NAV descriptions verified. AVA student lead has 1 November deadline and was not added. Other employer records retain old timestamps."
     }
   ],
   "jobs": [
@@ -353,7 +353,7 @@
       "url": "https://www.finn.no/job/ad/480623254",
       "deadline": "2026-11-30",
       "firstSeen": "2026-11-10",
-      "verifiedAt": "2026-11-10T17:59:17.831Z"
+      "verifiedAt": "2026-11-17T07:06:51Z"
     },
     {
       "id": "finn-480602652",
@@ -394,7 +394,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/f45f5d4d-b534-461e-94cf-796d7b001c10",
       "deadline": "2026-11-18",
       "firstSeen": "2026-11-10",
-      "verifiedAt": "2026-11-16T18:08:48Z"
+      "verifiedAt": "2026-11-17T07:06:51Z"
     },
     {
       "id": "nav-440b2181",
@@ -439,29 +439,6 @@
       "deadline": "2026-11-18",
       "firstSeen": "2026-11-08",
       "verifiedAt": "2026-11-08T07:01:23Z"
-    },
-    {
-      "id": "finn-480111201",
-      "title": "Supply Chain Coordinator · Graduate-friendly",
-      "company": "VOICE Norge",
-      "location": "Oslo · On-site",
-      "type": "Temporary · Full time · Two openings through May or July 2027",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Supply chain",
-        "Logistics",
-        "Procurement",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Plan and coordinate product flow from suppliers through the central warehouse to stores, monitor receipts and inventory, support store transfers and improve routines across physical and online retail.",
-      "requirements": "The employer explicitly welcomes recent graduates with a bachelor's in economics, logistics or a similar field. Relevant vocational or other higher education is also considered, while clothing-store experience can compensate for missing higher education. Completed upper-secondary education, retail-process familiarity and analytical understanding are required; e-commerce familiarity is advantageous. No professional-experience minimum is stated. Deadline 16 November.",
-      "url": "https://www.finn.no/job/ad/480111201",
-      "deadline": "2026-11-16",
-      "firstSeen": "2026-11-05",
-      "verifiedAt": "2026-11-15T18:03:00Z"
     },
     {
       "id": "finn-480247421",
@@ -570,27 +547,6 @@
       "deadline": null,
       "firstSeen": "2026-10-31",
       "verifiedAt": "2026-10-31T18:03:59Z"
-    },
-    {
-      "id": "finn-479678888",
-      "title": "Business Controller · Graduate-friendly",
-      "company": "Retura Norge",
-      "location": "Lillestrøm",
-      "type": "Permanent · Full time · Commercial controlling",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Finance",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Analyse sales and profitability, support budgets and forecasts, automate reporting, maintain pricing and customer data, and contribute to contract, tender and business-development work.",
-      "requirements": "Higher education in economics, finance or a similar field, very strong Excel and Norwegian are required. Controlling, Salesforce, Qlik and Power BI experience are advantageous rather than mandatory, and new graduates with a relevant background are explicitly encouraged. Deadline 16 November.",
-      "url": "https://www.finn.no/job/ad/479678888",
-      "deadline": "2026-11-16",
-      "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-16T07:11:05Z"
     },
     {
       "id": "finn-478112335",
@@ -1047,29 +1003,6 @@
       "deadline": null,
       "firstSeen": "2026-10-23",
       "verifiedAt": "2026-10-23T17:03:43Z"
-    },
-    {
-      "id": "finn-479219855",
-      "title": "Purchase Order Coordinator",
-      "company": "NORBIT EMS",
-      "location": "Røros",
-      "type": "Permanent · Full time · Purchasing and logistics",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Supply chain",
-        "Logistics",
-        "Procurement",
-        "Operations"
-      ],
-      "fit": "stretch",
-      "status": "open",
-      "summary": "Follow purchase orders, deliveries and deviations; maintain ERP records; and coordinate with buyers, suppliers, warehouse teams and production.",
-      "requirements": "Experience in purchasing, logistics or order handling plus an understanding of purchasing processes and EDI systems is required, so this is a stretch match. Norwegian and English are mandatory; interest in AI, agents and Power BI is requested. Training and support are offered. Deadline 16 November.",
-      "url": "https://www.finn.no/job/ad/479219855",
-      "deadline": "2026-11-16",
-      "firstSeen": "2026-10-25",
-      "verifiedAt": "2026-11-16T18:08:48Z"
     },
     {
       "id": "barilla-1444817433",
