@@ -1,38 +1,60 @@
 {
-  "updatedAt": "2026-11-17T07:06:51Z",
+  "updatedAt": "2026-11-17T17:58:36Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "17 November targeted search; Jobzone graduate accounting original rechecked (30 November header, rolling review) and Gassco FINN original confirms 18 November. Removed 3 known deadline-expired records: VOICE, Retura and NORBIT (16 November). Date-only deadlines today retained through Europe/Oslo day end. Other timestamps unchanged."
+      "note": "17 November evening targeted search and Adecco Gursken full original checked; one logistics coordinator added with practical/Excel and availability caveats. Expiry/status sweep removed 1 confirmed-closed Midport record; 51 total remain. Date-only deadlines today retained through Europe/Oslo day end; other timestamps unchanged."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Public search and full Gassco economics summer-student original read; absolute 18 November deadline cross-checked on FINN because NAV relative date is ambiguous. No duplicate added. Remaining records retain old verification timestamps."
+      "note": "Public search and full Gassco summer-finance original rechecked; deadline tomorrow, 18 November, relevant student with first year completed before summer 2027. No duplicate added; other records retain old timestamps."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Search and Sveio 310838 original attempted; JavaScript-only notice prevented verification. No new records inferred; old verification timestamps retained."
+      "note": "Search and Indre Østfold project controller 309356 original attempted; JavaScript-only notice prevented qualification verification. No new record inferred; old timestamps preserved."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Public search and current listings index checked. No new distinct verified match; existing client jobs were not individually reverified."
+      "note": "Public search and current listings index checked, including newly surfaced Ayvens/Kreftforeningen leads. No individual qualification verification for those leads, so none added. Existing records keep old timestamps."
     },
     {
       "name": "LinkedIn",
-      "status": "Degraded",
-      "note": "Public student/business search; Accenture graduate SCM original again returned HTTP 429. No new entry added from snippets. Retained records keep old verification timestamps."
+      "status": "Listings checked",
+      "note": "Public search and original Midport junior ERP logistics page read; explicitly no longer accepting applications. Removed linkedin-4476438809, not merely hidden. Other retained LinkedIn records were not reverified."
     },
     {
       "name": "Employer careers",
-      "status": "Degraded",
-      "note": "Storebrand Workday original returned no readable text; not added. Gassco application redirect inaccessible, but public FINN/NAV descriptions verified. AVA student lead has 1 November deadline and was not added. Other employer records retain old timestamps."
+      "status": "Listings checked",
+      "note": "TINE graduate controller original accessible and master's requirement visible; no new full qualification/date recheck, so prior timestamp retained. Limited employer coverage; no new verified employer-career candidate."
     }
   ],
   "jobs": [
+    {
+      "id": "finn-480667777",
+      "title": "Logistikk- og materiellkoordinator",
+      "company": "Adecco · unnamed maritime-industry client",
+      "location": "Gursken",
+      "type": "Full time · Temporary through November 2027",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Logistics",
+        "Supply chain",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Coordinate deliveries, material records and shipments in a maritime project, combining administrative follow-up with practical packing and handling. ASAP start; Monday–Friday 08:00–16:00.",
+      "requirements": "Good Excel skills and experience creating and maintaining records/documentation, practical aptitude, technical understanding, and Norwegian/English required. No specific degree or minimum professional tenure stated. Warehouse, logistics or maritime experience is advantageous and relevant experience is weighted strongly; not an explicitly student-targeted role. Availability for full-time on-site work must be checked.",
+      "url": "https://www.finn.no/job/ad/480667777",
+      "deadline": "2026-11-27",
+      "firstSeen": "2026-11-17",
+      "verifiedAt": "2026-11-17T17:58:36Z"
+    },
     {
       "status": "open",
       "fit": "potential",
@@ -394,7 +416,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/f45f5d4d-b534-461e-94cf-796d7b001c10",
       "deadline": "2026-11-18",
       "firstSeen": "2026-11-10",
-      "verifiedAt": "2026-11-17T07:06:51Z"
+      "verifiedAt": "2026-11-17T17:58:36Z"
     },
     {
       "id": "nav-440b2181",
@@ -933,29 +955,6 @@
       "deadline": null,
       "firstSeen": "2026-09-24",
       "verifiedAt": "2026-09-28T06:09:19Z"
-    },
-    {
-      "id": "linkedin-4476438809",
-      "title": "Junior ERP Consultant · Logistics",
-      "company": "Midport Scandinavia",
-      "location": "Oslo",
-      "type": "Permanent · Full time · Junior consulting and academy programme",
-      "source": "LinkedIn",
-      "categories": [
-        "Supply chain",
-        "Logistics",
-        "Procurement",
-        "Operations",
-        "Business"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Join Midport Academy and learn to turn logistics, purchasing, warehouse, production and service processes into ERP solutions through workshops, configuration, testing and improvement projects.",
-      "requirements": "A recently completed relevant degree in logistics, supply chain, industrial economics, engineering or IT, or equivalent relevant work experience, is required. Fluent Norwegian and English, a driving licence, travel readiness and Norwegian citizenship are mandatory. Industry and ERP experience are advantages rather than requirements. Applications are reviewed on a rolling basis.",
-      "url": "https://no.linkedin.com/jobs/view/junior-erp-consultant-%E2%80%93-logistics-at-midport-scandinavia-4476438809",
-      "deadline": null,
-      "firstSeen": "2026-10-22",
-      "verifiedAt": "2026-11-07T18:06:45Z"
     },
     {
       "id": "sap-1449082633",
