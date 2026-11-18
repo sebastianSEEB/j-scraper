@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-17T17:58:36Z",
+  "updatedAt": "2026-11-18T07:08:11Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "17 November evening targeted search and Adecco Gursken full original checked; one logistics coordinator added with practical/Excel and availability caveats. Expiry/status sweep removed 1 confirmed-closed Midport record; 51 total remain. Date-only deadlines today retained through Europe/Oslo day end; other timestamps unchanged."
+      "note": "18 November targeted public search and Gassco original checked. Removed 1 past-deadline record (TINE, 17 November); today's date-only deadlines remain valid through Europe/Oslo day end. Other retained timestamps unchanged; not an exhaustive sweep of every original."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Public search and full Gassco summer-finance original rechecked; deadline tomorrow, 18 November, relevant student with first year completed before summer 2027. No duplicate added; other records retain old timestamps."
+      "note": "Targeted search and Gassco summer-finance original rechecked: deadline today, 18 November; relevant student and first study year completed before summer 2027. Existing ID/firstSeen retained; other records not reverified."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Search and Indre Østfold project controller 309356 original attempted; JavaScript-only notice prevented qualification verification. No new record inferred; old timestamps preserved."
+      "note": "Public search and Indre Østfold project controller 309356 original attempted; JavaScript-only page prevented qualification verification. No new record inferred; existing timestamps preserved."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Public search and current listings index checked, including newly surfaced Ayvens/Kreftforeningen leads. No individual qualification verification for those leads, so none added. Existing records keep old timestamps."
+      "note": "Public search and Kreftforeningen Data Analyst original read. Relevant professional analyst/data-scientist experience and technical skills required; not added as a junior match. Existing records retain prior timestamps."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public search and original Midport junior ERP logistics page read; explicitly no longer accepting applications. Removed linkedin-4476438809, not merely hidden. Other retained LinkedIn records were not reverified."
+      "note": "Public search and Accenture Graduate 2027 Supply Chain & Engineering original read successfully. Added as stretch: master-level target profile, bachelor eligibility unconfirmed, rolling applications. Other records not reverified."
     },
     {
       "name": "Employer careers",
-      "status": "Listings checked",
-      "note": "TINE graduate controller original accessible and master's requirement visible; no new full qualification/date recheck, so prior timestamp retained. Limited employer coverage; no new verified employer-career candidate."
+      "status": "Degraded",
+      "note": "Storebrand student investment-role Workday original returned no readable content. No successful verification claimed or new record inferred; retained records keep old timestamps unless known deadline passed. Limited employer-career coverage."
     }
   ],
   "jobs": [
@@ -416,7 +416,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/f45f5d4d-b534-461e-94cf-796d7b001c10",
       "deadline": "2026-11-18",
       "firstSeen": "2026-11-10",
-      "verifiedAt": "2026-11-17T17:58:36Z"
+      "verifiedAt": "2026-11-18T07:08:11Z"
     },
     {
       "id": "nav-440b2181",
@@ -592,27 +592,6 @@
       "deadline": null,
       "firstSeen": "2026-10-31",
       "verifiedAt": "2026-10-31T18:03:59Z"
-    },
-    {
-      "id": "tine-1374704555",
-      "title": "Graduate Business Controller",
-      "company": "TINE",
-      "location": "Oslo · Possible rotation in Trondheim",
-      "type": "Permanent · Full time · Graduate programme",
-      "source": "Employer careers",
-      "categories": [
-        "Business",
-        "Finance",
-        "Operations"
-      ],
-      "fit": "stretch",
-      "status": "open",
-      "summary": "Rotate across TINE's finance teams before moving into a permanent business-controller role, working with business cases, profitability, forecasting, management reporting and decision-support tools.",
-      "requirements": "A master's degree in economics, finance or a comparable field must be completed or nearly completed. Strong analytical, modelling and Excel skills plus Norwegian and English are required. No professional-experience minimum is stated, but the mandatory master's degree makes this a stretch match. Deadline 17 November.",
-      "url": "https://careers.tine.no/job/OSLO-Kickstart-karrieren-som-graduate-business-controll-950/1374704555/",
-      "deadline": "2026-11-17",
-      "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-16T18:08:48Z"
     },
     {
       "id": "finn-479685623",
@@ -1109,6 +1088,27 @@
       "deadline": "2026-11-22",
       "firstSeen": "2026-10-29",
       "verifiedAt": "2026-10-29T17:58:26Z"
+    },
+    {
+      "id": "linkedin-4489828759",
+      "title": "Graduate 2027 | Supply Chain & Engineering",
+      "company": "Accenture Nordics",
+      "location": "Oslo",
+      "type": "Graduate · Full time · August 2027 start",
+      "source": "LinkedIn",
+      "categories": [
+        "Supply chain",
+        "Procurement",
+        "Business"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Graduate consulting work across supply-chain planning, procurement and operational improvement, with digital systems and data supporting client projects.",
+      "requirements": "Master-level profile: the advertisement says it would like candidates completing a master's in spring 2027 or newly graduated; bachelor-only eligibility is not confirmed. Strong academic results and fluent Norwegian and English expected. No professional-experience minimum stated. Start August 2027; applications reviewed continuously, no fixed closing date stated.",
+      "url": "https://no.linkedin.com/jobs/view/graduate-2027-supply-chain-engineering-at-accenture-nordics-4489828759",
+      "deadline": null,
+      "firstSeen": "2026-11-18",
+      "verifiedAt": "2026-11-18T07:08:11Z"
     }
   ]
 }
