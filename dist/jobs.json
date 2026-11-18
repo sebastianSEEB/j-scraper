@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-18T07:08:11Z",
+  "updatedAt": "2026-11-18T17:57:58Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "18 November targeted public search and Gassco original checked. Removed 1 past-deadline record (TINE, 17 November); today's date-only deadlines remain valid through Europe/Oslo day end. Other retained timestamps unchanged; not an exhaustive sweep of every original."
+      "note": "18 November evening targeted search and full Skretting original rechecked: 20 November deadline, master-level or compensating experience profile remains stretch. Deadline/status cleanup removed 0 records; today's date-only deadlines remain valid through Oslo day end. Other original pages not exhaustively rechecked."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Targeted search and Gassco summer-finance original rechecked: deadline today, 18 November; relevant student and first study year completed before summer 2027. Existing ID/firstSeen retained; other records not reverified."
+      "note": "Targeted public search and Gassco finance-summer original rechecked; deadline today, 18 November. Existing ID and firstSeen retained. Other records retain prior verification timestamps."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public search and Indre Østfold project controller 309356 original attempted; JavaScript-only page prevented qualification verification. No new record inferred; existing timestamps preserved."
+      "note": "Public search and NTNU controller 311282 original attempted; JavaScript-only page prevented qualification verification. No new record inferred; existing timestamps preserved."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Public search and Kreftforeningen Data Analyst original read. Relevant professional analyst/data-scientist experience and technical skills required; not added as a junior match. Existing records retain prior timestamps."
+      "note": "Public search and current original listings index checked, including Arla and FINN Nybil already in the snapshot. No new individually verified candidate added; existing timestamps unchanged."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public search and Accenture Graduate 2027 Supply Chain & Engineering original read successfully. Added as stretch: master-level target profile, bachelor eligibility unconfirmed, rolling applications. Other records not reverified."
+      "note": "Public search and Cognizant AIA internship original read. Retrievals exposed inconsistent versions of qualifications and practical details; no new record added or existing related consulting record reverified."
     },
     {
       "name": "Employer careers",
-      "status": "Degraded",
-      "note": "Storebrand student investment-role Workday original returned no readable content. No successful verification claimed or new record inferred; retained records keep old timestamps unless known deadline passed. Limited employer-career coverage."
+      "status": "Listings checked",
+      "note": "BNP Paribas original Corporate Coverage part-time internship fully read: current students, no stated master or professional-experience requirement, deadline 23 November 2026. Added one candidate. Employer coverage targeted, not exhaustive; other records retain old timestamps."
     }
   ],
   "jobs": [
@@ -416,7 +416,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/f45f5d4d-b534-461e-94cf-796d7b001c10",
       "deadline": "2026-11-18",
       "firstSeen": "2026-11-10",
-      "verifiedAt": "2026-11-18T07:08:11Z"
+      "verifiedAt": "2026-11-18T17:57:58Z"
     },
     {
       "id": "nav-440b2181",
@@ -614,7 +614,7 @@
       "url": "https://www.finn.no/job/ad/479685623",
       "deadline": "2026-11-20",
       "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-10-31T18:03:59Z"
+      "verifiedAt": "2026-11-18T17:57:58Z"
     },
     {
       "id": "academicwork-FQ0N82",
@@ -1109,6 +1109,27 @@
       "deadline": null,
       "firstSeen": "2026-11-18",
       "verifiedAt": "2026-11-18T07:08:11Z"
+    },
+    {
+      "id": "bnp-1234567890100124990",
+      "title": "Corporate Coverage Intern · Student part-time",
+      "company": "BNP Paribas",
+      "location": "Oslo",
+      "type": "Internship · Part time · 1–2 days/week · Early 2027",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Finance",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Support corporate-banking operations through client documentation, KYC checks, risk-assessment data and presentation updates.",
+      "requirements": "Ongoing academic degree with strong results, proficiency in Excel and PowerPoint and excellent English. Norwegian preferred, not required. No master's degree or prior professional-experience requirement stated. Typically 1–2 days weekly from early 2027, with variable workload; availability must fit studies. Deadline 23 November 2026.",
+      "url": "https://group.bnpparibas/en/careers/job-offer/corporate-coverage-intern-part-time",
+      "deadline": "2026-11-23",
+      "firstSeen": "2026-11-18",
+      "verifiedAt": "2026-11-18T17:57:58Z"
     }
   ]
 }
