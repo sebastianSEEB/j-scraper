@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-19T07:02:07Z",
+  "updatedAt": "2026-11-19T18:05:52Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "19 November targeted public search and Bunker Oil full original checked: bachelor/master required, graduates welcome, deadline 20 November. Gassco FINN confirms absolute deadline 18 November. Cleanup removed 4 past-deadline records (Gassco, Fauske, Norsk Gjenvinning, Summa); 48 remain. Other verification timestamps preserved."
+      "note": "19 November evening targeted searches and FINN Nybil original checked. Latest original explicitly says deadline expired; removed finn-480831479, not archived. Cleanup removed 1 record; 47 remain. Other verification timestamps unchanged."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Targeted public searches and Gassco original read. NAV relative 'today' label conflicts with FINN absolute 18 November deadline; removed using the confirmed absolute deadline. Other originals not exhaustively rechecked."
+      "note": "Public search and Jobzone graduate accounting original rechecked: bachelor completed or completing spring 2027, start autumn 2027, deadline 30 November. Existing ID/firstSeen retained; no duplicate added."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public search and NTNU controller 311282 original attempted; JavaScript-only response prevented verification. No new record inferred; old verification timestamps preserved."
+      "note": "Public search and Indre Østfold project controller original attempted; JavaScript-only response prevented qualification verification. No new record inferred; old timestamps preserved."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Public search and current original listings index checked (41 listed roles), including existing Arla and FINN Nybil leads. No newly verified individual junior role added; old timestamps preserved."
+      "note": "Public search and current original listings index checked. FINN Nybil no longer listed on first page; closure confirmed independently on FINN, not inferred from absence. No new individually verified junior candidate added."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public search and Cognizant AIA internship original read. Current page targets business/technology students or recent graduates, but compensation/practical details differ from prior versions; no new candidate added pending clarification. Existing related consulting record not reverified."
+      "note": "Public search and Yinson Procurement Intern page opened; employer original used for full verification. Same vacancy as existing finn-480716806; no duplicate added. Other records not reverified."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "BNP Paribas Corporate Coverage original reopened; partial recheck only, so prior full verification timestamp retained. No new employer-career record added. Coverage targeted, not exhaustive."
+      "note": "Yinson Norway index plus Operations and Procurement internship originals read. Procurement remains student/bachelor-friendly, no prior experience required, rolling selection; existing record updated to employer canonical URL. Operations is technical-engineering focused and was not added as a strong BBA match."
     }
   ],
   "jobs": [
@@ -162,26 +162,6 @@
       "status": "open",
       "firstSeen": "2026-11-13",
       "verifiedAt": "2026-11-13T18:07:08Z",
-      "id": "finn-480831479",
-      "title": "Data- og innholdsmedarbeider · FINN Nybil",
-      "company": "Vend Marketplaces via Academic Work",
-      "location": "Oslo",
-      "type": "Part-time · approximately 16 hours/week",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Operations"
-      ],
-      "fit": "potential",
-      "summary": "Maintain vehicle catalogue data and prices, check AI-produced content and coordinate corrections with sales and manufacturers. Flexible student-compatible hours.",
-      "requirements": "Active AI-tool use, car knowledge, visual judgement, Norwegian and English plus reading Swedish and Danish required. Relevant studies welcome but no completed degree, master's or professional-experience minimum stated. Rolling selection; apply promptly.",
-      "url": "https://www.finn.no/job/ad/480831479",
-      "deadline": null
-    },
-    {
-      "status": "open",
-      "firstSeen": "2026-11-13",
-      "verifiedAt": "2026-11-13T18:07:08Z",
       "id": "academicwork-KPCN6X",
       "title": "Customer Logistics Specialist",
       "company": "Arla Foods via Academic Work",
@@ -301,7 +281,7 @@
       "company": "Yinson Production AS",
       "location": "Oslo · On-site",
       "type": "Summer internship · Full time",
-      "source": "FINN",
+      "source": "Employer careers",
       "categories": [
         "Business",
         "Supply chain",
@@ -313,10 +293,10 @@
       "status": "open",
       "summary": "Support purchasing, delivery tracking, supplier onboarding and invoice matching for offshore FPSO operations, with training and mentoring.",
       "requirements": "Current bachelor or master student in business administration, supply chain, logistics, procurement, engineering or a related field. English, digital/Excel skills and eligibility to work in Norway required. Previous procurement or supply-chain experience explicitly not required. Rolling ASAP applications; no fixed deadline.",
-      "url": "https://www.finn.no/job/ad/480716806",
+      "url": "https://careers.yinson.com/job/Oslo-Procurement-Intern/1376506355/",
       "deadline": null,
       "firstSeen": "2026-11-11",
-      "verifiedAt": "2026-11-11T07:04:07.279Z"
+      "verifiedAt": "2026-11-19T18:05:52Z"
     },
     {
       "id": "finn-480623254",
@@ -335,7 +315,7 @@
       "url": "https://www.finn.no/job/ad/480623254",
       "deadline": "2026-11-30",
       "firstSeen": "2026-11-10",
-      "verifiedAt": "2026-11-17T07:06:51Z"
+      "verifiedAt": "2026-11-19T18:05:52Z"
     },
     {
       "id": "finn-480602652",
