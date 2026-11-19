@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-18T17:57:58Z",
+  "updatedAt": "2026-11-19T07:02:07Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "18 November evening targeted search and full Skretting original rechecked: 20 November deadline, master-level or compensating experience profile remains stretch. Deadline/status cleanup removed 0 records; today's date-only deadlines remain valid through Oslo day end. Other original pages not exhaustively rechecked."
+      "note": "19 November targeted public search and Bunker Oil full original checked: bachelor/master required, graduates welcome, deadline 20 November. Gassco FINN confirms absolute deadline 18 November. Cleanup removed 4 past-deadline records (Gassco, Fauske, Norsk Gjenvinning, Summa); 48 remain. Other verification timestamps preserved."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Targeted public search and Gassco finance-summer original rechecked; deadline today, 18 November. Existing ID and firstSeen retained. Other records retain prior verification timestamps."
+      "note": "Targeted public searches and Gassco original read. NAV relative 'today' label conflicts with FINN absolute 18 November deadline; removed using the confirmed absolute deadline. Other originals not exhaustively rechecked."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public search and NTNU controller 311282 original attempted; JavaScript-only page prevented qualification verification. No new record inferred; existing timestamps preserved."
+      "note": "Public search and NTNU controller 311282 original attempted; JavaScript-only response prevented verification. No new record inferred; old verification timestamps preserved."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Public search and current original listings index checked, including Arla and FINN Nybil already in the snapshot. No new individually verified candidate added; existing timestamps unchanged."
+      "note": "Public search and current original listings index checked (41 listed roles), including existing Arla and FINN Nybil leads. No newly verified individual junior role added; old timestamps preserved."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public search and Cognizant AIA internship original read. Retrievals exposed inconsistent versions of qualifications and practical details; no new record added or existing related consulting record reverified."
+      "note": "Public search and Cognizant AIA internship original read. Current page targets business/technology students or recent graduates, but compensation/practical details differ from prior versions; no new candidate added pending clarification. Existing related consulting record not reverified."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "BNP Paribas original Corporate Coverage part-time internship fully read: current students, no stated master or professional-experience requirement, deadline 23 November 2026. Added one candidate. Employer coverage targeted, not exhaustive; other records retain old timestamps."
+      "note": "BNP Paribas Corporate Coverage original reopened; partial recheck only, so prior full verification timestamp retained. No new employer-career record added. Coverage targeted, not exhaustive."
     }
   ],
   "jobs": [
@@ -94,27 +94,6 @@
       "summary": "B2B outreach and customer meetings for an unnamed health-products business, including presentations, price comparisons and customer follow-up. Advertised pay NOK 200/hour.",
       "requirements": "Must be a student with regular availability; no specific study field or previous sales experience required. Professional Norwegian, Outlook/PowerPoint, digital confidence and interest in AI expected. Work arranged within 08–18; ASAP by agreement. CV and transcript requested. Deadline not stated; public listing accepts applications.",
       "url": "https://no.linkedin.com/jobs/view/business-development-associate-%E2%80%93-deltid-for-studenter-at-business-and-technology-consulting-services-as-4488847497"
-    },
-    {
-      "status": "open",
-      "fit": "stretch",
-      "firstSeen": "2026-11-14",
-      "verifiedAt": "2026-11-14T17:56:34Z",
-      "id": "nav-58920568",
-      "title": "Administrasjon- og virksomhetskoordinator",
-      "company": "Norsk Gjenvinning",
-      "location": "Heimdal, Trondheim",
-      "type": "Administration and business support",
-      "source": "NAV Arbeidsplassen",
-      "categories": [
-        "Business",
-        "Operations",
-        "Finance"
-      ],
-      "summary": "Support regional management with monthly closing, profitability analysis, invoices, administration and process improvement.",
-      "requirements": "Bachelor in economics, administration, logistics or equivalent; relevant experience can compensate. Mandatory experience in analysis, reporting or financial follow-up (duration unspecified), strong Excel, accounting understanding and Norwegian/English. Power BI and SAP preferred. Not a no-experience role. Deadline 18 November 2026; rolling review.",
-      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/58920568-d587-42e0-8b7a-6ee1e0ec6e69",
-      "deadline": "2026-11-18"
     },
     {
       "status": "open",
@@ -278,25 +257,6 @@
       "verifiedAt": "2026-11-13T07:03:59.887Z"
     },
     {
-      "id": "linkedin-4487470089",
-      "title": "Management Intern · Completed master's preferred",
-      "company": "Summa Equity",
-      "location": "Oslo",
-      "type": "Internship · Full time · 12 months from January 2027",
-      "source": "LinkedIn",
-      "categories": [
-        "Business"
-      ],
-      "fit": "stretch",
-      "status": "open",
-      "summary": "Support operations leadership with data analysis, process improvement, investor materials and strategic projects.",
-      "requirements": "Recent graduate; completed relevant master's with strong grades is described as ideal, not explicitly mandatory. Advanced Excel/PowerPoint, analytical skills and fluent English expected. Prior analytical internship is an advantage, explicitly not required. Stretch for bachelor/current-student profile; full-time availability from January 2027 needed.",
-      "url": "https://no.linkedin.com/jobs/view/management-intern-at-summa-equity-4487470089",
-      "deadline": "2026-11-18",
-      "firstSeen": "2026-11-12",
-      "verifiedAt": "2026-11-12T07:07:08.941Z"
-    },
-    {
       "id": "linkedin-4487937173",
       "title": "Professional Team Intern · Student",
       "company": "Colgate-Palmolive",
@@ -398,27 +358,6 @@
       "verifiedAt": "2026-11-10T17:59:17.831Z"
     },
     {
-      "id": "nav-f45f5d4d",
-      "title": "Finance Summer Student",
-      "company": "Gassco",
-      "location": "Kopervik · On-site",
-      "type": "Summer position · Full time · Finance operations",
-      "source": "NAV",
-      "categories": [
-        "Business",
-        "Finance",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Support day-to-day finance operations by checking and processing supplier invoices, assisting with payments and supplier follow-up, preparing customer invoices, and contributing to reconciliations and process improvements.",
-      "requirements": "Must study economics, accounting, auditing or a similar subject at a university or university college and complete at least the first study year before summer 2027. Digital understanding and the ability to learn new systems are required. No professional-experience minimum is stated. Deadline 18 November.",
-      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/f45f5d4d-b534-461e-94cf-796d7b001c10",
-      "deadline": "2026-11-18",
-      "firstSeen": "2026-11-10",
-      "verifiedAt": "2026-11-18T17:57:58Z"
-    },
-    {
       "id": "nav-440b2181",
       "title": "Operations Intelligence Controller · Experience required",
       "company": "Bergen Engines",
@@ -440,27 +379,6 @@
       "deadline": "2026-11-22",
       "firstSeen": "2026-11-09",
       "verifiedAt": "2026-11-09T07:01:05Z"
-    },
-    {
-      "id": "nav-3ac06c6f",
-      "title": "Controller / Economics Adviser · Graduate-friendly",
-      "company": "Fauske kommune",
-      "location": "Fauske",
-      "type": "Permanent · Full time · Municipal finance and analysis",
-      "source": "NAV",
-      "categories": [
-        "Business",
-        "Finance",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Support municipal leaders with budgets, financial plans, annual accounts and reporting; analyse results and forecasts, develop decision support and improve internal-control and finance processes.",
-      "requirements": "Relevant higher education in economics, accounting, auditing or a similar field is required. Economics and analysis experience is desirable rather than mandatory, and new graduates with relevant education and an interest in financial management are explicitly encouraged. Excel experience, Norwegian communication and a sound understanding of financial analysis are required; Power BI is advantageous only. Deadline 18 November.",
-      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/3ac06c6f-4b96-4d72-92f8-b59ed5a14543",
-      "deadline": "2026-11-18",
-      "firstSeen": "2026-11-08",
-      "verifiedAt": "2026-11-08T07:01:23Z"
     },
     {
       "id": "finn-480247421",
@@ -1065,7 +983,7 @@
       "url": "https://www.finn.no/job/ad/479832790",
       "deadline": "2026-11-20",
       "firstSeen": "2026-10-29",
-      "verifiedAt": "2026-10-29T17:58:26Z"
+      "verifiedAt": "2026-11-19T07:02:07Z"
     },
     {
       "id": "finn-479848356",
