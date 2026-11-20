@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-19T18:05:52Z",
+  "updatedAt": "2026-11-20T06:58:32Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "19 November evening targeted searches and FINN Nybil original checked. Latest original explicitly says deadline expired; removed finn-480831479, not archived. Cleanup removed 1 record; 47 remain. Other verification timestamps unchanged."
+      "note": "20 November searches and original StudentConsulting returns role read; added as stretch because relevant experience required. Bunker Oil deadline/status checked: 20 November; prior full verification timestamp retained. Cleanup removed 0 records; date-only deadlines today valid through Oslo day end."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Public search and Jobzone graduate accounting original rechecked: bachelor completed or completing spring 2027, start autumn 2027, deadline 30 November. Existing ID/firstSeen retained; no duplicate added."
+      "note": "Targeted public searches and existing Jobzone graduate accounting original reopened. No new unique verified role; no full re-verification timestamp change for existing records."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public search and Indre Østfold project controller original attempted; JavaScript-only response prevented qualification verification. No new record inferred; old timestamps preserved."
+      "note": "Public search and Indre Østfold project controller original attempted; JavaScript-only response prevented qualification verification. No new record inferred; existing timestamps preserved."
     },
     {
       "name": "Academic Work",
       "status": "Listings checked",
-      "note": "Public search and current original listings index checked. FINN Nybil no longer listed on first page; closure confirmed independently on FINN, not inferred from absence. No new individually verified junior candidate added."
+      "note": "Public search and current original listings index checked (41 roles); no new individually verified relevant junior vacancy. Existing record timestamps unchanged."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public search and Yinson Procurement Intern page opened; employer original used for full verification. Same vacancy as existing finn-480716806; no duplicate added. Other records not reverified."
+      "note": "Public search and Rosenlund & Co Finance Intern original fully read. Added bachelor/student-friendly summer 2027 opportunity, deadline 15 December 2026; no prior experience requirement stated."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Yinson Norway index plus Operations and Procurement internship originals read. Procurement remains student/bachelor-friendly, no prior experience required, rolling selection; existing record updated to employer canonical URL. Operations is technical-engineering focused and was not added as a strong BBA match."
+      "note": "Yinson Procurement Intern original reopened and vacancy remains displayed; partial check only, retaining prior full-verification timestamp. No new employer-career vacancy added; coverage targeted."
     }
   ],
   "jobs": [
@@ -1028,6 +1028,47 @@
       "deadline": "2026-11-23",
       "firstSeen": "2026-11-18",
       "verifiedAt": "2026-11-18T17:57:58Z"
+    },
+    {
+      "id": "linkedin-4484237502",
+      "title": "Finance Intern · Summer Internship 2027",
+      "company": "Rosenlund & Co",
+      "location": "Oslo",
+      "type": "Summer internship · 2027",
+      "source": "LinkedIn",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Assist with financial analysis, accounting, market research and investor materials in a small team.",
+      "requirements": "Current bachelor or master student in economics, business or finance; mathematics, physics and related engineering students also considered. Structured working style and strong writing skills expected. No completed degree, mandatory master's or prior professional-experience requirement stated. Summer 2027 start; deadline 15 December 2026. Pay and exact duration not stated.",
+      "url": "https://no.linkedin.com/jobs/view/finance-intern-summer-internship-2027-at-rosenlund-co-4484237502",
+      "deadline": "2026-12-15",
+      "firstSeen": "2026-11-20",
+      "verifiedAt": "2026-11-20T06:58:32Z"
+    },
+    {
+      "id": "finn-481243266",
+      "title": "Returmedarbeider · Part-time logistics and administration",
+      "company": "StudentConsulting · Undisclosed client",
+      "location": "Oslo · Helsfyr · On-site",
+      "type": "Short-term assignment · Part time · 2 fixed days/week",
+      "source": "FINN",
+      "categories": [
+        "Business",
+        "Logistics",
+        "Operations"
+      ],
+      "fit": "stretch",
+      "status": "open",
+      "summary": "Handle equipment returns and warranty documentation, record discrepancies and coordinate shipments and customer follow-up.",
+      "requirements": "Experience in administration, logistics or customer service required; no minimum duration stated. IT-system confidence, communication and attention to detail expected. No degree requirement stated. Latest full ad specifies 16:00–20:00, normally 3–4 hours on Monday/Wednesday or Tuesday/Thursday; immediate start preferred. Rolling selection; no fixed deadline.",
+      "url": "https://www.finn.no/job/ad/481243266",
+      "deadline": null,
+      "firstSeen": "2026-11-20",
+      "verifiedAt": "2026-11-20T06:58:32Z"
     }
   ]
 }
