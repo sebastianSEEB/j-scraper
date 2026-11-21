@@ -1,38 +1,99 @@
 {
-  "updatedAt": "2026-11-20T06:58:32Z",
+  "updatedAt": "2026-11-21T07:00:30Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "20 November searches and original StudentConsulting returns role read; added as stretch because relevant experience required. Bunker Oil deadline/status checked: 20 November; prior full verification timestamp retained. Cleanup removed 0 records; date-only deadlines today valid through Oslo day end."
+      "note": "21 Nov: targeted logistics searches and original Brunvoll/Sparebank 68 Nord ads checked. Added Brunvoll; removed 2 records whose 20 Nov deadlines passed in Europe/Oslo. Other unchanged records retain earlier verification times. Not an exhaustive feed."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "Targeted public searches and existing Jobzone graduate accounting original reopened. No new unique verified role; no full re-verification timestamp change for existing records."
+      "note": "21 Nov: targeted graduate/economics search and Digdir original checked. Added Digdir as stretch: master's or bachelor plus substantial experience. Other records not reverified."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "Public search and Indre Østfold project controller original attempted; JavaScript-only response prevented qualification verification. No new record inferred; existing timestamps preserved."
+      "note": "21 Nov: searches returned largely research roles; original project-controller page 309356 still exposes only JavaScript notice. No unverified new listing added; prior timestamps preserved."
     },
     {
       "name": "Academic Work",
-      "status": "Listings checked",
-      "note": "Public search and current original listings index checked (41 roles); no new individually verified relevant junior vacancy. Existing record timestamps unchanged."
+      "status": "Degraded",
+      "note": "21 Nov: public index shows 41 vacancies, including Geia Food lead not individually verified. Atea receivables original timed out; retained with old verification timestamp and known 22 Nov deadline."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "Public search and Rosenlund & Co Finance Intern original fully read. Added bachelor/student-friendly summer 2027 opportunity, deadline 15 December 2026; no prior experience requirement stated."
+      "note": "21 Nov: public Fearnleys original now readable; full student qualifications and 20 Dec deadline checked, added once. Other LinkedIn records retain earlier timestamps. No login used."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "Yinson Procurement Intern original reopened and vacancy remains displayed; partial check only, retaining prior full-verification timestamp. No new employer-career vacancy added; coverage targeted."
+      "note": "21 Nov: Fearnleys employer index confirms Oslo summer internship; BNP original fully rechecked, student part-time role with 23 Nov deadline. Other employer records retain prior verification times."
     }
   ],
   "jobs": [
+    {
+      "status": "open",
+      "firstSeen": "2026-11-21",
+      "verifiedAt": "2026-11-21T07:00:30Z",
+      "id": "linkedin-4486175248",
+      "title": "Summer Internship 2027 · Shipbroking",
+      "company": "Fearnleys",
+      "location": "Oslo",
+      "type": "Summer internship · 2027",
+      "source": "LinkedIn",
+      "categories": [
+        "Shipping",
+        "Business"
+      ],
+      "fit": "potential",
+      "summary": "Rotate across shipping desks and market segments to learn shipbroking work.",
+      "requirements": "Students, preferably third or fourth year; strong academic results, shipping interest, geographical awareness and excellent English. Negotiating and collaboration skills expected. No mandatory master's or prior professional experience stated. Summer 2027; pay and precise duration not stated.",
+      "url": "https://no.linkedin.com/jobs/view/summer-internship-2027-at-fearnleys-4486175248",
+      "deadline": "2026-12-20"
+    },
+    {
+      "status": "open",
+      "firstSeen": "2026-11-21",
+      "verifiedAt": "2026-11-21T07:00:30Z",
+      "id": "finn-481272731",
+      "title": "Shipping Coordinator",
+      "company": "Brunvoll AS",
+      "location": "Molde",
+      "type": "Permanent · Full-time",
+      "source": "FINN",
+      "categories": [
+        "Shipping",
+        "Logistics",
+        "Supply chain"
+      ],
+      "fit": "potential",
+      "summary": "Coordinate inbound and outbound freight, customs documents, shipment follow-up and transport cost forecasts.",
+      "requirements": "Relevant logistics education or equivalent; level unspecified. Shipping/transport experience is desirable, not mandatory. Good Norwegian and English required. No master's requirement stated; degree completion and availability must be checked against your situation.",
+      "url": "https://www.finn.no/job/ad/481272731",
+      "deadline": "2027-01-03"
+    },
+    {
+      "status": "open",
+      "firstSeen": "2026-11-21",
+      "verifiedAt": "2026-11-21T07:00:30Z",
+      "id": "nav-528610c6",
+      "title": "Controller · Master's or substantial experience required",
+      "company": "Digitaliseringsdirektoratet (Digdir)",
+      "location": "Oslo / Leikanger / Brønnøysund",
+      "type": "Full-time",
+      "source": "NAV Arbeidsplassen",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "stretch",
+      "summary": "Budgeting, financial reporting and data-led analysis supporting public-sector resource allocation.",
+      "requirements": "Advisor route requires master's in economics or equivalent; prior work experience not required. Senior route requires substantial relevant experience and analytical tools; relevant bachelor plus at least five years' experience can compensate for master's. Good Norwegian required. Not a bachelor-only entry-level match.",
+      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/528610c6-2ada-4691-ba9e-529e2429bada",
+      "deadline": "2026-11-24"
+    },
     {
       "id": "finn-480667777",
       "title": "Logistikk- og materiellkoordinator",
@@ -422,7 +483,7 @@
       "url": "https://www.finn.no/job/ad/479818606",
       "deadline": "2026-11-22",
       "firstSeen": "2026-11-03",
-      "verifiedAt": "2026-11-03T06:57:37Z"
+      "verifiedAt": "2026-11-21T07:00:30Z"
     },
     {
       "id": "nav-1e3c045a",
@@ -490,29 +551,6 @@
       "deadline": null,
       "firstSeen": "2026-10-31",
       "verifiedAt": "2026-10-31T18:03:59Z"
-    },
-    {
-      "id": "finn-479685623",
-      "title": "Raw-material Optimisation Specialist · Graduate-friendly",
-      "company": "Skretting",
-      "location": "Stavanger or Averøy",
-      "type": "Permanent · Full time · Supply-chain optimisation",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Supply chain",
-        "Logistics",
-        "Procurement",
-        "Operations"
-      ],
-      "fit": "stretch",
-      "status": "open",
-      "summary": "Optimise feed recipes and raw-material availability, analyse production data, improve planning and data flows, and build decision-support solutions across procurement, inbound logistics and production.",
-      "requirements": "A master's-level profile in data science, industrial economics, logistics or a related field is expected, with data analysis, optimisation or operations-research skills, programming or API experience, Norwegian and English. Relevant professional experience and demonstrated competence may compensate for the master's degree. New graduates are encouraged, but the advanced technical and master's-level profile makes this a stretch match. Deadline 20 November.",
-      "url": "https://www.finn.no/job/ad/479685623",
-      "deadline": "2026-11-20",
-      "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-18T17:57:58Z"
     },
     {
       "id": "academicwork-FQ0N82",
@@ -944,28 +982,6 @@
       "verifiedAt": "2026-10-29T07:07:43Z"
     },
     {
-      "id": "finn-479832790",
-      "title": "Controller",
-      "company": "Bunker Oil",
-      "location": "Ålesund",
-      "type": "Permanent · Full time · Finance and controlling",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Finance",
-        "Shipping",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Support month- and year-end closing, public reporting, budgeting, bookkeeping backup, financial analysis, KPI follow-up and improvement of finance processes for a maritime fuel supplier.",
-      "requirements": "A bachelor's or master's in economics and administration is mandatory. Newly graduated candidates are explicitly welcome and prior professional experience is not required. Strong Excel and interest in digital tools are expected; Business Central or other ERP knowledge is advantageous rather than mandatory. Deadline 20 November.",
-      "url": "https://www.finn.no/job/ad/479832790",
-      "deadline": "2026-11-20",
-      "firstSeen": "2026-10-29",
-      "verifiedAt": "2026-11-19T07:02:07Z"
-    },
-    {
       "id": "finn-479848356",
       "title": "Økonomi- og virksomhetskontroller",
       "company": "Forsvarsmateriell",
@@ -1027,7 +1043,7 @@
       "url": "https://group.bnpparibas/en/careers/job-offer/corporate-coverage-intern-part-time",
       "deadline": "2026-11-23",
       "firstSeen": "2026-11-18",
-      "verifiedAt": "2026-11-18T17:57:58Z"
+      "verifiedAt": "2026-11-21T07:00:30Z"
     },
     {
       "id": "linkedin-4484237502",
