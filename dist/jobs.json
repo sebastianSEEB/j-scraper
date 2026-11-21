@@ -1,38 +1,99 @@
 {
-  "updatedAt": "2026-11-21T07:00:30Z",
+  "updatedAt": "2026-11-21T17:57:32Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "21 Nov: targeted logistics searches and original Brunvoll/Sparebank 68 Nord ads checked. Added Brunvoll; removed 2 records whose 20 Nov deadlines passed in Europe/Oslo. Other unchanged records retain earlier verification times. Not an exhaustive feed."
+      "note": "21 Nov evening: targeted shipping/logistics searches; North Sea Container Line original fully checked and added as stretch. Sparebank 68 Nord deadline remains 22 Nov, but partial re-read did not refresh verifiedAt. Zero records removed after known-deadline/closed-status cleanup. Not exhaustive."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "21 Nov: targeted graduate/economics search and Digdir original checked. Added Digdir as stretch: master's or bachelor plus substantial experience. Other records not reverified."
+      "note": "21 Nov evening: student/economics search; Jobzone graduate accounting original fully rechecked. Existing stable ID retained; no duplicate added. Other records retain old timestamps."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "21 Nov: searches returned largely research roles; original project-controller page 309356 still exposes only JavaScript notice. No unverified new listing added; prior timestamps preserved."
+      "note": "21 Nov evening: procurement/economics searches found stale PDFs; original project-controller 309356 still gives JavaScript-only notice. No new listing verified or added. Earlier records preserved."
     },
     {
       "name": "Academic Work",
       "status": "Degraded",
-      "note": "21 Nov: public index shows 41 vacancies, including Geia Food lead not individually verified. Atea receivables original timed out; retained with old verification timestamp and known 22 Nov deadline."
+      "note": "21 Nov evening: Geia Food original fully checked and added as stretch because professional experience is required. Earlier Atea receivables timeout remains unresolved; its record and verification timestamp preserved. Partial source coverage."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "21 Nov: public Fearnleys original now readable; full student qualifications and 20 Dec deadline checked, added once. Other LinkedIn records retain earlier timestamps. No login used."
+      "note": "21 Nov evening: public searches and original Cognizant AIA and Consulting pages checked. Added distinct January 2027 AI/Analytics internship; existing October Consulting internship retained, no closing notice/deadline found. No login used. Other records not reverified."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "21 Nov: Fearnleys employer index confirms Oslo summer internship; BNP original fully rechecked, student part-time role with 23 Nov deadline. Other employer records retain prior verification times."
+      "note": "21 Nov evening: Yinson procurement employer original fully rechecked: current students, no prior experience required, rolling selection. Other employer listings retain earlier verification timestamps."
     }
   ],
   "jobs": [
+    {
+      "status": "open",
+      "firstSeen": "2026-11-21",
+      "verifiedAt": "2026-11-21T17:57:32Z",
+      "deadline": null,
+      "id": "linkedin-4492136708",
+      "title": "Internship Business Analyst · AI & Analytics",
+      "company": "Cognizant",
+      "location": "Oslo / Stavanger",
+      "type": "Full-time internship · About three months · January 2027",
+      "source": "LinkedIn",
+      "categories": [
+        "Business",
+        "Operations"
+      ],
+      "fit": "potential",
+      "summary": "Explore business uses of AI and analytics, test proofs of concept and turn findings into recommendations.",
+      "requirements": "Current or recently completed degree in business, economics, technology or related fields. Analytical curiosity and communication skills expected; AI projects are a bonus. No mandatory master's or professional experience stated. January 2027 start for about three months. Pay and application deadline not stated; do not assume paid.",
+      "url": "https://no.linkedin.com/jobs/view/internship-business-analyst-aia-at-cognizant-4492136708"
+    },
+    {
+      "status": "open",
+      "firstSeen": "2026-11-21",
+      "verifiedAt": "2026-11-21T17:57:32Z",
+      "deadline": null,
+      "id": "academicwork-GEBSQZ",
+      "title": "Financial Controller · Experience required",
+      "company": "Geia Food AS",
+      "location": "Oslo",
+      "type": "Full-time · Hybrid possible",
+      "source": "Academic Work",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "stretch",
+      "summary": "Take responsibility for Norwegian accounting, year-end reporting and finance-process improvements in a food-import business.",
+      "requirements": "Experience as financial controller, auditor or accountant and ability to own complete accounts required. Norwegian and English required. Degree level and years of experience not specified. Start as agreed, preferably soon; rolling selection. Not an entry-level role.",
+      "url": "https://www.academicwork.no/ledige-stillinger/j/financial-controller-til-geia-food-as/GEBSQZ"
+    },
+    {
+      "status": "open",
+      "firstSeen": "2026-11-21",
+      "verifiedAt": "2026-11-21T17:57:32Z",
+      "deadline": null,
+      "id": "finn-481202054",
+      "title": "Logistics Coordinator · Experienced candidate sought",
+      "company": "North Sea Container Line",
+      "location": "Stavanger",
+      "type": "Full-time · Parental-leave cover",
+      "source": "FINN",
+      "categories": [
+        "Logistics",
+        "Shipping",
+        "Supply chain"
+      ],
+      "fit": "stretch",
+      "summary": "Coordinate materials, orders and transport capacity in an in-house logistics team supporting Skretting.",
+      "requirements": "Employer explicitly seeks an experienced coordinator; years and degree level not specified. Fluent Norwegian and English required, with independent supplier coordination and problem-solving skills. Rolling applications, as soon as possible. Cover duration not stated.",
+      "url": "https://www.finn.no/job/ad/481202054"
+    },
     {
       "status": "open",
       "firstSeen": "2026-11-21",
@@ -357,7 +418,7 @@
       "url": "https://careers.yinson.com/job/Oslo-Procurement-Intern/1376506355/",
       "deadline": null,
       "firstSeen": "2026-11-11",
-      "verifiedAt": "2026-11-19T18:05:52Z"
+      "verifiedAt": "2026-11-21T17:57:32Z"
     },
     {
       "id": "finn-480623254",
@@ -376,7 +437,7 @@
       "url": "https://www.finn.no/job/ad/480623254",
       "deadline": "2026-11-30",
       "firstSeen": "2026-11-10",
-      "verifiedAt": "2026-11-19T18:05:52Z"
+      "verifiedAt": "2026-11-21T17:57:32Z"
     },
     {
       "id": "finn-480602652",
@@ -704,7 +765,7 @@
       "url": "https://no.linkedin.com/jobs/view/internship-business-analyst-consulting-at-cognizant-4466197135",
       "deadline": null,
       "firstSeen": "2026-10-18",
-      "verifiedAt": "2026-10-18T05:55:07Z"
+      "verifiedAt": "2026-11-21T17:57:32Z"
     },
     {
       "id": "nav-b2dfba76",
