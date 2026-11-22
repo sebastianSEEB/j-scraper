@@ -1,38 +1,79 @@
 {
-  "updatedAt": "2026-11-21T17:57:32Z",
+  "updatedAt": "2026-11-22T07:05:35Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "21 Nov evening: targeted shipping/logistics searches; North Sea Container Line original fully checked and added as stretch. Sparebank 68 Nord deadline remains 22 Nov, but partial re-read did not refresh verifiedAt. Zero records removed after known-deadline/closed-status cleanup. Not exhaustive."
+      "note": "22 Nov morning: targeted student/economics searches; Advania FINN deadline confirmed. Sparebank 68 Nord deadline still 22 Nov, partial read did not refresh verifiedAt. Known date-only deadlines today retained through Europe/Oslo day-end. Zero expired/closed records removed. Targeted, not exhaustive coverage."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "21 Nov evening: student/economics search; Jobzone graduate accounting original fully rechecked. Existing stable ID retained; no duplicate added. Other records retain old timestamps."
+      "note": "22 Nov morning: graduate/economics searches and Advania original checked; same role deduplicated against FINN/employer page and stored once under employer. Other existing records retain earlier verification times."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "21 Nov evening: procurement/economics searches found stale PDFs; original project-controller 309356 still gives JavaScript-only notice. No new listing verified or added. Earlier records preserved."
+      "note": "22 Nov morning: searches and original project-controller 309356 checked; original still returns JavaScript-only notice. No new fully verified listing added."
     },
     {
       "name": "Academic Work",
       "status": "Degraded",
-      "note": "21 Nov evening: Geia Food original fully checked and added as stretch because professional experience is required. Earlier Atea receivables timeout remains unresolved; its record and verification timestamp preserved. Partial source coverage."
+      "note": "22 Nov morning: public index read (41 vacancies). Atea receivables original again timed out; record retained with original verifiedAt and known 22 Nov deadline. No expiry inferred from timeout."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "21 Nov evening: public searches and original Cognizant AIA and Consulting pages checked. Added distinct January 2027 AI/Analytics internship; existing October Consulting internship retained, no closing notice/deadline found. No login used. Other records not reverified."
+      "note": "22 Nov morning: public student-analyst searches and full Vipps original checked. Added student role with programming prerequisite and 29 Nov deadline. Other LinkedIn records retain old verification times; no login used."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "21 Nov evening: Yinson procurement employer original fully rechecked: current students, no prior experience required, rolling selection. Other employer listings retain earlier verification timestamps."
+      "note": "22 Nov morning: BNP Corporate Coverage original fully rechecked, 23 Nov deadline retained. Advania employer page and full NAV original checked; new graduate role added once. Other employer records not reverified."
     }
   ],
   "jobs": [
+    {
+      "id": "linkedin-4490658243",
+      "title": "Student Data Analyst · Part-time",
+      "company": "Vipps",
+      "location": "Oslo",
+      "type": "Part-time · Two days per week · Initially six months",
+      "source": "LinkedIn",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Analyse product and business data, build useful dashboards and support decisions with the data team.",
+      "requirements": "Student or recent graduate; economics and other subjects welcome. Some programming experience expected (coursework or personal projects in Python, SQL, R or similar can qualify); prior analytics employment not required. No mandatory master's stated. Ideally starts January 2027; two days weekly with exam flexibility. Pay not stated.",
+      "url": "https://no.linkedin.com/jobs/view/student-data-analyst-at-vipps-4490658243",
+      "deadline": "2026-11-29",
+      "firstSeen": "2026-11-22",
+      "verifiedAt": "2026-11-22T07:05:35Z"
+    },
+    {
+      "id": "advania-8697031",
+      "title": "ESG & AI Analyst · Graduate-friendly",
+      "company": "Advania Norge AS",
+      "location": "Oslo",
+      "type": "Permanent · Full-time · Hybrid",
+      "source": "Employer careers",
+      "categories": [
+        "Business",
+        "Supply chain",
+        "Operations"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Begin with ESG data and supplier-chain analysis, then progress toward AI and process automation work.",
+      "requirements": "New graduates or early-career candidates, including economics backgrounds, welcome. No mandatory master's or professional-experience requirement stated. Norwegian and English required. Familiarity with analytics/AI tools is advantageous, not mandatory. Start no later than April 2027; assess availability and education fit individually. Deadline 11 December 2026 confirmed on FINN 480743934.",
+      "url": "https://career.advania.no/jobs/8697031-esg-ai-analyst",
+      "deadline": "2026-12-11",
+      "firstSeen": "2026-11-22",
+      "verifiedAt": "2026-11-22T07:05:35Z"
+    },
     {
       "status": "open",
       "firstSeen": "2026-11-21",
@@ -1104,7 +1145,7 @@
       "url": "https://group.bnpparibas/en/careers/job-offer/corporate-coverage-intern-part-time",
       "deadline": "2026-11-23",
       "firstSeen": "2026-11-18",
-      "verifiedAt": "2026-11-21T07:00:30Z"
+      "verifiedAt": "2026-11-22T07:05:35Z"
     },
     {
       "id": "linkedin-4484237502",
