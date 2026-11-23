@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-22T07:05:35Z",
+  "updatedAt": "2026-11-23T07:04:02Z",
   "sources": [
     {
       "name": "FINN",
       "status": "Listings checked",
-      "note": "22 Nov morning: targeted student/economics searches; Advania FINN deadline confirmed. Sparebank 68 Nord deadline still 22 Nov, partial read did not refresh verifiedAt. Known date-only deadlines today retained through Europe/Oslo day-end. Zero expired/closed records removed. Targeted, not exhaustive coverage."
+      "note": "23 Nov morning: logistics searches and full Personalhuset originals checked; two different locations added. Trondheim original rechecked with deadline today. Removed five records with 22 Nov deadlines, including previously inaccessible Atea, based on known expiry. Date-only deadlines today retained through Europe/Oslo day-end. Targeted, not exhaustive."
     },
     {
       "name": "NAV Arbeidsplassen",
       "status": "Listings checked",
-      "note": "22 Nov morning: graduate/economics searches and Advania original checked; same role deduplicated against FINN/employer page and stored once under employer. Other existing records retain earlier verification times."
+      "note": "23 Nov morning: trainee/economics searches and Nofir original fully checked; existing ID/firstSeen retained and no duplicate added. Other records keep prior verification timestamps."
     },
     {
       "name": "Jobbnorge",
       "status": "Degraded",
-      "note": "22 Nov morning: searches and original project-controller 309356 checked; original still returns JavaScript-only notice. No new fully verified listing added."
+      "note": "23 Nov morning: economics/bachelor searches and project-controller original attempted; page 309356 still provides JavaScript-only notice. No new fully verified listing added."
     },
     {
       "name": "Academic Work",
-      "status": "Degraded",
-      "note": "22 Nov morning: public index read (41 vacancies). Atea receivables original again timed out; record retained with original verifiedAt and known 22 Nov deadline. No expiry inferred from timeout."
+      "status": "Listings checked",
+      "note": "23 Nov morning: public index (41 vacancies) and full Arla original checked; experience requirement retained. Previously timed-out Atea receivables removed because known 22 Nov deadline passed, not because retrieval failed. Other records not reverified."
     },
     {
       "name": "LinkedIn",
       "status": "Listings checked",
-      "note": "22 Nov morning: public student-analyst searches and full Vipps original checked. Added student role with programming prerequisite and 29 Nov deadline. Other LinkedIn records retain old verification times; no login used."
+      "note": "23 Nov morning: public EY student FSO listing checked; requires started quantitative master's, so not a strong bachelor-level candidate and not added. Explicit application deadline 7 Jan 2027 16:00 noted during screening. Existing LinkedIn records retain earlier verification timestamps."
     },
     {
       "name": "Employer careers",
       "status": "Listings checked",
-      "note": "22 Nov morning: BNP Corporate Coverage original fully rechecked, 23 Nov deadline retained. Advania employer page and full NAV original checked; new graduate role added once. Other employer records not reverified."
+      "note": "23 Nov morning: BNP Corporate Coverage original fully rechecked; student part-time role's 23 Nov deadline remains valid today. Other employer records retain prior verification timestamps."
     }
   ],
   "jobs": [
@@ -324,7 +324,7 @@
     {
       "status": "open",
       "firstSeen": "2026-11-13",
-      "verifiedAt": "2026-11-13T18:07:08Z",
+      "verifiedAt": "2026-11-23T07:04:02Z",
       "id": "academicwork-KPCN6X",
       "title": "Customer Logistics Specialist",
       "company": "Arla Foods via Academic Work",
@@ -349,7 +349,7 @@
       "fit": "potential",
       "status": "open",
       "firstSeen": "2026-11-13",
-      "verifiedAt": "2026-11-13T07:03:59.887Z",
+      "verifiedAt": "2026-11-23T07:04:02Z",
       "id": "finn-480376100",
       "title": "Economics & Political Administration Consultant · Graduates considered",
       "company": "Trondheim kommune",
@@ -420,25 +420,6 @@
       "verifiedAt": "2026-11-11T17:58:35.817Z"
     },
     {
-      "id": "manpower-54990",
-      "title": "Økonomikonsulent · Payroll and administration",
-      "company": "Manpower · Undisclosed client",
-      "location": "Kristiansund",
-      "type": "Temporary · Until 31 July 2027",
-      "source": "Employer careers",
-      "categories": [
-        "Business"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Payroll and personnel administration, absence records, NAV reimbursements and routine payroll controls for a client finance team.",
-      "requirements": "Economics/administration education desired; relevant experience can compensate. No mandatory degree level or minimum prior experience specified. Communication, accuracy, service orientation and ability to learn systems required. ASAP start through 31 July 2027.",
-      "url": "https://www.manpower.no/nb/jobb/54990/okonomikonsulent",
-      "deadline": "2026-11-22",
-      "firstSeen": "2026-11-11",
-      "verifiedAt": "2026-11-12T07:07:08.941Z"
-    },
-    {
       "id": "finn-480716806",
       "title": "Summer Intern 2027 · Procurement",
       "company": "Yinson Production AS",
@@ -501,29 +482,6 @@
       "verifiedAt": "2026-11-10T17:59:17.831Z"
     },
     {
-      "id": "nav-440b2181",
-      "title": "Operations Intelligence Controller · Experience required",
-      "company": "Bergen Engines",
-      "location": "Hordvik · Bergen",
-      "type": "Permanent · Full time · Finance and operations intelligence",
-      "source": "NAV",
-      "categories": [
-        "Business",
-        "Finance",
-        "Supply chain",
-        "Logistics",
-        "Operations"
-      ],
-      "fit": "stretch",
-      "status": "open",
-      "summary": "Analyse financial and operational data, costs, productivity, capacity, inventory and resource use; develop KPIs and decision support, improve data quality and processes, and explore AI/Copilot automation across finance, production, logistics and supply chain.",
-      "requirements": "Relevant higher education in economics, finance, industrial economics, production economics, data analysis or a similar field is required. Relevant experience in controlling, financial analysis, business intelligence, operational analysis or similar work is also required, making this a stretch match when no professional experience can be assumed. Strong Excel, ERP/reporting-tool understanding, Norwegian and English are required; industry, logistics, SAP ECC, Power BI and AI experience are advantages. Deadline 22 November.",
-      "url": "https://arbeidsplassen.nav.no/stillinger/stilling/440b2181-c572-4921-b95b-e95966cded43",
-      "deadline": "2026-11-22",
-      "firstSeen": "2026-11-09",
-      "verifiedAt": "2026-11-09T07:01:05Z"
-    },
-    {
       "id": "finn-480247421",
       "title": "Market and Logistics Coordinator",
       "company": "ASKO NORD",
@@ -565,27 +523,6 @@
       "deadline": null,
       "firstSeen": "2026-11-03",
       "verifiedAt": "2026-11-03T17:58:31Z"
-    },
-    {
-      "id": "finn-479818606",
-      "title": "Accounting Manager · New graduates considered",
-      "company": "Sparebank 68° Nord",
-      "location": "Harstad or another bank office in Northern Norway",
-      "type": "Permanent · Full time · Accounting and controlling",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Finance",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Handle bookkeeping and reconciliations, support monthly, quarterly and annual reporting, analyse costs and profitability, improve finance processes and work closely with the CFO.",
-      "requirements": "Higher education in economics or accounting and strong accounting understanding are expected. Excel and digital confidence are required. Accounting, audit, reporting or analysis experience is advantageous rather than mandatory, and new graduates with strong accounting knowledge and analytical skills are explicitly invited. Deadline 22 November.",
-      "url": "https://www.finn.no/job/ad/479818606",
-      "deadline": "2026-11-22",
-      "firstSeen": "2026-11-03",
-      "verifiedAt": "2026-11-21T07:00:30Z"
     },
     {
       "id": "nav-1e3c045a",
@@ -674,27 +611,6 @@
       "deadline": null,
       "firstSeen": "2026-10-31",
       "verifiedAt": "2026-11-12T07:07:08.941Z"
-    },
-    {
-      "id": "academicwork-4467BH",
-      "title": "Accounts Receivable Assistant · Graduate-friendly",
-      "company": "Atea",
-      "location": "Oslo · Hybrid",
-      "type": "Full time · Six-month assignment · Possible permanent conversion",
-      "source": "Employer careers",
-      "categories": [
-        "Business",
-        "Finance",
-        "Operations"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Follow customer receivables by phone, work systematically through customer lists, resolve complex enquiries, collaborate across finance teams and help improve routines and systems.",
-      "requirements": "Basic accounting and numerical understanding plus professional Norwegian and English are required. Higher education in economics or accounting is preferred rather than mandatory, and new graduates are explicitly encouraged. SAP or comparable ERP experience is advantageous only. Atea's direct career page states a 22 November deadline.",
-      "url": "https://web106.reachmee.com/ext/I020/1291/job?job_id=3491&lang=NO&site=8&validator=d594bc3c2481e1a1b365c588ca788523",
-      "deadline": "2026-11-22",
-      "firstSeen": "2026-10-31",
-      "verifiedAt": "2026-11-06T17:57:31Z"
     },
     {
       "id": "finn-479751550",
@@ -1081,29 +997,7 @@
       "url": "https://arbeidsplassen.nav.no/stillinger/stilling/7250eab8-5329-4597-a183-c0f73e43be5c",
       "deadline": "2026-11-30",
       "firstSeen": "2026-10-29",
-      "verifiedAt": "2026-10-29T07:07:43Z"
-    },
-    {
-      "id": "finn-479848356",
-      "title": "Økonomi- og virksomhetskontroller",
-      "company": "Forsvarsmateriell",
-      "location": "Kjeller",
-      "type": "Permanent · Full time · Public-sector controlling",
-      "source": "FINN",
-      "categories": [
-        "Business",
-        "Finance",
-        "Operations",
-        "Procurement"
-      ],
-      "fit": "potential",
-      "status": "open",
-      "summary": "Support budgeting, forecasts, economic reporting, internal controls, performance measures and analysis for defence-materiel disposal projects, while advising purchasers and contract managers.",
-      "requirements": "A completed bachelor's in economics, finance, accounting or a related field is mandatory, together with Norwegian and English and eligibility for HEMMELIG and NATO SECRET clearance. A master's, ERP/SAP experience, public-sector knowledge and prior controller experience are desirable rather than mandatory. The advert explicitly welcomes applicants who are new to working life. Deadline 22 November.",
-      "url": "https://www.finn.no/job/ad/479848356",
-      "deadline": "2026-11-22",
-      "firstSeen": "2026-10-29",
-      "verifiedAt": "2026-10-29T17:58:26Z"
+      "verifiedAt": "2026-11-23T07:04:02Z"
     },
     {
       "id": "linkedin-4489828759",
@@ -1145,7 +1039,7 @@
       "url": "https://group.bnpparibas/en/careers/job-offer/corporate-coverage-intern-part-time",
       "deadline": "2026-11-23",
       "firstSeen": "2026-11-18",
-      "verifiedAt": "2026-11-22T07:05:35Z"
+      "verifiedAt": "2026-11-23T07:04:02Z"
     },
     {
       "id": "linkedin-4484237502",
@@ -1187,6 +1081,44 @@
       "deadline": null,
       "firstSeen": "2026-11-20",
       "verifiedAt": "2026-11-20T06:58:32Z"
+    },
+    {
+      "id": "finn-479613894",
+      "title": "Logistikkmedarbeider · Entry-level warehouse work",
+      "company": "Personalhuset - Office & Finance",
+      "location": "Oslo",
+      "type": "Full-time · Staffing agency",
+      "source": "FINN",
+      "categories": [
+        "Logistics"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Practical warehouse work with picking, packing, goods placement, loading and unloading. Not a degree-level office role.",
+      "requirements": "Newcomers to logistics welcome; no degree or prior professional experience requirement stated. Forklift certificate is advantageous, not stated as mandatory; confirm which tasks require certification. Physical work, reliability and teamwork expected. Assignment duration, hours and start date not stated.",
+      "url": "https://www.finn.no/job/ad/479613894",
+      "deadline": "2026-11-26",
+      "firstSeen": "2026-11-23",
+      "verifiedAt": "2026-11-23T07:04:02Z"
+    },
+    {
+      "id": "finn-479896866",
+      "title": "Logistikkmedarbeider · Entry-level warehouse work",
+      "company": "Personalhuset - Office & Finance",
+      "location": "Sollihøgda",
+      "type": "Full-time · Staffing agency",
+      "source": "FINN",
+      "categories": [
+        "Logistics"
+      ],
+      "fit": "potential",
+      "status": "open",
+      "summary": "Practical warehouse work with picking, packing, goods placement, loading and unloading. Not a degree-level office role.",
+      "requirements": "Newcomers to logistics welcome; no degree or prior professional experience requirement stated. Forklift certificate is advantageous, not stated as mandatory; confirm which tasks require certification. Physical work, reliability and teamwork expected. Assignment duration, hours and start date not stated.",
+      "url": "https://www.finn.no/job/ad/479896866",
+      "deadline": "2026-11-30",
+      "firstSeen": "2026-11-23",
+      "verifiedAt": "2026-11-23T07:04:02Z"
     }
   ]
 }
